@@ -1,17 +1,7 @@
 [
     {
         "Id": "1",
-        "Title": "Karavali Special",
-        "RecipesList": [
-            {
-                "Id": "1",
-                "Title": "Neer Dose",
-            },
-            {
-                "Id": "2",
-                "Title": "Appa",
-            }
-        ]
+        "Title": "Karavali Special"
     },
     {
         "Id": "2",
