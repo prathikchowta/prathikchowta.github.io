@@ -1,5 +1,22 @@
 [
-  {
-    "Title": "Chicken"
-  }
+    {
+        "Id": "1",
+        "Title": "Karavali Special",
+        "ImgURL": "https://ibb.co/JyRqyG8"
+    },
+    {
+        "Id": "2",
+        "Title": "Rice",
+        "ImgURL": "https://ibb.co/JyRqyG8"
+    },
+    {
+        "Id": "3",
+        "Title": "Chicken Side Dish",
+        "ImgURL": "https://ibb.co/JyRqyG8"
+    },
+    {
+        "Id": "4",
+        "Title": "Chicken Fry",
+        "ImgURL": "https://ibb.co/JyRqyG8"
+    }
 ]
