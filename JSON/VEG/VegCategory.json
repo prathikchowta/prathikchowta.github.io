@@ -6,7 +6,18 @@
         "RecipesList": [
             {
                 "Id": "1.1",
-                "Title": "Neer Dose"
+                "Title": "Neer Dose",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "salt" ],
+                        "Method": [
+                            {
+                                "1": "step1",
+                                "2": "step2"
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Id": "1.2",
