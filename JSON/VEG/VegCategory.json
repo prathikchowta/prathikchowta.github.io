@@ -21,7 +21,21 @@
     {
         "Id": "2",
         "Title": "Breakfast Recipe",
-        "ImgURL": "https://ibb.co/JyRqyG8"
+        "ImgURL": "https://ibb.co/JyRqyG8",
+        "RecipesList": [
+            {
+                "Id": "1.1",
+                "Title": "Neer Dose"
+            },
+            {
+                "Id": "1.2",
+                "Title": "Appa"
+            },
+            {
+                "Id": "1.3",
+                "Title": "Gatti"
+            }
+        ]
     },
     {
         "Id": "3",
