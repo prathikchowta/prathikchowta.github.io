@@ -54,8 +54,108 @@
     },
     {
         "Id": "4",
-        "Title": "Dosa Chutney",
-        "ImgURL": "https://ibb.co/JyRqyG8"
+        "Title": "Chutneys",
+        "ImgURL": "https://ibb.co/JyRqyG8",
+        "RecipesList": [
+            {
+                "Id": "4.1",
+                "Title": "Coconut Chutney",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.2",
+                "Title": "Red Chutney",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.3",
+                "Title": "Garlic Chutney",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.4",
+                "Title": "Raw Mango Chutney",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.5",
+                "Title": "Ripe Mango Chutney",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.6",
+                "Title": "Curry Leaves Chutney",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.7",
+                "Title": "Ridge Gourd Skin Chutney",
+                "Prepare": [
+                    {
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     {
         "Id": "5",
