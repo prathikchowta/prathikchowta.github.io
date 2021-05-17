@@ -9,11 +9,10 @@
                 "Title": "Neer Dose",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "salt" ],
+                        "Incredients": [ "Rice", "Salt", "Water" ],
                         "Method": [
                             {
-                                "1": "step1",
-                                "2": "step2"
+                                "Steps": [ "Step1", "Step2" ]
                             }
                         ]
                     }
