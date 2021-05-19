@@ -170,7 +170,7 @@
                         "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies", "1TBS - Mustard", "1 - Pinch of Turmeric Powder", "1 - Sprig curry Leaves", "1piece - Ginger", "4-5flakes - garlic crushed", "Salt To Taste" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Fry oil and add Mustard Seeds in a pan.", "When they splutter add finely chopped Onion, turmeric powder, green chillies, crushed garlic and curry leaves.", "When it turns brown, add fine chopped tomatoes (smashed tamrind water if needed), piece of ginger.", "Add salt to taste.", "Then add 4 Glasses of water and leave it to boil.", "After it cooked garnish with chopped coriander leaves." ]
                             }
                         ]
                     }
@@ -181,10 +181,10 @@
                 "Title": "Plain Saar",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "4 - Tomatoes", "4-5 Green Chillies", "Tamrind(size of 1 lime)" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Grind together the ingredients to a fine paste.", "Fry oil in vessel.", "Add Mustard seeds when they splutter, add curry leaves then add the ground masala.", "Add pinch of Turmeric Powder.", "Add salt to taste.", "Add red chilly powder, 1 tea spoon of garam masala which gives good aroma.", "Leave it to boil.", "Garnish with coriander leaves" ]
                             }
                         ]
                     }
