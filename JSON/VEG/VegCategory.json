@@ -31,7 +31,7 @@
     {
         "Id": "2",
         "Title": "Breakfast Recipe",
-        "ImgURL": "https://ibb.co/JyRqyG8",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
         "RecipesList": [
             {
                 "Id": "1.1",
