@@ -50,12 +50,12 @@
     {
         "Id": "3",
         "Title": "Evening Snacks",
-        "ImgURL": "https://ibb.co/JyRqyG8"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg"
     },
     {
         "Id": "4",
         "Title": "Chutney Special",
-        "ImgURL": "https://ibb.co/JyRqyG8",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/chutney.jpeg",
         "RecipesList": [
             {
                 "Id": "4.1",
@@ -160,7 +160,7 @@
     {
         "Id": "5",
         "Title": "Rasam Special",
-        "ImgURL": "https://ibb.co/JyRqyG8",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/sambar.jpeg",
         "RecipesList": [
             {
                 "Id": "5.1",
