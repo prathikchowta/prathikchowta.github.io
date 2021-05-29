@@ -34,15 +34,15 @@
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
         "RecipesList": [
             {
-                "Id": "1.1",
+                "Id": "2.1",
                 "Title": "Neer Dose"
             },
             {
-                "Id": "1.2",
+                "Id": "2.2",
                 "Title": "Appa"
             },
             {
-                "Id": "1.3",
+                "Id": "2.3",
                 "Title": "Gatti"
             }
         ]
@@ -50,7 +50,22 @@
     {
         "Id": "3",
         "Title": "Evening Snacks",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg",
+        "RecipesList": [
+            {
+                "Id": "3.1",
+                "Title": "Jackfruit Podi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/JackfruitPodi.jpg",
+            },
+            {
+                "Id": "3.2",
+                "Title": "Banana Podi"
+            },
+            {
+                "Id": "3.3",
+                "Title": "Golibaje"
+            }
+        ]
     },
     {
         "Id": "4",
