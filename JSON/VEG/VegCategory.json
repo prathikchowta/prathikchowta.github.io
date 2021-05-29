@@ -6,9 +6,11 @@
         "RecipesList": [
             {
                 "Id": "1.1",
-                "Title": "Neer Dose",
+                "Title": "Turmeric Leaf Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
+                        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                         "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
                         "Method": [
                             {
