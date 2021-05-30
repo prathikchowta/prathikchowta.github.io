@@ -228,10 +228,10 @@
                 "Title": "Jeera Rasam",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "5 - Long Red Chilly", "2TBS - Jeera", "3TBS - Cooked Toovar Dal" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
                             }
                         ]
                     }
@@ -239,6 +239,20 @@
             },
             {
                 "Id": "5.4",
+                "Title": "Jeera Rasam",
+                "Prepare": [
+                    {
+                        "Incredients": [ "5 - Long Red Chilly", "2TBS - Jeera", "3TBS - Cooked Toovar Dal" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.5",
                 "Title": "Dhal Saar",
                 "Prepare": [
                     {
@@ -252,7 +266,7 @@
                 ]
             },
             {
-                "Id": "5.5",
+                "Id": "5.6",
                 "Title": "Masala Sambar",
                 "Prepare": [
                     {
@@ -266,7 +280,7 @@
                 ]
             },
             {
-                "Id": "5.6",
+                "Id": "5.7",
                 "Title": "Plain Sambar",
                 "Prepare": [
                     {
@@ -280,7 +294,7 @@
                 ]
             },
             {
-                "Id": "5.7",
+                "Id": "5.8",
                 "Title": "Mango Saar",
                 "Prepare": [
                     {
@@ -294,7 +308,7 @@
                 ]
             },
             {
-                "Id": "5.8",
+                "Id": "5.9",
                 "Title": "Mango Menaskai",
                 "Prepare": [
                     {
@@ -308,7 +322,7 @@
                 ]
             },
             {
-                "Id": "5.9",
+                "Id": "5.10",
                 "Title": "Horse Gram Rasam",
                 "Prepare": [
                     {
