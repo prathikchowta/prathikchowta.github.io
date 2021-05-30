@@ -3,6 +3,7 @@
         "Id": "1",
         "Title": "Karavali Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/karavaliSpecial.jpeg",
+        "Count: "3",
         "RecipesList": [
             {
                 "Id": "1.1",
@@ -34,6 +35,7 @@
         "Id": "2",
         "Title": "Breakfast Recipe",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
+        "Count: "3",
         "RecipesList": [
             {
                 "Id": "2.1",
@@ -53,6 +55,7 @@
         "Id": "3",
         "Title": "Evening Snacks",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg",
+        "Count: "3",
         "RecipesList": [
             {
                 "Id": "3.1",
@@ -84,6 +87,7 @@
         "Id": "4",
         "Title": "Chutney Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/chutney.jpeg",
+        "Count: "7",
         "RecipesList": [
             {
                 "Id": "4.1",
@@ -189,6 +193,7 @@
         "Id": "5",
         "Title": "Rasam Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/sambar.jpeg",
+        "Count: "9",
         "RecipesList": [
             {
                 "Id": "5.1",
@@ -321,6 +326,7 @@
     {
         "Id": "6",
         "Title": "Paisa",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/JackfruitPodi.jpg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/JackfruitPodi.jpg",
+        "Count: "0",
     }
 ]
