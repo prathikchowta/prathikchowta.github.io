@@ -151,7 +151,7 @@
                 "Title": "Ripe Mango Chutney",
                 "Prepare": [
                     {
-                        "Incredients": [ "1/2-grated coconut", "4-5 - ripe mangoes", "3-red chillies(fried)", "1tsp.- mustard seeds", "salt to taste", "3- garlic flakes"]
+                        "Incredients": [ "1/2-grated coconut", "4-5 - ripe mangoes", "3-red chillies(fried)", "1tsp.- mustard seeds", "salt to taste", "3- garlic flakes"],
                         "Method": [
                             {
                                 "Steps": [ "Peel the skin of mangoes", "cut into pieces", "keep in a bowl", "Grind the other ingredient and mix it with mango pieces"]
@@ -165,7 +165,7 @@
                 "Title": "Curry Leaves Chutney",
                 "Prepare": [
                     {
-                        "Incredients": [ "1 cup-curry leaves", "1/2-grated or dry coconut", "3-red chillies", "tamarind- small ball", "Salt to taste"]
+                        "Incredients": [ "1 cup-curry leaves", "1/2-grated or dry coconut", "3-red chillies", "tamarind- small ball", "Salt to taste"],
                         "Method": [
                             {
                                 "Steps": [ "Heat oil in a Kadai", "Fry red chillies,curry leaves and coconut", "Grind it with tamarind and salt,don't add water(dry)", "put it in a clean bottle", "can be stored for many days"]
@@ -179,10 +179,10 @@
                 "Title": "Ridge Gourd Skin Chutney",
                 "Prepare": [
                     {
-                        "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"]
+                        "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "cook the chopped ridgedep gourd skins in a cup of water, "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
+                                "Steps": [ "cook the chopped ridgedep gourd skins in a cup of water", "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
                             }
                         ]
                     }
