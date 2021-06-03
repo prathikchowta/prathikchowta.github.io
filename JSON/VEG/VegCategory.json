@@ -58,7 +58,7 @@
         "Count": "3",
         "RecipesList": [
             {
-                "Id": "3.1",
+                "Id": "3.1
                 "Title": "Breadfruit Pakoda",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
@@ -94,11 +94,10 @@
                 "Title": "Coconut Chutney",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1/2 - coconut grated", "2 - green chillies", "1 - red chilly(for seasoning)", "tamarind(size of its seed)", "Salt to taste", "1/4 ginger" ],
                         "Method": [
                             {
                                 "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
-                            }
                         ]
                     }
                 ]
