@@ -58,7 +58,7 @@
         "Count": "3",
         "RecipesList": [
             {
-                "Id": "3.1
+                "Id": "3.1,
                 "Title": "Breadfruit Pakoda",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
@@ -136,10 +136,10 @@
                 "Title": "Raw Mango Chutney",
                 "Prepare": [
                     {
-                        "Incredients": [ "1/2 grated coconut", "1 raw mango", "2-3 green chillies", "Salt to taste, "Water" ],
+                        "Incredients": [ "1/2 grated coconut", "1 raw mango", "2-3 green chillies", "Salt to taste, "little water"]
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Peel the skin of raw mango", "cut into pieces", "grind with the ingredients"]
                             }
                         ]
                     }
