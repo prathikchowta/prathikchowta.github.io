@@ -182,7 +182,7 @@
                         "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "cook the chopped ridgedep gourd skins in a cup of water", "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
+                                "Steps": [ "cook the chopped ridgegourd gourd skins in a cup of water", "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
                             }
                         ]
                     }
@@ -229,7 +229,7 @@
                 "Title": "Jeera Rasam",
                 "Prepare": [
                     {
-                        "Incredients": [ "5 - Long Red Chilly", "2TBS - Jeera", "3TBS - Cooked Toovar Dal" ],
+                        "Incredients": [ "5 - Long Red Chilly", "2Tbs.- Jeera", "3Tbs - Cooked Toovar Dal" ],
                         "Method": [
                             {
                                 "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
@@ -243,10 +243,10 @@
                 "Title": "Plain Rasam",
                 "Prepare": [
                     {
-                        "Incredients": [ "5 - Long Red Chilly", "2TBS - Jeera", "3TBS - Cooked Toovar Dal" ],
+                        "Incredients": [ "1cup toordaal( washed& soaked)","1 - big Tomato","10-15 peppercorns (powdered)","salt to taste","6-8-garlic flakes crushed","1/4 tsp.-turmeric powder"]
                         "Method": [
                             {
-                                "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
+                                "Steps": [ "Boil the daal in 2-3 cups of water until well cooked,beat it well and keep aside"."Boil the tomato with 1 cup water,tamarind and salt until cooked."add the powdered peppercorns,crushed garlic and turmeric powder and boil"."Pour the cooked daal over it and remove"."Season with coconut oil,mustard seeds,broken red chilly and curry leaves"] to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
                             }
                         ]
                     }
@@ -257,10 +257,10 @@
                 "Title": "Dhal Saar",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour"." 2- tomatoes chopped","1 piece ginger","1 big onion","8- green chillies slitted","Salt to taste","1tsp.asafoetida powder"], "Water", "Rice", "Salt", "Water" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Cook the daal in 3to 4 cups water until soft"." Mix it well"."add chopped tomatoes,green chillies,finely chopped ginger.sliced onion,turmeric powder,asafoetida powder and salt to taste"."boil until cooked"."Add finely chopped coriander leaves." "Season with oil,mustard seeds,curry leaves and broken red chilly"]ep2", "Step3", "Step4", "Step5", "Step6" ]
                             }
                         ]
                     }
