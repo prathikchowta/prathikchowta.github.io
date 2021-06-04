@@ -176,7 +176,7 @@
             },
             {
                 "Id": "4.7",
-                "Title": "Ridge Gourd Skin Chutney",
+                "Title": "Ridge Gourd Skin Chutney",(Peereda Cholida chutney)"
                 "Prepare": [
                     {
                         "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"],
@@ -271,10 +271,10 @@
                 "Title": "Masala Sambar",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
-                        "Method": [
+                        "Incredients": [ "1/2 cup -toordaal,washed and soaked in water", "cauliflower,beans,carrots,brinjal,drumsticks,sweet pumpkin(few pieces of each)", "3-4 -tomatoes", "oil for frying", "Salt to taste", "3-4- cups water"]
+                        "Method": [For Masala- Ingredients: ["1 tbs.Channadaal"," 1 tbs.-uraddaal","1 tsp.-jeera","1/2 tsp.-methi","1cup -coconut grated","1 tbs.- Coriander seeds","8- red chillies","1tbs.-ghee or oil","1tsp.-mustard seeds","10-15- curry leaves"]
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Keep a Kadai on fire,Fry all the masala ingredients separately with little oil", "grind to a rough pastete,add little water", "Boil the toor daal with 3-4 cups of water", "add the cut vegetables", "add salt and cook", "add the ground masala and cook for 10-15 minutes"," season with ghee or oil,mustard seeds and curry leaves"]]
                             }
                         ]
                     }
@@ -284,11 +284,11 @@
                 "Id": "5.7",
                 "Title": "Plain Sambar",
                 "Prepare": [
-                    {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
-                        "Method": [
+                    
+                        "Incredients": [ "1 cup- toor daal", "1 small red cucumber( taute)", "10-12- sambar onions(small onions)", "1- tomato", "Salt to taste", "tamarind( size of a lime)","1 pinch- asafoetida powder"]
+                        "Method": [" For Masala- Ingredients ["7-8 -red chillies (roasted)", "11/2 tbs.coriander seeds(roasted)", "1 cup- grated coconut( roasted)"
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Grind together the masala ingredients to a coarse paste"."Boil the daal in 1 cup of water","Cook the cucumber with onions,tamarind, tomato,salt and asfoetida powder"," add the cooked daal to the vegetable mixture","add the ground masala and boil for 10-15 minutes "," Season with coconut oil,mustard seeds, broken red chilly and curry leaves"] 
                             }
                         ]
                     }
