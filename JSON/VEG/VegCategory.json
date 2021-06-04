@@ -275,7 +275,7 @@
                         "Method": [For Masala- Ingredients: ["1 tbs.Channadaal"," 1 tbs.-uraddaal","1 tsp.-jeera","1/2 tsp.-methi","1cup -coconut grated","1 tbs.- Coriander seeds","8- red chillies","1tbs.-ghee or oil","1tsp.-mustard seeds","10-15- curry leaves"]
                             {
                                 "Steps": [ "Keep a Kadai on fire,Fry all the masala ingredients separately with little oil", "grind to a rough pastete,add little water", "Boil the toor daal with 3-4 cups of water", "add the cut vegetables", "add salt and cook", "add the ground masala and cook for 10-15 minutes"," season with ghee or oil,mustard seeds and curry leaves"]]
-                            }
+                        Í    }
                         ]
                     }
                 ]
@@ -299,10 +299,10 @@
                 "Title": "Mango Saar",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "6- ordinary mangoes", "5-6- green chillies", "2tbs.-chilly powder", "1-onion", "Salt to taste ", "4glass-water","1 piece-jaggery"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Peel the skin of mangoes and squeeze out the juice from the skin", "add it to the mango", "put water and cook", "add sliced green chillies,onion,chilly powder,salt and jaggery", "Season with mustard seeds,crushed garlic flakes,broken chilly and curry leavestep5", "Step6" ]
                             }
                         ]
                     }
@@ -313,10 +313,10 @@
                 "Title": "Mango Menaskai",
                 "Prepare": [
                     {
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "6-8- small sized ripe mangoes", "Salt to taste", "1 piece- jaggery", "For Masala-1 1/2 tbs.-urad daal", "1 1/2 tbsp.-channadaal", "1 1/2 tbsp.-coriander seeds"," 1/2 tsp.-methi seeds","1 tsp.-mustard seeds","1 tsp.-jeera","6 -red chillies","5 -pepper corns","2 sprig -curry leaves","1 cup-grated coconut"]
                         "Method": [
-                            {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                           
+                                "Steps": [ "Roast all the masala ingredients separately with little oil and powdwr them", "Put some water on the mango skins and squeeze out the juice", "Mix this with water with mango,roasted powdered masala, jaggery,and salt", "cook for 10-15 minutes,stirring contnously", "Season with oil,mustard seeds,curry leaves and broken red chilly"]
                             }
                         ]
                     }
