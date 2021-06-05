@@ -416,13 +416,13 @@
             },
             {
                 "Id": "6.6",
-                "Title": "Masala Sambar",
+                "Title": "Raw Banana Sukka",
                 "Prepare": [
                     {
-                        "Incredients": [ "1/2 cup -toordaal,washed and soaked in water", "cauliflower,beans,carrots,brinjal,drumsticks,sweet pumpkin(few pieces of each)", "3-4 -tomatoes", "oil for frying", "Salt to taste", "3-4- cups water", "For Masala - Ingredients: 1 tbs.Channadaal, 1 tbs.-uraddaal, 1 tsp.-jeera,1/2 tsp.-methi,1cup -coconut grated,1 tbs.- Coriander seeds,8- red chillies,1tbs.-ghee or oil,1tsp.-mustard seeds,10-15- curry leaves"],
+                        "Incredients": [ "4-raw bananas(skinned and cut into medium pieces and soaked in water)","tamarind-size of 1/2lime,soaked in water","salt to taste","For Masala-1/2 grated coconut","6-8 red chillies roasted","1tbsp.-coriander seeds,roasted","1/4 tsp.-jeera","1/4 tsp.-turmeric powder","4-garlic flakes"]
                         "Method": [
                             {
-                                "Steps": [ "Keep a Kadai on fire,Fry all the masala ingredients separately with little oil", "grind to a rough pastete,add little water", "Boil the toor daal with 3-4 cups of water", "add the cut vegetables", "add salt and cook", "add the ground masala and cook for 10-15 minutes"," season with ghee or oil,mustard seeds and curry leaves"]
+                                "Steps": [ "Cook the banana pieces in tamarind water,salt and 2 cups water","grind together the masala ingredients except coconut to a fine paste","then add coconut and grind to a coarse paste","remove and keep aside","Keep oil on fire","add mustard seeds","when they splutter,add curry leaves,broken red chilly","then add ground masala,cook for 10 minutes","drain water from cooked raw banana then add to the masala","mix it,cook for 5 minutes]
                             }
                         ]
                     }
@@ -430,13 +430,13 @@
             },
             {
                 "Id": "6.7",
-                "Title": "Plain Sambar",
+                "Title": "Beans Upkari",
                 "Prepare": [
                     {
-                        "Incredients": [ "1 cup- toor daal", "1 small red cucumber( taute)", "10-12- sambar onions(small onions)", "1- tomato", "Salt to taste", "tamarind( size of a lime)","1 pinch- asafoetida powder", " For Masala - Ingredients: 7-8 -red chillies (roasted), 11/2 tbs.coriander seeds(roasted), 1 cup- grated coconut( roasted)"],
+                        "Incredients": [ "1/2 kg.-Beans chopped into small pieces", "2-3-green chilies, slitted","2tbsp.-channadaal","1tsp.-mustard seeds"," 2sprig curry leaves","1 pinch turmeric powder,"1-onion sliced","1tbsp.-grated coconut","salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Grind together the masala ingredients to a coarse paste","Boil the daal in 1 cup of water","Cook the cucumber with onions,tamarind, tomato,salt and asfoetida powder"," add the cooked daal to the vegetable mixture","add the ground masala and boil for 10-15 minutes "," Season with coconut oil,mustard seeds, broken red chilly and curry leaves"] 
+                                "Steps": [ "Keep oil in a pan","add mustard seeds,sliced onion,green chillies,channa daal,turmeric powder and curry leaves","when all well fried,add beans and little water","when beans cooked add salt to taste,grated coconut and mix it well","cook for 5 minutes"]
                             }
                         ]
                     }
