@@ -346,13 +346,13 @@
         "RecipesList": [
             {
                 "Id": "6.1",
-                "Title": "Tomato Rasam",
+                "Title": "Whole Bengal Gram & Tendli Sukka",
                 "Prepare": [
                     {
-                        "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies", "1Tsp- Mustard", "1 - Pinch of Turmeric Powder", "1 - Sprig curry Leaves", "1piece - Ginger", "4-5flakes - garlic crushed", "Salt To Taste" ],
+                        "Incredients": [ "1/4 kg.-Bengal gram,soaked overnight", "1/2 kg -Tendli", "1/2- grated coconut", "1-onion", "salt to taste", "For Masala- 10-red chillies(mix)roasted", "2 tsp.- coriander seeds,roasted", "1tsp-jeera roasted", "1/4tsp-methi roasted","1pinch-turmeric powder"," tamarind size of its seed"]
                         "Method": [
                             {
-                                "Steps": [ "Fry oil and add Mustard Seeds in a pan.", "When they splutter add finely chopped Onion, turmeric powder, green chillies, crushed garlic and curry leaves.", "When it turns brown, add fine chopped tomatoes (smashed tamrind water if needed), piece of ginger.", "Add salt to taste.", "Then add 4 Glasses of water and leave it to boil.", "After it cooked garnish with chopped coriander leaves." ]
+                                "Steps": [ "Cook Bengalgram and tendli in just enough water with salt","Grind the masala ingredients together to a fine paste", "Then add coconut and grind to a coarse paste", "Fry a pan with oil,mustard seeds,sliced onion,crushed 4 flakes of garlic,curry leaves,1spoon urad daal"," "Fry the ground masala","after its raw smell goes,add cooked Bengalgram & tendli,mix it well"," cover the lid and cook for 5 minutes","Note-same type of sukka can be prepared with different combination-Bengalgram& Raw Jackfruit, Bengalgram& Yam"].
                             }
                         ]
                     }
@@ -360,7 +360,7 @@
             },
             {
                 "Id": "6.2",
-                "Title": "Plain Saar",
+                "Title": "Plantain Stem (Bambe)Sukka",
                 "Prepare": [
                     {
                         "Incredients": [ "4 - Tomatoes", "4-5 Green Chillies", "Tamrind(size of 1 lime)" ],
