@@ -349,10 +349,10 @@
                 "Title": "Whole Bengal Gram & Tendli Sukka",
                 "Prepare": [
                     {
-                        "Incredients": [ "1/4 kg.-Bengal gram,soaked overnight", "1/2 kg -Tendli", "1/2- grated coconut", "1-onion", "salt to taste", "For Masala- 10-red chillies(mix)roasted", "2 tsp.- coriander seeds,roasted", "1tsp-jeera roasted", "1/4tsp-methi roasted","1pinch-turmeric powder"," tamarind size of its seed"]
+                        "Incredients": [ "1/4 kg.-Bengal gram,soaked overnight", "1/2 kg -Tendli", "1/2- grated coconut", "1-onion", "salt to taste", "For Masala- 10-red chillies(mix)roasted", "2 tsp.- coriander seeds,roasted", "1tsp-jeera roasted", "1/4tsp-methi roasted","1pinch-turmeric powder"," tamarind size of its seed"],
                         "Method": [
                             {
-                                "Steps": [ "Cook Bengalgram and tendli in just enough water with salt","Grind the masala ingredients together to a fine paste", "Then add coconut and grind to a coarse paste", "Fry a pan with oil,mustard seeds,sliced onion,crushed 4 flakes of garlic,curry leaves,1spoon urad daal"," "Fry the ground masala","after its raw smell goes,add cooked Bengalgram & tendli,mix it well"," cover the lid and cook for 5 minutes","Note-same type of sukka can be prepared with different combination-Bengalgram& Raw Jackfruit, Bengalgram& Yam"].
+                                "Steps": [ "Cook Bengalgram and tendli in just enough water with salt","Grind the masala ingredients together to a fine paste", "Then add coconut and grind to a coarse paste", "Fry a pan with oil,mustard seeds,sliced onion,crushed 4 flakes of garlic,curry leaves,1spoon urad daal"," "Fry the ground masala","after its raw smell goes,add cooked Bengalgram & tendli,mix it well"," cover the lid and cook for 5 minutes","Note-same type of sukka can be prepared with different combination-Bengalgram& Raw Jackfruit, Bengalgram& Yam"]
                             }
                         ]
                     }
@@ -363,10 +363,10 @@
                 "Title": "Plantain Stem (Bambe)Sukka",
                 "Prepare": [
                     {
-                        "Incredients": [ "4 - Tomatoes", "4-5 Green Chillies", "Tamrind(size of 1 lime)" ],
+                        "Incredients": [ "6inch piece of plantain stem", "salt to taste", "For Masala-6-red chillies roasted","1tbsp.-coriander seeds roasted"," 1tsp.-methi,mustard and jeera","1/4 coconut scraped"],
                         "Method": [
                             {
-                                "Steps": [ "Grind together the ingredients to a fine paste.", "Fry oil in vessel.", "Add Mustard seeds when they splutter, add curry leaves then add the ground masala.", "Add pinch of Turmeric Powder.", "Add salt to taste.", "Add red chilly powder, 1 tea spoon of garam masala which gives good aroma.", "Leave it to boil.", "Garnish with coriander leaves" ]
+                                "Steps": [ "Peel off the outer skin of the plantain stem and cut into round pieces"," Then cut each round into small pieces","the loose fibres obtained after each slice is cut should be discarded","boil in very little water with salt till tender","Grind together masala ingredients except coconut to a fine paste", "add scraped coconut and grind to a coarse paste","add it to the cooked plantain stem","cook it for 10 to 15 minutes on a slow fire","season with oil,mustard seeds, curry leaves and crushed garlic."]
                             }
                         ]
                     }
@@ -374,13 +374,13 @@
             },
             {
                 "Id": "6.3",
-                "Title": "Jeera Rasam",
+                "Title": "Plantain flower bud(Poombe) sukka",
                 "Prepare": [
                     {
-                        "Incredients": [ "5 - Long Red Chilly", "2Tbs.- Jeera", "3Tbs - Cooked Toovar Dal" ],
+                        "Incredients": [ "plantain flower bud", "Salt to taste", "For Masala-4 Chillies roasted"," 1/4-grated coconut","2tsp.-coriander seeds roasted","1tsp.-mustard,jeera& methi","1pinch- turmeric powder","tamarind size of its seed","salt to taste","1-onion","1 piece of jaggery"],
                         "Method": [
                             {
-                                "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
+                                "Steps": [" Grind all the masala except coconut to fine paste","add grated coconut and grind to a coarse paste","keep aside","take the flowers and leaves of plantain bud","cut the white part into small pieces and cook","drain the water and keep aside","fry a pan with oil,mustard,sliced onion,1 broken chilly, 4 crushed garlic flakes, 2 sprig curry leaves","add the ground masala, fry till the raw smell goes","add salt and Jaggery","add cooked plantain flower bud,mix it and cook for 5 minutes"]. to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic."]
                             }
                         ]
                     }
