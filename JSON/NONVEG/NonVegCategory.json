@@ -6,7 +6,19 @@
         "RecipesList": [
             {
                 "Id": "1.1",
-                "Title": "Kori Rotti"
+                "Title": "Kori Rotti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Id": "1.2",
