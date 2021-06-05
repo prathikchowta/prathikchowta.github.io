@@ -388,13 +388,13 @@
             },
             {
                 "Id": "6.4",
-                "Title": "Plain Rasam",
+                "Title": "Raw Jackfruit(in salt water)(uppad pachir)",
                 "Prepare": [
                     {
-                        "Incredients": [ "1cup toordaal( washed& soaked)","1 - big Tomato","10-15 peppercorns (powdered)","salt to taste","6-8-garlic flakes crushed","1/4 tsp-turmeric powder"],
+                        "Incredients": [ "1/4 kg raw jackfruit,cut and soaked in salt water","salt to taste","for masala-6-7-red chillies roasted","2 tbsp.-coriander seeds roasted","1tsp.-jeera","1/4tsp.-turmeric powder","4-garlic flakes","1/2 grated coconut","1-onion"],
                         "Method": [
                             {
-                                "Steps": [ "Boil the daal in 2-3 cups of water until well cooked,beat it well and keep aside", "Boil the tomato with 1 cup water,tamarind and salt until cooked.", "add the powdered peppercorns,crushed garlic and turmeric powder and boil", "Pour the cooked daal over it and remove", "Season with coconut oil,mustard seeds,broken red chilly and curry leaves to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
+                                "Steps": [ "Grind together maaala ingredients except coconut to a fine paste"," add the coconut and grind to a coarse paste","remove and set aside”,"take out the jackfruit pieces from the salt water","cut into strips and put in fresh water","Heat oil and add mustard seeds","when they splutter add sliced onion,curry leaves and crushed garlic flakes","when onion turns brown add jackfruit slices,add 2 cups of water","boil till it cooked","add the ground masala and salt","cook it for 10-15 minutes"].
                             }
                         ]
                     }
@@ -402,13 +402,13 @@
             },
             {
                 "Id": "6.5",
-                "Title": "Dhal Saar",
+                "Title": "Raw Jackfruit Sukka",
                 "Prepare": [
                     {
-                        "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour", " 2- tomatoes chopped","1 piece ginger","1 big onion","8- green chillies slitted","Salt to taste","1tsp asafoetida powder" ],
+                        "Incredients": [ "1-small raw jackfruit","salt to taste"," Jaggery-size of a half lime","For Masala-15-20 red chillies","2tbsp.-coriander seeds roasted","2tsp.-jeera roasted","1sprig- curry leaves","1tsp.-urad daal","tamarind size of its seed","1/4 tsp.-turmeric powder","6-flakes garlic","1-coconut grated","1-onion"],
                         "Method": [
                             {
-                                "Steps": [ "Cook the daal in 3 to 4 cups water until soft", " Mix it well", "add chopped tomatoes,green chillies,finely chopped ginger, sliced onion,turmeric powder,asafoetida powder and salt to taste", "boil until cooked", "Add finely chopped coriander leaves.", "Season with oil,mustard seeds,curry leaves and broken red chilly" ]
+                                "Steps": [ "Grind together masala ingredients except coconut to a fine paste","add coconut and grind further to a coarse paste","remove and keep it aside","take out thick outer skin of jackfruit","cut into small pieces and put it in water","remove from water and cook it with enough water,salt and jaggery","when it is cooked drain the remained water","add the ground masala and cook for another 10 minutes","season with coconut oil, mustard seeds,finely chopped onion,curry leaves,urad daal,1 broken red chilly].
                             }
                         ]
                     }
