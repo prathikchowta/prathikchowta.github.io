@@ -203,13 +203,13 @@ ofice", "Salt", "Water", "Rice", "Salt", "Water" ],
             },
             {
                 "Id": "2.3",
-                "Title": "Gatti",
+                "Title": "Coconut dosa",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "2cups-raw rice", "1/2-tender coconut,grated", "1tbsp.- cooked riceater", "Rice", "Salt", "Water" ],
                         "Method": [
                             {
                                 "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
