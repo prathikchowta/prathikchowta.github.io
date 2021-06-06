@@ -191,8 +191,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "3cups-raw rice","1tbsp.-fenugreek(methi)seeds","250grams-jaggery(optional)","1 tender coconut,grated","salt to taste","1/2tsp.-soda"]
-ofice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "3cups-raw rice","1tbsp.-fenugreek(methi)seeds","250grams-jaggery(optional)","1 tender coconut,grated","salt to taste","1/2tsp.-soda"],
                         "Method": [
                             {
                                 "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours",grind grated coconut and fenugreek seeds along with soaked water", "then add rice and grind further to a fine paste","remove and mix it well with salt","keep aside for 8 hours","add jaggery and soda,mix well","keep guri appa tava on fire","apply oil,pour batter to all the rounds and cover it","cook both the sides" "guri appa tava-special tava with 7 or 11 depressions"]
@@ -209,10 +208,10 @@ ofice", "Salt", "Water", "Rice", "Salt", "Water" ],
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "2cups-raw rice", "1/2-tender coconut,grated", "1tbsp.- cooked riceater", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "2cups-raw rice", "1/2-tender coconut,grated", "1tbsp.- cooked rice", "salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak rice for 2 hours","drain completely","grind it to a fine paste with tender coconut,cooked rice and salt","batter should be thicker than neer dosa batter","remove from grinder","keep aside for 8hours","heat the dosa tava,apply little oil","pour a big spoonful of batter and spread it in a circle","cover the tava and cook for 1 minute","remove the lid and take out the dosa","repeat for remaining batter"]
                             }
                         ]
                     }
@@ -220,16 +219,16 @@ ofice", "Salt", "Water", "Rice", "Salt", "Water" ],
             },
             {
                 "Id": "2.3",
-                "Title": "Gatti",
+                "Title": "Urad dosa",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1cup-urad dal","3 cups-raw rice", "Salt to taste","oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Soak urad daal for 4-5hours","wash and soak raw rice for 2 hours","wash urad daal and grind to a fine paste","add soaked raw rice and grind to a fine paste","pour to a vessel,add salt and mix well","cover and keep aside for 8 hours","heat the dosa tava,apply oil","pour 1big spoonful of batter and spread in a circle","cook for a minute","repeat the remaining batter"]
                             }
                         ]
                     }
@@ -237,16 +236,16 @@ ofice", "Salt", "Water", "Rice", "Salt", "Water" ],
             },
             {
                 "Id": "2.3",
-                "Title": "Gatti",
+                "Title": "Aapam",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "3 cups- raw rice","1/2 cup-urad daal","1/2 cup-poha, soaked", "1 cup- tender coconut","salt to taste", "oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "urad daal soaked and kept for 4-5 hours","raw rice washed and soaked for 2 hours","wash soaked urad daal and grind to a fine paste","then add coconut, poha and rice","grind to a fine paste","pour it a vessel,add salt and mix well","batter should be of dropping consistency","cover and keep overnight","aapam should be prepared in deep tava","pour 1 big spoonful of batter","slowly  turn the tava round,so that a thin layer forms on the sides and the middle remains thick","cover and cook till done","the middle part will be fluffy and sides thin and crisp","remove and serve","note- without putting soda or yeast aàpam can be done"]
                             }
                         ]
                     }
@@ -254,16 +253,16 @@ ofice", "Salt", "Water", "Rice", "Salt", "Water" ],
             },
             {
                 "Id": "2.3",
-                "Title": "Gatti",
+                "Title": "Methi Dosa",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
-                        "Method": [
+                        "Incredients": [ "3 cups -rice", "1 tbsp.- fenugreek seeds(methi)", "1/2 cup- curds", "salt to taste", "oil for frying"],
+                        "Method": 
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak rice and fenugreek seperately for 5-6 hours"," wash poha","mix it with curds and fenugreek séeds and grind to a fine paste","then add rice and grind further to a fine paste","Remove, mix it well with salt", "keep aside for 8-9 hours","keep the dosa tava on the fire and rub little oil","take a big spoonful of batter and spread like urad dosa","cook till done"]4", "Step5", "Step6" ]
                             }
                         ]
                     }
