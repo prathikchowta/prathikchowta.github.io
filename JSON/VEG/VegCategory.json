@@ -25,12 +25,138 @@
             {
                 "Id": "1.2",
                 "Title": "Appa",
-                "SubTitle": "Manjal Ereda Gatti"
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Id": "1.3",
                 "Title": "Gatti",
-                "SubTitle": "Manjal Ereda Gatti"
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -43,17 +169,274 @@
             {
                 "Id": "2.1",
                 "Title": "Neer Dose",
-                "SubTitle": "Manjal Ereda Gatti"
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Id": "2.2",
                 "Title": "Appa",
-                "SubTitle": "Manjal Ereda Gatti"
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Id": "2.3",
                 "Title": "Gatti",
-                "SubTitle": "Manjal Ereda Gatti"
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
