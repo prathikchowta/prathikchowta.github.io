@@ -984,16 +984,16 @@
             },
             {
                 "Id": "7.2",
-                "Title": "Plantain Stem (Bambe)Sukka",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Ridgegourd Upkari",
+                "SubTitle": "Peere Upkari",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "6inch piece of plantain stem", "salt to taste", "For Masala-6-red chillies roasted","1tbsp.-coriander seeds roasted"," 1tsp.-methi,mustard and jeera","1/4 coconut scraped"],
+                        "Incredients": [ "1/2 kg-Ridgegourd","1- onion sliced","4-green chillies,slitted,","salt to taste","2 tsp.-scraped coconut","1tsp.-mustard seeds","3-4 garlic flakes,crushed","2sprig curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Peel off the outer skin of the plantain stem and cut into round pieces"," Then cut each round into small pieces","the loose fibres obtained after each slice is cut should be discarded","boil in very little water with salt till tender","Grind together masala ingredients except coconut to a fine paste", "add scraped coconut and grind to a coarse paste","add it to the cooked plantain stem","cook it for 10 to 15 minutes on a slow fire","season with oil,mustard seeds, curry leaves and crushed garlic."]
+                                "Steps": [ "Peel off the skin of Ridgegourd","wash & cut into small pieces","Heat oil on Kadai,add mustard seeds","when they splutter,add sliced onion,green chillies,garlic,curry leaves,mix and add ridgegourd pieces","add salt","add very little water,Cook on slow fire till done","add scraped coconut before removing from fire","Note: Upkari can also be prepared with cabbage,potatoes,French beans,and,snake gourd"]
                             }
                         ]
                     }
@@ -1002,7 +1002,7 @@
         ]
     },
     {
-        "Id": "7",
+        "Id": "8",
         "Title": "Paisa",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/JackfruitPodi.jpg",
         "Count": "0"
