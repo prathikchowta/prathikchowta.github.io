@@ -613,10 +613,10 @@
                 "Id": "5.1",
                 "Title": "Tomato Rasam",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam2.jpeg"],
                         "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies", "1Tsp- Mustard", "1 - Pinch of Turmeric Powder", "1 - Sprig curry Leaves", "1piece - Ginger", "4-5flakes - garlic crushed", "Salt To Taste" ],
                         "Method": [
                             {
@@ -630,7 +630,7 @@
                 "Id": "5.2",
                 "Title": "Plain Saar",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
