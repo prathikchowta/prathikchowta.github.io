@@ -313,7 +313,7 @@
                         "Incredients": [ "4 cups- raw rice","1 cup - urad daal","1/2 tsp.- yeast","salt to taste","jackfruit leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak daal and raw rice separately for 4-5 hours","grind the urad dàal to a finé paste","remove it to a big vessel","grind the soaked rice until bàttér is fine to a sooji consistency","remove and mix with urad batter,salt and yeast","mix well","cover and keep for for 8 hours","take four jackfruit leaves","keep them edge to edge and attach with fine sticks in the shape of a cup","fill the cups or gunda with idli batter","steam till cooked","the leaves give a nice flavour to the idli","moode is also done in the same way","leaves used here are moode voli or long leaves with thorns","the thorns should be removed and the leaf turned round and shaped like a hollow pipe"]
+                                "Steps": [ "Wash and soak daal and raw rice separately for 4-5 hours","grind the urad dàal to a finé paste","remove it to a big vessel","grind the soaked rice until bàttér is fine to a sooji consistency","remove and mix with urad batter,salt and yeast","mix well","cover and keep for for 8 hours","take four jackfruit leaves","keep them edge to edge and attach with fine sticks in the shape of a cup","fill the cups or gunda with idli batter","steam till cooked","the leaves give a nice flavour to the idli","note:moode is also done in the same way","leaves used here are moode voli or long leaves with thorns","the thorns should be removed and the leaf turned round and shaped like a hollow pipe"]
                             }
                         ]
                     }
@@ -338,16 +338,16 @@
             },
             {
                 "Id": "2.3",
-                "Title": "Gatti",
+                "Title": "Jackfruit Dosa",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "2 cups - jackfruit (without seeds) cut into pieces", "1/2 kg - raw rice", "1/2 grated coconut","salt to taste"].
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak the rice for 2 hours"."Grind the rice with jackfruit,coconut and salt to a fine paste"."The batter should be thick"."Keep the dosa tava on fire"."Apply ghee or oil,pour a big spoonful of batter and spread it a little","cook both the sides"].
                             }
                         ]
                     }
@@ -355,16 +355,16 @@
             },
             {
                 "Id": "2.3",
-                "Title": "Gatti",
+                "Title": "Rava Rotti",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "3 cups - rava", "3-4 - green chillies,finely chopped","1 - big onion,finely chopped","1/2 - grated coconut", "salt to taste"]
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Mix all ingredients with little water, make a thick batter","keep tava on fire,apply little oil,take a handful batter and spread to the tava","cook both the sides"].
                             }
                         ]
                     }
