@@ -327,7 +327,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "2 cups- dosa rice", "1/2 cup - urad daal", "1/4 cup - channa daal","1/4 cup - toor daal","salt to taste","Oil","For potato bhaji - 4-6 - medium size potatoes","2 tbsp. - mustard seeds","10-15 - curry leaves","4-5 - Green chillies,slitted","Curry leaves","1 inch - ginger,chopped","1 tbsp.- coriander leaves, finely chopped","salt to taste","2 - onions,chopped"].
+                        "Incredients": [ "2 cups- dosa rice", "1/2 cup - urad daal", "1/4 cup - channa daal","1/4 cup - toor daal","salt to taste","Oil","For potato bhaji - 4-6 - medium size potatoes","2 tbsp. - mustard seeds","10-15 - curry leaves","4-5 - Green chillies,slitted","Curry leaves","1 inch - ginger,chopped","1 tbsp.- coriander leaves, finely chopped","salt to taste","2 - onions,chopped"],
                         "Method": [
                             {
                                 "Steps": [ "to prepare dosa - wash and soak rice and daals seperately in water for 4-5 hours","then grind together to a fine paste","add salt to the batter which should be of dropping consistency","cover and keep aside for 8 hours","apply oil to the masala dosa tava and keep on fire","when hot sprinkle little water on tava","stir batter and pour a spoonful on tava and spread quickly to make a thin flat round","pour little oil on top","cook it till crisp","put a spoonful of potato bhaji and a lump of butter in the centre of the dosa", "fold the dosa","serve hot with chutney","to prepare potato bhaji - boil the potatoes","after it cools,peel the skin and smash into small pieces","heat oil,add mustard seeds","when they splutter add sliced onions,turmeric powder,tomato, ginger and curry leaves", "mix and cook","add potatoes and salt","mix and cook for 5 minutes","add coriander leaves and turn off the gas"]
@@ -347,7 +347,7 @@
                         "Incredients": [ "2 cups - jackfruit (without seeds) cut into pieces", "1/2 kg - raw rice", "1/2 grated coconut","salt to taste","Ghee/oil - for frying"].
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak the rice for 2 hours"."Grind the rice with jackfruit,coconut and salt to a fine paste"."The batter should be thick"."Keep the dosa tava on fire"."Apply ghee or oil,pour a big spoonful of batter and spread it a little","cook both the sides"].
+                                "Steps": [ "Wash and soak the rice for 2 hours","Grind the rice with jackfruit,coconut and salt to a fine paste","The batter should be thick","Keep the dosa tava on fire","Apply ghee or oil,pour a big spoonful of batter and spread it a little","cook both the sides"]
                             }
                         ]
                     }
@@ -361,10 +361,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "3 cups - rava", "3-4 - green chillies,finely chopped","1 - big onion,finely chopped","1/2 - grated coconut", "salt to taste","oil for frying"]
+                        "Incredients": [ "3 cups - rava", "3-4 - green chillies,finely chopped","1 - big onion,finely chopped","1/2 - grated coconut", "salt to taste","oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Mix all ingredients with little water, make a thick batter","keep tava on fire,apply little oil,take a handful batter and spread to the tava","cook both the sides"].
+                                "Steps": [ "Mix all ingredients with little water, make a thick batter","keep tava on fire,apply little oil,take a handful batter and spread to the tava","cook both the sides"]
                             }
                         ]
                     }
@@ -378,10 +378,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/2 kg - boiled Rice", "1/2 - grated coconut", "salt to taste"].
+                        "Incredients": [ "1/2 kg - boiled Rice", "1/2 - grated coconut", "salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Soak rice for 4 hours"."Wash and grind it to a fine paste with just enough water and salt"."Remove and mix with coconut"."Cook this mixture over à medium flame,stirring continously in a thick bottomed vessel with oil or ghee,till solid enough to be rolled into balls"."Make small lemon sized balls"."Steam till cooked,(30 minutes)"].
+                                "Steps": [ "Soak rice for 4 hours","Wash and grind it to a fine paste with just enough water and salt","Remove and mix with coconut","Cook this mixture over à medium flame,stirring continously in a thick bottomed vessel with oil or ghee,till solid enough to be rolled into balls","Make small lemon sized balls","Steam till cooked(30 minutes)"]
                             }
                         ]
                     }
