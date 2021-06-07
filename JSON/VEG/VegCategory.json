@@ -613,10 +613,10 @@
                 "Id": "5.1",
                 "Title": "Tomato Rasam",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam2.jpeg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam2.jpeg?raw=true"],
                         "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies", "1Tsp- Mustard", "1 - Pinch of Turmeric Powder", "1 - Sprig curry Leaves", "1piece - Ginger", "4-5flakes - garlic crushed", "Salt To Taste" ],
                         "Method": [
                             {
@@ -633,7 +633,7 @@
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSaar1.jpeg?raw=true"],
                         "Incredients": [ "4 - Tomatoes", "4-5 Green Chillies", "Tamrind(size of 1 lime)" ],
                         "Method": [
                             {
@@ -647,10 +647,10 @@
                 "Id": "5.3",
                 "Title": "Jeera Rasam",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam2.jpeg?raw=true"],
                         "Incredients": [ "5 - Long Red Chilly", "2Tbs.- Jeera", "3Tbs - Cooked Toovar Dal" ],
                         "Method": [
                             {
@@ -664,10 +664,10 @@
                 "Id": "5.4",
                 "Title": "Plain Rasam",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true"],
                         "Incredients": [ "1cup toordaal( washed& soaked)","1 - big Tomato","10-15 peppercorns (powdered)","salt to taste","6-8-garlic flakes crushed","1/4 tsp-turmeric powder"],
                         "Method": [
                             {
@@ -681,10 +681,10 @@
                 "Id": "5.5",
                 "Title": "Dhal Saar",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar2.jpeg?raw=true"],
                         "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour", " 2- tomatoes chopped","1 piece ginger","1 big onion","8- green chillies slitted","Salt to taste","1tsp asafoetida powder" ],
                         "Method": [
                             {
@@ -698,10 +698,10 @@
                 "Id": "5.6",
                 "Title": "Masala Sambar",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar2.jpeg?raw=true"],
                         "Incredients": [ "1/2 cup -toordaal,washed and soaked in water", "cauliflower,beans,carrots,brinjal,drumsticks,sweet pumpkin(few pieces of each)", "3-4 -tomatoes", "oil for frying", "Salt to taste", "3-4- cups water", "For Masala - Ingredients: 1 tbs.Channadaal, 1 tbs.-uraddaal, 1 tsp.-jeera,1/2 tsp.-methi,1cup -coconut grated,1 tbs.- Coriander seeds,8- red chillies,1tbs.-ghee or oil,1tsp.-mustard seeds,10-15- curry leaves"],
                         "Method": [
                             {
@@ -715,10 +715,10 @@
                 "Id": "5.7",
                 "Title": "Plain Sambar",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar3.jpeg?raw=true"],
                         "Incredients": [ "1 cup- toor daal", "1 small red cucumber( taute)", "10-12- sambar onions(small onions)", "1- tomato", "Salt to taste", "tamarind( size of a lime)","1 pinch- asafoetida powder", " For Masala - Ingredients: 7-8 -red chillies (roasted), 11/2 tbs.coriander seeds(roasted), 1 cup- grated coconut( roasted)"],
                         "Method": [
                             {
@@ -732,10 +732,10 @@
                 "Id": "5.8",
                 "Title": "Mango Saar",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar2.jpeg?raw=true"],
                         "Incredients": [ "6- ordinary mangoes", "5-6- green chillies", "2tbs.-chilly powder", "1-onion", "Salt to taste ", "4glass-water","1 piece-jaggery"],
                         "Method": [
                             {
@@ -749,10 +749,10 @@
                 "Id": "5.9",
                 "Title": "Mango Menaskai",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai2.jpeg?raw=true"],
                         "Incredients": [ "6-8- small sized ripe mangoes", "Salt to taste", "1 piece- jaggery", "For Masala-1 1/2 tbs.-urad daal", "1 1/2 tbsp.-channadaal", "1 1/2 tbsp.-coriander seeds"," 1/2 tsp.-methi seeds","1 tsp.-mustard seeds","1 tsp.-jeera","6 -red chillies","5 -pepper corns","2 sprig -curry leaves","1 cup-grated coconut"],
                         "Method": [
                             {
@@ -766,10 +766,10 @@
                 "Id": "5.10",
                 "Title": "Horse Gram Rasam",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram2.jpeg?raw=true"],
                         "Incredients": [ "1/2 kg.-horse gram(soaked in water overnight)", "Salt to taste", "tamarind -size of 2 limes soaked in water", "For Masala- 2tbs.-grated coconut", "10-red chillies", "2tbs.--coriander seeds","1tbs.-jeera"," 4-5 -garlic flakes"],
                         "Method": [
                             {
