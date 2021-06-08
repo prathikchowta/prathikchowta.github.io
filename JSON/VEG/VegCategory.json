@@ -170,10 +170,10 @@
                 "Id": "2.1",
                 "Title": "Neer Dosa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true"],
                         "Incredients": [ "2 cups-raw riçe", "Salt to taste", "oil for frying"],
                         "Method": [
                             {
@@ -187,10 +187,10 @@
                 "Id": "2.2",
                 "Title": "Appa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa2.jpeg?raw=true"],
                         "Incredients": [ "3cups-raw rice","1tbsp.-fenugreek(methi)seeds","250grams-jaggery(optional)","1 tender coconut,grated","salt to taste","1/2tsp.-soda"],
                         "Method": [
                             {
@@ -204,10 +204,10 @@
                 "Id": "2.3",
                 "Title": "Coconut dosa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa2.jpg?raw=true"],
                         "Incredients": [ "2cups-raw rice", "1/2-tender coconut,grated", "1tbsp.- cooked rice", "salt to taste"],
                         "Method": [
                             {
@@ -221,10 +221,10 @@
                 "Id": "2.3",
                 "Title": "Urad dosa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa3.jpg?raw=true"],
                         "Incredients": [ "1cup-urad dal","3 cups-raw rice", "Salt to taste","oil for frying"],
                         "Method": [
                             {
@@ -238,10 +238,10 @@
                 "Id": "2.3",
                 "Title": "Aapam",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam2.jpeg?raw=true"],
                         "Incredients": [ "3 cups- raw rice","1/2 cup-urad daal","1/2 cup-poha, soaked", "1 cup- tender coconut","salt to taste", "oil for frying"],
                         "Method": [
                             {
@@ -255,10 +255,10 @@
                 "Id": "2.3",
                 "Title": "Methi Dosa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa2.jpeg?raw=true"],
                         "Incredients": [ "3 cups -rice", "1 tbsp.- fenugreek seeds(methi)", "1/2 cup- curds", "salt to taste", "oil for frying"],
                         "Method": [
                             {
@@ -272,10 +272,10 @@
                 "Id": "2.3",
                 "Title": "Maida Dosa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa2.jpeg?raw=true"],
                         "Incredients": [ "3 cups-maida","1 cup-rava","1 tsp.-jeera", "3-4 -green chillies finely chopped","salt to taste", "2 tbsp.- grated coconut(optional)","Oil for frying"],
                         "Method": [
                             {
@@ -289,10 +289,10 @@
                 "Id": "2.3",
                 "Title": "Idli",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Idli1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Idli1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Idli2.jpeg?raw=true"],
                         "Incredients": [ "3 cups -raw rice", "1 cup - urad daal", "salt to taste"],
                         "Method": [
                             {
@@ -306,10 +306,10 @@
                 "Id": "2.3",
                 "Title": "Idli in jackfruit leaves",
                 "SubTitle": "Gunda",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit3.jpeg?raw=true"],
                         "Incredients": [ "4 cups- raw rice","1 cup - urad daal","1/2 tsp.- yeast","salt to taste","jackfruit leaves"],
                         "Method": [
                             {
@@ -323,10 +323,10 @@
                 "Id": "2.3",
                 "Title": "Masala Dosa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa2.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa3.jpg?raw=true"],
                         "Incredients": [ "2 cups- dosa rice", "1/2 cup - urad daal", "1/4 cup - channa daal","1/4 cup - toor daal","salt to taste","Oil","For potato bhaji - 4-6 - medium size potatoes","2 tbsp. - mustard seeds","10-15 - curry leaves","4-5 - Green chillies,slitted","Curry leaves","1 inch - ginger,chopped","1 tbsp.- coriander leaves, finely chopped","salt to taste","2 - onions,chopped"],
                         "Method": [
                             {
@@ -340,10 +340,10 @@
                 "Id": "2.3",
                 "Title": "Jackfruit Dosa",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa3.jpeg?raw=true"],
                         "Incredients": [ "2 cups - jackfruit (without seeds) cut into pieces", "1/2 kg - raw rice", "1/2 grated coconut","salt to taste","Ghee/oil - for frying"],
                         "Method": [
                             {
@@ -357,10 +357,10 @@
                 "Id": "2.3",
                 "Title": "Rava Rotti",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti2.jpeg?raw=true"],
                         "Incredients": [ "3 cups - rava", "3-4 - green chillies,finely chopped","1 - big onion,finely chopped","1/2 - grated coconut", "salt to taste","oil for frying"],
                         "Method": [
                             {
@@ -374,10 +374,10 @@
                 "Id": "2.3",
                 "Title": "Rice Dumplings",
                 "SubTitle": "Pundi",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RiceDumplings2.jpeg?raw=true"],
                         "Incredients": [ "1/2 kg - boiled Rice", "1/2 - grated coconut", "salt to taste"],
                         "Method": [
                             {
