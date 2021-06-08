@@ -13,10 +13,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "12-15 - turmeric leaves","1/2 kg - boiled rice (soaked in water for 4 -6 hours)", "Salt to taste", "For filling - 1 coconut,grated ","1/2 kg - jaggery,grated","4 cardamoms,powdeered".]
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and wipe the turmeric leaves dry.""Grind the rice with salt to taste and just enough water to a fine paste.""Remove the paste."" Apply evenly on each turmeric leaf.""mix the filling ingredients.""place one spoon on top and fold the leaves into half.""Steam them till cooked in an Idli cooker."]
                             }
                         ]
                     }
@@ -24,16 +24,16 @@
             },
             {
                 "Id": "1.2",
-                "Title": "Appa",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Jackfruit Gatti",
+                "SubTitle": "Pelakai Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1kg - jackfruit (without seeds) sliced into pieces,""1/2 kg - Boiled rice," "250 GMs.- jaggery(optional) "4-5 pepper corns," "1/2tsp.- salt," "10-15- Tekki leaves," "1 dry coconut,cut into small pieces."] 
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak rice for 4-6 hours." "Grind rice and jackfruit and Jaggery to a fine paste with peppercorns and salt." "Remove and mix with coconut pieces." "Wrap a little of the prepared paste in tekki leaves." "Steam it for 1 hour." " Note: if tekki leaves not available,use plantain leaves or idli vessels."]
                             }
                         ]
                     }
@@ -378,10 +378,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RiceDumplings2.jpeg?raw=true"],
-                        "Incredients": [ "1/2 kg - boiled Rice", "1/2 - grated coconut", "salt to taste"],
+                        "Incredients": [ "1/2 kg - boiled Rice", "1/2 - grated coconut", "salt to taste","For seasoning: 1tsp.-mustard seeds, 1tsp.-urad daal,2 sprig - curry leaves, 1 broken  red chilly,1 tbsp.- coconut oil".]
                         "Method": [
                             {
-                                "Steps": [ "Soak rice for 4 hours","Wash and grind it to a fine paste with just enough water and salt","Remove and mix with coconut","Cook this mixture over à medium flame,stirring continously in a thick bottomed vessel with oil or ghee,till solid enough to be rolled into balls","Make small lemon sized balls","Steam till cooked(30 minutes)"]
+                                "Steps": [ "Soak rice for 4 hours","Wash and grind it to a fine paste with just enough water and salt","Remove and mix with coconut","Keep a thick bottomed vessel on fire"," add oil,mustard seeds,urad daal,chilly and curry leaves,cook Ground batter over a medium flame,stirring continously,till solid enough to be rolled into balls","Make small lemon sized balls","Steam till cooked(30 minutes)"]
                             }
                         ]
                     }
@@ -390,7 +390,7 @@
             {
                 "Id": "2.3",
                 "Title": "Gatti",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Jackfruit Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
