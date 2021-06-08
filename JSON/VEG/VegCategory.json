@@ -843,17 +843,17 @@
     {
         "Id": "7",
         "Title": "Upkari Special",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/sambar.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
         "Count": "2",
         "RecipesList": [
             {
                 "Id": "7.1",
                 "Title": "Beans Upkari",
                 "SubTitle": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari2.jpeg"],
                         "Incredients": [ "1/2 kg.-Beans chopped into small pieces", "2-3-green chilies, slitted","2tbsp.-channadaal","1tsp.-mustard seeds"," 2sprig curry leaves","1 pinch turmeric powder","1-onion sliced","1tbsp.-grated coconut","salt to taste"],
                         "Method": [
                             {
