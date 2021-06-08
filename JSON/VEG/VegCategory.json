@@ -13,7 +13,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "12-15 - turmeric leaves","1/2 kg - boiled rice (soaked in water for 4 -6 hours)", "Salt to taste", "For filling - 1 coconut,grated","1/2 kg - jaggery,grated","4 cardamoms,powdeered"],
+                        "Incredients": [ "12-15 - turmeric leaves","1/2 kg - boiled rice (soaked in water for 4 -6 hours)", "Salt to taste", "For filling - 1 coconut,grated","1/2 kg - jaggery,grated","4 cardamoms,powdered"],
                         "Method": [
                             {
                                 "Steps": [ "Wash and wipe the turmeric leaves dry.","Grind the rice with salt to taste and just enough water to a fine paste.", "Remove the paste.", "Apply evenly on each turmeric leaf.", "mix the filling ingredients.", "place one spoon on top and fold the leaves into half.", "Steam them till cooked in an Idli cooker."]
@@ -41,16 +41,16 @@
             },
             {
                 "Id": "1.3",
-                "Title": "Gatti",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Rice Semia",
+                "SubTitle": "Semeda Adye",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1/2 kg- boiled rice", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak the rice for 4 to 5 hours", "Add a little water and salt", "Grind to a fine paste", "Cook the mixture over a medium flame in a thick bottomed vessel applied with oil", "Stir continously till solid enough to be rolled into balls", "Remove from fire and with moistened fingers prepare balls of equal size", "Steam till cooked", "Press each ball through a semia mould", "Note:Serve with coconut milk sweetened with jaggery and cardamoms or with chicken curry."]
                             }
                         ]
                     }
