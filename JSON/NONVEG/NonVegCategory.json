@@ -2,15 +2,15 @@
     {
         "Id": "1",
         "Title": "Karavali Special",
-        "ImgURL": "https://ibb.co/JyRqyG8",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
         "RecipesList": [
             {
                 "Id": "1.1",
                 "Title": "Kori Rotti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
                         "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
                         "Method": [
                             {
@@ -33,16 +33,31 @@
     {
         "Id": "2",
         "Title": "Rice",
-        "ImgURL": "https://ibb.co/JyRqyG8"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/BiryaniRice.jpeg"
     },
     {
         "Id": "3",
-        "Title": "Chicken Side Dish",
-        "ImgURL": "https://ibb.co/JyRqyG8"
+        "Title": "Fish Fry",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishFry.jpeg"
     },
     {
         "Id": "4",
+        "Title": "Fish Curry",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishCurry.jpeg"
+    },
+    {
+        "Id": "5",
         "Title": "Chicken Fry",
-        "ImgURL": "https://ibb.co/JyRqyG8"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenFry.jpeg"
+    },
+    {
+        "Id": "6",
+        "Title": "Chicken Sukka",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenSukka.jpeg"
+    },
+    {
+        "Id": "7",
+        "Title": "Chicken Curry",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenCurry.jpeg"
     }
 ]
