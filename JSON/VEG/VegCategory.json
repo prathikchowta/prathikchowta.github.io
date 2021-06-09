@@ -58,16 +58,16 @@
             },
             {
                 "Id": "1.4",
-                "Title": "Gatti",
+                "Title": "Patrade",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "200 gms.- urad daal, wash and soak for 6 hours", "1 kg.- boiled rice,wash & soak for 4 hours", "6 - red chillies", "2 tbsp.- coriander seeds", "Salt to taste", "tamarind - size of a lime","1 tsp.- turmeric powder","20-25 colacasia leaves(thevu)","10- tekki leaves","For Gravy: 1- grated coconut","4- dry red chillies","2tsp.- coriander seeds","2 - onions chopped","salt to taste","2 tsp -ghee or oil for seasoning"]
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Grind urad daal and keep aside","Grind rice finely with coriander seeds,chillies,tamarind,turmeric powder and salt","Finely chop colacasia leaves and and mix well into the rice and urad paste","Put 2 spoonful into a tekki leaves","Covers, "Step2", "Step3", "Step4", "Step5", "Step6" ]
                             }
                         ]
                     }
