@@ -75,16 +75,16 @@
             },
             {
                 "Id": "1.5",
-                "Title": "Gatti",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Cucumber Gatti",
+                "SubTitle": "Thekkareda Adye",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 - cucumber,skinned and cut into pieces", "3 cups - raw rice, washed and soaked in water for 1 hour","1/2 - grated coconut", "4-5 - cardamoms","250 gms.- jaggery", "salt to taste", "2 - plantain leaves"]
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Grind together rice,coconut,cucumber,little water,salt and jaggery","Batter should be thick","Keep a Idli cooker or Steam vessel(tondoru) on fire", "Keep 2 plantain leaves inside the vessel,pour the batter on it","close the lid and cook for 30 minutes","pierce with a knife to see if it is cooked","after it cooled,cut into pieces and serve","Note: instead of cucumber,bottleguard can be used".]
                             }
                         ]
                     }
