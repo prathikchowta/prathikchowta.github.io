@@ -11,7 +11,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1tbsp. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
                         "Method": [
                             {
                                 "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
