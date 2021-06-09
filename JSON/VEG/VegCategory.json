@@ -24,16 +24,16 @@
             },
             {
                 "Id": "1.2",
-                "Title": "Jackfruit Gatti",
-                "SubTitle": "Pelakai Gatti",
+                "Title": "Gatti in Jackfruit leaves",
+                "SubTitle": "Chilmi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1kg - jackfruit (without seeds) sliced into pieces", "1/2 kg - Boiled rice", "250 GMs.- jaggery(optional)", "4-5 pepper corns", "1/2tsp.- salt", "10-15- Tekki leaves", "1 dry coconut,cut into small pieces"],
+                        "Incredients": [ "20-30 - Jackfruit leaves", "1/2 kg - Boiled rice, washed and soaked in water for 4 hours", "salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak rice for 4-6 hours.", "Grind rice and jackfruit and Jaggery to a fine paste with peppercorns and salt.", "Remove and mix with coconut pieces.", "Wrap a little of the prepared paste in tekki leaves.", "Steam it for 1 hour.", " Note: if tekki leaves not available,use plantain leaves or idli vessels."]
+                                "Steps": [ "Wash and wipe the jackfruit leaves","Grind the rice with salt and just enough water to a fine paste", "The same covering and filling of turmeric leaf gutti can be used in different way","Take jackfruit leaves and shape them into cones","Apply paste inside each leaf and fill it with coconut & jaggery mix","then close the top with a little more paste and steam till cooked."]
                             }
                         ]
                     }
@@ -406,16 +406,16 @@
             },
             {
                 "Id": "2.14",
-                "Title": "Rice Dumplings",
-                "SubTitle": "Pundi",
+                "Title": "Rice Dumplings with Masala",
+                "SubTitle": "Arepuda Pundi",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RiceDumplings2.jpeg?raw=true"],
-                        "Incredients": [ "1/2 kg - boiled Rice", "1/2 - grated coconut", "salt to taste","For seasoning: 1tsp.-mustard seeds, 1tsp.-urad daal,2 sprig - curry leaves, 1 broken  red chilly,1 tbsp.- coconut oil"],
+                        "Incredients": [ "1 - grated coconut", "8-10 - red chillies", "2 tsp.- coriander seeds","1/2 tsp.- jeera","1/4 tsp.- methi","1 - onion chopped',"tamarind size of its seed"," 10-15 - curry leaves","2-3 crushed garlic","oil for frying,"]
                         "Method": [
                             {
-                                "Steps": [ "Soak rice for 4 hours","Wash and grind it to a fine paste with just enough water and salt","Remove and mix with coconut","Keep a thick bottomed vessel on fire"," add oil,mustard seeds,urad daal,chilly and curry leaves,cook Ground batter over a medium flame,stirring continously,till solid enough to be rolled into balls","Make small lemon sized balls","Steam till cooked(30 minutes)"]
+                                "Steps": [ "Fry red chillies,coriander seeds,jeera and methi"," Grind along with coconut, turmeric, garlic and tamarind to a fine paste","Remove the masala and cook with salt to taste ","add 1 piece of Jaggery","Season with 1tsp.oil,onion and curry leaves","add prepared dumplings,simmer for 1 minute","Remove from fire and serve."]
                             }
                         ]
                     }
