@@ -41,6 +41,23 @@
             },
             {
                 "Id": "1.3",
+                "Title": "Jackfruit Gatti",
+                "SubTitle": "Pelakai Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "1kg - jackfruit (without seeds) sliced into pieces", "1/2 kg - Boiled rice", "250 GMs.- jaggery(optional)", "4-5 pepper corns", "1/2tsp.- salt", "10-15- Tekki leaves", "1 dry coconut,cut into small pieces"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash and soak rice for 4-6 hours.", "Grind rice and jackfruit and Jaggery to a fine paste with peppercorns and salt.", "Remove and mix with coconut pieces.", "Wrap a little of the prepared paste in tekki leaves.", "Steam it for 1 hour.", " Note: if tekki leaves not available,use plantain leaves or idli vessels."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.4",
                 "Title": "Rice Semia",
                 "SubTitle": "Semeda Adye",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
@@ -57,7 +74,7 @@
                 ]
             },
             {
-                "Id": "1.4",
+                "Id": "1.5",
                 "Title": "Patrade",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
@@ -74,7 +91,7 @@
                 ]
             },
             {
-                "Id": "1.5",
+                "Id": "1.6",
                 "Title": "Cucumber Gatti",
                 "SubTitle": "Thekkareda Adye",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
@@ -91,7 +108,7 @@
                 ]
             },
             {
-                "Id": "1.6",
+                "Id": "1.7",
                 "Title": "Rice Pudding",
                 "SubTitle": "Aritha Manni",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
@@ -108,7 +125,7 @@
                 ]
             },
             {
-                "Id": "1.7",
+                "Id": "1.8",
                 "Title": "Ragi Pudding",
                 "SubTitle": "Ragi Manni",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
@@ -119,23 +136,6 @@
                         "Method": [
                             {
                                 "Steps": [ "Clean and soak Ragi for 8 hours", "Grind the ragi with water and seive", "grind the ragi again & again and seive", "Add water and make a thin consistency", "Keep the vessel on fire", "add salt and jaggery,stir well","cook till it becomes thick","Add ghee and stir again,cook till the ghee dissolves","Pour to a greased plantain leaf","when it completely cooled cut into pieces"]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Id": "1.8",
-                "Title": "Gatti",
-                "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
-                "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
-                        "Method": [
-                            {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
                             }
                         ]
                     }
@@ -157,6 +157,23 @@
                         ]
                     }
                 ]
+            },
+            {
+                "Id": "1.10",
+                "Title": "Gatti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -164,7 +181,7 @@
         "Id": "2",
         "Title": "Breakfast Recipe",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
-        "Count": "3",
+        "Count": "14",
         "RecipesList": [
             {
                 "Id": "2.1",
@@ -372,6 +389,23 @@
             },
             {
                 "Id": "2.13",
+                "Title": "Rice Dumplings",
+                "SubTitle": "Pundi",
+                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RiceDumplings2.jpeg?raw=true"],
+                        "Incredients": [ "1/2 kg - boiled Rice", "1/2 - grated coconut", "salt to taste","For seasoning: 1tsp.-mustard seeds, 1tsp.-urad daal,2 sprig - curry leaves, 1 broken  red chilly,1 tbsp.- coconut oil"],
+                        "Method": [
+                            {
+                                "Steps": [ "Soak rice for 4 hours","Wash and grind it to a fine paste with just enough water and salt","Remove and mix with coconut","Keep a thick bottomed vessel on fire"," add oil,mustard seeds,urad daal,chilly and curry leaves,cook Ground batter over a medium flame,stirring continously,till solid enough to be rolled into balls","Make small lemon sized balls","Steam till cooked(30 minutes)"]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.14",
                 "Title": "Rice Dumplings",
                 "SubTitle": "Pundi",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
