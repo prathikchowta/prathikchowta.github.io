@@ -1009,16 +1009,16 @@
             },
             {
                 "Id": "8.3",
-                "Title": "Whole Bengal Gram Curry",
-                "SubTitle": "Kadle Gasi",
+                "Title": "Sprouted Green Gram Curry",
+                "SubTitle": "Padangi Gasi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1/4kg - Green Gram","1 - Onion,chopped","1 - Tomato","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Soak Green gram for 6 hours","Wash & drain water and keep it for 8 hours","It starts sprouting","Keep it on fire, add water and cook","After it cooked,add salt,chopped onion and tomato","Grind all the masala ingredients to a fine paste","Add it to the cooked gram","Boil for 5-10 minutes","Season with oil,mustard seeds,finely chopped onion,1 broken red chilly,crushed garlic flakes and curry leaves."] 
                             }
                         ]
                     }
