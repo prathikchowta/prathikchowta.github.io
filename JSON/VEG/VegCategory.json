@@ -984,7 +984,7 @@
                         "Incredients": [ "1 small or medium size - Cucumber (cut into medium pieces without removing skin)","For Masala: 1- Grated Coconut","10-12 - Red chillies,roasted","1tbsp.- Coriander seeds,roasted","1/2tbsp.- Cumin seeds","1/4 tsp.- Fenugreek seeds,roasted","1/4 tsp.- Mustard seeds,roasted","1pinch - Turmeric powder","Tamarind - size of its seed","Jaggery - size of a lime","Salt - to taste","4-5 - Garlic flakes","1 - Onion,chopped."]
                         "Method": [
                             {
-                                "Steps": [ "Grind all the masala ingredients except jaggery and salt to a fine paste","Keep the cucumber in a vessel to boil with 3-4 cups of water,salt and Jaggery","When it is cooked,add ground masala and cook for some more time","Season it with oil,mustard seeds,1 broken red chilly, crushed garlic and curry leaves."] 
+                                "Steps": [ "Grind all the masala ingredients except jaggery and salt to a fine paste","Keep the cucumber in a vessel to boil with 3-4 cups of water,salt and Jaggery","When it is cooked,add ground masala and cook for some more time","Season it with oil,mustard seeds,1 broken red chilly, crushed garlic and curry leaves."],
                             }
                         ]
                     }
@@ -998,7 +998,109 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"] 
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "8.3",
+                "Title": "Whole Bengal Gram Curry",
+                "SubTitle": "Kadle Gasi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "8.4",
+                "Title": "Whole Bengal Gram Curry",
+                "SubTitle": "Kadle Gasi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "8.5",
+                "Title": "Whole Bengal Gram Curry",
+                "SubTitle": "Kadle Gasi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "8.6",
+                "Title": "Whole Bengal Gram Curry",
+                "SubTitle": "Kadle Gasi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"], 
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "8.7",
+                "Title": "Whole Bengal Gram Curry",
+                "SubTitle": "Kadle Gasi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "8.8",
+                "Title": "Whole Bengal Gram Curry",
+                "SubTitle": "Kadle Gasi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
                         "Method": [
                             {
                                 "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
