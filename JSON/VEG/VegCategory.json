@@ -9,10 +9,10 @@
                 "Id": "1.1",
                 "Title": "Turmeric Leaf Gatti",
                 "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti3.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti4.jpeg" ],
                         "Incredients": [ "12-15 - turmeric leaves","1/2 kg - boiled rice (soaked in water for 4 -6 hours)", "Salt to taste", "For filling - 1 coconut,grated","1/2 kg - jaggery,grated","4 cardamoms,powdered"],
                         "Method": [
                             {
@@ -26,10 +26,10 @@
                 "Id": "1.2",
                 "Title": "Gatti in Jackfruit leaves",
                 "SubTitle": "Chilmi",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi3.jpg" ],
                         "Incredients": [ "20-30 - Jackfruit leaves", "1/2 kg - Boiled rice, washed and soaked in water for 4 hours", "salt to taste"],
                         "Method": [
                             {
@@ -60,10 +60,10 @@
                 "Id": "1.4",
                 "Title": "Rice Semia",
                 "SubTitle": "Semeda Adye",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye3.jpeg" ],
                         "Incredients": [ "1/2 kg- boiled rice", "Salt to taste"],
                         "Method": [
                             {
@@ -77,10 +77,10 @@
                 "Id": "1.5",
                 "Title": "Colacasia Leaves Rolls",
                 "SubTitle": "Patradde",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade3.jpeg" ],
                         "Incredients": [ "200 gms.- urad daal, wash and soak for 6 hours", "1 kg.- boiled rice,wash & soak for 4 hours", "6 - red chillies", "2 tbsp.- coriander seeds", "Salt to taste", "tamarind - size of a lime","1 tsp.- turmeric powder","20-25 colacasia leaves(thevu)","10- tekki leaves","For Gravy: 1- grated coconut","4- dry red chillies","2tsp.- coriander seeds","2 - onions chopped","salt to taste","2 tsp -ghee or oil for seasoning"],
                         "Method": [
                             {
@@ -94,10 +94,10 @@
                 "Id": "1.6",
                 "Title": "Cucumber Gatti",
                 "SubTitle": "Thekkareda Adye",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/CucumberAdiye1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/CucumberAdiye1.jpeg"],
                         "Incredients": [ "1 - cucumber,skinned and cut into pieces", "3 cups - raw rice, washed and soaked in water for 1 hour","1/2 - grated coconut", "4-5 - cardamoms","250 gms.- jaggery", "salt to taste", "2 - plantain leaves"],
                         "Method": [
                             {
@@ -111,10 +111,10 @@
                 "Id": "1.7",
                 "Title": "Rice Pudding",
                 "SubTitle": "Aritha Manni",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RicePudding1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RicePudding1.jpeg"],
                         "Incredients": [ "2 cups- raw rice", "Salt to taste", "500 gms.- jaggery", "2 - tender coconut", "4-5 - cardamoms,powdered", "1tbsp.- ghee" ],
                         "Method": [
                             {
@@ -128,10 +128,10 @@
                 "Id": "1.8",
                 "Title": "Raagi Pudding",
                 "SubTitle": "Raagi Manni",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding2.jpg"],
                         "Incredients": [ "1 cup - Ragi", "Salt to taste", "3/4 cup - jaggery", "2 tbsp.- ghee" ],
                         "Method": [
                             {
