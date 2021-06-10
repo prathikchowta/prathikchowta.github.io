@@ -75,8 +75,8 @@
             },
             {
                 "Id": "1.5",
-                "Title": "Patrade",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Colacasia Leaves Rolls",
+                "SubTitle": "Patradde",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
@@ -126,8 +126,8 @@
             },
             {
                 "Id": "1.8",
-                "Title": "Ragi Pudding",
-                "SubTitle": "Ragi Manni",
+                "Title": "Raagi Pudding",
+                "SubTitle": "Raagi Manni",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
@@ -586,16 +586,16 @@
             },
             {
                 "Id": "4.8",
-                "Title": "Ridge Gourd Skin Chutney",
-                "SubTitle": "Peereda Cholida Chutney",
+                "Title": "Brahmi Leaves Chutney",
+                "SubTitle": "Timare Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
-                        "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"],
+                        "Incredients": [ "1 1/2 cups- Brahmi leaves with roots cleaned properly  and chopped", "1/2- Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind ( size of a small lime)", "1 tbsp. - cooked rice","Jaggery - 1 small piece"],
                         "Method": [
                             {
-                                "Steps": [ "cook the chopped ridgegourd gourd skins in a cup of water", "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
+                                "Steps": [ "Grind the ingredients all together to a fine thick paste","Note: Good for memory."]
                             }
                         ]
                     }
@@ -603,16 +603,16 @@
             },
             {
                 "Id": "4.9",
-                "Title": "Ridge Gourd Skin Chutney",
-                "SubTitle": "Peereda Cholida Chutney",
+                "Title": "Coriander Leaves Chutney",
+                "SubTitle": "Kottambhari Soppu Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
-                        "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"],
+                        "Incredients": [ "1 medium bunch - Coriander leaves","1/2 - grated coconut","3-4 -green chillies","5-6 - garlic flakes","1 inch ginger","Salt to taste","Tamarind - size of its seed or juice of a lemon"]
                         "Method": [
                             {
-                                "Steps": [ "cook the chopped ridgegourd gourd skins in a cup of water", "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
+                                "Steps": [ "Grind all ingredients together without water yo a rough paste","Serve with dosa."]
                             }
                         ]
                     }
@@ -620,16 +620,16 @@
             },
             {
                 "Id": "4.10",
-                "Title": "Ridge Gourd Skin Chutney",
-                "SubTitle": "Peereda Cholida Chutney",
+                "Title": "Mint Leaves Chutney",
+                "SubTitle": "Pudina Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
-                        "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"],
+                        "Incredients": [ "15-20 - mint leaves","1/2 - grated coconut","1 inch - ginger","3-4 - green chillies","Tamarind - size of its seed","Salt to taste","Jaggery - small piece (optional)."]
                         "Method": [
                             {
-                                "Steps": [ "cook the chopped ridgegourd gourd skins in a cup of water", "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
+                                "Steps": [ "Grind all ingredients together to a fine paste,without water","Note: After taking the mint leaves from the plant,keep the plants in a glass of water for 5 to 7 days","It starts growing","Plant it in a pot","It needs much water."]
                             }
                         ]
                     }
