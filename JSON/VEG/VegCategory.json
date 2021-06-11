@@ -765,7 +765,7 @@
             {
                 "Id": "5.8",
                 "Title": "Mango Saar",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kukku Saar",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -782,7 +782,7 @@
             {
                 "Id": "5.9",
                 "Title": "Mango Menaskai",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kukku Menaskai",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -799,7 +799,7 @@
             {
                 "Id": "5.10",
                 "Title": "Horse Gram Rasam",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kudutha Saar",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -939,7 +939,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari2.jpeg"],
-                        "Incredients": [ "1/2 kg.-Beans chopped into small pieces", "2-3-green chilies, slitted","2tbsp.-channadaal","1tsp.-mustard seeds"," 2sprig curry leaves","1 pinch turmeric powder","1-onion sliced","1tbsp.-grated coconut","salt to taste"],
+                        "Incredients": [ "1/2 kg.-Beans chopped into small pieces", "2-3-green chilies, slitted","2tbsp.-channa daal","1tsp.-mustard seeds"," 2sprig curry leaves","1 pinch turmeric powder","1-onion sliced","1tbsp.-grated coconut","salt to taste"],
                         "Method": [
                             {
                                 "Steps": [ "Keep oil in a pan","add mustard seeds,sliced onion,green chillies,channa daal,turmeric powder and curry leaves","when all well fried,add beans and little water","when beans cooked add salt to taste,grated coconut and mix it well","cook for 5 minutes"]
@@ -1052,7 +1052,7 @@
                         "Incredients": [ "1/4kg - Brinjal, cut and soaked in water","Tamarind - size of a big lime,soaked in water","Jaggery - size of a small lime","Salt to taste","2tbsp.- oil","1 tsp.- Mustard seeds","1 sprig - curry leaves","1 tsp.- urad daal","7-8 - garlic flakes,crushed","2 tbsp.- *Masala Chilly Powder"],
                         "Method": [
                             {
-                                "Steps": [ "Boil the cut brinjal with tamarind water,jaggery and salt","Keep aside","Keep oil in the Kadai on fire"."Add mustard seeds","When they splutter,add urad daal,crushed garlic and curry leaves","Add masala chilly powder","Fry for a minute","Pour the cooked brinjal into it,cover and simmer for 5 minutes","*Maaala Chilly Powder: 7-8 Red Chillies,1engal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Boil the cut brinjal with tamarind water,jaggery and salt","Keep aside","Keep oil in the Kadai on fire"."Add mustard seeds","When they splutter,add urad daal,crushed garlic and curry leaves","Add *Masala chilly powder","Fry for a minute","Pour the cooked brinjal into it,cover and simmer for 5 minutes","*Maaala Chilly Powder: 7-8 - Red Chillies,1 tbsp.- Coriander seeds,1/2 tsp. - Cumin seeds,1/2tsp.- fenugreek seeds,1/2 tsp.- Urad daal","Kundapur Masala Powder can be used in place of the above  masala."]
                             }
                         ]
                     }
@@ -1060,16 +1060,16 @@
             },
             {
                 "Id": "8.6",
-                "Title": "Whole Bengal Gram Curry",
+                "Title": "Kundapur Masala Powder",
                 "SubTitle": "Kadle Gasi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"], 
+                        "Incredients": [ "500 gms.- Red Chillies","250 gms. - Coriander seeds","100 Gms.- Jeera","3 tbsp. - Pepper corns","1 1/2 tbsp. - Methi seeds","4 tbsp.- turmeric powder","1 handful - Garlic flakes"], 
                         "Method": [
                             {
-                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Roast and grind all the above ingredients except garlic which has to be added last without peeling the skin","Cool and store in an air tight container","This Masala powder can be used for Chicken, Mutton,Vegetables or Eggs","Note:Roast every item separately on very slow fire."]
                             }
                         ]
                     }
@@ -1077,16 +1077,16 @@
             },
             {
                 "Id": "8.7",
-                "Title": "Whole Bengal Gram Curry",
-                "SubTitle": "Kadle Gasi",
+                "Title": "White Pumpkin Curry",
+                "SubTitle": "Karkumbuda Puli Koddel",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1/2kg - White Pumpkin (skinned and cut into small pieces)","7-8 - Green Chillies,slitted","Tamarind - size of a small lime","Salt to taste","1 Glass - Curds","For Masala: 1/2 - Coconut,grated","1 tsp.- Jeera"],
                         "Method": [
                             {
-                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Keep the pumpkin pieces for boiling with 3 cups of water,green chillies,tamarind and salt","Boil till cooked","Grind the coconut with jeera to a fine paste","Add it to the cooked pumpkin and boil for 10-15 minutes","Add buttermilk and remove from fire","Season with coconut oil, mustard seeds,curry leaves and broken red chilly.']
                             }
                         ]
                     }
@@ -1094,16 +1094,16 @@
             },
             {
                 "Id": "8.8",
-                "Title": "Whole Bengal Gram Curry",
-                "SubTitle": "Kadle Gasi",
+                "Title": "Horse Gram and Spinach Curry",
+                "SubTitle": " Kudu,Basale Gasi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1 cup - Horse gram,sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste","For Masala: - 1 - Coconut,grated","10 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Grind all the masala ingredients together until fine","Cook Spinach and the horse gram with salt","After it cooked, Add the ground masala and boil for 10 minutes","Season with oil,mustard seeds, broken red chilly and curry leaves."]
                             }
                         ]
                     }
