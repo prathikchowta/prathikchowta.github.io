@@ -276,10 +276,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa2.jpeg?raw=true"],
-                        "Incredients": [ "3 cups -rice", "1 tbsp.- fenugreek seeds(methi)", "1/2 cup- curds", "salt to taste", "oil for frying"],
+                        "Incredients": [ "3 cups -raw rice", "1 tbsp.- fenugreek seeds(methi)","1/2 cup - poha (beaten rice)","1/2 cup- curds", "salt to taste", "oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak rice and fenugreek seperately for 5-6 hours"," wash poha","mix it with curds and fenugreek séeds and grind to a fine paste","then add rice and grind further to a fine paste","Remove, mix it well with salt", "keep aside for 8-9 hours","keep the dosa tava on the fire and rub little oil","take a big spoonful of batter and spread like urad dosa","cook till done"]
+                                "Steps": [ "Wash and soak rice and fenugreek seperately for 5-6 hours"," wash poha","mix it with curds and fenugreek seeds and grind to a fine paste","then add rice and grind further to a fine paste","Remove, mix it well with salt", "keep aside for 8-9 hours","keep the dosa tava on the fire and rub little oil","take a big spoonful of batter and spread like urad dosa","cook till done"]
                             }
                         ]
                     }
@@ -293,7 +293,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa2.jpeg?raw=true"],
-                        "Incredients": [ "3 cups-maida","1 cup-rava","1 tsp.-jeera", "3-4 -green chillies finely chopped","salt to taste", "2 tbsp.- grated coconut(optional)","Oil for frying"],
+                        "Incredients": [ "3 cups-maida","1 cup-rava","1 tsp.-jeera(optional)", "3-4 -green chillies finely chopped","1 onion - finely chopped","1/2 ginger - finely chopped","salt to taste", "2 tbsp.- grated coconut(optional)","Oil for frying"],
                         "Method": [
                             {
                                 "Steps": [ "Mix all the ingredients,add water and mix","batter should not be watery","make dosas","serve them with coconut chutney"]
@@ -824,7 +824,7 @@
             {
                 "Id": "6.1",
                 "Title": "Whole Bengal Gram & Tendli Sukka",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kadle,Manoli Sukka",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -832,7 +832,7 @@
                         "Incredients": [ "1/4 kg.-Bengal gram,soaked overnight", "1/2 kg -Tendli", "1/2- grated coconut", "1-onion", "salt to taste", "For Masala- 10-red chillies(mix)roasted", "2 tsp.- coriander seeds,roasted", "1tsp-jeera roasted", "1/4tsp-methi roasted","1pinch-turmeric powder"," tamarind size of its seed"],
                         "Method": [
                             {
-                                "Steps": [ "Cook Bengalgram and tendli in just enough water with salt","Grind the masala ingredients together to a fine paste", "Then add coconut and grind to a coarse paste", "Fry a pan with oil,mustard seeds,sliced onion,crushed 4 flakes of garlic,curry leaves,1spoon urad daal", "Fry the ground masala","after its raw smell goes,add cooked Bengalgram & tendli,mix it well"," cover the lid and cook for 5 minutes","Note-same type of sukka can be prepared with different combination-Bengalgram & Raw Jackfruit, Bengalgram & Yam"]
+                                "Steps": [ "Cook Bengal gram and tendli in just enough water with salt","Grind the masala ingredients together to a fine paste", "Then add coconut and grind to a coarse paste", "Fry a pan with oil,mustard seeds,sliced onion,crushed 4 flakes of garlic,curry leaves,1spoon urad daal", "Fry the ground masala","after its raw smell goes,add cooked Bengal gram & tendli,mix it well","cover the lid and cook for 5 minutes","Note-same type of sukka can be prepared with different combination-Bengal gram & Raw Jackfruit, Bengal gram & Yam"]
                             }
                         ]
                     }
@@ -840,8 +840,8 @@
             },
             {
                 "Id": "6.2",
-                "Title": "Plantain Stem (Bambe)Sukka",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Plantain Stem Sukka",
+                "SubTitle": "Bambe Ajadina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -857,8 +857,8 @@
             },
             {
                 "Id": "6.3",
-                "Title": "Plantain flower bud(Poombe) sukka",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Plantain flower bud sukka",
+                "SubTitle": "Poombe Ajadina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -892,7 +892,7 @@
             {
                 "Id": "6.5",
                 "Title": "Raw Jackfruit Sukka",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Gujje Ajadina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -909,7 +909,7 @@
             {
                 "Id": "6.6",
                 "Title": "Raw Banana Sukka",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Baareda Kai Ajadina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -950,7 +950,7 @@
             },
             {
                 "Id": "7.2",
-                "Title": "Ridgegourd Upkari",
+                "Title": "Ridge gourd Upkari",
                 "SubTitle": "Peere Upkari",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
@@ -1018,7 +1018,7 @@
                         "Incredients": [ "1/4kg - Green Gram","1 - Onion,chopped","1 - Tomato","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Soak Green gram for 6 hours","Wash & drain water and keep it for 8 hours","It starts sprouting","Keep it on fire, add water and cook","After it cooked,add salt,chopped onion and tomato","Grind all the masala ingredients to a fine paste","Add it to the cooked gram","Boil for 5-10 minutes","Season with oil,mustard seeds,finely chopped onion,1 broken red chilly,crushed garlic flakes and curry leaves."] 
+                                "Steps": [ "Soak Green gram for 6 hours","Wash & drain water and keep it for 8 hours","It starts sprouting","Keep it on fire, add water and cook","After it cooked,add salt,chopped onion and tomato","Grind all the masala ingredients to a fine paste","Add it to the cooked gram","Curry should be thick in consistency","Boil for 5-10 minutes","Season with oil,mustard seeds,finely chopped onion,1 broken red chilly,crushed garlic flakes and curry leaves."] 
                             }
                         ]
                     }
@@ -1026,16 +1026,16 @@
             },
             {
                 "Id": "8.4",
-                "Title": "Whole Bengal Gram Curry",
-                "SubTitle": "Kadle Gasi",
+                "Title": "Brinjal and Drumstick Curry",
+                "SubTitle": "Badane Nurge",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1/4kg - Brijal,cut & soaked in water","3-4 - drumsticks","Salt to taste","A small piece of jaggery","For Masala - 1/2 Coconut,grated","8-10  - Red chillies,roasted","1 tbsp. - Coriander seeds,roasted","1 tsp. - Cumin seeds", "1/4tsp.- fenugreek seeds, roasted","7-8 - Garlic flakes","1/4 tsp.- turmeric powder","Tamarind - size of a big lemon,soaked in water"], 
                         "Method": [
                             {
-                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Skin,wash and cut the drumsticks into 3-4 inch long pieces","Remove the brinjal pieces from water","Cook them with tamarind water,then add drumsticks,salt and jaggery","Grind all the masala ingredients together to a fine paste","Add it to the cooked vegetables and boil for 10 minutes","Season with coconut oil, mustard seeds, broken red chilly and crushed garlic flakes and curry leaves"]
                             }
                         ]
                     }
@@ -1043,16 +1043,16 @@
             },
             {
                 "Id": "8.5",
-                "Title": "Whole Bengal Gram Curry",
-                "SubTitle": "Kadle Gasi",
+                "Title": "Brinjal Chilly Curry",
+                "SubTitle": "Badane Munchi Gasi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1/4kg - Brinjal, cut and soaked in water","Tamarind - size of a big lime,soaked in water","Jaggery - size of a small lime","Salt to taste","2tbsp.- oil","1 tsp.- Mustard seeds","1 sprig - curry leaves","1 tsp.- urad daal","7-8 - garlic flakes,crushed","2 tbsp.- *Masala Chilly Powder"],
                         "Method": [
                             {
-                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Boil the cut brinjal with tamarind water,jaggery and salt","Keep aside","Keep oil in the Kadai on fire"."Add mustard seeds","When they splutter,add urad daal,crushed garlic and curry leaves","Add masala chilly powder","Fry for a minute","Pour the cooked brinjal into it,cover and simmer for 5 minutes","*Maaala Chilly Powder: 7-8 Red Chillies,1engal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
                             }
                         ]
                     }
