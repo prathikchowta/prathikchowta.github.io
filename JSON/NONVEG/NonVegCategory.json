@@ -7,6 +7,7 @@
             {
                 "Id": "1.1",
                 "Title": "Kori Rotti",
+                "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -22,42 +23,1304 @@
             },
             {
                 "Id": "1.2",
-                "Title": "Kushka"
+                "Title": "Kushka",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Id": "1.3",
-                "Title": "Egg Biryani"
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.4",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.5",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.6",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.7",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.8",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.9",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
     {
         "Id": "2",
         "Title": "Rice",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenBiryani1.jpeg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenBiryani1.jpeg",
+        "RecipesList": [
+            {
+                "Id": "2.1",
+                "Title": "Kori Rotti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.2",
+                "Title": "Kushka",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.4",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.5",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.6",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.7",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.8",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.9",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.10",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     {
         "Id": "3",
         "Title": "Fish Fry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishFry.jpeg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishFry.jpeg",
+        "RecipesList": [
+            {
+                "Id": "3.1",
+                "Title": "Kori Rotti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.2",
+                "Title": "Kushka",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.3",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.4",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.5",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.6",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.7",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.8",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.9",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.10",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     {
         "Id": "4",
         "Title": "Fish Curry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishCurry.jpeg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishCurry.jpeg",
+        "RecipesList": [
+            {
+                "Id": "4.1",
+                "Title": "Kori Rotti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.2",
+                "Title": "Kushka",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.3",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.4",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.5",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.6",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.7",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.8",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.9",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.10",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.11",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.12",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     {
         "Id": "5",
         "Title": "Chicken Fry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenFry.jpeg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenFry.jpeg",
+        "RecipesList": [
+            {
+                "Id": "5.1",
+                "Title": "Kori Rotti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.2",
+                "Title": "Kushka",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.3",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.4",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.5",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.6",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.7",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.8",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.9",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.10",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     {
         "Id": "6",
         "Title": "Chicken Sukka",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenSukka.jpeg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenSukka.jpeg",
+        "RecipesList": [
+            {
+                "Id": "6.1",
+                "Title": "Kori Rotti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.2",
+                "Title": "Kushka",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.3",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.4",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.5",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.6",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.7",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.8",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.9",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.10",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.11",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "6.12",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     {
         "Id": "7",
         "Title": "Chicken Curry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenCurry.jpeg"
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenCurry.jpeg",
+        "RecipesList": [
+            {
+                "Id": "7.1",
+                "Title": "Kori Rotti",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.2",
+                "Title": "Kushka",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.3",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.4",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.5",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.6",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.7",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.8",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.9",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.10",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.11",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "7.12",
+                "Title": "Egg Biryani",
+                "SubTitle": "Manjal Ereda Gatti",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
