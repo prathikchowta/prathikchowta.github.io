@@ -736,7 +736,8 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar2.jpeg?raw=true"],
-                        "Incredients": [ "1/2 cup -toordaal,washed and soaked in water", "cauliflower,beans,carrots,brinjal,drumsticks,sweet pumpkin(few pieces of each)", "3-4 -tomatoes", "oil for frying", "Salt to taste", "3-4- cups water", "For Masala - Ingredients: 1 tbs.Channadaal, 1 tbs.-uraddaal, 1 tsp.-jeera,1/2 tsp.-methi,1cup -coconut grated,1 tbs.- Coriander seeds,8- red chillies,1tbs.-ghee or oil,1tsp.-mustard seeds,10-15- curry leaves"],
+                        "Incredients": [ "1/2 cup -toordaal,washed and soaked in water", "cauliflower,beans,carrots,brinjal,drumsticks,sweet pumpkin(few pieces of each)", "3-4 -tomatoes", "oil for frying", "Salt to taste", "3-4- cups water"],
+                        "Masala": ["1 tbs.Channadaal", "1 tbs.-uraddaal", "1 tsp.-jeera", "1/2 tsp.-methi","1cup -coconut grated","1 tbs.- Coriander seeds","8- red chillies","1tbs.-ghee or oil","1tsp.-mustard seeds","10-15- curry leaves"],
                         "Method": [
                             {
                                 "Steps": [ "Keep a Kadai on fire,Fry all the masala ingredients separately with little oil", "grind to a rough pastete,add little water", "Boil the toor daal with 3-4 cups of water", "add the cut vegetables", "add salt and cook", "add the ground masala and cook for 10-15 minutes"," season with ghee or oil,mustard seeds and curry leaves"]
