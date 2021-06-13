@@ -40,16 +40,16 @@
             },
             {
                 "Id": "1.3",
-                "Title": "Egg Biryani",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Dry Chicken",
+                "SubTitle": "Kori Puli Munchi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 Medium - Chicken,cleaned and cut", "For Masala :15 - Red chillies,1 tbsp.- Coriander seeds,10 - Pepper corns,4 -Cloves,2 -Small bits cinnamon,1 tsp.- Poppy seeds (khus-khus),1/2 tsp.- turmeric powder,2 - Onions", "2tbsp.-Ghee", "2-3 - Tomatoes,chopped", "1 Onion,chopped", "Salt to taste", "1 tbsp.- Coriander leaves, finely chopped (optional)" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Grind the Masala ingredients to a fine paste without water", "Keep ghee in a vessel", "Add chopped onion and fry till brown","Add the cleaned Chicken pieces and fry for 10 minutes on slow fire", "Add the ground masala,chopped onions,chopped tomatoes,salt and 1 cup water and cook till done", "Dry on slow fire", "Garnish with coriander leaves" ]
                             }
                         ]
                     }
@@ -57,13 +57,13 @@
             },
             {
                 "Id": "1.4",
-                "Title": "Egg Biryani",
+                "Title": "Chicken Uruval",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1Kg - Chicken,cleaned and cut", "1 Bundle - Garlic", "1 inch - Ginger", "10-15 - red long chilles", "1 tsp - Coriander powder", "1 tsp.-  Jeera powder", "1 tbsp.- Garam  masala powder", "20 -25 - Curry leaves", "1 tbsp.- Lemon", "1tsp.- turmeric powder", "50gms - Cashew nuts", "2 tbsp. - Ghee", "Salt to taste"],
                         "Method": [
                             {
                                 "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
