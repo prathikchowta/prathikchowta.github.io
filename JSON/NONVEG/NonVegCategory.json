@@ -6,30 +6,30 @@
         "RecipesList": [
             {
                 "Id": "1.1",
-                "Title": "Kori Rotti",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": " Chicken Curry",
+                "SubTitle": "Kori Gasi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1Kg. Chicken -Cleaned and cut into pieces", "For Masala: 1/2 -Coconut grated", "Red Chillies - 15 long & 8 short", "2 tbsp.- Coriander seeds", "1 tsp.- Cumin seeds (Jeera)", "1tsp.- Curry leaves", "1/2 tsp.- Pepper corns", "1/2tsp.- Fenugreek seeds (Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 tomato- Chopped", "1/2tsp.- Turmeric powder", "Tamarind- small ball", "3 tbsp.- Ghee", "1 tsp.- Coconut oil", "1tbsp.- Butter", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Marinate Chicken pieces with - Red Chillies,Coriander seeds,Methi,Jeera,Curry leaves, and Pepper corns with coconut oil", "Grind fried masala ingredients with coconut,1 onion,garlic,tamarind, 1 tsp.Coriander seeds and water to a fine paste", "Cook cleaned Chicken pieces with ground masala,add 2 onions,tomato and butter", "Add salt if needed,as we added salt when marinated", "Stir and cook until the chicken piece softened", "Season with ghee,finely chopped onion,crushed garlic,crushed methi &jeera and curry leaves", "Note: Usually served with Rotti - a crisp rice flakes preparation which could be bought in any Mangalore store,", "Roti is a tradtional dish of Bunts served at every wedding and party", "It  should be soaked in curry and eaten" ]
                             }
                         ]
-                    }
+                    ]
                 ]
             },
             {
                 "Id": "1.2",
-                "Title": "Kushka",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Chicken Sukka",
+                "SubTitle": "Kori Ajadina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 Big Chicken", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
                         "Method": [
                             {
                                 "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
