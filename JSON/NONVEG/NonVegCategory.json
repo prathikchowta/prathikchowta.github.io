@@ -74,16 +74,16 @@
             },
             {
                 "Id": "1.5",
-                "Title": "Egg Biryani",
+                "Title": "Chicken Biryani",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 Kg. - Chicken, cleaned and cut into medium pieces", "1 Bunch - Coriander leaves,cleaned and finely chopped ", "4 - Green chillies, finely chopped", "10 - Mint leaves, cleaned and chopped", "Salt to taste", "1tsp. - Coriander powder", "10-15 - Garlic finely chopped", "1 inch - Ginger, finely chopped ", "2 tsp.- Garam masala powder", "To make Rice: - 1 Kg.Basmati Rice,washed", "5-6 cloves", "2-3 pieces - Cinnamon", "2 -Bay Leaves", "4-5 - Pepper corns", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Place the Chicken pieces in a bowl, Marinate with all the above ingredients for 30 minutes", "Keep a vessel on fire", "Add 2tbsp. - Ghee, fry 2 big sliced onions", "Then add marinated chicken and cook", "Keep a bowl on fire", "Add water ( double of rice )", "When water boils,add salt and rice", "Then add the above ingredients", "When it is half cooked, drain the water and add it to the Cooked chicken masala", "Add some kesar,mixed with little water", "Add  1 tbsp.Ghee,mix it well and cover the lid with foil", "Let it cook in a slow fire"]
                             }
                         ]
                     }
