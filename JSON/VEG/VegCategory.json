@@ -431,16 +431,16 @@
         "RecipesList": [
             {
                 "Id": "3.1",
-                "Title": "Breadfruit Pakoda",
-                "SubTitle": "null",
+                "Title": "Mangalore Vada",
+                "SubTitle": "Golibaje",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "2 Cups - Maida", "1/2 liter - Curds", "1 tsp. - sugar", "Salt to taste", "1/2 tsp. - Soda", "2-3 - Green Chillies,finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Take a vessel,mix all the ingredients", "Make a soft batter and keep aside for 4 hours", "Heat the oil in a Kadai,take the batter in hand and slowly drop it to the oil", "Deep fry in a low flame", "Same way fry all the vadas and serve with coconut chutney and sambar" ]
                             }
                         ]
                     }
