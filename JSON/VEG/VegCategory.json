@@ -143,18 +143,18 @@
             },
             {
                 "Id": "1.9",
-                "Title": "Gatti",
+                "Title": "Saarne Adye",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 Cup - Boiled Rice", "3 Cups - Raw Rice", "2 - Tender Coconut, grated or extracted milk from tender coconut", "8-10 - Peppecorns", "1tsp. - Jeera", "1tsp. - coriander seeds", "1/4tsp.- Oama", "1/2 Kg - Jaggery", "Salt to taste", "1tsp.- Cardamom powder", "1 tbsp.- Ghee", "50gms- Cashews", "50gms - Raisins"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak the rise seperately for 4-6 hours", "Grind the rice with salt and little water to a thick paste and keep aside", "Grind tender coconut with pepper corns,coriander,jeera and oama to a  very fine paste", "Remove it to a thick bottomed vessel", "Batter should be thin consistency", "Boil it with salt and jaggery", "Place a perforated vessel (Saarne adye kudupu),pour a ladleful of rice paste to a plate and press", "Stir gently and cook", "Repeat the same process till the rice paste empties", "Cook with low flame", "Add salt & jaggery if necessary", "Add cardamom powder", "Fry Cahews and raisins with ghee (optional),add it to the prepared Adye" ]
                             }
-                        ]
+                        ]1/
                     }
                 ]
             },
