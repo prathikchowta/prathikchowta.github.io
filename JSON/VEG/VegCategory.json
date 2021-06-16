@@ -1068,10 +1068,10 @@
                 "Id": "7.2",
                 "Title": "Ridge gourd Upkari",
                 "SubTitle": "Peere Upkari",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard3.jpeg" ],
                         "Incredients": [ "1/2 kg-Ridgegourd","1- onion sliced","4-green chillies,slitted,","salt to taste","2 tsp.-scraped coconut","1tsp.-mustard seeds","3-4 garlic flakes,crushed","2sprig curry leaves"],
                         "Method": [
                             {
