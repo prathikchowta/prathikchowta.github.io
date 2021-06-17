@@ -12,10 +12,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1 Cup - Bombay Rava", "3/4 Cups - Sugar", "4tbsp. - Ghee", "4 Cups - Milk or water", "1 tbsp.- Cashew nuts", "1 tbsp.- Raisins( dry grapes)", "1tsp.- Cardamom, powder", "5-6 - Safron,mixed in little milk", "1 pinch - Salt" ],
+                        "Incredients": [ "1 Cup - Bombay Rava", "3/4 Cups - Sugar", "4tbsp. - Ghee", "4 Cups - Milk or water", "1 tbsp.- Cashew nuts", "1 tbsp.- Raisins( dry grapes)", "1tsp.- Cardamom, powdered", "5-6 - Safron,mixed in little milk", "1 pinch - Salt" ],
                         "Method": [
                             {
-                                "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate", "Fry Bombay Rava with 1 tbsp. Ghee until light brown in colour with low flame", "Keep aside", "Boil the milk in a vessel,add sugar and saffron", "Pour the fried rava slowly and stir to avoid lumps", "Add 2 tbsp. Ghee and Cook on slow fire until it is dry", "Add Cardamom powder and fried nuts", "Mix well and remove from fire" ]
+                                "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate", "Fry Bombay Rava with 1 tbsp. Ghee until light brown in colour with low flame", "Keep aside", "Boil the milk in a vessel,add sugar, saffron and salt", "Pour the fried rava slowly and stir to avoid lumps", "Add 2 tbsp. Ghee and Cook on slow fire until it is dry", "Add Cardamom powder and fried nuts", "Mix well and remove from fire" ]
                             }
                         ]
                     }
@@ -71,15 +71,15 @@
             },
             {
                 "Id": "1.5",
-                "Title": "Carrot Halwa",
+                "Title": "Rice Laddoo",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "4 Cups - Boiled Rice", "Salt to taste", "1 Big - Coconut,grated", "500gms. - Jaggery,powdered", "1tsp.- Cardamom", "1 tsp.- Pepper corns ( optional)", "4tbsp. - Ghee", "100gms.- Cahew nuts", "50gms.- Raisins" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash the boiled rice", "Add salt with little water and mix it with rice", "Spread rice on a large plate and dry in the sunlight for one day", "Keep the thick bottomed vessel on fire", "Fry the rice little by little, then make the rough powder and keep aside", "Grind the coconut with jaggery,cardamom and pepper to fine powder", "Mix it with rice powder", "Fry Cahew nuts and raisins in 1tsp.ghee and mix to the powder", "Add the remained ghee and mix it well", "Make the laddos", "40-45 laddoos can be made,store in a air tight jar", "Note: It is a Karavali special,tradtional sweet" ]
                             }
                         ]
                     }
