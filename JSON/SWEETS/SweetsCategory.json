@@ -12,10 +12,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 Cup - Bombay Rava", "3/4 Cups - Sugar", "4tbsp. - Ghee", "4 Cups - Milk or water", "1 tbsp.- Cashew nuts", "1 tbsp.- Raisins( dry grapes)", "1tsp.- Cardamom, powder", "5-6 - Safron,mixed in little milk", "1 pinch - Salt" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate", "Fry Bombay Rava with 1 tbsp. Ghee until light brown in colour with low flame", "Keep aside", "Boil the milk in a vessel,add sugar and saffron", "Pour the fried rava slowly and stir to avoid lumps", "Add 2 tbsp. Ghee and Cook on slow fire until it is dry", "Add Cardamom powder and fried nuts", "Mix well and remove from fire" ]
                             }
                         ]
                     }
@@ -28,10 +28,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 Kg. - Carrot", "3tbsp. - Ghee", "100gms.- Cashew nuts", "50 gms - Raisins", "20gms - almonds,chopped", "10 - Pistachios,chopped", "450 gms - Sugar", "1/2 liter - Milk" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Peel the skin of carrot, wash, scrap and keep aside", "Fry Cashews,Raisins,Almonds and Pistachios with 2tsp. ghee, remove it to a plate", "Keep the vessel on fire,fry the scrapped carrots,till its colour changes", "Add sugar,milk and cook till the water contents dissolve", "Add Ghee,stir and cook", "Cream can be added", "After it cooks well,add fried dry fruits,mix and turn off the gas" ]
                             }
                         ]
                     }
@@ -39,15 +39,15 @@
             },
             {
                 "Id": "1.3",
-                "Title": "Mysore Park",
+                "Title": "White Pumpkin Halwa",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1Kg.- White Pumpkin", "1 Cup - Cream", "2 Cups - Sugar", "4tbsp.- Ghee", "2 tbsp.-Chopped nuts (fried with ghee)" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Cook the scrapped pumpkin with its own water till dry", "Add cream and sugar", "Keep on stirring till completely dry and brown in colour", "Add ghee", "Fry till ghee floats on top", "Remove and decorate with chopped nuts", "Note: Same  halwa can be done with bottle guard"]
                             }
                         ]
                     }
@@ -55,15 +55,15 @@
             },
             {
                 "Id": "1.4",
-                "Title": "Carrot Halwa",
+                "Title": "Rava Laddoo",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1/2 Kg - Bombay Rava", "1 Cup - grated Coconut", "2 tbsp Ghee", "1/4 kg.- Sugar,powdered", "50 gms.- Cashew nuts", "50 gms.- Raisins", "1 tsp - Cardamom powder" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Keep a Kadai on fire", "Fry cashew nuts and raisins with 1 tsp.ghee and keep aside", "Fry Bombay Rava with 1 tbsp Ghee", "Fry for 10 minutes with low flame", "Add coconut and sugar powder and mix well", "Off the gas, Add fried cashews and raisins and mix", "Make small laddoos", "Add hot ghee if needed", "Note: It can be stored for many days" ]
                             }
                         ]
                     }
