@@ -87,15 +87,15 @@
             },
             {
                 "Id": "1.6",
-                "Title": "Carrot Halwa",
+                "Title": "Malpuri",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "3 Cups - Maida", "2 Cups - Sugar", "1/2 tsp. - Salt", "1 Pinch - Turmeric powder", "1 tbsp.- Bombay Rawa", "1 tsp.- Cardamom,powdered", "Oil - for frying" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Mix all the ingredients with water to the thick batter (Idli batter)", "Keep aside for 10-15 minutes", "Keep oil on fire", "Heat and Pour 1 ladleful of batter", "Fry both the sides,until crisp and brown with medium flame", "Remove it with 2 Spoons,press at the center from back side of the spoon", "This makes it flat" ]
                             }
                         ]
                     }
