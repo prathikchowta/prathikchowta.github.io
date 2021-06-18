@@ -172,7 +172,7 @@
         "RecipesList": [
             {
                 "Id": "2.1",
-                "Title": "Neer Dose",
+                "Title": "Neer Dosa",
                 "SubTitle": "Neer Dose",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true",
                 "Prepare": [
@@ -190,15 +190,15 @@
             {
                 "Id": "2.2",
                 "Title": "Appa",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Appa",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa2.jpeg?raw=true"],
-                        "Incredients": [ "3cups-raw rice","1tbsp.-fenugreek(methi)seeds","250grams-jaggery(optional)","1 tender coconut,grated","salt to taste","1/2tsp.-soda"],
+                        "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi)seeds","250grams - jaggery(optional)","1 tender coconut(grated)","salt to taste","1/2tsp. - soda"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours","grind grated coconut and fenugreek seeds along with soaked water", "then add rice and grind further to a fine paste","remove and mix it well with salt","keep aside for 8 hours","add jaggery and soda,mix well","keep guri appa tava on fire","apply oil,pour batter to all the rounds and cover it","cook both the sides", "guri appa tava-special tava with 7 or 11 depressions"]
+                                "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours.","Grind grated coconut and fenugreek seeds along with soaked water.", "Then add rice and grind further to a fine paste.","Remove and mix it well with salt.","Keep aside for 8 hours.","Add jaggery and soda, mix well.","Keep guri appa tava on fire.","Apply oil, pour batter to all the rounds and cover it.","Cook both the sides.", "Guri appa tava-special tava with 7 or 11 depressions."]
                             }
                         ]
                     }
