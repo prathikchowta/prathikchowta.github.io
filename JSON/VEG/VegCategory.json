@@ -207,15 +207,15 @@
             {
                 "Id": "2.3",
                 "Title": "Coconut dosa",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Bannangayi Dose",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa2.jpg?raw=true"],
-                        "Incredients": [ "2cups-raw rice", "1/2-tender coconut,grated", "1tbsp.- cooked rice", "salt to taste"],
+                        "Incredients": [ "2cups - raw rice", "1/2 - tender coconut(grated)", "1tbsp. - cooked rice", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak rice for 2 hours","drain completely","grind it to a fine paste with tender coconut,cooked rice and salt","batter should be thicker than neer dosa batter","remove from grinder","keep aside for 8hours","heat the dosa tava,apply little oil","pour a big spoonful of batter and spread it in a circle","cover the tava and cook for 1 minute","remove the lid and take out the dosa","repeat for remaining batter"]
+                                "Steps": [ "Wash and soak rice for 2 hours.","Drain completely and grind it to a fine paste with tender coconut, cooked rice and salt.","Batter should be thicker than neer dosa batter.","Remove from grinder.","Keep aside for 8hours.","Heat the dosa tava, apply little oil.","Pour a big spoonful of batter and spread it in a circle.","Cover the tava and cook for 1 minute.","Remove the lid and take out the dosa.","Repeat for remaining batter."]
                             }
                         ]
                     }
@@ -223,16 +223,16 @@
             },
             {
                 "Id": "2.4",
-                "Title": "Urad dosa",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Urad Dosa",
+                "SubTitle": "Urdu Dose",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa3.jpg?raw=true"],
-                        "Incredients": [ "1cup-urad dal","3 cups-raw rice", "Salt to taste","oil for frying"],
+                        "Incredients": [ "1cup - urad dal","3cups - raw rice", "Salt to taste","Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Soak urad daal for 4-5hours","wash and soak raw rice for 2 hours","wash urad daal and grind to a fine paste","add soaked raw rice and grind to a fine paste","pour to a vessel,add salt and mix well","cover and keep aside for 8 hours","heat the dosa tava,apply oil","pour 1big spoonful of batter and spread in a circle","cook for a minute","repeat the remaining batter"]
+                                "Steps": [ "Soak urad daal for 4-5hours.","Wash and soak raw rice for 2 hours.","Wash urad daal and grind to a fine paste.","Add soaked raw rice and grind to a fine paste.","Pour to a vessel, add salt and mix well.","Cover and keep aside for 8 hours.","Heat the dosa tava, apply oil.","Pour 1big spoonful of batter and spread in a circle.","Cook for a minute.","Repeat the remaining batter."]
                             }
                         ]
                     }
@@ -240,18 +240,19 @@
             },
             {
                 "Id": "2.5",
-                "Title": "Aapam",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Appam Dosa",
+                "SubTitle": "Appam Dose",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam2.jpeg?raw=true"],
-                        "Incredients": [ "3 cups- raw rice","1/2 cup-urad daal","1/2 cup-poha, soaked", "1 cup- tender coconut","salt to taste", "oil for frying"],
+                        "Incredients": [ "3cups - raw rice","1/2cup - urad daal","1/2cup - poha(soaked)", "1cup - tender coconut","Salt to taste", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "urad daal soaked and kept for 4-5 hours","raw rice washed and soaked for 2 hours","wash soaked urad daal and grind to a fine paste","then add coconut, poha and rice","grind to a fine paste","pour it a vessel,add salt and mix well","batter should be of dropping consistency","cover and keep overnight","aapam should be prepared in deep tava","pour 1 big spoonful of batter","slowly  turn the tava round,so that a thin layer forms on the sides and the middle remains thick","cover and cook till done","the middle part will be fluffy and sides thin and crisp","remove and serve","note- without putting soda or yeast aàpam can be done"]
+                                "Steps": [ "Urad daal soaked and kept for 4-5 hours.","Raw rice washed and soaked for 2 hours.","Wash soaked urad daal and grind to a fine paste.","Then add coconut, poha and rice and grind to a fine paste.","Pour it a vessel, add salt and mix well.","Batter should be of dropping consistency.","Cover and keep overnight.","Appam should be prepared in deep tava.","Pour 1 big spoonful of batter.","Slowly turn the tava round, so that a thin layer forms on the sides and the middle remains thick.","Cover and cook till done.","The middle part will be fluffy and sides thin and crisp.","Remove and serve."]
                             }
-                        ]
+                        ],
+                        "Note": "Without putting soda or yeast aàpam can be done"
                     }
                 ]
             },
