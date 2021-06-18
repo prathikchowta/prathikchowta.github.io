@@ -95,7 +95,7 @@
                         "Incredients": [ "3 Cups - Maida", "2 Cups - Sugar", "1/2 tsp. - Salt", "1 Pinch - Turmeric powder", "1 tbsp.- Bombay Rawa", "1 tsp.- Cardamom,powdered", "Oil - for frying" ],
                         "Method": [
                             {
-                                "Steps": [ "Mix all the ingredients with water to the thick batter (Idli batter)", "Keep aside for 10-15 minutes", "Keep oil on fire", "Heat and Pour 1 ladleful of batter", "Fry both the sides,until crisp and brown with medium flame", "Remove it with 2 Spoons,press at the center from back side of the spoon", "This makes it flat" ]
+                                "Steps": [ "Mix all the ingredients with water to the thick batter (Idli batter)", "Keep aside for 10-15 minutes", "Keep oil on fire", "Heat and Pour 1 ladleful of batter", "Fry both the sides,until crisp and brown with medium flame", "Remove it with 2 Spoons,press at the center from back side of the spoon", "This makes it flat", "Note: 15-16 Malpuries can be done" ]
                             }
                         ]
                     }
@@ -127,15 +127,15 @@
         "RecipesList": [
             {
                 "Id": "2.1",
-                "Title": "Moong Dal Payasam",
+                "Title": "Green Gram Daal Payasam",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1/4Kg. - Green Gram Daal", "100gms. - Saagu", "Milk of 1 Coconut (thick and thin milk)", "1/2 Kg. - Jaggery", "1tsp. - Cardamom,powdered", "10-15 cashew nuts and Raisins", "1/2tsp.- Salt", "1 tbsp. - Ghee"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Boil Sagu with thin coconut milk", "When it is half cooked,add green gram daal and cook", "Add jaggery,salt and stir continuously", "Then add thick coconut milk and cook", "Add cardamom powder", "Fry Cashew nuts and raisins with ghee", "Add to the Payasam" ]
                             }
                         ]
                     }
@@ -148,10 +148,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1/4 Kg. - Bengal Gram Daal", "2 tbsp. - Raw Rice", "1/2 Kg.- Jaggery", "Milk of 1 Coconut", "50gms.- Cashew nuts", "50gms.- Raisins", "4-5 - Cardamoms,crushed", "1 tbsp.- Ghee"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Fry Cashew nuts and raisins with ghee", "Keep aside", "Boil Bengal Gram daal with 8 cups of water", "Grind the rice coarsely and mix it with the daal and cook for sometime", "Add jaggery and salt, and keep on stirring", "Add coconut milk and cook", "Add cardamom powder", "Add fried cashews and raisins and stir." ]
                             }
                         ]
                     }
@@ -164,10 +164,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "100gms.- Vermicelli", "50gms.- Cashew nuts & Raisins", "1/2 liter - Milk", "3/4 cup - Sugar", "1 tsp.- Cardamoms,crushed", "2 tbsp.- Ghee", "100gms. - Saagu (optional" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Cook Sagoo with water and keep aside", "Fry Vermecilly, Cashews and raisins with ghee and keep aside", "Boil the milk in vessel,add vermecilly and cook for sometime", "Add cooked sagoo,sugar and stir", "Add Cardamom and fried dry fruits." ]
                             }
                         ]
                     }
