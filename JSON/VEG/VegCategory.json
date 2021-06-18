@@ -3,7 +3,7 @@
         "Id": "1",
         "Title": "Karavali Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/karavaliSpecial.jpeg",
-        "Count": "3",
+        "Count": "9",
         "RecipesList": [
             {
                 "Id": "1.1",
@@ -13,10 +13,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti3.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti4.jpeg" ],
-                        "Incredients": [ "12-15 - turmeric leaves","1/2 kg - boiled rice (soaked in water for 4 -6 hours)", "Salt to taste", "For filling - 1 coconut,grated","1/2 kg - jaggery,grated","4 cardamoms,powdered"],
+                        "Incredients": [ "12-15 - Turmeric leaves","1/2kg - Boiled rice(soaked in water for 4 -6 hours)", "Salt to taste", "For filling:", "1 coconut(grated)", "1/2kg - jaggery(grated)", "4 cardamoms(powdered)" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash and wipe the turmeric leaves dry.","Grind the rice with salt to taste and just enough water to a fine paste.", "Remove the paste.", "Apply evenly on each turmeric leaf.", "mix the filling ingredients.", "place one spoon on top and fold the leaves into half.", "Steam them till cooked in an Idli cooker."]
+                                "Steps": [ "Wash and wipe the turmeric leaves to make it dry.","Grind the rice with salt to taste and just add enough water to a fine paste.", "Remove the prepared paste and apply evenly on each turmeric leaf.", "Mix the filling ingredients.", "Place one spoon on top and fold the leaves into half.", "Steam them till cooked in an Idli cooker."]
                             }
                         ]
                     }
@@ -30,10 +30,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi3.jpg" ],
-                        "Incredients": [ "20-30 - Jackfruit leaves", "1/2 kg - Boiled rice, washed and soaked in water for 4 hours", "salt to taste"],
+                        "Incredients": [ "20-30 - Jackfruit leaves", "1/2kg - Boiled rice, washed and soaked in water for 4 hours", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and wipe the jackfruit leaves","Grind the rice with salt and just enough water to a fine paste", "The same covering and filling of turmeric leaf gutti can be used in different way","Take jackfruit leaves and shape them into cones","Apply paste inside each leaf and fill it with coconut & jaggery mix","then close the top with a little more paste and steam till cooked."]
+                                "Steps": [ "Wash and wipe the jackfruit leaves","Grind the rice with salt and just enough water to a fine paste", "The same covering and filling of turmeric leaf gatti can be used in different ways", "Take jackfruit leaves and shape them into cones", "Apply paste inside each leaf and fill it with coconut & jaggery mix", "then close the top with a little more paste and steam till cooked."]
                             }
                         ]
                     }
@@ -42,17 +42,18 @@
             {
                 "Id": "1.3",
                 "Title": "Jackfruit Gatti",
-                "SubTitle": "Pelakai Gatti",
+                "SubTitle": "Pelakai da Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1kg - jackfruit (without seeds) sliced into pieces", "1/2 kg - Boiled rice", "250 GMs.- jaggery(optional)", "4-5 pepper corns", "1/2tsp.- salt", "10-15- Tekki leaves", "1 dry coconut,cut into small pieces"],
+                        "Incredients": [ "1kg - jackfruit (without seeds) sliced into pieces", "1/2kg - Boiled rice", "250GMs.- jaggery(optional)", "4-5 pepper corns", "1/2tsp.- salt", "10-15 - Tekki(Badam) leaves", "1 dry coconut,cut into small pieces"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak rice for 4-6 hours.", "Grind rice and jackfruit and Jaggery to a fine paste with peppercorns and salt.", "Remove and mix with coconut pieces.", "Wrap a little of the prepared paste in tekki leaves.", "Steam it for 1 hour.", " Note: if tekki leaves not available,use plantain leaves or idli vessels."]
+                                "Steps": [ "Wash and soak rice for 4-6 hours.", "Grind rice, Jackfruit and Jaggery to a fine paste with peppercorns and salt.", "Remove and mix with coconut pieces.", "Wrap a little of the prepared paste in tekki leaves.", "Steam it for 1 hour." ]
                             }
-                        ]
+                        ],
+                        "Note": "If tekki leaves not available, use plantain leaves or idli vessels."
                     }
                 ]
             },
@@ -64,12 +65,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye3.jpeg" ],
-                        "Incredients": [ "1/2 kg- boiled rice", "Salt to taste"],
+                        "Incredients": [ "1/2kg - boiled rice", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak the rice for 4 to 5 hours", "Add a little water and salt", "Grind to a fine paste", "Cook the mixture over a medium flame in a thick bottomed vessel applied with oil", "Stir continously till solid enough to be rolled into balls", "Remove from fire and with moistened fingers prepare balls of equal size", "Steam till cooked", "Press each ball through a semia mould", "Note:Serve with coconut milk sweetened with jaggery and cardamoms or with chicken curry."]
+                                "Steps": [ "Wash and soak the rice for 4 to 5 hours", "Add a little water and salt", "Grind to a fine paste", "Cook the mixture over a medium flame in a thick bottomed vessel applied with oil", "Stir continously till solid enough to be rolled into balls", "Remove from fire and with moistened fingers prepare balls of equal size", "Steam till cooked", "Press each ball through a semia mould" ]
                             }
-                        ]
+                        ],
+                        "Note": "Serve with coconut milk sweetened with jaggery and cardamoms or with Chicken curry."
                     }
                 ]
             },
@@ -81,12 +83,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade3.jpeg" ],
-                        "Incredients": [ "200 gms.- urad daal, wash and soak for 6 hours", "1 kg.- boiled rice,wash & soak for 4 hours", "6 - red chillies", "2 tbsp.- coriander seeds", "Salt to taste", "tamarind - size of a lime","1 tsp.- turmeric powder","20-25 colacasia leaves(thevu)","10- tekki leaves","For Gravy: 1- grated coconut","4- dry red chillies","2tsp.- coriander seeds","2 - onions chopped","salt to taste","2 tsp -ghee or oil for seasoning"],
+                        "Incredients": [ "200gms. - urad daal, wash and soak for 6 hours", "1kg. - boiled rice, wash & soak for 4 hours", "6 - red chillies", "2tbsp. - coriander seeds", "Salt to taste", "Tamarind - size of a lime", "1tsp. - Turmeric powder", "20-25 colacasia leaves(thevu)", "10 - tekki leaves", "For Gravy:", "1 - grated coconut", "4 - dry red chillies", "2tsp. - coriander seeds", "2 - onions chopped", "salt to taste","2tsp - ghee or oil for seasoning"],
                         "Method": [
                             {
-                                "Steps": [ "Grind urad daal and keep aside","Grind rice finely with coriander seeds,chillies,tamarind,turmeric powder and salt","Finely chop colacasia leaves and and mix well into the rice and urad paste","Put 2 spoonful into a tekki leaves","Cover and steam for 45 minutes","Remove from fire and let it cool"," To prepare Gravy: Grind coconut with chillies, coriander seeds and turmeric","Add enough water,salt and 1 chopped onion and keep it to boil","Cut the patrade rolls into 1/2 inch rounds and add to gravy","Boil again for 1 minute","Season with 1 finely chopped onion in ghee or oil","Note: Patrade can eat without gravy","after cutting patrade into 1/2 inch rounds","fry it on the tava with ghee","serve hot"]
+                                "Steps": [ "Grind urad daal and keep aside", "Grind rice finely with coriander seeds, chillies, tamarind, turmeric powder and salt", "Finely chop colacasia leaves and and mix well into the rice and urad paste", "Put 2 spoonful into a tekki leaves", "Cover and steam for 45 minutes", "Remove from fire and let it cool", " To prepare Gravy: Grind coconut with chillies, coriander seeds and turmeric", "Add enough water, salt and 1 chopped onion and keep it to boil", "Cut the patrade rolls into 1/2 inch rounds and add to gravy","Boil again for 1 minute", "Season with 1 finely chopped onion in ghee or oil" ]
                             }
-                        ]
+                        ],
+                        "Note": "Patrade can be eaten without gravy. For that you can cut patrade into 1/2 inch rounds. Fry it on the tava with ghee and its ready to serve hot"
                     }
                 ]
             },
@@ -98,12 +101,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/CucumberAdiye1.jpeg"],
-                        "Incredients": [ "1 - cucumber,skinned and cut into pieces", "3 cups - raw rice, washed and soaked in water for 1 hour","1/2 - grated coconut", "4-5 - cardamoms","250 gms.- jaggery", "salt to taste", "2 - plantain leaves"],
+                        "Incredients": [ "1 - cucumber, skinned and cut into pieces", "3cups - raw rice, washed and soaked in water for 1 hour", "1/2 - grated coconut", "4-5 - cardamoms", "250gms. - jaggery", "salt to taste", "2 - plantain leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Grind together rice,coconut,cucumber,little water,salt and jaggery","Batter should be thick","Keep a Idli cooker or Steam vessel(tondoru) on fire", "Keep 2 plantain leaves inside the vessel,pour the batter on it","close the lid and cook for 30 minutes","pierce with a knife to see if it is cooked","after it cooled,cut into pieces and serve","Note: instead of cucumber,bottleguard can be used."]
+                                "Steps": [ "Grind together rice, coconut, cucumber, little water, salt and jaggery", "Batter should be thick", "Keep a Idli cooker or Steam vessel(tondoru) on fire", "Keep 2 plantain leaves inside the vessel, pour the batter on it", "Close the lid and cook for 30 minutes","Pierce with a knife to see if it is cooked","After it becomes cooled, cut into pieces and serve" ]
                             }
-                        ]
+                        ],
+                        "Note": "Instead of cucumber, bottleguard can be used."
                     }
                 ]
             },
@@ -115,10 +119,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RicePudding1.jpeg"],
-                        "Incredients": [ "2 cups- raw rice", "Salt to taste", "500 gms.- jaggery", "2 - tender coconut", "4-5 - cardamoms,powdered", "1tbsp.- ghee" ],
+                        "Incredients": [ "2cups - raw rice", "Salt to taste", "500gms. - jaggery", "2 - tender coconut", "4-5 - cardamoms(powdered)", "1tbsp. - ghee" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak raw rice for 2 hours", "Grind the rice adding water to a coarse paste", "Remove to a vessel,add salt and jaggery,batter should be watery", "Keep the vessel on gas,stir well and cook till it becomes thick", "After it cooked well add coconut and cardamom powder", "Stir and cook for 5 minutes","take a cup of water,put a little manni on it to test","if it floats on water, Manni is prepared,Off the gas","Take a big plate,place one or two plantain leaves upon it","Apply ghee,pour the prepared manni on it and tap","Let it cool,cut into pieces and serve"]
+                                "Steps": [ "Wash and soak raw rice for 2 hours", "Grind the rice adding water to a coarse paste", "Remove to a vessel, add salt and jaggery, batter should be watery", "Keep the vessel on gas, stir well and cook till it becomes thick", "After it cooked well add coconut and cardamom powder", "Stir and cook for 5 minutes", "Take a cup of water, put a little manni on it to test", "If it floats on water, then your manni is prepared, off the gas","Take a big plate, place one or two plantain leaves upon it", "Apply ghee, pour the prepared manni on it and tap", "Let it cool,cut into pieces and serve"]
                             }
                         ]
                     }
@@ -132,10 +136,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding2.jpg"],
-                        "Incredients": [ "1 cup - Ragi", "Salt to taste", "3/4 cup - jaggery", "2 tbsp.- ghee" ],
+                        "Incredients": [ "1cup - Ragi", "Salt to taste", "3/4cup - jaggery", "2tbsp. - ghee" ],
                         "Method": [
                             {
-                                "Steps": [ "Clean and soak Ragi for 8 hours", "Grind the ragi with water and seive", "grind the ragi again & again and seive", "Add water and make a thin consistency", "Keep the vessel on fire", "add salt and jaggery,stir well","cook till it becomes thick","Add ghee and stir again,cook till the ghee dissolves","Pour to a greased plantain leaf","when it completely cooled cut into pieces"]
+                                "Steps": [ "Clean and soak Ragi for 8 hours", "Grind the ragi with water and seive", "Grind the ragi again & again and seive", "Add water and make a thin consistency", "Keep the vessel on fire", "Add salt and jaggery, stir well", "Cook till it becomes thick","Add ghee and stir again, cook till the ghee dissolves", "Pour to a greased plantain leaf","When it completely cooled cut into pieces"]
                             }
                         ]
                     }
@@ -149,27 +153,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1 Cup - Boiled Rice", "3 Cups - Raw Rice", "2 - Tender Coconut, grated or extracted milk from tender coconut", "8-10 - Peppecorns", "1tsp. - Jeera", "1tsp. - coriander seeds", "1/4tsp.- Oama", "1/2 Kg - Jaggery", "Salt to taste", "1tsp.- Cardamom powder", "1 tbsp.- Ghee", "50gms- Cashews", "50gms - Raisins"],
+                        "Incredients": [ "1Cup - Boiled Rice", "3Cups - Raw Rice", "2 - Tender Coconut, grated or extracted milk from tender coconut", "8-10 - Peppecorns", "1tsp. - Jeera", "1tsp. - coriander seeds", "1/4tsp. - Oama", "1/2Kg - Jaggery", "Salt to taste", "1tsp. - Cardamom powder", "1 tbsp. - Ghee", "50gms - Cashews", "50gms - Raisins"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak the rise seperately for 4-6 hours", "Grind the rice with salt and little water to a thick paste and keep aside", "Grind tender coconut with pepper corns,coriander,jeera and oama to a  very fine paste", "Remove it to a thick bottomed vessel", "Batter should be thin consistency", "Boil it with salt and jaggery", "Place a perforated vessel (Saarne adye kudupu),pour a ladleful of rice paste to a plate and press", "Stir gently and cook", "Repeat the same process till the rice paste empties", "Cook with low flame", "Add salt & jaggery if necessary", "Add cardamom powder", "Fry Cahews and raisins with ghee (optional),add it to the prepared Adye" ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Id": "1.10",
-                "Title": "Gatti",
-                "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
-                "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
-                        "Method": [
-                            {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak the rise seperately for 4-6 hours", "Grind the rice with salt and little water to a thick paste and keep aside", "Grind tender coconut with pepper corns, coriander, jeera and oama to a very fine paste", "Remove it to a thick bottomed vessel", "Batter should be thin consistency", "Boil it with salt and jaggery", "Place a perforated vessel (Saarne adye kudupu), pour a ladleful of rice paste to a plate and press", "Stir gently and cook", "Repeat the same process till the rice paste empties", "Cook with low flame", "Add salt & jaggery if necessary", "Add cardamom powder", "Fry Cahews and raisins with ghee (optional), add it to the prepared Adye" ]
                             }
                         ]
                     }
