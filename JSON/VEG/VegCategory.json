@@ -172,16 +172,16 @@
         "RecipesList": [
             {
                 "Id": "2.1",
-                "Title": "Neer Dosa",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Neer Dose",
+                "SubTitle": "Neer Dose",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true"],
-                        "Incredients": [ "2 cups-raw riçe", "Salt to taste", "oil for frying"],
+                        "Incredients": [ "2cups - raw riçe", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Wash & soak the rice for 1 1/2 hours","then grind to a very fine paste", "Pour into a vessel add salt and water to make a very thin consistency","this dosa batter should be prepared immediately","heat the dosa tava,apply a little oil and take one big spoonful of batter", "spread in a thin,even layer","cover and keep it for a second","then remove it caredully","it comes out thin like a handkerchief","serve with chicken curry or red chutney"]
+                                "Steps": [ "Wash & soak the rice for 2 hours.","Then grind to a very fine paste.", "Pour into a vessel, add salt and water to make a very thin consistency","This dosa batter should be prepared immediately.","Heat the dosa tava, apply a little oil and take one big spoonful of batter.", "Spread in a thin, even layer.","Cover and keep it for a second.","Then remove it carefully.","It comes out thin like a handkerchief.","Serve with chicken curry or red chutney."]
                             }
                         ]
                     }
