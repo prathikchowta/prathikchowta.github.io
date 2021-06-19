@@ -920,10 +920,10 @@
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
                         "Incredients": [ "6inch piece of plantain stem", "Salt to taste"],
-                        "Masala": [ "6 - red chillies roasted","1tbsp. - coriander seeds roasted"," 1tsp. - methi, mustard and jeera","1/4 coconut scraped"],
+                        "Masala": [ "6 - red chillies(roasted)","1tbsp. - coriander seeds(roasted)","1tsp. - methi, mustard and jeera","1/4 coconut scraped"],
                         "Method": [
                             {
-                                "Steps": [ "Peel off the outer skin of the plantain stem and cut into round pieces"," Then cut each round into small pieces","the loose fibres obtained after each slice is cut should be discarded","boil in very little water with salt till tender","Grind together masala ingredients except coconut to a fine paste", "add scraped coconut and grind to a coarse paste","add it to the cooked plantain stem","cook it for 10 to 15 minutes on a slow fire","season with oil,mustard seeds, curry leaves and crushed garlic."]
+                                "Steps": [ "Peel off the outer skin of the plantain stem and cut into round pieces.","Then cut each round into small pieces.","The loose fibres obtained after each slice is cut should be discarded.","Boil in very little water with salt till tender.","Grind together masala ingredients except coconut to a fine paste.", "Add scraped coconut and grind to a coarse paste.","Add it to the cooked plantain stem.","Cook it for 10 to 15 minutes on a slow fire.","Season with oil, mustard seeds, curry leaves and crushed garlic."]
                             }
                         ]
                     }
@@ -937,10 +937,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "plantain flower bud", "Salt to taste", "For Masala-4 Chillies roasted"," 1/4-grated coconut","2tsp.-coriander seeds roasted","1tsp.-mustard,jeera& methi","1pinch- turmeric powder","tamarind size of its seed","salt to taste","1-onion","1 piece of jaggery"],
+                        "Incredients": [ "Plantain flower bud", "Salt to taste" ],
+                        "Masala": [ "4 Chillies roasted"," 1/4 - grated coconut","2tsp. - coriander seeds roasted","1tsp. - mustard, jeera & methi","1pinch - turmeric powder","Tamarind size of its seed","Salt to taste","1 - onion","1 piece of jaggery"],
                         "Method": [
                             {
-                                "Steps": [" Grind all the masala except coconut to fine paste","add grated coconut and grind to a coarse paste","keep aside","remove the flowers and leaves of plantain bud","cut the white part into small pieces, wash and cook","drain the water and keep aside","fry a pan with oil,mustard,sliced onion,1 broken chilly, 4 crushed garlic flakes, 2 sprig curry leaves","add the ground masala, fry till the raw smell goes","add salt and Jaggery","add cooked plantain flower bud,mix it and cook for 5 minutes."]
+                                "Steps": ["Grind all the masala except coconut to fine paste.","Add grated coconut and grind to a coarse paste and keep aside.","Remove the flowers and leaves of plantain bud.","Cut the white part into small pieces, wash and cook.","Drain the water and keep aside.","Fry a pan with oil, mustard, sliced onion,1 broken chilly, 4 crushed garlic flakes, 2 sprig curry leaves","Add the ground masala, fry till the raw smell goes.","Add salt and Jaggery.","Add cooked plantain flower bud, mix it and cook for 5 minutes."]
                             }
                         ]
                     }
@@ -948,16 +949,17 @@
             },
             {
                 "Id": "6.4",
-                "Title": "Raw Jackfruit(in salt water)",
+                "Title": "Raw Jackfruit(In salt water)",
                 "SubTitle": "Uppad Pachir",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4 kg raw jackfruit,cut and soaked in salt water","salt to taste","for masala-6-7-red chillies roasted","2 tbsp.-coriander seeds roasted","1tsp.-jeera","1/4tsp.-turmeric powder","4-garlic flakes","1/2 grated coconut","1-onion"],
+                        "Incredients": [ "1/4kg raw jackfruit, cut and soaked in salt water","Salt to taste"],
+                        "Masala": [ "6-7 - red chillies(roasted)","2tbsp. - coriander seeds(roasted)","1tsp. - jeera","1/4tsp. - turmeric powder","4 - garlic flakes","1/2 grated coconut","1-onion" ],
                         "Method": [
                             {
-                                "Steps": [ "Grind together maaala ingredients except coconut to a fine paste"," add the coconut and grind to a coarse paste","remove and set aside","take out the jackfruit pieces from the salt water","cut into strips and put in fresh water","Heat oil and add mustard seeds","when they splutter add sliced onion,curry leaves and crushed garlic flakes","when onion turns brown add jackfruit slices,add 2 cups of water","boil till it cooked","add the ground masala and salt","cook it for 10-15 minutes"]
+                                "Steps": [ "Grind together maaala ingredients except coconut to a fine paste.","Add the coconut and grind to a coarse paste.","Remove and set aside.","Take out the jackfruit pieces from the salt water.","Cut into strips and put in fresh water.","Heat oil and add mustard seeds.","When they splutter add sliced onion, curry leaves and crushed garlic flakes","When onion turns brown add jackfruit slices, add 2 cups of water.","Boil till it cooked.","Add the ground masala and salt.","Cook it for 10-15 minutes."]
                             }
                         ]
                     }
