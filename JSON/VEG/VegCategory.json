@@ -416,20 +416,20 @@
         "Id": "3",
         "Title": "Evening Snacks",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg",
-        "Count": "3",
+        "Count": "6",
         "RecipesList": [
             {
                 "Id": "3.1",
-                "Title": "Mangalore Vada",
+                "Title": "Mangalore Bajji",
                 "SubTitle": "Golibaje",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "2 Cups - Maida", "1/2 liter - Curds", "1 tsp. - sugar", "Salt to taste", "1/2 tsp. - Soda", "2-3 - Green Chillies,finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
+                        "Incredients": [ "2Cups - Maida", "1/2liter - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Take a vessel,mix all the ingredients", "Make a soft batter and keep aside for 4 hours", "Heat the oil in a Kadai,take the batter in hand and slowly drop it to the oil", "Deep fry in a low flame", "Same way fry all the vadas and serve with coconut chutney and sambar" ]
+                                "Steps": [ "Take a vessel, mix all the ingredients.", "Make a soft batter and keep aside for 4 hours.", "Heat the oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
                             }
                         ]
                     }
@@ -443,10 +443,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1 Big - Bread fruit", "2 Cups - Bengal Gram flour(Beson)", "1 tsp. - Jeera", "Salt to taste", "1tsp. - Red chilly powder", "1/4tsp.- Turmeric powder", "1 pinch - Asafoetida powder (Hing)"],
+                        "Incredients": [ "1 Big - Bread fruit", "2Cups - Bengal Gram flour(Beson)", "1tsp. - Jeera", "Salt to taste", "1tsp. - Red chilly powder", "1/4tsp. - Turmeric powder", "1pinch - Asafoetida powder (Hing)"],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of bread fruit", "Cut into thin long slices,marinate with salt water for 30 minutes", "Mix gram flour, salt, chilly powder,turmeric powder,jeera and hing,add little water and make a thick paste", "Heat the oil, dip the breadfruit slices in the batter,deep fry in slow flame", "Serve hot with chutney or sauce." ]
+                                "Steps": [ "Peel the skin of bread fruit.", "Cut into thin long slices, marinate with salt water for 30 minutes.", "Mix gram flour, salt, chilly powder, turmeric powder, jeera and hing. Add little water and make a thick paste.", "Heat the oil, dip the breadfruit slices in the batter, deep fry in slow flame.", "Serve hot with chutney or sauce." ]
                             }
                         ]
                     }
@@ -460,27 +460,28 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "4-6 - Onion, sliced", "2 Cups - Bengal gram flour", "2tsp. - Red chilly powder", "Salt to taste", "1/4tsp. - Turmeric powder", "1 Red chilly - Chopped", "1 sprig - Curry leaves", "Oil - for frying"],
+                        "Incredients": [ "4-6 - Onion(sliced)", "2Cups - Bengal gram flour", "2tsp. - Red chilly powder", "Salt to taste", "1/4tsp. - Turmeric powder", "1 Red chilly - Chopped", "1 sprig - Curry leaves", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Mix together all the ingredients,add little water and make a thick paste", "Take a mixture at a time and deep fry in oil till brown and crisp", "Serve hot", "Note: Cabbage Vada can be made in the same method." ]
+                                "Steps": [ "Mix together all the ingredients, add little water and make a thick paste.", "Take a mixture at a time and deep fry in oil till brown and crisp.", "Serve hot." ]
                             }
-                        ]
+                        ],
+                        "Note": "Cabbage Vada can be made in the same method."
                     }
                 ]
             },
             {
                 "Id": "3.4",
                 "Title": "Urad Vada",
-                "SubTitle": "Golibaje",
+                "SubTitle": "Uddina Vade",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/2kg. -Urad daal,soaked for 1-2 hours", "2 - Red Chillies", "1 piece - Ginger", "Salt to taste", "3 - Green Chillies,cut", "1 sprig - Curry leaves", "Oil for frying"],
+                        "Incredients": [ "1/2kg. - Urad daal, soaked for 1-2 hours", "2 - Red Chillies", "1 piece - Ginger", "Salt to taste", "3 - Green Chillies(cut)", "1 sprig - Curry leaves", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and grind the urad daal to a thick paste", "While grinding, add red chillies,ginger and 2 green chillies", "Remove and mix with salt,curry leaves and 1 green chilly", "Keep enough oil in a Kadai to deep fry vadas", "When oil is very hot, take small lumps of paste and form into small balls", "Drop into the oil and cook on medium fire until all sides are brown", "Remove and serve with chutney and sambar." ]
+                                "Steps": [ "Wash and grind the urad daal to a thick paste.", "While grinding, add red chillies, ginger and 2 green chillies.", "Remove and mix with salt, curry leaves and 1 green chilly.", "Keep enough oil in a Kadai to deep fry vadas.", "When oil is very hot, take small lumps of paste and form into small balls.", "Drop into the oil and cook on medium fire until all sides are brown.", "Remove and serve with chutney and sambar." ]
                             }
                         ]
                     }
@@ -494,10 +495,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1 Cup - Channa daal (Kadle Bele)", "1/2 cup - Toor daal", "1/2 cup - Urad daal", "1/2 inch - Ginger,chopped", "1 pinch - Hing", "3-4 - Green Chillies, Chopped", "2 Sprig - Curry leaves, chopped", "Salt to taste", "Oil for frying"],
+                        "Incredients": [ "1Cup - Channa daal(Kadle Bele)", "1/2cup - Toor daal", "1/2cup - Urad daal", "1/2inch - Ginger(Chopped)", "1pinch - Hing", "3-4 - Green Chillies(Chopped)", "2Sprig - Curry leaves(Chopped)", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak the daals for about 2 hours", "Then grind the daals together to a very rough paste", "Remove and mix together with the other ingredients", "Take a little of the mixture and flattern into rounds and deep fry in oil until brown", "Serve with chutney." ]
+                                "Steps": [ "Wash and soak the daals for about 2 hours.", "Then grind the daals together to a very rough paste.", "Remove and mix together with the other ingredients.", "Take a little of the mixture and flattern into rounds and deep fry in oil until brown.", "Serve with chutney." ]
                             }
                         ]
                     }
@@ -511,53 +512,14 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/2 Kg. - Potatoes", "Salt to taste", "6-7 - Green Chillies,chopped", "1tsp. - Chilly powder",  "1 inch - ginger", "4 - Garlic flakes", "2 tsp. - Coriander leaves, chopped", "1/4 kg - Besan", "1 tbsp.- Curry leaves"],
+                        "Incredients": [ "1/2Kg. - Potatoes", "Salt to taste", "6-7 - Green Chillies(chopped)", "1tsp. - Chilly powder",  "1inch - ginger", "4 - Garlic flakes", "2tsp. - Coriander leaves(chopped)", "1/4kg - Besan", "1tbsp. - Curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Boil ,peel and mash the potatoes", "Add salt,chopped green chillies,ginger,garlic,curry leaves and corianderleaves", "Mix well,Form into small vadas and keep aside", "Take besan,chilly powder and a pinch of salt", "Mix with water and make a thixk batter", "Dip the vadas in this batter and deep fry in hot oil", "Serve with chutney."] 
+                                "Steps": [ "Boil, peel and mash the potatoes.", "Add salt, chopped green chillies, ginger, garlic, curry leaves and coriander leaves.", "Mix well and form into small vadas and keep aside.", "Take besan, chilly powder and a pinch of salt.", "Mix with water and make a thick batter.", "Dip the vadas in this batter and deep fry in hot oil.", "Serve with chutney."] 
                             }
                         ]
                     }
                 ]
-            },
-            {
-                "Id": "3.7",
-                "Title": "Mangalore Vada",
-                "SubTitle": "Golibaje",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
-                "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "2 Cups - Maida", "1/2 liter - Curds", "1 tsp. - sugar", "Salt to taste", "1/2 tsp. - Soda", "2-3 - Green Chillies,finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
-                        "Method": [
-                            {
-                                "Steps": [ "Take a vessel,mix all the ingredients", "Make a soft batter and keep aside for 4 hours", "Heat the oil in a Kadai,take the batter in hand and slowly drop it to the oil", "Deep fry in a low flame", "Same way fry all the vadas and serve with coconut chutney and sambar" ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Id": "3.8",
-                "Title": "Mangalore Vada",
-                "SubTitle": "Golibaje",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
-                "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "2 Cups - Maida", "1/2 liter - Curds", "1 tsp. - sugar", "Salt to taste", "1/2 tsp. - Soda", "2-3 - Green Chillies,finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
-                        "Method": [
-                            {
-                                "Steps": [ "Take a vessel,mix all the ingredients", "Make a soft batter and keep aside for 4 hours", "Heat the oil in a Kadai,take the batter in hand and slowly drop it to the oil", "Deep fry in a low flame", "Same way fry all the vadas and serve with coconut chutney and sambar" ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Id": "3.9",
-                "Title": "Golibaje",
-                "SubTitle": "Manjal Ereda Gatti"
             }
         ]
     },
