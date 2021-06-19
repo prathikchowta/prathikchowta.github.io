@@ -687,10 +687,10 @@
                 "Id": "4.8",
                 "Title": "Brahmi Leaves Chutney",
                 "SubTitle": "Timare Chutney",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/BrahmiChutney1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/BrahmiChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/BrahmiChutney2.jpeg" ],
                         "Incredients": [ "2 cups - Brahmi leaves with roots cleaned properly and chopped", "1/2 - Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind(size of a small lime)", "1tbsp. - cooked rice", "Jaggery - 1 small piece"],
                         "Method": [
                             {
@@ -705,10 +705,10 @@
                 "Id": "4.9",
                 "Title": "Coriander Leaves Chutney",
                 "SubTitle": "Kottambhari Soppu Chutney",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CorianderChutney1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CorianderChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CorianderChutney2.jpeg" ],
                         "Incredients": [ "1 medium bunch - Coriander leaves, cleaned and chopped","1/2 - grated coconut","3-4 - green chillies","5-6 - garlic flakes","1inch ginger","Salt to taste","Tamarind - size of its seed or juice of a lemon"],
                         "Method": [
                             {
@@ -722,10 +722,10 @@
                 "Id": "4.10",
                 "Title": "Mint Leaves Chutney",
                 "SubTitle": "Pudina Chutney",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/MintChutney1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/MintChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/MintChutney2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/MintChutney3.jpeg" ],
                         "Incredients": [ "15-20 - mint leaves","1/2 - grated coconut","1inch - ginger","3-4 - green chillies","Tamarind - size of its seed","Salt to taste","Jaggery - small piece(optional)"],
                         "Method": [
                             {
