@@ -397,10 +397,10 @@
                 "Id": "2.14",
                 "Title": "Rice Dumplings with Masala",
                 "SubTitle": "Arepuda Pundi",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/ArepudaPundi1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RiceDumplings2.jpeg?raw=true"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/ArepudaPundi1.jpg"],
                         "Incredients": [ "1 - grated coconut", "8-10 - red chillies", "2tsp. - coriander seeds","1/2tsp. - jeera","1/4 tsp. - methi","1 - onion chopped","tamarind size of its seed","10-15 - curry leaves","2-3 crushed garlic","Oil for frying"],
                         "Method": [
                             {
