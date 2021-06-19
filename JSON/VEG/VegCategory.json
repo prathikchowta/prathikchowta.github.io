@@ -571,7 +571,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CocChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CocChutney2.jpeg"],
-                        "Incredients": [ "1/2 - grated coconut", "2 - green chillies", "tamarind (size of its seed)", "1/4 inch ginger", "salt to taste", "For Seasoning: Oil,1 tsp.- mustard seeds,1tsp.- urad daal,1- Red Chilly,broken, 1 sprig- curry leaves."]
+                        "Incredients": [ "1/2 - grated coconut", "2 - green chillies", "tamarind (size of its seed)", "1/4 inch ginger", "salt to taste", "For Seasoning: Oil, 1tsp. - mustard seeds, 1tsp. - urad daal,1 - Red Chilly, broken, 1sprig - curry leaves"],
                         "Method": [
                             {
                                 "Steps": [ "Grind all the ingredients to a coarse rough paste with a little water.", "Season it."]
@@ -626,7 +626,7 @@
                         "Incredients": [ "1/2 grated coconut", "1 raw mango", "2-3 green chillies", "Salt to taste", "Little water"],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of raw mango.", "Cut into pieces.", "Grind with the ingredients to a fine paste"]
+                                "Steps": [ "Peel the skin of raw mango.", "Cut into pieces.", "Grind with the ingredients to a fine paste."]
                             }
                         ]
                     }
@@ -660,7 +660,7 @@
                         "Incredients": [ "1cup - curry leaves", "1/2 - grated or dry coconut", "3 - red chillies", "tamarind - small ball", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Heat oil in a Kadai", "Fry red chillies, curry leaves and coconut.", "Grind it with tamarind and salt, don't add water(Let it be in dry state).", "Put it in a clean bottle.", "Can be stored for many days."]
+                                "Steps": [ "Heat oil in a Kadai.", "Fry red chillies, curry leaves and coconut.", "Grind it with tamarind and salt, don't add water(Let it be in dry state).", "Put it in a clean bottle.", "Can be stored for many days."]
                             }
                         ]
                     }
@@ -691,7 +691,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
-                        "Incredients": [ "2 cups - Brahmi leaves with roots cleaned properly and chopped", "1/2 - Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind( size of a small lime)", "1tbsp. - cooked rice", "Jaggery - 1 small piece"],
+                        "Incredients": [ "2 cups - Brahmi leaves with roots cleaned properly and chopped", "1/2 - Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind(size of a small lime)", "1tbsp. - cooked rice", "Jaggery - 1 small piece"],
                         "Method": [
                             {
                                 "Steps": [ "Grind the ingredients all together to a fine thick paste."]
@@ -709,7 +709,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
-                        "Incredients": [ "1 medium bunch - Coriander leaves,cleaned and chopped","1/2 - grated coconut","3-4 - green chillies","5-6 - garlic flakes","1inch ginger","Salt to taste","Tamarind - size of its seed or juice of a lemon"],
+                        "Incredients": [ "1 medium bunch - Coriander leaves, cleaned and chopped","1/2 - grated coconut","3-4 - green chillies","5-6 - garlic flakes","1inch ginger","Salt to taste","Tamarind - size of its seed or juice of a lemon"],
                         "Method": [
                             {
                                 "Steps": [ "Grind all ingredients together without water to a rough paste.","Serve with dosa."]
