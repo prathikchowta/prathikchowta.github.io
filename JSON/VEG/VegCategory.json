@@ -839,10 +839,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar2.jpeg?raw=true"],
-                        "Incredients": [ "6- ordinary mangoes", "5-6- green chillies", "2tbs.-chilly powder", "1-onion", "Salt to taste ", "4glass-water","1 piece-jaggery"],
+                        "Incredients": [ "6 - ordinary mangoes", "5-6 - green chillies", "2tbs. - chilly powder", "1 - onion", "Salt to taste ", "4glass - water","1 piece - jaggery"],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of mangoes and squeeze out the juice from the skin", "add it to the mango", "put water and cook", "add sliced green chillies,onion,chilly powder,salt and jaggery", "Season with mustard seeds,crushed garlic flakes,broken chilly and curry leavestep5"]
+                                "Steps": [ "Peel the skin of mangoes and squeeze out the juice from the skin.", "Add it to the mango.", "Put water and cook.", "Add sliced green chillies, onion, chilly powder, salt and jaggery.", "Season with mustard seeds, crushed garlic flakes, broken chilly and curry leaves."]
                             }
                         ]
                     }
@@ -856,10 +856,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai2.jpeg?raw=true"],
-                        "Incredients": [ "6-8- small sized ripe mangoes", "Salt to taste", "1 piece- jaggery", "For Masala-1 1/2 tbs.-urad daal", "1 1/2 tbsp.-channadaal", "1 1/2 tbsp.-coriander seeds"," 1/2 tsp.-methi seeds","1 tsp.-mustard seeds","1 tsp.-jeera","6 -red chillies","5 -pepper corns","2 sprig -curry leaves","1 cup-grated coconut"],
+                        "Incredients": [ "6-8 - small sized ripe mangoes", "Salt to taste", "1 piece - jaggery"],
+                        "Masala": ["1&1/2tbs. - urad daal", "1&1/2tbsp. - channadaal", "1&1/2tbsp. - coriander seeds","1/2tsp. - methi seeds","1tsp. - mustard seeds","1tsp. - jeera","6 - red chillies","5 - pepper corns","2sprig - curry leaves","1cup - grated coconut"],
                         "Method": [
                             {
-                                "Steps": [ "Roast all the masala ingredients separately with little oil and powdwr them", "Put some water on the mango skins and squeeze out the juice", "Mix this with water with mango,roasted powdered masala, jaggery,and salt", "cook for 10-15 minutes,stirring contnously", "Season with oil,mustard seeds,curry leaves and broken red chilly"]
+                                "Steps": [ "Roast all the masala ingredients separately with little oil and powder them.", "Put some water on the mango skins and squeeze out the juice.", "Mix this with water with mango, roasted powdered masala, jaggery and salt", "Cook for 10-15 minutes, stirring contnously.", "Season with oil, mustard seeds, curry leaves and broken red chilly."]
                             }
                         ]
                     }
@@ -873,10 +874,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram2.jpeg?raw=true"],
-                        "Incredients": [ "1/2 kg.-horse gram(soaked in water overnight)", "Salt to taste", "tamarind -size of 2 limes soaked in water", "For Masala- 2tbs.-grated coconut", "10-red chillies", "2tbs.--coriander seeds","1tbs.-jeera"," 4-5 -garlic flakes"],
+                        "Incredients": [ "1/2kg. - horse gram(soaked in water overnight)", "Salt to taste", "tamarind - size of 2 limes soaked in water"],
+                        "Masala": [ "2tbs. - grated coconut", "10 - red chillies", "2tbs. - coriander seeds","1tbs. - jeera"," 4-5 - garlic flakes"],
                         "Method": [
                             {
-                                "Steps": [ "Grind together masala ingredients to a fine paste.", "Boil the horsegram with 7-8 cups of water,until well cooked.", "Drain and take away the residue of the horsegram", "Add the ground masala,tamarind water,salt and boil for 15 minutes", "Season with oil,mustard seeds,broken red chilly,crushed garlic and curry leaves."]
+                                "Steps": [ "Grind together masala ingredients to a fine paste.", "Boil the horsegram with 7-8 cups of water, until well cooked.", "Drain and take away the residue of the horsegram.", "Add the ground masala, tamarind water, salt and boil for 15 minutes.", "Season with oil, mustard seeds, broken red chilly, crushed garlic and curry leaves."]
                             }
                         ]
                     }
