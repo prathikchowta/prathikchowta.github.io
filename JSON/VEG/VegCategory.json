@@ -47,7 +47,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1kg - jackfruit (without seeds) sliced into pieces", "1/2kg - Boiled rice", "250GMs.- jaggery(optional)", "4-5 pepper corns", "1/2tsp.- salt", "10-15 - Tekki(Badam) leaves", "1 dry coconut,cut into small pieces"],
+                        "Incredients": [ "1kg - jackfruit (without seeds) sliced into pieces", "1/2kg - Boiled rice", "250gms.- jaggery(optional)", "4-5 pepper corns", "1/2tsp.- salt", "10-15 - Tekki leaves", "1 dry coconut,cut into small pieces"],
                         "Method": [
                             {
                                 "Steps": [ "Wash and soak rice for 4-6 hours.", "Grind rice, Jackfruit and Jaggery to a fine paste with peppercorns and salt.", "Remove and mix with coconut pieces.", "Wrap a little of the prepared paste in tekki leaves.", "Steam it for 1 hour." ]
@@ -83,7 +83,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade3.jpeg" ],
-                        "Incredients": [ "200gms. - urad daal, wash and soak for 6 hours", "1kg. - boiled rice, wash & soak for 4 hours", "6 - red chillies", "2tbsp. - coriander seeds", "Salt to taste", "Tamarind - size of a lime", "1tsp. - Turmeric powder", "20-25 colacasia leaves(thevu)", "10 - tekki leaves", "For Gravy:", "1 - grated coconut", "4 - dry red chillies", "2tsp. - coriander seeds", "2 - onions chopped", "salt to taste","2tsp - ghee or oil for seasoning"],
+                        "Incredients": [ "200gms. - urad daal, wash and soak for 6 hours", "1kg. - boiled rice, wash & soak for 4 hours", "6 - red chillies,roasted", "2tbsp. - coriander seeds,roasted", "Salt to taste", "Tamarind - size of a lime", "1tsp. - Turmeric powder", "20-25 colacasia leaves(thevu)", "10 - tekki leaves", "For Gravy:", "1 - grated coconut", "4 - dry red chillies", "2tsp. - coriander seeds,roasted", "2 - onions chopped", "salt to taste","2tsp - ghee or oil for seasoning"],
                         "Method": [
                             {
                                 "Steps": [ "Grind urad daal and keep aside", "Grind rice finely with coriander seeds, chillies, tamarind, turmeric powder and salt", "Finely chop colacasia leaves and and mix well into the rice and urad paste", "Put 2 spoonful into a tekki leaves", "Cover and steam for 45 minutes", "Remove from fire and let it cool", "To prepare Gravy: Grind coconut with chillies, coriander seeds and turmeric", "Add enough water, salt and 1 chopped onion and keep it to boil", "Cut the patrade rolls into 1/2 inch rounds and add to gravy","Boil again for 1 minute", "Season with 1 finely chopped onion in ghee or oil." ]
@@ -101,7 +101,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/CucumberAdiye1.jpeg"],
-                        "Incredients": [ "1 - cucumber, skinned and cut into pieces", "3cups - raw rice, washed and soaked in water for 1 hour", "1/2 - grated coconut", "4-5 - cardamoms", "250gms. - jaggery", "salt to taste", "2 - plantain leaves"],
+                        "Incredients": [ "2 - cucumbers, skinned and cut into pieces", "3cups - raw rice, washed and soaked in water for 1 hour", "1/2 - grated coconut", "4-5 - cardamoms", "250gms. - jaggery", "salt to taste", "2 - plantain leaves"],
                         "Method": [
                             {
                                 "Steps": [ "Grind together rice, coconut, cucumber, little water, salt and jaggery", "Batter should be thick", "Keep a Idli cooker or Steam vessel(tondoru) on fire", "Keep 2 plantain leaves inside the vessel, pour the batter on it", "Close the lid and cook for 30 minutes","Pierce with a knife to see if it is cooked","After it becomes cooled, cut into pieces and serve" ]
@@ -119,10 +119,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RicePudding1.jpeg"],
-                        "Incredients": [ "2cups - raw rice", "Salt to taste", "500gms. - jaggery", "2 - tender coconut", "4-5 - cardamoms(powdered)", "1tbsp. - ghee" ],
+                        "Incredients": [ "2cups - raw rice", "Salt to taste", "500gms. - jaggery", "2 - tender coconuts,grated", "4-5 - cardamoms(powdered)", "1tbsp. - ghee" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak raw rice for 2 hours", "Grind the rice adding water to a coarse paste", "Remove to a vessel, add salt and jaggery, batter should be watery", "Keep the vessel on gas, stir well and cook till it becomes thick", "After it cooked well add coconut and cardamom powder", "Stir and cook for 5 minutes", "Take a cup of water, put a little manni on it to test", "If it floats on water, then your manni is prepared, off the gas","Take a big plate, place one or two plantain leaves upon it", "Apply ghee, pour the prepared manni on it and tap", "Let it cool, cut into pieces and serve."]
+                                "Steps": [ "Wash and soak raw rice for 2 hours", "Grind the rice adding water to a coarse paste", "Remove to a vessel, add salt and jaggery, batter should be watery", "Keep the thick bottomed vessel on gas, stir well and cook till it becomes thick", "After it cooked well add coconut and cardamom powder", "Stir and cook for 5 minutes", "Take a cup of water, put a little manni on it to test", "If it floats on water, then manni is prepared, off the gas","Take a big plate, place one or two plantain leaves upon it", "Apply ghee, pour the prepared manni on it and tap", "Let it cool, cut into pieces and serve."]
                             }
                         ]
                     }
@@ -139,7 +139,7 @@
                         "Incredients": [ "1cup - Ragi", "Salt to taste", "3/4cup - jaggery", "2tbsp. - ghee" ],
                         "Method": [
                             {
-                                "Steps": [ "Clean and soak Ragi for 8 hours", "Grind the ragi with water and seive", "Grind the ragi again & again and seive", "Add water and make a thin consistency", "Keep the vessel on fire", "Add salt and jaggery, stir well", "Cook till it becomes thick","Add ghee and stir again, cook till the ghee dissolves", "Pour to a greased plantain leaf","When it completely cooled cut into pieces"]
+                                "Steps": [ "Clean and soak Ragi for 8 hours", "Grind the ragi with water and seive", "Grind the ragi again & again and seive", "Add water and make a thin consistency", "Keep the vessel on fire", "Add salt and jaggery, stir well", "Cook till it becomes thick","Add ghee and stir again, cook till the ghee dissolves", "Pour to a greased plantain leaf","When it completely cooled, cut into pieces"]
                             }
                         ]
                     }
@@ -156,7 +156,7 @@
                         "Incredients": [ "1Cup - Boiled Rice", "3Cups - Raw Rice", "2 - Tender Coconut, grated or extracted milk from tender coconut", "8-10 - Peppecorns", "1tsp. - Jeera", "1tsp. - coriander seeds", "1/4tsp. - Oama", "1/2Kg - Jaggery", "Salt to taste", "1tsp. - Cardamom powder", "1 tbsp. - Ghee", "50gms - Cashews", "50gms - Raisins"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak the rise seperately for 4-6 hours", "Grind the rice with salt and little water to a thick paste and keep aside", "Grind tender coconut with pepper corns, coriander, jeera and oama to a very fine paste", "Remove it to a thick bottomed vessel", "Batter should be thin consistency", "Boil it with salt and jaggery", "Place a perforated vessel (Saarne adye kudupu), pour a ladleful of rice paste to a plate and press", "Stir gently and cook", "Repeat the same process till the rice paste empties", "Cook with low flame", "Add salt & jaggery if necessary", "Add cardamom powder", "Fry Cashews and raisins with ghee (optional), add it to the prepared Adye" ]
+                                "Steps": [ "Wash and soak the rice seperately for 4-6 hours", "Grind the rice with salt and little water to a thick paste and keep aside", "Grind tender coconut with pepper corns, coriander, jeera and oama (masala ingredients optional) to a very fine paste", "Remove it to a thick bottomed vessel", "Batter should be thin consistency", "Boil it with salt and jaggery", "Place a perforated vessel (Saarne adye kudupu), pour a ladleful of rice paste to a plate and press", "Stir gently and cook", "Repeat the same process till the rice paste empties", "Cook with low flame", "Add salt & jaggery if necessary", "Add cardamom powder", "Fry Cashews and raisins with ghee (optional), add it to the prepared Adye" ]
                             }
                         ]
                     }
@@ -178,10 +178,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true"],
-                        "Incredients": [ "2cups - raw riçe", "Salt to taste", "Oil for frying"],
+                        "Incredients": [ "2cups - raw rice", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Wash & soak the rice for 2 hours.","Then grind to a very fine paste.", "Pour into a vessel, add salt and water to make a very thin consistency","This dosa batter should be prepared immediately.","Heat the dosa tava, apply a little oil and take one big spoonful of batter.", "Spread in a thin, even layer.","Cover and keep it for a second.","Then remove it carefully.","It comes out thin like a handkerchief.","Serve with chicken curry or red chutney."]
+                                "Steps": [ "Wash & soak the rice for 2 hours.","Then grind to a very fine paste.", "Pour into a vessel, add salt and water to make a very thin consistency","This dosa batter should be prepared immediately.","Heat the dosa tava, apply a little oil and take one ladleful of batter.", "Spread in a thin, even layer.","Cover and keep it for a second.","Then remove it carefully.","It comes out thin like a handkerchief.","Serve with chicken curry or red chutney."]
                             }
                         ]
                     }
@@ -232,7 +232,7 @@
                         "Incredients": [ "1cup - urad dal","3cups - raw rice", "Salt to taste","Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Soak urad daal for 4-5hours.","Wash and soak raw rice for 2 hours.","Wash urad daal and grind to a fine paste.","Add soaked raw rice and grind to a fine paste.","Pour to a vessel, add salt and mix well.","Cover and keep aside for 8 hours.","Heat the dosa tava, apply oil.","Pour 1big spoonful of batter and spread in a circle.","Cook for a minute.","Repeat the remaining batter."]
+                                "Steps": [ "Wash and Soak urad daal and rice for 4-5 hours.","Grind urad daal to a fine paste.","Add soaked raw rice and grind to a fine paste.","Pour to a vessel, add salt and mix well.","Cover and keep aside for 8 hours.","Heat the dosa tava, apply oil.","Pour 1 ladleful of batter and spread it in a circle.","Cook for a minute.","Repeat the remaining batter."]
                             }
                         ]
                     }
@@ -240,8 +240,8 @@
             },
             {
                 "Id": "2.5",
-                "Title": "Appam Dosa",
-                "SubTitle": "Appam Dose",
+                "Title": "Aappam",
+                "SubTitle": "Aapa",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -249,10 +249,10 @@
                         "Incredients": [ "3cups - raw rice","1/2cup - urad daal","1/2cup - poha(soaked)", "1cup - tender coconut","Salt to taste", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Urad daal soaked and kept for 4-5 hours.","Raw rice washed and soaked for 2 hours.","Wash soaked urad daal and grind to a fine paste.","Then add coconut, poha and rice and grind to a fine paste.","Pour it a vessel, add salt and mix well.","Batter should be of dropping consistency.","Cover and keep overnight.","Appam should be prepared in deep tava.","Pour 1 big spoonful of batter.","Slowly turn the tava round, so that a thin layer forms on the sides and the middle remains thick.","Cover and cook till done.","The middle part will be fluffy and sides thin and crisp.","Remove and serve."]
+                                "Steps": [ "Soak Urad daal and keep for 4-5 hours.","Wash raw rice and soak for 2 hours.","Wash soaked urad daal and grind to a fine paste.","Then add coconut, poha and rice and grind to a fine paste.","Pour it a vessel, add salt and mix well.","Batter should be of dropping consistency.","Cover and keep overnight.","Aappam should be prepared in deep tava.","Pour 1 big spoonful of batter.","Slowly turn the tava round, so that a thin layer forms on the sides and the middle remains thick.","Cover and cook till done.","The middle part will be fluffy and sides thin and crisp.","Remove and serve."]
                             }
                         ],
-                        "Note": "Without putting soda or yeast aàpam can be done"
+                        "Note": "Without putting soda or yeast, Aapam can be done"
                     }
                 ]
             },
@@ -267,7 +267,7 @@
                         "Incredients": [ "3cups - raw rice", "1tbsp. - fenugreek seeds(methi)","1/2cup - poha(beaten rice)","1/2cup - curds", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak rice and fenugreek seperately for 5-6 hours."," Wash poha.","Mix it with curds and fenugreek seeds and grind to a fine paste.","Then add rice and grind further to a fine paste.","Remove, mix it well with salt.", "Keep aside for 8-9 hours.","Keep the dosa tava on the fire and rub little oil.","Take a big spoonful of batter and spread like urad dosa.","Cook till done."]
+                                "Steps": [ "Wash and soak rice and fenugreek seperately for 5-6 hours.","Wash poha.","Mix it with curds and fenugreek seeds and grind to a fine paste.","Then add rice and grind further to a fine paste.","Remove, mix it well with salt.", "Keep aside for 8-9 hours.","Keep the dosa tava on the fire and rub little oil.","Take a ladleful of batter and spread like urad dosa.","Cook till done."]
                             }
                         ]
                     }
@@ -281,7 +281,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa2.jpeg?raw=true"],
-                        "Incredients": [ "3cups - maida","1cup - rava","1tsp. - jeera(optional)", "3-4 - green chillies finely chopped","1onion - finely chopped","1/2ginger - finely chopped","Salt to taste", "2tbsp. - grated coconut(optional)","Oil for frying"],
+                        "Incredients": [ "3cups - maida","1cup - rava","1tsp. - jeera(optional)", "3-4 - green chillies finely chopped","1 onion - finely chopped","1/2 inch ginger - finely chopped","Salt to taste", "2tbsp. - grated coconut(optional)","Oil for frying"],
                         "Method": [
                             {
                                 "Steps": [ "Mix all the ingredients, add water and mix.","Batter should not be watery.","Make dosas and serve them with coconut chutney."]
@@ -301,7 +301,7 @@
                         "Incredients": [ "3cups - raw rice", "1cup - urad daal", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak urad daal and rice separately for 5-6 hours.", "Grind the urad daal till very fine.","Remove and set aside.","Then grind the rice fine to sooji consistency.", "Remove and mix well with urad daal paste and salt to taste.", "1/2tsp. yeast can be added to the batter.","Cover and keep it for formenting for 8 hours.","Greese idli cups with little oil.","Pour the batter in individual cups and steam for 30 minutes."]
+                                "Steps": [ "Wash and soak urad daal and rice separately for 5-6 hours.", "Grind the urad daal till very fine.","Remove and set aside.","Then grind the rice fine to sooji consistency.", "Remove and mix well with urad daal paste and salt to taste.", "1/2tsp. yeast can be added to the batter.","Cover and keep it for formenting for 8 hours.","Grease idli cups with little oil.","Pour the batter in individual cups and steam for 30 minutes."]
                             }
                         ]
                     }
@@ -318,7 +318,7 @@
                         "Incredients": [ "4cups - raw rice","1cup - urad daal","1/2tsp. - yeast","Salt to taste","Jackfruit leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak daal and raw rice separately for 4-5 hours.","Grind the urad dàal to a finé paste.","Remove it to a big vessel.","Grind the soaked rice until bàttér is fine to a sooji consistency.","Remove and mix with urad batter, salt and yeast.","Mix well.","Cover and keep for for 8 hours.","Take four jackfruit leaves.","Keep them edge to edge and attach with fine sticks in the shape of a cup.","Fill the cups or gunda with idli batter.","Steam till cooked.","The leaves give a nice flavour to the idli." ]
+                                "Steps": [ "Wash and soak daal and raw rice separately for 4-5 hours.","Grind the urad dàal to a fine paste.","Remove it to a big vessel.","Grind the soaked rice until batter is fine to a sooji consistency.","Remove and mix with urad batter, salt and yeast.","Mix well.","Cover and keep for for 8 hours.","Take four jackfruit leaves.","Keep them edge to edge and attach with fine sticks in the shape of a cup.","Fill the cups or gunda with idli batter.","Steam till cooked.","The leaves give a nice flavour to the idli." ]
                             }
                         ],
                         "Note": "Moode is also done in the same way. Leaves used here are moode voli or long leaves with thorns. The thorns should be removed and the leaf turned round and shaped like a hollow pipe."
@@ -328,15 +328,15 @@
             {
                 "Id": "2.10",
                 "Title": "Masala Dosa",
-                "SubTitle": "Masal Dose",
+                "SubTitle": "Masale Dose",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa2.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa3.jpg?raw=true"],
-                        "Incredients": [ "2cups - dosa rice", "1/2cup - urad daal", "1/4cup - channa daal","1/4cup - toor daal","Salt to taste","Oil","For potato bhaji:", "4-6 - medium size potatoes","2tbsp. - mustard seeds","10-15 - curry leaves","4-5 - Green chillies(slitted)","Curry leaves","1inch - ginger(chopped)","1tbsp. - coriander leaves, finely chopped","Salt to taste","2 - onions,chopped"],
+                        "Incredients": [ "2cups - dosa rice", "1/2cup - urad daal", "1/4cup - channa daal","1/4cup - toor daal","Salt to taste","Oil","For potato bhaji:", "4-6 - medium size potatoes","1tsp.- mustard seeds","10-15 - curry leaves","4-5 - Green chillies(slitted)","1 inch - ginger(chopped)","1tbsp. - coriander leaves, finely chopped","Salt to taste","2 - onions,chopped"],
                         "Method": [
                             {
-                                "Steps": [ "To prepare dosa - wash and soak rice and daals seperately in water for 4-5 hours.","Then grind together to a fine paste.","Add salt to the batter which should be of dropping consistency.","Cover and keep aside for 8 hours.","Apply oil to the masala dosa tava and keep on fire.","When hot sprinkle little water on tava.","Stir batter and pour a spoonful on tava and spread quickly to make a thin flat round.","Pour little oil on top.","Cook it till crisp.","Put a spoonful of potato bhaji and a lump of butter in the centre of the dosa.", "Fold the dosa.","Serve hot with chutney.", "To prepare potato bhaji - boil the potatoes. After it cools, peel the skin and smash into small pieces. Heat oil, add mustard seeds. When they splutter add sliced onions, turmeric powder, tomato, ginger and curry leaves. Mix and cook. Add potatoes and salt, mix and cook for 5 minutes. Add coriander leaves and turn off the gas."]
+                                "Steps": [ "To prepare dosa - wash and soak rice and daals seperately in water for 4-5 hours.","Then grind together to a fine paste.","Add salt to the batter which should be of dropping consistency.","Cover and keep aside for 8 hours.","Apply oil to the masala dosa tava and keep on fire.","When hot, sprinkle little water on tava.","Stir batter and pour a spoonful on tava and spread quickly to make a thin flat round.","Pour little oil on top.","Cook it till crisp.","Put a spoonful of potato bhaji and a lump of butter in the centre of the dosa.", "Fold the dosa.","Serve hot with chutney.", "To prepare potato bhaji - boil the potatoes. After it cools, peel the skin and smash into small pieces. Heat oil, add mustard seeds. When they splutter add sliced onions, turmeric powder, tomato, ginger and curry leaves. Mix and cook. Add potatoes and salt, mix and cook for 5 minutes. Add coriander leaves and turn off the gas."]
                             }
                         ]
                     }
@@ -350,7 +350,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa3.jpeg?raw=true"],
-                        "Incredients": [ "2cups - jackfruit(without seeds) cut into pieces", "1/2kg - raw rice", "1/2 grated coconut","Salt to taste","Ghee/oil - for frying"],
+                        "Incredients": [ "2 cups - jackfruit(without seeds) cut into pieces", "1/2kg - raw rice", "1/2 coconut,grated","Salt to taste","Ghee/oil - for frying"],
                         "Method": [
                             {
                                 "Steps": [ "Wash and soak the rice for 2 hours.","Grind the rice with jackfruit, coconut and salt to a fine paste.","The batter should be thick.","Keep the dosa tava on fire.","Apply ghee or oil, pour a big spoonful of batter and spread it a little.","Cook both the sides."]
@@ -367,7 +367,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti2.jpeg?raw=true"],
-                        "Incredients": [ "3cups - rava", "3-4 - green chillies(finely chopped)","1 - big onion(finely chopped)","1/2 - grated coconut", "Salt to taste","Oil for frying"],
+                        "Incredients": [ "3 cups - rava", "3-4 - green chillies(finely chopped)","1 - big onion(finely chopped)","1/2 - grated coconut", "Salt to taste","Oil for frying"],
                         "Method": [
                             {
                                 "Steps": [ "Mix all ingredients with little water, make a thick batter.","Keep tava on fire, apply little oil, take a handful batter and spread to the tava.","Cook both the sides."]
