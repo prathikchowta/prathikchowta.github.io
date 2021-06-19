@@ -713,15 +713,15 @@
             {
                 "Id": "5.1",
                 "Title": "Tomato Rasam",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam2.jpeg?raw=true"],
-                        "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies", "1Tsp- Mustard", "1 - Pinch of Turmeric Powder", "1 - Sprig curry Leaves", "1piece - Ginger", "4-5flakes - garlic crushed", "Salt To Taste" ],
+                        "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies", "1tsp. - Mustard", "1 - Pinch of Turmeric Powder", "1 - Sprig curry Leaves", "1piece - Ginger", "4-5flakes - garlic crushed", "Salt To Taste" ],
                         "Method": [
                             {
-                                "Steps": [ "Fry oil and add Mustard Seeds in a pan.", "When they splutter add finely chopped Onion, turmeric powder, green chillies, crushed garlic and curry leaves.", "When it turns brown, add fine chopped tomatoes (smashed tamrind water if needed), piece of ginger.", "Add salt to taste.", "Then add 4 Glasses of water and leave it to boil.", "After it cooked garnish with chopped coriander leaves." ]
+                                "Steps": [ "Fry oil and add Mustard Seeds in a pan.", "When they splutter add finely chopped Onion, turmeric powder, green chillies, crushed garlic and curry leaves.", "When it turns brown, add fine chopped tomatoes(smashed tamrind water if needed), piece of ginger.", "Add salt to taste.", "Then add 4 Glasses of water and leave it to boil.", "After it cooked garnish with chopped coriander leaves." ]
                             }
                         ]
                     }
@@ -730,7 +730,7 @@
             {
                 "Id": "5.2",
                 "Title": "Plain Saar",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -738,7 +738,7 @@
                         "Incredients": [ "4 - Tomatoes", "4-5 Green Chillies", "Tamrind(size of 1 lime)" ],
                         "Method": [
                             {
-                                "Steps": [ "Grind together the ingredients to a fine paste.", "Fry oil in vessel.", "Add Mustard seeds when they splutter, add curry leaves then add the ground masala.", "Add pinch of Turmeric Powder.", "Add salt to taste.", "Add red chilly powder, 1 tea spoon of garam masala which gives good aroma.", "Leave it to boil.", "Garnish with coriander leaves" ]
+                                "Steps": [ "Grind together the ingredients to a fine paste.", "Fry oil in vessel.", "Add Mustard seeds when they splutter, add curry leaves then add the ground masala.", "Add pinch of Turmeric Powder.", "Add salt to taste.", "Add red chilly powder, 1 tea spoon of garam masala which gives good aroma.", "Leave it to boil.", "Garnish with coriander leaves and your Plain Saar is ready to serve." ]
                             }
                         ]
                     }
@@ -747,12 +747,12 @@
             {
                 "Id": "5.3",
                 "Title": "Jeera Rasam",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Jeerige Saar",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam2.jpeg?raw=true"],
-                        "Incredients": [ "5 - Long Red Chilly", "2Tbs.- Jeera", "3Tbs - Cooked Toovar Dal" ],
+                        "Incredients": [ "5 - Long Red Chilly", "2tbs. - Jeera", "3tbs. - Cooked Toovar Dal" ],
                         "Method": [
                             {
                                 "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
@@ -764,15 +764,15 @@
             {
                 "Id": "5.4",
                 "Title": "Plain Rasam",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true"],
-                        "Incredients": [ "1cup toordaal( washed& soaked)","1 - big Tomato","10-15 peppercorns (powdered)","salt to taste","6-8-garlic flakes crushed","1/4 tsp-turmeric powder"],
+                        "Incredients": [ "1cup toordaal(washed & soaked)","1 - big Tomato","10-15 peppercorns(powdered)","salt to taste","6-8 - garlic flakes crushed","1/4tsp - turmeric powder"],
                         "Method": [
                             {
-                                "Steps": [ "Boil the daal in 2-3 cups of water until well cooked,beat it well and keep aside", "Boil the tomato with 1 cup water,tamarind and salt until cooked.", "add the powdered peppercorns,crushed garlic and turmeric powder and boil", "Pour the cooked daal over it and remove", "Season with coconut oil,mustard seeds,broken red chilly and curry leaves to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
+                                "Steps": [ "Boil the daal in 2-3 cups of water until well cooked, beat it well and keep aside.", "Boil the tomato with 1 cup water, tamarind and salt until cooked.", "Add the powdered peppercorns, crushed garlic and turmeric powder and boil.", "Pour the cooked daal over it and remove.", "Season with coconut oil, mustard seeds, broken red chilly and curry leaves to a fine paste.", "Cook 2-3 finally chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
                             }
                         ]
                     }
@@ -780,16 +780,16 @@
             },
             {
                 "Id": "5.5",
-                "Title": "Dhal Saar",
-                "SubTitle": "Manjal Ereda Gatti",
+                "Title": "Dal Curry",
+                "SubTitle": "Dal Saar",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar2.jpeg?raw=true"],
-                        "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour", " 2- tomatoes chopped","1 piece ginger","1 big onion","8- green chillies slitted","Salt to taste","1tsp asafoetida powder" ],
+                        "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour", " 2 - tomatoes chopped","1 piece ginger","1 big onion","8 - green chillies slitted","Salt to taste","1tsp. asafoetida powder" ],
                         "Method": [
                             {
-                                "Steps": [ "Cook the daal in 3 to 4 cups water until soft", " Mix it well", "add chopped tomatoes,green chillies,finely chopped ginger, sliced onion,turmeric powder,asafoetida powder and salt to taste", "boil until cooked", "Add finely chopped coriander leaves.", "Season with oil,mustard seeds,curry leaves and broken red chilly" ]
+                                "Steps": [ "Cook the daal in 3 to 4 cups water until soft.", "Mix it well.", "Add chopped tomatoes, green chillies, finely chopped ginger, sliced onion, turmeric powder, asafoetida powder and salt to taste.", "Boil until cooked.", "Add finely chopped coriander leaves.", "Season with oil, mustard seeds, curry leaves and broken red chilly." ]
                             }
                         ]
                     }
@@ -798,16 +798,16 @@
             {
                 "Id": "5.6",
                 "Title": "Masala Sambar",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar2.jpeg?raw=true"],
-                        "Incredients": [ "1/2 cup -toordaal,washed and soaked in water", "cauliflower,beans,carrots,brinjal,drumsticks,sweet pumpkin(few pieces of each)", "3-4 -tomatoes", "oil for frying", "Salt to taste", "3-4- cups water"],
-                        "Masala": ["1 tbs.Channadaal", "1 tbs.-uraddaal", "1 tsp.-jeera", "1/2 tsp.-methi","1cup -coconut grated","1 tbs.- Coriander seeds","8- red chillies","1tbs.-ghee or oil","1tsp.-mustard seeds","10-15- curry leaves"],
+                        "Incredients": [ "1/2cup - toordaal(washed and soaked in water)", "cauliflower, beans, carrots, brinjal, drumsticks, sweet pumpkin(few pieces of each)", "3-4 - tomatoes", "Oil for frying", "Salt to taste", "3-4 - cups water"],
+                        "Masala": ["1tbs. - Channadaal", "1tbs.- uraddaal", "1tsp. - jeera", "1/2tsp. - methi","1cup - coconut grated","1tbs. - Coriander seeds","8 - red chillies","1tbs. - ghee or oil","1tsp. - mustard seeds","10-15 - curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Keep a Kadai on fire,Fry all the masala ingredients separately with little oil", "grind to a rough pastete,add little water", "Boil the toor daal with 3-4 cups of water", "add the cut vegetables", "add salt and cook", "add the ground masala and cook for 10-15 minutes"," season with ghee or oil,mustard seeds and curry leaves"]
+                                "Steps": [ "Keep a Kadai on fire, fry all the masala ingredients separately with little oil.", "Grind to a rough paste and add little water.", "Boil the toor daal with 3-4 cups of water.", "Add the cutted vegetables.", "Add salt and cook.", "Add the ground masala and cook for 10-15 minutes.","Season with ghee or oil, mustard seeds and curry leaves."]
                             }
                         ]
                     }
@@ -816,16 +816,16 @@
             {
                 "Id": "5.7",
                 "Title": "Plain Sambar",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar3.jpeg?raw=true"],
-                        "Incredients": [ "1 cup- toor daal", "1 small red cucumber( taute)", "10-12- sambar onions(small onions)", "1- tomato", "Salt to taste", "tamarind( size of a lime)","1 pinch- asafoetida powder"],
-                        "Masala": [ "7-8 -red chillies (roasted)", "11/2 tbs.coriander seeds(roasted)", "1 cup- grated coconut( roasted)"],
+                        "Incredients": [ "1 cup - toor daal", "1 small red cucumber(taute)", "10-12 - sambar onions(small onions)", "1 - tomato", "Salt to taste", "tamarind(size of a lime)","1 pinch - asafoetida powder"],
+                        "Masala": [ "7-8 - red chillies(roasted)", "1&1/2tbs. - coriander seeds(roasted)", "1cup - grated coconut(roasted)"],
                         "Method": [
                             {
-                                "Steps": [ "Grind together the masala ingredients to a coarse paste","Boil the daal in 1 cup of water","Cook the cucumber with onions,tamarind, tomato,salt and asfoetida powder"," add the cooked daal to the vegetable mixture","add the ground masala and boil for 10-15 minutes "," Season with coconut oil,mustard seeds, broken red chilly and curry leaves"] 
+                                "Steps": [ "Grind together the masala ingredients to a coarse paste.","Boil the daal in 1 cup of water.","Cook the cucumber with onions, tamarind, tomato, salt and asfoetida powder.","Add the cooked daal to the vegetable mixture.","Add the ground masala and boil for 10-15 minutes.","Season with coconut oil, mustard seeds, broken red chilly and curry leaves."] 
                             }
                         ]
                     }
