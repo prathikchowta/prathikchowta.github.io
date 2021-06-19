@@ -527,20 +527,20 @@
         "Id": "4",
         "Title": "Chutney Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/chutney.jpeg",
-        "Count": "7",
+        "Count": "10",
         "RecipesList": [
             {
                 "Id": "4.1",
                 "Title": "Coconut Chutney",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Thaarayida Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CocChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CocChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CocChutney2.jpeg"],
-                        "Incredients": [ "1/2 -grated coconut", "2 - green chillies", "1 - red chilly(for seasoning)", "tamarind(size of its seed)", "Salt to taste", "1/4 ginger", "1 sprig curry leaves"],
+                        "Incredients": [ "1/2 - grated coconut", "2 - green chillies", "1 - red chilly(for seasoning)", "tamarind(size of its seed)", "Salt to taste", "1/4 ginger", "1 sprig curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Grind all the ingredients to a coarse rough paste with a little water.", "Season with oil,mustard seeds,urad daal,red chilly and curry leaves."]
+                                "Steps": [ "Grind all the ingredients to a coarse rough paste with a little water.", "Season with oil, mustard seeds, urad daal, red chilly and curry leaves."]
                             }
                         ]
                     }
@@ -549,33 +549,33 @@
             {
                 "Id": "4.2",
                 "Title": "Red Chutney",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kempu Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney1.jpeg"],
-                        "Incredients": [ "1/2- grated coconut", "2-3- long red chillies", "1 tsp.- mustard seeds", "1sprig -curry leaves", "1 tsp- urad daal", "4-5 -garlic flakes","salt to taste","tamarind (size of its seed)"],
+                        "Incredients": [ "1/2 - grated coconut", "2-3 - long red chillies", "1tsp. - mustard seeds", "1sprig - curry leaves", "1tsp - urad daal", "4-5 - garlic flakes","Salt to taste","Tamarind(size of its seed)"],
                         "Method": [
                             {
-                                "Steps": [ "Fry oil in small pan with mustard seeds,red chillies, crushed garlic and curry leaves", "Grind with coconut, salt and tamarind, add little water" ],
-                                "Note": "Note: Serve with Dosa,Apaam and Idli"
+                                "Steps": [ "Fry oil in small pan with mustard seeds, red chillies, crushed garlic and curry leaves.", "Grind with coconut, salt and tamarind, add little water." ]
                             }
-                        ]
+                        ],
+                        "Note": "Serve with Dosa, Apaam and Idli"
                     }
                 ]
             },
             {
                 "Id": "4.3",
                 "Title": "Garlic Chutney",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Bolluli Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/GarlicChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/GarlicChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/GarlicChutney2.jpeg"],
-                        "Incredients": [ "1/2-Grated coconut", "3-long red chillies", "1tsp.-mustard seeds", "25- garlic flakes", "Salt to taste", "tamarind sizé of its seed","2 sprig curry leaves"],
+                        "Incredients": [ "1/2 - Grated coconut", "3 - long red chillies", "1tsp. - mustard seeds", "25 - garlic flakes", "Salt to taste", "Tamarind sizé of its seed","2 sprig curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Fry mustard seeds,red chillies, crushed garlic and curry leaves with oil", " Grind all the ingredients with tamarind and salt to a rough paste"]
+                                "Steps": [ "Fry mustard seeds, red chillies, crushed garlic and curry leaves with oil.", "Grind all the ingredients with tamarind and salt to a rough paste."]
                             }
                         ]
                     }
@@ -584,15 +584,15 @@
             {
                 "Id": "4.4",
                 "Title": "Raw Mango Chutney",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kukku Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RawMangoChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RawMangoChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RawMangoChutney2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RawMangoChutney3.jpeg" ],
-                        "Incredients": [ "1/2 grated coconut", "1 raw mango", "2-3 green chillies", "Salt to taste", "little water"],
+                        "Incredients": [ "1/2 grated coconut", "1 raw mango", "2-3 green chillies", "Salt to taste", "Little water"],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of raw mango", "cut into pieces", "grind with the ingredients"]
+                                "Steps": [ "Peel the skin of raw mango.", "Cut into pieces.", "Grind with the ingredients."]
                             }
                         ]
                     }
@@ -601,15 +601,15 @@
             {
                 "Id": "4.5",
                 "Title": "Ripe Mango Chutney",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kaai Kukku Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RipeMangoChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RipeMangoChutney1.jpeg"],
-                        "Incredients": [ "1/2-grated coconut", "4-5 - ripe mangoes", "3-red chillies(fried)", "1tsp.- mustard seeds", "salt to taste", "3- garlic flakes"],
+                        "Incredients": [ "1/2 - grated coconut", "4-5 - ripe mangoes", "3 - red chillies(fried)", "1tsp. - mustard seeds", "Salt to taste", "3 - garlic flakes"],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of mangoes", "cut into pieces", "keep in a bowl", "Grind the other ingredient and mix it with mango pieces"]
+                                "Steps": [ "Peel the skin of mangoes.", "Cut into pieces and keep in a bowl.", "Grind the other ingredient and mix it with mango pieces."]
                             }
                         ]
                     }
@@ -618,15 +618,15 @@
             {
                 "Id": "4.6",
                 "Title": "Curry Leaves Chutney",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Bevu soppu Chutney",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney2.jpeg"],
-                        "Incredients": [ "1 cup-curry leaves", "1/2-grated or dry coconut", "3-red chillies", "tamarind- small ball", "Salt to taste"],
+                        "Incredients": [ "1cup - curry leaves", "1/2 - grated or dry coconut", "3 - red chillies", "tamarind - small ball", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Heat oil in a Kadai", "Fry red chillies,curry leaves and coconut", "Grind it with tamarind and salt,don't add water(dry)", "put it in a clean bottle", "can be stored for many days"]
+                                "Steps": [ "Heat oil in a Kadai.", "Fry red chillies, curry leaves and coconut.", "Grind it with tamarind and salt, don't add water(Let it be in dry state).", "Put it in a clean bottle.", "Can be stored for many days."]
                             }
                         ]
                     }
@@ -640,10 +640,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
-                        "Incredients": [ "3-Ridge gourd's skin ,cleaned & chopped fine", "1/2- grated coconut", "3- garlic flakes", "6- red chillies roased", "1tsp-urad daal,roasted", "1 tsp-mustard seeds,roasted","tamarind-small ball","salt to taste"],
+                        "Incredients": [ "3 - Ridge gourd's skin, cleaned & chopped fine", "1/2 - grated coconut", "3 - garlic flakes", "6 - red chillies roased", "1tsp - urad daal(roasted)", "1 tsp - mustard seeds(roasted)","Tamarind - small ball","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "cook the chopped ridgegourd gourd skins in a cup of water", "drain the water", "grind together all the inhredients", "Season with oil,mustard seeds,red chilly (broken) and curry leaves"]
+                                "Steps": [ "Cook the chopped ridgegourd gourd skins in a cup of water.", "Drain the water and grind together all the ingredients.", "Season with oil, mustard seeds, red chilly(broken) and curry leaves."]
                             }
                         ]
                     }
@@ -657,10 +657,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RidgeGrdChutney2.jpeg" ],
-                        "Incredients": [ "1 1/2 cups- Brahmi leaves with roots cleaned properly  and chopped", "1/2- Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind ( size of a small lime)", "1 tbsp. - cooked rice","Jaggery - 1 small piece"],
+                        "Incredients": [ "2cups - Brahmi leaves with roots cleaned properly and chopped", "1/2 - Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind( size of a small lime)", "1tbsp. - cooked rice","Jaggery - 1 small piece"],
                         "Method": [
                             {
-                                "Steps": [ "Grind the ingredients all together to a fine thick paste","Note: Good for memory."]
+                                "Steps": [ "Grind the ingredients all together to a fine thick paste.", "Note: Good for memory."]
                             }
                         ]
                     }
