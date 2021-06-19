@@ -895,17 +895,19 @@
             {
                 "Id": "6.1",
                 "Title": "Whole Bengal Gram & Tendli Sukka",
-                "SubTitle": "Kadle,Manoli Sukka",
+                "SubTitle": "Kadle, Manoli Sukka",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4 kg.-Bengal gram,soaked overnight", "1/2 kg -Tendli", "1/2- grated coconut", "1-onion", "salt to taste", "For Masala- 10-red chillies(mix)roasted", "2 tsp.- coriander seeds,roasted", "1tsp-jeera roasted", "1/4tsp-methi roasted","1pinch-turmeric powder"," tamarind size of its seed"],
+                        "Incredients": [ "1/4kg. - Bengal gram(soaked overnight)", "1/2kg - Tendli(Manoli)", "1/2 - grated coconut", "1 - onion", "Salt to taste" ],
+                        "Masala": [ "10 - red chillies(mix)roasted", "2tsp. - coriander seeds, roasted", "1tsp - jeera roasted", "1/4tsp - methi roasted","1pinch - turmeric powder","Tamarind size of its seed"],
                         "Method": [
                             {
-                                "Steps": [ "Cook Bengal gram and tendli in just enough water with salt","Grind the masala ingredients together to a fine paste", "Then add coconut and grind to a coarse paste", "Fry a pan with oil,mustard seeds,sliced onion,crushed 4 flakes of garlic,curry leaves,1spoon urad daal", "Fry the ground masala","after its raw smell goes,add cooked Bengal gram & tendli,mix it well","cover the lid and cook for 5 minutes","Note-same type of sukka can be prepared with different combination-Bengal gram & Raw Jackfruit, Bengal gram & Yam"]
+                                "Steps": [ "Cook Bengal gram and tendli in just enough water with salt.","Grind the masala ingredients together to a fine paste.", "Then add coconut and grind to a coarse paste.", "Fry a pan with oil, mustard seeds, sliced onion, crushed 4 flakes of garlic, curry leaves, 1spoon urad daal.", "Fry the ground masala.","After its raw smell goes, add cooked Bengal gram & tendli, mix it well.","Cover the lid and cook for 5 minutes."]
                             }
-                        ]
+                        ],
+                         "Note": "Same type of sukka can be prepared with different combination - Bengal gram & Raw Jackfruit, Bengal gram & Yam"
                     }
                 ]
             },
@@ -917,7 +919,8 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "6inch piece of plantain stem", "salt to taste", "For Masala-6-red chillies roasted","1tbsp.-coriander seeds roasted"," 1tsp.-methi,mustard and jeera","1/4 coconut scraped"],
+                        "Incredients": [ "6inch piece of plantain stem", "Salt to taste"],
+                        "Masala": [ "6 - red chillies roasted","1tbsp. - coriander seeds roasted"," 1tsp. - methi, mustard and jeera","1/4 coconut scraped"],
                         "Method": [
                             {
                                 "Steps": [ "Peel off the outer skin of the plantain stem and cut into round pieces"," Then cut each round into small pieces","the loose fibres obtained after each slice is cut should be discarded","boil in very little water with salt till tender","Grind together masala ingredients except coconut to a fine paste", "add scraped coconut and grind to a coarse paste","add it to the cooked plantain stem","cook it for 10 to 15 minutes on a slow fire","season with oil,mustard seeds, curry leaves and crushed garlic."]
