@@ -930,10 +930,10 @@
                 "Id": "6.1",
                 "Title": "Whole Bengal Gram & Tendli Sukka",
                 "SubTitle": "Kadle, Manoli Sukka",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/KadleManoli1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/KadleManoli1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/KadleManoli2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/KadleManoli3.jpg" ],
                         "Incredients": [ "1/4kg. - Bengal gram(soaked overnight)", "1/2kg - Tendli(Manoli)", "1/2 - grated coconut", "1 - onion", "Salt to taste" ],
                         "Masala": [ "10 - red chillies(mix)roasted", "2tsp. - coriander seeds, roasted", "1tsp - jeera roasted", "1/4tsp - methi roasted","1pinch - turmeric powder","Tamarind size of its seed"],
                         "Method": [
@@ -949,10 +949,10 @@
                 "Id": "6.2",
                 "Title": "Plantain Stem Sukka",
                 "SubTitle": "Bambe Ajadina",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainStem1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainStem1.jpeg"],
                         "Incredients": [ "6inch piece of plantain stem", "Salt to taste"],
                         "Masala": [ "6 - red chillies(roasted)","1tbsp. - coriander seeds(roasted)","1tsp. - methi, mustard and jeera","1/4 coconut scraped"],
                         "Method": [
@@ -967,10 +967,10 @@
                 "Id": "6.3",
                 "Title": "Plantain flower bud sukka",
                 "SubTitle": "Poombe Ajadina",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainFlower1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainFlower1.jpeg"],
                         "Incredients": [ "Plantain flower bud", "Salt to taste" ],
                         "Masala": [ "4 Chillies roasted"," 1/4 - grated coconut","2tsp. - coriander seeds roasted","1tsp. - mustard, jeera & methi","1pinch - turmeric powder","Tamarind size of its seed","Salt to taste","1 - onion","1 piece of jaggery"],
                         "Method": [
@@ -985,10 +985,10 @@
                 "Id": "6.4",
                 "Title": "Raw Jackfruit(In salt water)",
                 "SubTitle": "Uppad Pachir",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir2.jpeg" ],
                         "Incredients": [ "1/4kg raw jackfruit, cut and soaked in salt water","Salt to taste"],
                         "Masala": [ "6-7 - red chillies(roasted)","2tbsp. - coriander seeds(roasted)","1tsp. - jeera","1/4tsp. - turmeric powder","4 - garlic flakes","1/2 grated coconut","1-onion" ],
                         "Method": [
@@ -1003,10 +1003,10 @@
                 "Id": "6.5",
                 "Title": "Raw Jackfruit Sukka",
                 "SubTitle": "Gujje Ajadina",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawJackfruit1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawJackfruit1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawJackfruit2.jpg" ],
                         "Incredients": [ "1 - small raw jackfruit","Salt to taste","Jaggery - size of a half lime"],
                         "Masala": [ "15-20 red chillies","2tbsp. - coriander seeds(roasted)","2tsp. - jeera(roasted)","1sprig - curry leaves","1tsp. - urad daal","Tamarind size of its seed","1/4tsp. - Turmeric powder","6 - flakes garlic","1 - coconut grated","1 - onion" ],
                         "Method": [
@@ -1021,10 +1021,10 @@
                 "Id": "6.6",
                 "Title": "Raw Banana Sukka",
                 "SubTitle": "Baareda Kaai Ajadina",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawBanana1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawBanana1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawBanana2.jpeg" ],
                         "Incredients": [ "4 - raw bananas(skinned and cut into medium pieces and soaked in water)","Tamarind - size of 1/2lime(soaked in water)","Salt to taste" ],
                         "Masala": ["1/2 grated coconut","6-8 red chillies(roasted)","1tbsp. - coriander seeds(roasted)","1/4tsp. - jeera","1/4tsp. - turmeric powder","4 - garlic flakes"],
                         "Method": [
