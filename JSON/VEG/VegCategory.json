@@ -16,7 +16,7 @@
                         "Incredients": [ "12-15 - Turmeric leaves","1/2kg - Boiled rice(soaked in water for 4 -6 hours)", "Salt to taste", "For filling:", "1 coconut(grated)", "1/2kg - jaggery(grated)", "4 cardamoms(powdered)" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash and wipe the turmeric leaves to make it dry.","Grind the rice with salt to taste and just add enough water to a fine paste.", "Remove the prepared paste and apply evenly on each turmeric leaf.", "Mix the filling ingredients.", "Place one spoon on top and fold the leaves into half.", "Steam them till cooked in an Idli cooker."]
+                                "Steps": [ "Wash and wipe the turmeric leaves to make it dry.", "Grind the rice with salt to taste and just add enough water to a fine paste.", "Remove the prepared paste and apply evenly on each turmeric leaf.", "Mix the filling ingredients.", "Place one spoon on top and fold the leaves into half.", "Steam them till cooked in an Idli cooker."]
                             }
                         ]
                     }
@@ -33,12 +33,12 @@
                         "Incredients": [ "20-30 - Jackfruit leaves", "1/2kg - Boiled rice, washed and soaked in water for 4 hours", "Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and wipe the jackfruit leaves","Grind the rice with salt and just enough water to a fine paste", "The same covering and filling of turmeric leaf gatti can be used in different ways", "Take jackfruit leaves and shape them into cones", "Apply paste inside each leaf and fill it with coconut & jaggery mix", "then close the top with a little more paste and steam till cooked."]
+                                "Steps": [ "Wash and wipe the jackfruit leaves", "Grind the rice with salt and just enough water to a fine paste", "The same covering and filling of turmeric leaf gatti can be used in different ways", "Take jackfruit leaves and shape them into cones", "Apply paste inside each leaf and fill it with coconut & jaggery mix", "then close the top with a little more paste and steam till cooked."]
                             }
                         ]
                     }
                 ]
-            },f
+            }
             {
                 "Id": "1.3",
                 "Title": "Jackfruit Gatti",
@@ -83,13 +83,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade3.jpeg" ],
-                        "Incredients": [ "200gms. - urad daal, wash and soak for 6 hours", "1kg. - boiled rice, wash & soak for 4 hours", "6 - red chillies,roasted", "2tbsp. - coriander seeds,roasted", "Salt to taste", "Tamarind - size of a lime", "1tsp. - Turmeric powder", "20-25 colacasia leaves(thevu)", "10 - tekki leaves", "For Gravy:", "1 - grated coconut", "4 - dry red chillies", "2tsp. - coriander seeds,roasted", "2 - onions chopped", "salt to taste","2tsp - ghee or oil for seasoning"],
+                        "Incredients": [ "200gms. - urad daal, wash and soak for 6 hours", "1kg. - boiled rice, wash & soak for 4 hours", "6 - red chillies,roasted", "2tbsp. - coriander seeds,roasted", "Salt to taste", "Tamarind - size of a lime", "1tsp. - Turmeric powder", "20-25 colacasia leaves(thevu)", "10 - tekki leaves", "For Gravy: "1 - grated coconut", "4 - dry red chillies", "2tsp. - coriander seeds,roasted", "2 - onions chopped", "salt to taste","2tsp - ghee or oil for seasoning"],
                         "Method": [
                             {
                                 "Steps": [ "Grind urad daal and keep aside", "Grind rice finely with coriander seeds, chillies, tamarind, turmeric powder and salt", "Finely chop colacasia leaves and and mix well into the rice and urad paste", "Put 2 spoonful into a tekki leaves", "Cover and steam for 45 minutes", "Remove from fire and let it cool", "To prepare Gravy: Grind coconut with chillies, coriander seeds and turmeric", "Add enough water, salt and 1 chopped onion and keep it to boil", "Cut the patrade rolls into 1/2 inch rounds and add to gravy","Boil again for 1 minute", "Season with 1 finely chopped onion in ghee or oil." ]
                             }
                         ],
-                        "Note": "Patrade can be eaten without gravy. For that you can cut patrade into 1/2 inch rounds. Fry it on the tava with ghee and its ready to serve hot"
+                        "Note": "Patrade can be eaten without gravy. For that you can cut patrade into 1/2 inch rounds. Fry it on the tava with ghee and serve hot"
                     }
                 ]
             },
@@ -104,7 +104,7 @@
                         "Incredients": [ "2 - cucumbers, skinned and cut into pieces", "3cups - raw rice, washed and soaked in water for 1 hour", "1/2 - grated coconut", "4-5 - cardamoms", "250gms. - jaggery", "salt to taste", "2 - plantain leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Grind together rice, coconut, cucumber, little water, salt and jaggery", "Batter should be thick", "Keep a Idli cooker or Steam vessel(tondoru) on fire", "Keep 2 plantain leaves inside the vessel, pour the batter on it", "Close the lid and cook for 30 minutes","Pierce with a knife to see if it is cooked","After it becomes cooled, cut into pieces and serve" ]
+                                "Steps": [ "Grind together rice, coconut, cucumber, little water, salt and jaggery", "Batter should be thick", "Keep a Idli cooker or Steam vessel(tondoru) on fire", "Keep 2 plantain leaves inside the vessel, pour the batter on it", "Close the lid and cook for 30 minutes","Pierce with a knife to see if it is cooked","After it cools, cut into pieces and serve" ]
                             }
                         ],
                         "Note": "Instead of cucumber, bottleguard can be used."
@@ -153,7 +153,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1Cup - Boiled Rice", "3Cups - Raw Rice", "2 - Tender Coconut, grated or extracted milk from tender coconut", "8-10 - Peppecorns", "1tsp. - Jeera", "1tsp. - coriander seeds", "1/4tsp. - Oama", "1/2Kg - Jaggery", "Salt to taste", "1tsp. - Cardamom powder", "1 tbsp. - Ghee", "50gms - Cashews", "50gms - Raisins"],
+                        "Incredients": [ "1Cup - Boiled Rice", "3 Cups - Raw Rice", "2 - Tender Coconut, grated or extracted milk from tender coconut", "8-10 - Peppecorns", "1tsp. - Jeera", "1tsp. - coriander seeds", "1/4tsp. - Oama", "1/2Kg - Jaggery", "Salt to taste", "1tsp. - Cardamom powder", "1 tbsp. - Ghee", "50gms - Cashews", "50gms - Raisins"],
                         "Method": [
                             {
                                 "Steps": [ "Wash and soak the rice seperately for 4-6 hours", "Grind the rice with salt and little water to a thick paste and keep aside", "Grind tender coconut with pepper corns, coriander, jeera and oama (masala ingredients optional) to a very fine paste", "Remove it to a thick bottomed vessel", "Batter should be thin consistency", "Boil it with salt and jaggery", "Place a perforated vessel (Saarne adye kudupu), put a ladleful of rice paste to a plate and press", "Stir gently and cook", "Repeat the same process till the rice paste empties", "Cook with low flame", "Add salt & jaggery if necessary", "Add cardamom powder", "Fry Cashews and raisins with ghee (optional), add it to the prepared Adye" ]
@@ -336,7 +336,7 @@
                         "Incredients": [ "2cups - dosa rice", "1/2cup - urad daal", "1/4cup - channa daal","1/4cup - toor daal","Salt to taste","Oil","For potato bhaji:", "4-6 - medium size potatoes","1tsp.- mustard seeds","10-15 - curry leaves","4-5 - Green chillies(slitted)","1 inch - ginger(chopped)","1 - tomato,chopped", "1tbsp. - coriander leaves, finely chopped","Salt to taste","2 - onions,chopped","1/4tsp.- turmeric powder"],
                         "Method": [
                             {
-                                "Steps": [ "To prepare dosa - Wash and Soak rice and daals seperately in water for 4-5 hours.","Then grind together to a fine paste.","Add salt to the batter which should be of dropping consistency.","Cover and keep aside for 8 hours.","Apply oil to the masala dosa tava and keep on fire.","When hot, sprinkle little water on tava.","Stir batter and pour a spoonful on tava and spread quickly to make a thin flat round.","Pour little oil on top.","Cook it till crisp.","Put a spoonful of potato bhaji and a lump of butter in the centre of the dosa.", "Fold the dosa.","Serve hot with chutney.", "To prepare potato bhaji - boil the potatoes. After it cools, peel the skin and smash into small pieces. Heat oil, add mustard seeds. When they splutter add sliced onions, turmeric powder, green chillies, tomato, ginger and curry leaves. Mix and cook. Add potatoes and salt, mix and cook for 5 minutes. Add coriander leaves and turn off the gas."]
+                                "Steps": [ "To prepare dosa - Wash and Soak rice and daals seperately in water for 4-5 hours.","Then grind together to a fine paste.","Add salt to the batter which should be of dropping consistency.","Cover and keep aside for 8 hours.","Apply oil to the masala dosa tava and keep on fire.","When hot, sprinkle little water on tava.","Stir batter and pour a spoonful on tava and spread quickly to make a thin flat round.","Pour little oil on top.","Cook it till crisp.","Put a spoonful of potato bhaji and a lump of butter in the centre of the dosa.", "Fold the dosa.","Serve hot with chutney.", "To prepare potato bhaji - Boil the potatoes. After it cools, peel the skin and smash into small pieces. Heat oil, add mustard seeds. When they splutter, add sliced onions, turmeric powder, green chillies, tomato, ginger and curry leaves. Mix and cook. Add potatoes and salt, mix and cook for 5 minutes. Add coriander leaves and turn off the gas."]
                             }
                         ]
                     }
@@ -426,10 +426,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
-                        "Incredients": [ "2Cups - Maida", "1/2litre - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
+                        "Incredients": [ "2Cups - Maida", "1/2 litre - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Take a vessel, mix all the ingredients.", "Make a soft batter and keep aside for 4 hours.", "Heat the oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
+                                "Steps": [ "Take a vessel, mix all the ingredients.", "Make a soft batter and keep aside for 4 hours.", "Heat oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
                             }
                         ]
                     }
@@ -460,7 +460,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/OnionPakoda1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/OnionPakoda2.jpeg" ],
-                        "Incredients": [ "4-6 - Onion,finely slices", "2Cups - Bengal gram flour", "2tsp. - Red chilly powder", "Salt to taste", "1/4tsp. - Turmeric powder", "1 Red chilly - Chopped", "1 sprig - Curry leaves", "Oil for frying"],
+                        "Incredients": [ "4-6 - Onion,finely sliced", "2Cups - Bengal gram flour", "2tsp. - Red chilly powder", "Salt to taste", "1/4tsp. - Turmeric powder", "1 Red chilly - Chopped", "1 sprig - Curry leaves", "Oil for frying"],
                         "Method": [
                             {
                                 "Steps": [ "Mix together all the ingredients, add little water and make a thick paste.", "Take a mixture at a time and deep fry in oil till brown and crisp.", "Serve hot." ]
@@ -512,7 +512,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/PotatoAmbade1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/PotatoAmbade2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/PotatoAmbade3.jpeg" ],
-                        "Incredients": [ "1/2Kg. - Potatoes", "Salt to taste", "6-7 - Green Chillies(chopped)", "1tsp. - Chilly powder",  "1 inch - ginger,finely chopped", "4 - Garlic flakes,finely chopped", "2tsp. - Coriander leaves(chopped)", "1/4kg - Besan", "1tbsp. - Curry leaves"],
+                        "Incredients": [ "1/2Kg. - Potatoes", "Salt to taste", "6-7 - Green Chillies(chopped)", "1tsp. - Chilly powder", "1 inch - ginger,finely chopped", "4 - Garlic flakes,finely chopped", "2tsp. - Coriander leaves(chopped)", "1/4kg - Besan", "1tbsp. - Curry leaves"],
                         "Method": [
                             {
                                 "Steps": [ "Boil, peel and mash the potatoes.", "Add salt, chopped green chillies, ginger, garlic, curry leaves and coriander leaves.", "Mix well and form into small vadas and keep aside.", "Take besan, chilly powder and a pinch of salt.", "Mix with water and make a thick batter.", "Dip the vadas in this batter and deep fry in hot oil.", "Serve with chutney."] 
@@ -588,10 +588,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney1.jpeg"],
-                        "Incredients": [ "1/2 - grated coconut", "2-3 - long red chillies", "1tsp. - mustard seeds", "1sprig - curry leaves", "1tsp - urad daal", "4-5 - garlic flakes","Salt to taste","Tamarind(size of its seed)"],
+                        "Incredients": [ "1/2 - grated coconut", "2-3 - long red chillies", "1 - Onion(cut)", "1tsp. - mustard seeds", "1sprig - curry leaves", "1tsp - urad daal", "4-5 - garlic flakes","Salt to taste","Tamarind(size of its seed)"],
                         "Method": [
                             {
-                                "Steps": [ "Fry oil in small pan with mustard seeds, red chillies, crushed garlic and curry leaves.", "Grind with coconut, salt and tamarind, add little water", "Mix and serve."]
+                                "Steps": [ "Fry oil in small pan with mustard seeds, red chillies, onion, crushed garlic and curry leaves.", "Grind with coconut, salt and tamarind, add little water", "Mix and serve."]
                             }
                         ],
                         "Note": "Serve with Dosa, Apaam and Idli"
@@ -609,7 +609,7 @@
                         "Incredients": [ "1/2 - Grated coconut", "3 - long red chillies", "1tsp. - mustard seeds", "25 - garlic flakes", "Salt to taste", "Tamarind size of its seed","2 sprig curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Fry mustard seeds, red chillies, crushed garlic and curry leaves with oil.", "Grind all the ingredients with tamarind and salt to a rough paste."," Note: Serve with Chapathi."]
+                                "Steps": [ "Fry mustard seeds, red chillies, crushed garlic and curry leaves with oil.", "Grind all the ingredients with coconut, tamarind and salt to a rough paste.", "Note: Serve with Chapathi."]
                             }
                         ]
                     }
@@ -643,7 +643,7 @@
                         "Incredients": [ "1/2 - grated coconut", "4-5 - ripe mangoes", "3 - red chillies(fried)", "1tsp. - mustard seeds", "Salt to taste", "3 - garlic flakes"],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of mangoes.", "Cut into pieces and keep in a bowl.", "Grind the other ingredient and mix it with mango pieces."]
+                                "Steps": [ "Peel the skin of mangoes.", "Cut into pieces and keep in a bowl.", "Grind the other ingredients and mix it with mango pieces."]
                             }
                         ]
                     }
@@ -694,9 +694,9 @@
                         "Incredients": [ "2 cups - Brahmi leaves with roots cleaned properly and chopped", "1/2 - Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind(size of a small lime)", "1tbsp. - cooked rice", "Jaggery - 1 small piece"],
                         "Method": [
                             {
-                                "Steps": [ "Grind the ingredients all together to a fine thick paste."]
+                                "Steps": [ "Grind the ingredients all together to a fine thick paste."],
                             }
-                        ],
+                        ]
                         "Note": "Brahmi Leaves Chutney is good for memory."
                     }
                 ]
@@ -772,7 +772,7 @@
                         "Incredients": [ "4 - Tomatoes", "4-5 Green Chillies", "Tamrind(size of 1 lime)" ],
                         "Method": [
                             {
-                                "Steps": [ "Grind together the ingredients to a fine paste.", "Fry oil in vessel.", "Add Mustard seeds when they splutter, add curry leaves then add the ground masala.", "Add pinch of Turmeric Powder.", "Add salt to taste.", "Add red chilly powder, 1 tea spoon of garam masala which gives good aroma.", "Leave it to boil.", "Garnish with coriander leaves and your Plain Saar is ready to serve." ]
+                                "Steps": [ "Grind together the ingredients to a fine paste.", "Fry oil in vessel.", "Add Mustard seeds when they splutter, add curry leaves then add the ground masala.", "Add pinch of Turmeric Powder.", "Add salt to taste.", "Add red chilly powder, 1 tea spoon of garam masala which gives good aroma.", "Leave it to boil.", "Garnish with coriander leaves" ].
                             }
                         ]
                     }
@@ -789,7 +789,7 @@
                         "Incredients": [ "5 - Long Red Chilly", "2tbs. - Jeera", "3tbs. - Cooked Toovar Dal" ],
                         "Method": [
                             {
-                                "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finely chopped tomatoes with water.", "Add salt to taste.", "1 Teaspoon turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
+                                "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finely chopped tomatoes with water.", "Add salt to taste.", "1/4 tsp.turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
                             }
                         ]
                     }
@@ -820,7 +820,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar2.jpeg?raw=true"],
-                        "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour", " 2 - tomatoes chopped","1 piece ginger","1 big onion","8 - green chillies slitted","Salt to taste","1tsp. asafoetida powder(Hing)" ],
+                        "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour", "2 - tomatoes chopped", "1 piece ginger", "1 big onion", "8 - green chillies slitted", "Salt to taste", "1tsp. asafoetida powder(Hing)" ],
                         "Method": [
                             {
                                 "Steps": [ "Cook the daal in 3 to 4 cups water until soft.", "Mix it well.", "Add chopped tomatoes, green chillies, finely chopped ginger, sliced onion, turmeric powder, asafoetida powder and salt to taste.", "Boil until cooked.", "Add finely chopped coriander leaves.", "Season with oil, mustard seeds, curry leaves and broken red chilly." ]
@@ -837,11 +837,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar2.jpeg?raw=true"],
-                        "Incredients": [ "1/2cup - toordaal(washed and soaked in water)", "cauliflower, beans, carrots, brinjal, drumsticks, sweet pumpkin(few pieces of each)", "3-4 - tomatoes", "Oil for frying", "Salt to taste", "3-4 - cups water"],
-                        "Masala": ["1tbs. - Channadaal", "1tbs.- uraddaal", "1tsp. - jeera", "1/2tsp. - methi","1cup - coconut grated","1tbs. - Coriander seeds","8 - red chillies","1tbs. - ghee or oil","1tsp. - mustard seeds","10-15 - curry leaves"],
+                        "Incredients": [ "1/2cup - toordaal(washed and soaked in water)", "cauliflower, beans, carrots, brinjal, drumsticks, sweet pumpkin(few pieces of each)", "3-4 - tomatoes,sliced", "Oil for frying", "Salt to taste", "3-4 - cups water"],
+                        "Masala": ["1tbsp. - Channadaal", "1tbsp.- uraddaal", "1tsp. - jeera", "1/2tsp. - methi", "1cup - coconut grated", "1tbs. - Coriander seeds", "8 - red chillies", "1tbs. - ghee or oil", "1tsp. - mustard seeds", "10-15 - curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Keep a Kadai on fire, fry all the masala ingredients separately with little oil.", "Grind to a rough paste and add little water.", "Boil the toor daal with 3-4 cups of water.", "Add the cut vegetables.", "Add salt and cook.", "Add the ground masala and cook for 10-15 minutes.","Season with ghee or oil, mustard seeds and curry leaves."]
+                                "Steps": [ "Keep a Kadai on fire, fry all the masala ingredients separately with little oil.", "Grind to a rough paste and add little water.", "Boil the toor daal with 3-4 cups of water.", "Add the cut vegetables.", "Add salt and cook.", "Add the ground masala and cook for 10-15 minutes.", "Season with ghee or oil, mustard seeds and curry leaves."]
                             }
                         ]
                     }
