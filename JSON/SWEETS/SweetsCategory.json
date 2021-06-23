@@ -8,10 +8,10 @@
             {
                 "Id": "1.1",
                 "Title": "Sheera",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
                         "Incredients": [ "1 Cup - Bombay Rava", "3/4 Cups - Sugar", "4tbsp. - Ghee", "4 Cups - Milk or water", "1 tbsp.- Cashew nuts", "1 tbsp.- Raisins( dry grapes)", "1tsp.- Cardamom, powdered", "5-6 - Safron,mixed in little milk", "1 pinch - Salt" ],
                         "Method": [
                             {
@@ -24,10 +24,10 @@
             {
                 "Id": "1.2",
                 "Title": "Carrot Halwa",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa2.jpeg" ],
                         "Incredients": [ "1 Kg. - Carrot", "3tbsp. - Ghee", "100gms.- Cashew nuts", "50 gms - Raisins", "20gms - almonds,chopped", "10 - Pistachios,chopped", "450 gms - Sugar", "1/2 liter - Milk" ],
                         "Method": [
                             {
@@ -40,10 +40,10 @@
             {
                 "Id": "1.3",
                 "Title": "White Pumpkin Halwa",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa2.jpeg" ],
                         "Incredients": [ "1Kg.- White Pumpkin", "1 Cup - Cream", "2 Cups - Sugar", "4tbsp.- Ghee", "2 tbsp.-Chopped nuts (fried with ghee)" ],
                         "Method": [
                             {
@@ -56,10 +56,10 @@
             {
                 "Id": "1.4",
                 "Title": "Rava Laddoo",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu2.jpeg" ],
                         "Incredients": [ "1/2 Kg - Bombay Rava", "1 Cup - grated Coconut", "2 tbsp Ghee", "1/4 kg.- Sugar,powdered", "50 gms.- Cashew nuts", "50 gms.- Raisins", "1 tsp - Cardamom powder" ],
                         "Method": [
                             {
@@ -88,10 +88,10 @@
             {
                 "Id": "1.6",
                 "Title": "Malpuri",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri4.jpg" ],
                         "Incredients": [ "3 Cups - Maida", "2 Cups - Sugar", "1/2 tsp. - Salt", "1 Pinch - Turmeric powder", "1 tbsp.- Bombay Rawa", "1 tsp.- Cardamom,powdered", "Oil - for frying" ],
                         "Method": [
                             {
