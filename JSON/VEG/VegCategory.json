@@ -838,7 +838,7 @@
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar2.jpeg?raw=true"],
                         "Incredients": [ "1/2cup - toordaal(washed and soaked in water)", "cauliflower, beans, carrots, brinjal, drumsticks, sweet pumpkin(few pieces of each)", "3-4 - tomatoes,sliced", "Oil for frying", "Salt to taste", "3-4 - cups water"],
-                        "Masala": ["1tbsp. - Channadaal", "1tbsp.- uraddaal", "1tsp. - jeera", "1/2tsp. - methi", "1cup - coconut grated", "1tbs. - Coriander seeds", "8 - red chillies", "1tbs. - ghee or oil", "1tsp. - mustard seeds", "10-15 - curry leaves"],
+                        "Masala": ["1tbsp. - Channadaal", "1tbsp.- uraddaal", "1tsp.- Cumin seeds (jeera)", "1/2tsp.- Fenugreek seeds (methi)", "1cup - coconut grated", "1tbs. - Coriander seeds", "8 - red chillies", "1tbs. - ghee or oil", "1tsp. - mustard seeds", "10-15 - curry leaves"],
                         "Method": [
                             {
                                 "Steps": [ "Keep a Kadai on fire, fry all the masala ingredients separately with little oil.", "Grind to a rough paste and add little water.", "Boil the toor daal with 3-4 cups of water.", "Add the cut vegetables.", "Add salt and cook.", "Add the ground masala and cook for 10-15 minutes.", "Season with ghee or oil, mustard seeds and curry leaves."]
@@ -1068,10 +1068,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard3.jpeg" ],
-                        "Incredients": [ "1/2kg - Ridgegourd","1 - onion sliced","4 - green chillies(slitted),","Salt to taste","2tsp. - scraped coconut","1tsp. - mustard seeds","3-4 garlic flakes(crushed)","2sprig curry leaves"],
+                        "Incredients": [ "1/2kg - Ridgegourd","1 - onion sliced","4 - green chillies(slitted),","Salt to taste","2tsp. - grated coconut","1tsp. - mustard seeds","3-4 garlic flakes(crushed)","2sprig curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Peel off the skin of Ridgegourd.","Wash & cut into small pieces.","Heat oil on Kadai, add mustard seeds.","When they splutter, add sliced onion, green chillies, garlic, curry leaves, mix and add ridgegourd pieces.","Add salt and add very little water. Cook on slow fire till done.","Add scraped coconut before removing from fire." ]
+                                "Steps": [ "Peel off the skin of Ridgegourd.","Wash & cut into small pieces.","Heat oil on Kadai, add mustard seeds.","When they splutter, add sliced onion, green chillies, garlic, curry leaves, mix and add ridgegourd pieces.","Add salt and add very little water. Cook on slow fire till done.","Add coconut before removing from fire." ]
                             }
                         ],
                         "Note": "Upkari can also be prepared with cabbage, potatoes and snake gourd"
@@ -1097,7 +1097,7 @@
                         "Incredients": [ "1 small or medium size - Cucumber (cut into medium pieces without removing skin)","For Masala: 1- Grated Coconut","10-12 - Red chillies,roasted","1tbsp.- Coriander seeds,roasted","1/2tbsp.- Cumin seeds","1/4 tsp.- Fenugreek seeds,roasted","1/4 tsp.- Mustard seeds,roasted","1pinch - Turmeric powder","Tamarind - size of its seed","Jaggery - size of a lime","Salt - to taste","4-5 - Garlic flakes","1 - Onion,chopped."],
                         "Method": [
                             {
-                                "Steps": [ "Grind all the masala ingredients except jaggery and salt to a fine paste","Keep the cucumber in a vessel to boil with 3-4 cups of water,salt and Jaggery","When it is cooked,add ground masala and cook for some more time","Season it with oil,mustard seeds,1 broken red chilly, crushed garlic and curry leaves."]
+                                "Steps": [ "Grind all the masala ingredients except jaggery and salt to a fine paste","Keep the cucumber in a vessel to boil with 3-4 cups of water, salt and Jaggery","When it is cooked,add ground masala and cook for some more time","Season it with oil,mustard seeds,1 broken red chilly, crushed garlic and curry leaves."]
                             }
                         ]
                     }
@@ -1131,7 +1131,7 @@
                         "Incredients": [ "1/4kg - Green Gram","1 - Onion,chopped","1 - Tomato","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Soak Green gram for 6 hours","Wash & drain water and keep it for 8 hours","It starts sprouting","Keep it on fire, add water and cook","After it cooked,add salt,chopped onion and tomato","Grind all the masala ingredients to a fine paste","Add it to the cooked gram","Curry should be thick in consistency","Boil for 5-10 minutes","Season with oil,mustard seeds,finely chopped onion,1 broken red chilly,crushed garlic flakes and curry leaves."] 
+                                "Steps": [ "Soak Green gram for 6 hours","Wash & drain water and keep it for 8 hours","It starts sprouting","Keep it on fire, add water and cook","After it cooked,add salt,chopped onion and tomato","Grind all the masala ingredients to a fine paste","Add it to the cooked gram","Curry should be thick in consistency","Boil for 5-10 minutes","Season with oil,mustard seeds,finely chopped onion,1 broken red chilly,crushed garlic flakes and curry leaves","Note: For sprouted green gram,skinned cucumber or skinned Ridge Gourd can be used."] 
                             }
                         ]
                     }
@@ -1145,10 +1145,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Brijal,cut & soaked in water","3-4 - drumsticks","Salt to taste","A small piece of jaggery","For Masala - 1/2 Coconut,grated","8-10  - Red chillies,roasted","1 tbsp. - Coriander seeds,roasted","1 tsp. - Cumin seeds", "1/4tsp.- fenugreek seeds, roasted","7-8 - Garlic flakes","1/4 tsp.- turmeric powder","Tamarind - size of a big lemon,soaked in water"], 
+                        "Incredients": [ "1/4kg - Brinjal,cut & soaked in water","3-4 - drumsticks","Salt to taste","A small piece of jaggery","For Masala - 1/2 Coconut,grated","8-10 - Red chillies,roasted","1 tbsp.- Coriander seeds,roasted","1 tsp.- Cumin seeds", "1/4tsp.- fenugreek seeds,roasted","7-8 - Garlic flakes","1/4 tsp.- turmeric powder","Tamarind - size of a big lemon,soaked in water"], 
                         "Method": [
                             {
-                                "Steps": [ "Skin,wash and cut the drumsticks into 3-4 inch long pieces","Remove the brinjal pieces from water","Cook them with tamarind water,then add drumsticks,salt and jaggery","Grind all the masala ingredients together to a fine paste","Add it to the cooked vegetables and boil for 10 minutes","Season with coconut oil, mustard seeds, broken red chilly and crushed garlic flakes and curry leaves"]
+                                "Steps": [ "Skin,wash and cut the drumsticks into 3-4 inch long pieces,keep aside","Remove the brinjal pieces from water","Cook them with tamarind water,then add drumsticks,salt and jaggery","Grind all the masala ingredients together to a fine paste","Add it to the cooked vegetables and boil for 10 minutes","Season with coconut oil, mustard seeds, broken red chilly and crushed garlic flakes and curry leaves"]
                             }
                         ]
                     }
@@ -1165,7 +1165,7 @@
                         "Incredients": [ "1/4kg - Brinjal, cut and soaked in water","Tamarind - size of a big lime,soaked in water","Jaggery - size of a small lime","Salt to taste","2tbsp.- oil","1 tsp.- Mustard seeds","1 sprig - curry leaves","1 tsp.- urad daal","7-8 - garlic flakes,crushed","2 tbsp.- *Masala Chilly Powder"],
                         "Method": [
                             {
-                                "Steps": [ "Boil the cut brinjal with tamarind water,jaggery and salt","Keep aside","Keep oil in the Kadai on fire", "Add mustard seeds","When they splutter,add urad daal,crushed garlic and curry leaves","Add *Masala chilly powder","Fry for a minute","Pour the cooked brinjal into it,cover and simmer for 5 minutes","*Maaala Chilly Powder: 7-8 - Red Chillies,1 tbsp.- Coriander seeds,1/2 tsp. - Cumin seeds,1/2tsp.- fenugreek seeds,1/2 tsp.- Urad daal","Kundapur Masala Powder can be used in place of the above  masala."]
+                                "Steps": [ "Boil the cut brinjal with tamarind water,jaggery and salt","Keep aside","Keep oil in the Kadai on fire", "Add mustard seeds","When they splutter,add urad daal,crushed garlic and curry leaves","Add *Masala chilly powder","Fry for a minute","Pour the cooked brinjal into it,cover and simmer for 5 minutes","*Maaala Chilly Powder: 7-8 - Red Chillies,1 tbsp.- Coriander seeds,1/2 tsp. - Cumin seeds,1/4tsp.- fenugreek seeds,1/2 tsp.- Urad daal","Kundapur Masala Powder can be used in place of the above  masala."]
                             }
                         ]
                     }
@@ -1179,7 +1179,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "500 gms.- Red Chillies","250 gms. - Coriander seeds","100 Gms.- Jeera","3 tbsp. - Pepper corns","1 1/2 tbsp. - Methi seeds","4 tbsp.- turmeric powder","1 handful - Garlic flakes"], 
+                        "Incredients": [ "500 gms.- Red Chillies","250 gms.- Coriander seeds","100 Gms.- Jeera","3 tbsp.- Pepper corns","1&1/2 tbsp. - Methi seeds","4 tbsp.- turmeric powder","1 handful - Garlic flakes"], 
                         "Method": [
                             {
                                 "Steps": [ "Roast and grind all the above ingredients except garlic which has to be added last without peeling the skin","Cool and store in an air tight container","This Masala powder can be used for Chicken, Mutton,Vegetables or Eggs","Note:Roast every item separately on very slow fire."]
@@ -1199,7 +1199,7 @@
                         "Incredients": [ "1/2kg - White Pumpkin (skinned and cut into small pieces)","7-8 - Green Chillies,slitted","Tamarind - size of a small lime","Salt to taste","1 Glass - Curds","For Masala: 1/2 - Coconut,grated","1 tsp.- Jeera"],
                         "Method": [
                             {
-                                "Steps": [ "Keep the pumpkin pieces for boiling with 3 cups of water,green chillies,tamarind and salt","Boil till cooked","Grind the coconut with jeera to a fine paste","Add it to the cooked pumpkin and boil for 10-15 minutes","Add buttermilk and remove from fire","Season with coconut oil, mustard seeds,curry leaves and broken red chilly."]
+                                "Steps": [ "Keep the pumpkin pieces for boiling with 3 cups of water,green chillies,tamarind and salt","Boil till cooked","Grind the coconut with jeera to a fine paste","Add it to the cooked pumpkin and boil for 10-15 minutes","Add buttermilk and boil","remove from fire","Season with coconut oil, mustard seeds,curry leaves and broken red chilly."]
                             }
                         ]
                     }
@@ -1208,12 +1208,12 @@
             {
                 "Id": "8.8",
                 "Title": "Horse Gram and Spinach Curry",
-                "SubTitle": " Kudu,Basale Gasi",
+                "SubTitle": "Kudu,Basale Gasi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1 cup - Horse gram,sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste","For Masala: - 1 - Coconut,grated","10 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1 cup - Horse gram,sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste","For Masala: 1big- Coconut,grated","10 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","1/4 - methi,roasted","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
                         "Method": [
                             {
                                 "Steps": [ "Grind all the masala ingredients together until fine","Cook Spinach and the horse gram with salt","After it cooked, Add the ground masala and boil for 10 minutes","Season with oil,mustard seeds, broken red chilly and curry leaves."]
