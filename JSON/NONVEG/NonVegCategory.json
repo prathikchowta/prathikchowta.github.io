@@ -281,16 +281,16 @@
         "RecipesList": [
             {
                 "Id": "5.1",
-                "Title": "Kori Rotti",
+                "Title": "Chicken Tava Fry",
                 "SubTitle": "Manjal Ereda Gatti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1tbs. Hdd", "1tsp. Hdhd", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1Kg.-Chicken,Cleaned and cut into pieces", "To Marinate:- 1 tsp.- Turmeric powder,Juice of 1 lemon,2 tbsp.- Red Chilly powder,1tsp -Coriander powder,1 tbsp.-Garam Masala powder, 1 tbsp.- Ginger Garlic paste,2 tbsp.- Curds,Salt to taste", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Marinate Chicken with all the ingredients for an hour", "Take a pan ,add oil(quantity for shallow fry)", "Once oil is heat and ready,spread marinated chicken pieces on pan", "Fry it on low to medium flame", "Cover it with lid for minutes", "Remove lid,turn it and let it fry for 5 more minutes", "Remove from Pan." ]
                             }
                         ]
                     }
@@ -323,16 +323,16 @@
             },
             {
                 "Id": "6.2",
-                "Title": "Chicken Sukka",
+                "Title": "Chicken Ghee Roast",
                 "SubTitle": "Kori Ajadina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1 Big Chicken - Cleaned  and cut", "For Masala: 30 - Red Chillies (20 long &10 short)", "3 tbsp.Coriander seeds", "1tsp.- Jeera", "10-15 Curry leaves","1 tsp.- Methi", "1tsp. - Pepper corns ", "7-8 - Garlic flakes", "1tsp.- turmeric powder", "Tamarind - size of its seed", "1 - Coconut,grated", "10-12 - Garlic flakes", "1tsp.- Jeera", "3 Big- Onions,chopped", "1 tbsp.- Butter", "Salt to taste", "1 tsp.- Coconut oil,for frying"],
+                        "Incredients": [ "1 Kg Chicken - Cleaned  and cut into pieces", "For Masala: 25 - Red Chillies", "3 tbsp.Coriander seeds", "3tsp.- Jeera", "10-15 Curry leaves","1/4 tsp.- Methi", "1&1/2tsp. - Pepper corns ", "20 - Garlic flakes,chopped", "Tamarind - small ball","3 tbsp.- Ghee", "Salt to taste", "To Marinate: Juice of 1 lemon, 2tbsp.- Curds, 1tsp.- Turmeric powder, 1tsp.- Red chilly powder, 1tbsp.- Ginger Garlic paste"],
                         "Method": [
                             {
-                                "Steps": [ "Fry the masala ingredients- Chillies,Coriander seeds,Jeera,Curry leaves,Methi and Pepper corns in coconut oil", "Grind along with garlic, 1 onion, turmeric and tamarind to a fine paste", "then add coconut and grind coarsely without water", "Keep aside", "Keep 2 tbsp. Ghee in Kadai,add 2 onions chopped", "Fry till dark brown, pour the ground masala and cook till the raw smell goes", "Add cleaned and cut chicken", "Add butter and cook", "Keep it on a slow fire till it becomes dry" ]
+                                "Steps": [ "Marinate Chicken pieces with salt and marinate ingredients", "Keep aside for 30 minutes", "Fry Garlic flakes,methi,jeera,coriander seeds and red chillies", "After it cools grind with tamarind and little water to a fine paste", "Keep a Kadai on fire,add Ghee", "Cook marinated chicken and remove", "Put ghee to the same Kadai,add ground masala,salt,little water and boil", "Then add cooked chicken and mix", "Fry curry leaves with ghee and pour to the cooked chicken and mix well." ]
                             }
                         ]
                     }
@@ -340,16 +340,16 @@
             },
             {
                 "Id": "6.3",
-                "Title": "Chicken Sukka",
+                "Title": "Chicken Green Masala",
                 "SubTitle": "Kori Ajadina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1 Big Chicken - Cleaned  and cut", "For Masala: 30 - Red Chillies (20 long &10 short)", "3 tbsp.Coriander seeds", "1tsp.- Jeera", "10-15 Curry leaves","1 tsp.- Methi", "1tsp. - Pepper corns ", "7-8 - Garlic flakes", "1tsp.- turmeric powder", "Tamarind - size of its seed", "1 - Coconut,grated", "10-12 - Garlic flakes", "1tsp.- Jeera", "3 Big- Onions,chopped", "1 tbsp.- Butter", "Salt to taste", "1 tsp.- Coconut oil,for frying"],
+                        "Incredients": [ "1 Big Chicken - Cleaned  and cut into pieces", "2- Onions,finely chopped", "2tbsp.- Ghee","1- Bay leaf", "1tbsp.- Ginger Garlic paste", "For Marination: Juice of 1 Lemon,Salt,1tsp - Turmeric powder", "For Masala: 1-1&1/2 Bunch - Coriander leaves,8-10 - Green Chillies,1 tsp.- Pepper corns,1 piece- Cinamon,4-5 - Cloves,2 - Red Chillies,4- Cardamoms,50 gms.- Cashew nuts,2 - Tomatoes, chopped"],
                         "Method": [
                             {
-                                "Steps": [ "Fry the masala ingredients- Chillies,Coriander seeds,Jeera,Curry leaves,Methi and Pepper corns in coconut oil", "Grind along with garlic, 1 onion, turmeric and tamarind to a fine paste", "then add coconut and grind coarsely without water", "Keep aside", "Keep 2 tbsp. Ghee in Kadai,add 2 onions chopped", "Fry till dark brown, pour the ground masala and cook till the raw smell goes", "Add cleaned and cut chicken", "Add butter and cook", "Keep it on a slow fire till it becomes dry" ]
+                                "Steps": [ "Marinate Chicken pieces with lemon juice, salt and turmeric powder", "Keep aside for half an hour", "Grind the masala ingredients to a fine paste", "Keep Ghee on a vessel, fry chopped onions", "Add Bay leaf", "Add Ginger Garlic paste", "then add ground masala and cook", "Add marinated chicken, add salt,if needed,mix and cook well" ]
                             }
                         ]
                     }
