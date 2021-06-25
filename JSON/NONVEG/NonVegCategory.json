@@ -8,13 +8,13 @@
             {
                 "Id": "1.1",
                 "Title": "Chicken Curry with Rotti",
-                "SubTitle": "Kori Rotti Gassi",
+                "SubTitle": "Kori Rotti",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
                         "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces" ],
-                        "Masala": ["1/2 - Coconut grated", "Red Chillies - 15 long & 8 short", "2tbsp. - Coriander seeds", "1tsp. - Cumin seeds(Jeera)", "1tsp. - Curry leaves", "1/2tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 - tomato, Chopped", "1/2tsp. - Turmeric powder", "Tamarind - small ball", "3tbsp. - Ghee", "1tsp. - Coconut oil", "1tbsp. - Butter", "Salt to taste"],
+                        "Masala": ["1/2 - Coconut grated", "Red Chillies - 15 long & 8 short", "2tbsp. - Coriander seeds", "1tsp. - Cumin seeds(Jeera)", "1tbsp. - Curry leaves", "1/2tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 - tomato, Chopped", "1/2tsp. - Turmeric powder", "Tamarind - small ball", "3tbsp. - Ghee", "1tsp. - Coconut oil", "1tbsp. - Butter", "Salt to taste"],
                         "Method": [
                             {
                                 "Steps": [ "Marinate Chicken with juice of half lemon,salt and 1/2tsp.turmeric powder", "Fry Red Chillies, Coriander seeds, Methi, Jeera, Curry leaves and Pepper corns with coconut oil.", "Grind fried masala ingredients with coconut, 1 onion, garlic, tamarind, 1tsp. Coriander seeds and water to a fine paste.", "Cook marinated Chicken pieces with ground masala. Add 2 onions, tomato and butter.", "Add salt if needed, as we added salt, when marinated.", "Stir and cook until the chicken piece softened.", "Season with ghee, finely chopped onion, crushed garlic, crushed methi & jeera and curry leaves." ]
@@ -36,7 +36,7 @@
                         "Masala": [ "30 - Red Chillies(20 long & 10 short)", "3tbsp. - Coriander seeds", "1tsp. - Jeera", "10-15 Curry leaves","1tsp. - Methi", "1/2tsp. - Pepper corns", "7-8 - Garlic flakes", "1tsp. - turmeric powder", "Tamarind - size of its seed", "1 - Coconut(grated)", "10-12 - Garlic flakes", "1tsp. - Jeera", "3 Big - Onions(chopped)", "1tbsp. - Butter", "Salt to taste", "1tsp. - Coconut oil(for frying)"],
                         "Method": [
                             {
-                                "Steps": [ "Fry the masala ingredients - Chillies, Coriander seeds, Jeera, Curry leaves, Methi and Pepper corns in coconut oil.", "Grind along with garlic, 1 onion, turmeric and tamarind to a fine paste.", "Then add coconut and grind coarsely without water and keep aside.", "Keep 2tbsp. Ghee in Kadai and add 2 onions chopped.", "Fry till it becomes dark brown", "Add cleaned and cut chicken.", "Add butter,salt and cook.", "Add ground masala and cook", "Keep it on slow fire till it becomes dry." ]
+                                "Steps": [ "Fry the masala ingredients - Chillies, Coriander seeds, Jeera, Curry leaves, Methi and Pepper corns in coconut oil.", "Grind along with garlic, 1 onion, turmeric powder and tamarind to a fine paste.", "Then add coconut and grind coarsely without water and keep aside.", "Keep 2tbsp. Ghee in Kadai and add 2 onions,chopped.", "Fry till it becomes dark brown", "Add cleaned and cut chicken.", "Add butter,salt and cook.", "Add ground masala and cook", "Keep it on slow fire till it becomes dry." ]
                             }
                         ]
                     }
@@ -51,10 +51,10 @@
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
                         "Incredients": [ "1 Medium - Chicken, cleaned and cut" ],
-                        "Masala": [ "15 - Red chillies", "1tbsp. - Coriander seeds", "10 - Pepper corns", "4 - Cloves", "2 - Small bits cinnamon", "1tsp. - Poppy seeds(khus-khus)", "1/2tsp. - turmeric powder", "2 - Onions", "2tbsp. - Ghee", "2-3 - Tomatoes, chopped", "1 Onion, chopped", "Salt to taste", "1tbsp. - Coriander leaves, finely chopped (optional)"],
+                        "Masala": [ "15 - Red chillies", "1tbsp. - Coriander seeds", "10 - Pepper corns", "4 - Cloves", "2 - Small bits cinnamon", "1tsp. - Poppy seeds(khus-khus)", "1/2tsp. - turmeric powder", "2 - Onions", "2tbsp. - Ghee", "1- Tomato, chopped","Salt to taste", "1tbsp. - Coriander leaves, finely chopped (optional)"],
                         "Method": [
                             {
-                                "Steps": [ "Grind the Masala ingredients to a fine paste without water.", "Keep ghee in a vessel and add chopped onion and fry till it becomes brown.","Add the cleaned Chicken pieces and fry for 10 minutes on slow fire.", "Add the ground masala, chopped onions, chopped tomatoes, salt and 1 cup water and cook till done.", "Dry on slow fire.", "Garnish with coriander leaves." ]
+                                "Steps": [ "Grind the Masala ingredients to a fine paste without water.", "Keep ghee in a vessel and add chopped onion and fry till it becomes brown.","Add the cleaned Chicken pieces and fry for 10 minutes on slow fire.", "Add the ground masala, chopped tomato, salt and 1 cup water and cook till done.", "Fry on slow fire.", "Garnish with coriander leaves." ]
                             }
                         ]
                     }
@@ -68,10 +68,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1Kg - Chicken", "1 Bundle - Garlic", "1inch - Ginger", "10-15 - red long chilles", "1tsp. - Coriander powder", "1tsp. -  Jeera powder", "1tbsp. - Garam  masala powder", "10 -15 -Curry leaves", "1tbsp. - Lemon juice", "1tsp. - Turmeric powder", "2tbsp. - Ghee", "Salt to taste", "For seasoning - 1tsp. Ghee, Cashew nuts, 4 Red chilies, 20-25 - Curry leaves"],
+                        "Incredients": [ "1Kg - Chicken", "1 Bundle - Garlic", "1inch - Ginger", "10-15 - red long chilles", "1tsp. - Coriander powder", "1tsp. -  Jeera powder", "1tbsp. - Garam  masala powder", "10 -15 -Curry leaves", "1tbsp. - Lemon juice", "1tsp. - Turmeric powder", "2tbsp. - Ghee", "Salt to taste", "For seasoning - 1tsp. Ghee, Cashew nuts, 4 Long Red chilies,broken, 20-25 - Curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Clean the chicken and cut into pieces.", "Make Ginger, Garlic paste.", "Soak red chillies in hot water for 10 minutes.", "After cooled grind with little curry leaves.", "Marinate  chicken with ginger garlic paste, coriander powder, Jeera powder, lemon juice, garam masala powder, turmeric powder and salt.", "Heat ghee on a Kadai and add ground paste.", "Cook till the raw smell goes.", "Add Chicken and salt(if needed).", "Add fried curry leaves, cashew nuts and red chillies.", "Garnish with coriander leaves." ]
+                                "Steps": [ "Clean the chicken and cut into pieces.", "Make Ginger, Garlic paste.", "Soak red chillies in hot water for 10 minutes.", "After cooled grind with curry leaves and keep aside.", "Marinate  chicken with ginger garlic paste, coriander powder, Jeera powder, lemon juice, garam masala powder, turmeric powder and salt.", "Heat ghee on a Kadai and add ground paste.", "Cook till the raw smell goes.", "Add Chicken and salt(if needed).", "Fry curry leaves, cashew nuts and red chillies,pour it to the cooked chicken.", "Garnish with coriander leaves." ]
                             }
                         ]
                    
