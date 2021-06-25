@@ -45,7 +45,7 @@
             {
                 "Id": "1.3",
                 "Title": "Dry Chicken",
-                "SubTitle": "Kori Puli Munchi",
+                "SubTitle": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -189,7 +189,7 @@
             {
                 "Id": "4.2",
                 "Title": "Spicy Fish Curry",
-                "SubTitle": "Puli Munchi",
+                "SubTitle": "Meen Puli Munchi",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -282,7 +282,7 @@
             {
                 "Id": "5.1",
                 "Title": "Chicken Tava Fry",
-                "SubTitle": "Manjal Ereda Gatti",
+                "SubTitle": "Kori Kaidina",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -324,15 +324,15 @@
             {
                 "Id": "6.2",
                 "Title": "Chicken Ghee Roast",
-                "SubTitle": "Kori Ajadina",
+                "SubTitle": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1 Kg Chicken - Cleaned  and cut into pieces", "For Masala: 25 - Red Chillies", "3 tbsp.Coriander seeds", "3tsp.- Jeera", "10-15 Curry leaves","1/4 tsp.- Methi", "1&1/2tsp. - Pepper corns ", "20 - Garlic flakes,chopped", "Tamarind - small ball","3 tbsp.- Ghee", "Salt to taste", "To Marinate: Juice of 1 lemon, 2tbsp.- Curds, 1tsp.- Turmeric powder, 1tsp.- Red chilly powder, 1tbsp.- Ginger Garlic paste"],
+                        "Incredients": [ "1 Kg Chicken - Cleaned  and cut into pieces", "For Masala: 25 - Red Chillies", "3 tbsp.-Coriander seeds", "3tsp.- Jeera", "10-15 Curry leaves","1/4 tsp.- Methi", "1&1/2tsp. - Pepper corns ", "20 - Garlic flakes,chopped", "Tamarind - small ball","3 tbsp.- Ghee", "Salt to taste", "To Marinate: Juice of 1 lemon, 2tbsp.- Curds, 1tsp.- Turmeric powder, 1tsp.- Red chilly powder,1tsp.-salt, 1tbsp.- Ginger Garlic paste"],
                         "Method": [
                             {
-                                "Steps": [ "Marinate Chicken pieces with salt and marinate ingredients", "Keep aside for 30 minutes", "Fry Garlic flakes,methi,jeera,coriander seeds and red chillies", "After it cools grind with tamarind and little water to a fine paste", "Keep a Kadai on fire,add Ghee", "Cook marinated chicken and remove", "Put ghee to the same Kadai,add ground masala,salt,little water and boil", "Then add cooked chicken and mix", "Fry curry leaves with ghee and pour to the cooked chicken and mix well." ]
+                                "Steps": [ "Marinate Chicken pieces with salt,ginger garlic paste,turmeric powder,red chilly powder for 30 minutes", "Fry Garlic flakes,methi,jeera,curry leaves,coriander seeds and red chillies", "After it cools grind with tamarind and little water to a fine paste", "Keep a Kadai on fire,add Ghee", "Cook marinated chicken and remove", "Put ghee to the same Kadai,add ground masala,salt,little water and boil", "Then add cooked chicken and mix", "Fry curry leaves with ghee and pour to the cooked chicken and mix well." ]
                             }
                         ]
                     }
@@ -341,7 +341,7 @@
             {
                 "Id": "6.3",
                 "Title": "Chicken Green Masala",
-                "SubTitle": "Kori Ajadina",
+                "SubTitle": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
