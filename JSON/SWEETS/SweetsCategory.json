@@ -47,7 +47,7 @@
                         "Incredients": [ "1Kg.- White Pumpkin,skinned & scrapped", "1 Cup - Cream", "2 Cups - Sugar", "4tbsp.- Ghee", "2 tbsp.-Chopped nuts (fried with ghee)" ],
                         "Method": [
                             {
-                                "Steps": [ "Cook the scrapped pumpkin with its own water till dry", "Add cream and sugar", "Keep on stirring till completely dry and brown in colour", "Add ghee", "Fry till ghee floats on top", "Remove and decorate with chopped nuts", "Note: Same  halwa can be done with bottle guard"]
+                                "Steps": [ "Cook the scrapped pumpkin with its own water till dry", "Add cream and sugar", "Keep on stirring till completely dry and brown in colour", "Add ghee", "Fry till ghee floats on top", "Remove and decorate with chopped nuts", "Note: Same Halwa can be done with bottle guard"]
                             }
                         ]
                     }
@@ -79,7 +79,7 @@
                         "Incredients": [ "4 Cups - Boiled Rice", "Salt to taste", "1 Big - Coconut,grated", "500gms. - Jaggery,powdered", "1tsp.- Cardamom", "1 tsp.- Pepper corns ( optional)", "4tbsp. - Ghee", "100gms.- Cahew nuts", "50gms.- Raisins" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash the boiled rice", "Add salt with little water and mix it with rice", "Spread rice on a large plate and dry in the sunlight for one day", "Keep the thick bottomed vessel on fire", "Fry the rice little by little, then make the rough powder and keep aside", "Grind the coconut with jaggery,cardamom and pepper to fine powder", "Mix it with rice powder", "Fry Cahew nuts and raisins in 1tsp.ghee and mix to the powder", "Add the remained ghee and mix it well", "Make the laddos", "40-45 laddoos can be made,store in a air tight jar", "Note: It is a Karavali special,tradtional sweet" ]
+                                "Steps": [ "Wash the boiled rice", "Add salt with little water and mix it with rice", "Spread rice on a large plate and dry in the sunlight for one day", "Keep the thick bottomed vessel on fire", "Fry the rice little by little, grind  to a rough powder and keep aside", "Grind the coconut with jaggery,cardamom and pepper to fine powder", "Mix it with rice powder", "Fry Cahew nuts and raisins in 1tsp.ghee and mix to the powder", "Add the remained ghee and mix it well", "Make the laddos", "40-45 laddoos can be made,store in a air tight jar", "Note: It is a Karavali special,traditional sweet" ]
                             }
                         ]
                     }
@@ -103,15 +103,15 @@
             },
             {
                 "Id": "1.7",
-                "Title": "Carrot Halwa",
+                "Title": "Jackfruit Garige",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "Rice", "Salt", "Water", "Rice", "Salt", "Water" ],
+                        "Incredients": [ "1 kg.- Jackfruit(without seeds),sliced", "1/2 kg - Raw rice", "1 - Coconut,grated", "50 gms.- Jaggery", "10 - Cardamoms", "Salt to taste", "Oil for frying" ],
                         "Method": [
                             {
-                                "Steps": [ "Step1", "Step2", "Step3", "Step4", "Step5", "Step6" ]
+                                "Steps": [ "Wash and soak rice for 2 hours", "Drain the water and grind with jackfruit and coconut", "After a little while add jaggery and cardamom", "Grind further without adding water at all", "Add salt to taste and grind it to a coarse paste", "Remove and keep aside", "Heat oil in a deep pan,when oil is hot,make small balls of the paste and deep fry in oil till brown in colour", "Drain and serve." ]
                             }
                         ]
                     }
