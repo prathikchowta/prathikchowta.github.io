@@ -426,10 +426,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
-                        "Incredients": [ "2Cups - Maida", "1/2 litre - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
+                        "Incredients": [ "2Cups - Maida", "2tsp.-Rice powder", "2tsp.- Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Take a vessel, mix all the ingredients.", "Make a soft batter and keep aside for 4 hours.", "Heat oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
+                                "Steps": [ "Take a vessel, mix all the ingredients,add water,if needed.", "Make a soft batter and keep aside for 4 hours.", "Heat oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
                             }
                         ]
                     }
@@ -481,7 +481,7 @@
                         "Incredients": [ "1/2kg. - Urad daal, soaked for 3-4 hours", "2 - Red Chillies", "1 piece - Ginger", "Salt to taste", "3 - Green Chillies(cut)", "1 sprig - Curry leaves", "Oil for frying"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and grind the urad daal to a thick paste.", "While grinding, add red chillies, ginger and 2 green chillies.", "Remove and mix with salt, curry leaves and 1 green chilly.", "Keep enough oil in a Kadai to deep fry vadas.", "When oil is very hot, take small lumps of paste and form into small balls.", "Drop into the oil and cook on medium fire until all sides are brown.", "Remove and serve with chutney and sambar." ]
+                                "Steps": [ "Wash and grind the urad daal to a thick paste.", "While grinding, add red chillies, ginger and 2 green chillies.", "Remove and mix with salt, curry leaves and 1 green chilly(finely chopped).", "Keep enough oil in a Kadai to deep fry vadas.", "When oil is very hot, take small lumps of paste and form into small balls.", "Drop into the oil and cook on medium fire until all sides are brown.", "Remove and serve with chutney and sambar." ]
                             }
                         ]
                     }
@@ -495,7 +495,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Chattambade1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Chattambade2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Chattambade3.jpeg" ],
-                        "Incredients": [ "1 Cup - Channa daal(Kadle Bele)", "1/2cup - Toor daal", "1/2cup - Urad daal", "1/2inch - Ginger(Chopped)", "1 pinch - Hing", "3-4 - Green Chillies(Chopped)", "2 Sprig - Curry leaves(Chopped)", "Salt to taste", "Oil for frying"],
+                        "Incredients": [ "1 Cup - Channa daal(Kadle Bele)", "1/2cup - Toor daal", "1/2cup - Urad daal", "1/2inch - Ginger(Chopped)", "1 pinch - Hing", "3-4 - Green Chillies(finely chopped)", "2 Sprig - Curry leaves(Chopped)", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
                                 "Steps": [ "Wash and soak the daals for about 2 hours.", "Then grind the daals together to a very rough paste.", "Remove and mix together with the other ingredients.", "Take a little of the mixture and flattern into rounds and deep fry in oil until brown.", "Serve with chutney." ]
@@ -529,7 +529,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/BeatenRice1.jpeg"],
-                        "Incredients": [ "1/2Kg. - Beaten Rice", "1/2 - Coconut, Grated", "2 - Onions, finely chopped to taste", "4 - Green Chillies,finely cut", "Salt to taste", "For Masala: 5-6 - Red Chillies, 2tsp. - Coriander Seeds, 1tsp.- Jeera,2tbsp.- Sugar or Jaggery", "For Seasoning: - 2 tbsp. - Ghee, 3-4 - Red Chillies,broken, 10-15 - Curry leaves, 1 tsp.- Urad daal"],
+                        "Incredients": [ "1/2Kg. - Beaten Rice", "1/2 - Coconut, grated", "2 - Onions, finely chopped", "4 - Green Chillies,finely cut", "Salt to taste", "For Masala: 5-6 - Red Chillies, 2tsp. - Coriander Seeds, 1tsp.- Jeera,2tbsp.- Sugar or Jaggery", "For Seasoning: - 2 tbsp. - Ghee, 3-4 - Red Chillies,broken, 10-15 - Curry leaves, 1 tsp.- Urad daal"],
                         "Method": [
                             {
                                 "Steps": [ "Keep a pan on fire,add ghee,fry urad daal,curry leaves and red chillies till it becomes crispy,keep aside", "Grind the masala ingredients together to a fine powder", "Remove it to a bowl,add coconut,onion,green chillies", "Then add seasoned ingredients,crush and mix altogether", "Add beaten rice,mix it well and serve"] 
@@ -549,7 +549,7 @@
                         "Incredients": [ "1 Cup - Sooji", "2 tbsp. - Oil", "1tsp.- Mustard seeds", "1 tsp.- Urad daal", "1 Sprig- Curry leaves", "1 - Onion,Sliced", "2 - Red Chillies,broken", "2 Cups - Water", "Salt to taste", "1tbsp.- Sugar( optional)", "1/4 - Coconut,grated"],
                         "Method": [
                             {
-                                "Steps": [ "Keep oil in a Kadai,place on fire", "Add mustard seeds,when it splutter, add urad daal and curry leaves", "When urad daal turns brown, add onion and red chillies", "Fry till onion is transparent", "Add water", "When it boils", "Add salt,sugar and coconut", "Then slowly pour the sooji and stir thoroughly to avoid lumps", "Cook till it dries on low flame", "Remove and Serve"] 
+                                "Steps": [ "Keep oil in a Kadai and place on fire", "Add mustard seeds,when it splutter, add urad daal and curry leaves", "When urad daal turns brown, add onion and red chillies", "Fry till onion is transparent", "Add water", "When it boils", "Add salt,sugar and coconut", "Then slowly pour the sooji and stir thoroughly to avoid lumps", "Cook till it dries, on low flame", "Remove and Serve"] 
                             }
                         ]
                     }
@@ -691,7 +691,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/BrahmiChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/BrahmiChutney2.jpeg" ],
-                        "Incredients": [ "2 cups - Brahmi leaves with roots cleaned properly and chopped", "1/2 - Grated coconut", "4 - Green chillies", "Salt to taste", "Tamarind(size of a small lime)", "1tbsp. - cooked rice", "Jaggery - 1 small piece"],
+                        "Incredients": [ "2 cups - Brahmi leaves with roots cleaned properly and chopped", "1/2 - Grated coconut", "4-6 - Green chillies", "Salt to taste", "Tamarind(size of a small lime)", "1 inch - Ginger", "1tsp. - cooked rice", "Jaggery - 1 small piece"],
                         "Method": [
                             {
                                 "Steps": [ "Grind the ingredients all together to a fine thick paste."]
@@ -709,7 +709,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CorianderChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CorianderChutney2.jpeg" ],
-                        "Incredients": [ "1 medium bunch - Coriander leaves, cleaned and chopped","1/2 - grated coconut","3-4 - green chillies","5-6 - garlic flakes","1inch ginger","Salt to taste","Tamarind - size of its seed or juice of a lemon"],
+                        "Incredients": [ "1 medium bunch - Coriander leaves, cleaned and chopped","1/2 - grated coconut","3-4 - green chillies","1inch ginger","Salt to taste","Tamarind - size of its seed or juice of a lemon"],
                         "Method": [
                             {
                                 "Steps": [ "Grind all ingredients together without water to a rough paste.","Serve with dosa."]
@@ -752,10 +752,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam2.jpeg?raw=true"],
-                        "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies", "1tsp. - Mustard", "1 - Pinch of Turmeric Powder", "1Sprig - curry Leaves", "1piece - Ginger", "4-5flakes - garlic, crushed", "Salt To Taste" ],
+                        "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies,slitted", "1tsp. - Mustard", "1Pinch -Turmeric Powder" "1Sprig - curry Leaves", "1piece - Ginger", "4-5flakes - garlic, crushed", "Salt To Taste","1tbsp.- Coriander leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Fry oil and add Mustard Seeds in a pan.", "When they splutter, add finely chopped Onion, turmeric powder, green chillies, crushed garlic and curry leaves.", "When it turns brown, add fine chopped tomatoes(smashed tamrind water if needed), piece of ginger.", "Add salt to taste.", "Then add 4 Glasses of water and leave it to boil.", "After it cooked garnish with chopped coriander leaves." ]
+                                "Steps": [ "Fry oil and add Mustard Seeds in a pan.", "When they splutter, add finely chopped Onion, turmeric powder, green chillies, crushed garlic and curry leaves.", "When it turns brown, add finely chopped tomatoes(smashed tamrind water if needed), piece of ginger.", "Add salt to taste.", "Then add 4 Glasses of water and leave it to boil.", "After it cooked garnish with chopped coriander leaves." ]
                             }
                         ]
                     }
@@ -786,7 +786,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam2.jpeg?raw=true"],
-                        "Incredients": [ "5 - Long Red Chilly", "2tbs. - Jeera", "3tbs. - Cooked Toovar Dal" ],
+                        "Incredients": [ "5 - Long Red Chillies", "2tbs. - Jeera", "3tbs. - Cooked Toovar Dal" ],
                         "Method": [
                             {
                                 "Steps": [ "Grind the ingredients to a fine paste.", "Cook 2-3 finely chopped tomatoes with water.", "Add salt to taste.", "1/4 tsp.turmeric powder.", "After the tomato cooked add ground masala and boil for 10-15 minutes.", "Add finely chopped coriander leaves.", "Season with 1 spoon ghee or oil, mustard, curry leaves, 3-4 flakes of crushed garlic." ]
@@ -803,7 +803,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true"],
-                        "Incredients": [ "1cup toordaal(washed & soaked)","1 - big Tomato,chopped","10-15 peppercorns(powdered)","salt to taste","6-8 - garlic flakes crushed","1/4tsp - turmeric powder"],
+                        "Incredients": [ "1cup toordaal(washed & soaked for half an hour)","1 - big Tomato,chopped","10-15 peppercorns(powdered)","salt to taste","6-8 - garlic flakes crushed","1/4tsp - turmeric powder"],
                         "Method": [
                             {
                                 "Steps": [ "Boil the daal in 2-3 cups of water, until well cooked, beat it well and keep aside.", "Boil the tomato with 1 cup water, tamarind and salt until cooked.", "Add the powdered peppercorns, crushed garlic and turmeric powder and boil.", "Pour the cooked daal over it and remove.", "Season with coconut oil, mustard seeds, broken red chilly and curry leaves." ]
@@ -820,7 +820,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar2.jpeg?raw=true"],
-                        "Incredients": [ "1 cup toordaal washed & soaked in water for 1/2 to 1 hour", "2 - tomatoes chopped", "1 piece ginger", "1 big onion", "8 - green chillies slitted", "Salt to taste", "1tsp. asafoetida powder(Hing)" ],
+                        "Incredients": [ "1 cup -Toordaal, washed & soaked in water for 1/2 to 1 hour", "2 - Tomatoes chopped", "1 piece- Ginger", "1 big onion", "8 - green chillies slitted", "Salt to taste", "1tsp. asafoetida powder(Hing)" ],
                         "Method": [
                             {
                                 "Steps": [ "Cook the daal in 3 to 4 cups water until soft.", "Mix it well.", "Add chopped tomatoes, green chillies, finely chopped ginger, sliced onion, turmeric powder, asafoetida powder and salt to taste.", "Boil until cooked.", "Add finely chopped coriander leaves.", "Season with oil, mustard seeds, curry leaves and broken red chilly." ]
@@ -876,7 +876,7 @@
                         "Incredients": [ "6 - ordinary mangoes", "5-6 - green chillies,", "2tbsp. - chilly powder", "1 - onion,sliced", "Salt to taste ", "4 glass - water","1 piece - jaggery"],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of mangoes and squeeze out the juice from the skin.", "Add it to the mango.", "Put water and cook.", "Add sliced green chillies, onion, chilly powder, salt and jaggery.", "Season with mustard seeds, crushed garlic flakes, broken chilly and curry leaves."]
+                                "Steps": [ "Peel the skin of mangoes and squeeze out the juice from the skin.", "Add it to the mango.", "Put water and cook.", "Add slitted green chillies, onion, chilly powder, salt and jaggery.", "Season with mustard seeds, crushed garlic flakes, broken chilly and curry leaves."]
                             }
                         ]
                     }
@@ -891,7 +891,7 @@
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai2.jpeg?raw=true"],
                         "Incredients": [ "6-8 - small sized ripe mangoes", "Salt to taste", "1 piece - jaggery"],
-                        "Masala": ["1&1/2tbs. - urad daal", "1&1/2tbsp. - channadaal", "1&1/2tbsp. - coriander seeds","1/2tsp. - methi seeds","1tsp. - mustard seeds","1tsp. - jeera","6 - red chillies","5 - pepper corns","2sprig - curry leaves","1cup - grated coconut"],
+                        "Masala": ["1&1/2tbsp. - urad daal", "1&1/2tbsp. - channadaal", "1&1/2tbsp. - coriander seeds","1/2tsp. - methi seeds","1tsp. - mustard seeds","1tsp. - jeera","6 - red chillies","5 - pepper corns","2sprig - curry leaves","1cup - grated coconut"],
                         "Method": [
                             {
                                 "Steps": [ "Roast all the masala ingredients separately with little oil and powder them.", "Put some water on the mango skins and squeeze out the juice.", "Mix this water with mango, roasted powdered masala, jaggery and salt", "Cook for 10-15 minutes, stirring continuously.", "Season with oil, mustard seeds, curry leaves and broken red chilly."]
@@ -909,7 +909,7 @@
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram2.jpeg?raw=true"],
                         "Incredients": [ "1/2kg. - horse gram(soaked in water overnight)", "Salt to taste", "tamarind - size of 2 limes soaked in water"],
-                        "Masala": [ "2tbs. - grated coconut", "10 - red chillies", "2tbs. - coriander seeds","1tbs. - jeera"," 4-5 - garlic flakes"],
+                        "Masala": [ "2tbsp. - grated coconut", "10 - red chillies", "2tbsp. - coriander seeds","1tbsp. - jeera"," 4-5 - garlic flakes"],
                         "Method": [
                             {
                                 "Steps": [ "Grind together masala ingredients to a fine paste.", "Boil the horsegram with 7-8 cups of water, until well cooked.", "Drain and take away the residue of the horsegram.", "Add the ground masala, tamarind water, salt and boil for 15 minutes.", "Season with oil, mustard seeds, broken red chilly, crushed garlic and curry leaves."]
