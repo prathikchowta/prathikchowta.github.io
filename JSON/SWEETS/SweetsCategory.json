@@ -44,7 +44,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa2.jpeg" ],
-                        "Incredients": [ "1Kg.- White Pumpkin", "1 Cup - Cream", "2 Cups - Sugar", "4tbsp.- Ghee", "2 tbsp.-Chopped nuts (fried with ghee)" ],
+                        "Incredients": [ "1Kg.- White Pumpkin,skinned & scrapped", "1 Cup - Cream", "2 Cups - Sugar", "4tbsp.- Ghee", "2 tbsp.-Chopped nuts (fried with ghee)" ],
                         "Method": [
                             {
                                 "Steps": [ "Cook the scrapped pumpkin with its own water till dry", "Add cream and sugar", "Keep on stirring till completely dry and brown in colour", "Add ghee", "Fry till ghee floats on top", "Remove and decorate with chopped nuts", "Note: Same  halwa can be done with bottle guard"]
