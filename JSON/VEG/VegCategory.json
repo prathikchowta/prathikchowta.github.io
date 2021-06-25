@@ -938,7 +938,7 @@
                         "Masala": [ "10 - red chillies(mix)roasted", "2tsp. - coriander seeds, roasted", "1tsp - jeera, roasted", "1/4tsp - methi, roasted","1pinch - turmeric powder","Tamarind size of its seed"],
                         "Method": [
                             {
-                                "Steps": [ "Cook Whole Bengal gram and tendli in just enough water with salt.","Grind the masala ingredients together to a fine paste.", "Then add coconut and grind to a coarse paste.", "Fry a pan with oil, mustard seeds, sliced onion, crushed 4 flakes of garlic, curry leaves, 1spoon urad daal.", "Fry the ground masala.","After its raw smell goes, add cooked Bengal gram & tendli, mix it well.","Cover the lid and cook for 5 minutes."]
+                                "Steps": [ "Cook Whole Bengal gram and tendli in just enough water with salt.","Grind the masala ingredients together to a fine paste.", "Then add coconut and grind to a coarse paste.", "Fry a pan with oil, mustard seeds, sliced onion, crushed 4 flakes of garlic, curry leaves, 1tsp.urad daal.", "Fry the ground masala.","After its raw smell goes, add cooked Bengal gram & tendli, mix it well.","Cover the lid and cook for 5 minutes."]
                             }
                         ],
                          "Note": "Same type of sukka can be prepared with different combination - Whole Bengal gram & Raw Jackfruit, Whole Bengal gram & Yam"
@@ -957,7 +957,7 @@
                         "Masala": [ "6 - red chillies(roasted)","1tbsp. - coriander seeds(roasted)","1tsp. - methi, mustard and jeera","1/4 coconut scraped"],
                         "Method": [
                             {
-                                "Steps": [ "Peel off the outer skin of the plantain stem and cut into round pieces.","Then cut each round into small pieces.","The loose fibres obtained after each slice is cut should be discarded.","Boil in very little water with salt till tender.","Grind together masala ingredients except coconut to a fine paste.", "Add scraped coconut and grind to a coarse paste.","Add it to the cooked plantain stem.","Cook it for 10 to 15 minutes on a slow fire.","Season with oil, mustard seeds, curry leaves and crushed garlic."]
+                                "Steps": [ "Peel off the outer skin of the plantain stem and cut into round pieces.","Then cut each round into small pieces.","The loose fibres obtained after each slice is cut should be discarded.","Boil in very little water with salt till tender.","Grind together masala ingredients except coconut to a fine paste.", "Add scraped coconut and grind to a coarse paste.","Fry a pan with oil,mustard seeds, sliced onion, urad daal and curry leaves", "Fry  the ground masala,then add cooked pieces of plantain stem", "Mix and cook for 5 minutes."]
                             }
                         ]
                     }
@@ -972,7 +972,7 @@
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainFlower1.jpeg"],
                         "Incredients": [ "Plantain flower bud", "Salt to taste" ],
-                        "Masala": [ "4 Chillies, roasted"," 1/4 - grated coconut","2tsp. - coriander seeds, roasted","1tsp. - mustard, jeera & methi","1pinch - turmeric powder","Tamarind size of its seed","Salt to taste","1 - onion","1 piece of jaggery"],
+                        "Masala": [ "4 - Red Chillies, roasted"," 1/4 - grated coconut","2tsp. - coriander seeds, roasted","1tsp. - mustard, jeera & methi","1pinch - turmeric powder","Tamarind size of its seed","Salt to taste","1 - onion","1 piece of jaggery"],
                         "Method": [
                             {
                                 "Steps": ["Grind all the masala except coconut to fine paste.","Add grated coconut and grind to a coarse paste and keep aside.","Remove the flowers and leaves of plantain bud.","Cut the white part into small pieces, wash and cook.","Drain the water and keep aside.","Fry a pan with oil, mustard, sliced onion,1 broken chilly, 4 crushed garlic flakes, 2 sprig curry leaves","Add the ground masala, fry till the raw smell goes.","Add salt and Jaggery.","Add cooked plantain flower bud, mix it and cook for 5 minutes."]
@@ -1011,7 +1011,7 @@
                         "Masala": [ "15-20 red chillies,roasted","2tbsp. - coriander seeds(roasted)","2tsp. - jeera","1sprig - curry leaves","1tsp. - urad daal","Tamarind size of its seed","1/4tsp. - Turmeric powder","6 - flakes garlic","1 - coconut grated","1 - onion" ],
                         "Method": [
                             {
-                                "Steps": [ "Grind together masala ingredients except coconut to a fine paste.","Add coconut and grind further to a coarse paste.","Remove and keep it aside.","Take out thick outer skin of jackfruit.","Cut into small pieces and put it in water.","Remove from water and cook it with enough water, salt and jaggery.","When it is cooked drain the remained water.","Add the ground masala and cook for another 10 minutes.","Season with coconut oil, mustard seeds, finely chopped onion, curry leaves, urad daal, 1 broken red chilly."]
+                                "Steps": [ "Grind together masala ingredients except coconut to a fine paste.","Add coconut and grind further to a coarse paste.","Remove and keep it aside.","Take out thick outer skin of jackfruit.","Cut into small pieces and put it in water.","Remove from water and cook it with enough water, salt and small piece of jaggery(optional).","When it is cooked drain the remained water.","Add the ground masala and cook for another 10 minutes.","Season with coconut oil, mustard seeds, finely chopped onion, curry leaves, urad daal, 1 broken red chilly."]
                             }
                         ]
                     }
@@ -1026,7 +1026,7 @@
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawBanana1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawBanana2.jpeg" ],
                         "Incredients": [ "4 - raw bananas(skinned and cut into medium pieces and soaked in water)","Tamarind - size of 1/2lime(soaked in water)","Salt to taste" ],
-                        "Masala": ["1/2 grated coconut","6-8 red chillies(roasted)","1tbsp. - coriander seeds(roasted)","1/4tsp. - jeera","1/4tsp. - turmeric powder","4 - garlic flakes"],
+                        "Masala": ["1/2 grated coconut","6-8 red chillies(roasted)","1tbsp. - coriander seeds(roasted)","1/4tsp. - jeera","1/4tsp. - turmeric powder","4 - garlic flakes,crushed"],
                         "Method": [
                             {
                                 "Steps": [ "Cook the banana pieces in tamarind water, salt and 2 cups water.","Grind together the masala ingredients except coconut to a fine paste.","Then add coconut and grind to a coarse paste.","Remove and keep aside.","Keep oil on fire.","Add mustard seeds.","When they splutter, add curry leaves, broken red chilly.","Then add ground masala, cook for 10 minutes.","Drain water from cooked raw banana then add to the masala.","Mix it and cook for 5 minutes."]
@@ -1051,10 +1051,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari2.jpeg"],
-                        "Incredients": [ "1/2kg. - Beans chopped into small pieces", "2-3 - green chilies(slitted)","2tbsp. - channa daal","1tsp. - mustard seeds","2sprig curry leaves","1 pinch turmeric powder","1 - onion sliced","1tbsp. - grated coconut","Salt to taste"],
+                        "Incredients": [ "1/2kg. - Beans chopped into small pieces", "2-3 - green chilies(slitted)","1tbsp. - channa daal","1tsp. - mustard seeds","2sprig curry leaves","1 pinch turmeric powder","1 - onion sliced","1tbsp. - grated coconut","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Keep oil in a pan.","Add mustard seeds, sliced onion, green chillies, channa daal, turmeric powder and curry leaves.","When all well fried, add beans and little water.","When beans cooked add salt to taste, grated coconut and mix it well.","Cook for 5 minutes."]
+                                "Steps": [ "Keep oil in a pan.","Add mustard seeds, sliced onion, green chillies, channa daal, turmeric powder and curry leaves.","When all well fried, add beans and little water.","When beans cooked add salt, grated coconut and mix it well.","Cook for 5 minutes."]
                             }
                         ]
                     }
@@ -1071,7 +1071,7 @@
                         "Incredients": [ "1/2kg - Ridgegourd","1 - onion sliced","4 - green chillies(slitted),","Salt to taste","2tsp. - grated coconut","1tsp. - mustard seeds","3-4 garlic flakes(crushed)","2sprig curry leaves"],
                         "Method": [
                             {
-                                "Steps": [ "Peel off the skin of Ridgegourd.","Wash & cut into small pieces.","Heat oil on Kadai, add mustard seeds.","When they splutter, add sliced onion, green chillies, garlic, curry leaves, mix and add ridgegourd pieces.","Add salt and add very little water. Cook on slow fire till done.","Add coconut before removing from fire." ]
+                                "Steps": [ "Peel the skin of Ridgegourd.","Wash & cut into small pieces.","Heat oil on Kadai, add mustard seeds.","When they splutter, add sliced onion, green chillies, garlic, curry leaves, mix and add ridgegourd pieces.","Add salt and add very little water. Cook on slow fire till done.","Add coconut before removing from fire." ]
                             }
                         ],
                         "Note": "Upkari can also be prepared with cabbage, potatoes and snake gourd"
@@ -1111,10 +1111,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash the Bengal gram and cook it with water,onion and salt","Add hing","Grind all the masala ingredients together until fine","Add it to the cooked gram and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
+                                "Steps": [ "Wash the Whole Bengal gram and cook it with water,onion and salt in Cooker","Grind all the masala ingredients together until fine","Add it to the cooked gram,add hing and boil for 5-10 minutes","The curry should be thick in consistency","Keep oil in a small pan and place on fire","Add mustard seeds,when they splutter, add finely chopped onion,fry till brown,add curry leaves","Add it to the cooked gram."]
                             }
                         ]
                     }
@@ -1128,10 +1128,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Green Gram","1 - Onion,chopped","1 - Tomato","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1/4kg - Green Gram","1 - Onion,chopped","1 - Tomato,sliced","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Soak Green gram for 6 hours","Wash & drain water and keep it for 8 hours","It starts sprouting","Keep it on fire, add water and cook","After it cooked,add salt,chopped onion and tomato","Grind all the masala ingredients to a fine paste","Add it to the cooked gram","Curry should be thick in consistency","Boil for 5-10 minutes","Season with oil,mustard seeds,finely chopped onion,1 broken red chilly,crushed garlic flakes and curry leaves","Note: For sprouted green gram,skinned cucumber or skinned Ridge Gourd can be used."] 
+                                "Steps": [ "Soak Green gram for 6 hours","Wash & drain water and keep it for 8 hours","It starts sprouting","Keep it on fire, add water and cook","After it cooked,add salt,chopped onion and tomato","Grind all the masala ingredients to a fine paste","Add it to the cooked gram","Curry should be thick in consistency","Boil for 5-10 minutes","Season with oil,mustard seeds,finely chopped onion,1 broken red chilly,crushed garlic flakes and curry leaves","Note: For sprouted green gram,skinned cucumber or skinned Ridge Gourd can be added."] 
                             }
                         ]
                     }
@@ -1145,7 +1145,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Brinjal,cut & soaked in water","3-4 - drumsticks","Salt to taste","A small piece of jaggery","For Masala - 1/2 Coconut,grated","8-10 - Red chillies,roasted","1 tbsp.- Coriander seeds,roasted","1 tsp.- Cumin seeds", "1/4tsp.- fenugreek seeds,roasted","7-8 - Garlic flakes","1/4 tsp.- turmeric powder","Tamarind - size of a big lemon,soaked in water"], 
+                        "Incredients": [ "1/4kg - Brinjal,cut & soaked in water","3-4 - drumsticks","Salt to taste","A small piece of jaggery(optional)","For Masala - 1/2 Coconut,grated","8-10 - Red chillies,roasted","1 tbsp.- Coriander seeds,roasted","1 tsp.- Cumin seeds", "1/4tsp.- fenugreek seeds,roasted","7-8 - Garlic flakes","1/4 tsp.- turmeric powder","Tamarind - size of a big lemon,soaked in water"], 
                         "Method": [
                             {
                                 "Steps": [ "Skin,wash and cut the drumsticks into 3-4 inch long pieces,keep aside","Remove the brinjal pieces from water","Cook them with tamarind water,then add drumsticks,salt and jaggery","Grind all the masala ingredients together to a fine paste","Add it to the cooked vegetables and boil for 10 minutes","Season with coconut oil, mustard seeds, broken red chilly and crushed garlic flakes and curry leaves"]
@@ -1165,7 +1165,7 @@
                         "Incredients": [ "1/4kg - Brinjal, cut and soaked in water","Tamarind - size of a big lime,soaked in water","Jaggery - size of a small lime","Salt to taste","2tbsp.- oil","1 tsp.- Mustard seeds","1 sprig - curry leaves","1 tsp.- urad daal","7-8 - garlic flakes,crushed","2 tbsp.- *Masala Chilly Powder"],
                         "Method": [
                             {
-                                "Steps": [ "Boil the cut brinjal with tamarind water,jaggery and salt","Keep aside","Keep oil in the Kadai on fire", "Add mustard seeds","When they splutter,add urad daal,crushed garlic and curry leaves","Add *Masala chilly powder","Fry for a minute","Pour the cooked brinjal into it,cover and simmer for 5 minutes","*Maaala Chilly Powder: 7-8 - Red Chillies,1 tbsp.- Coriander seeds,1/2 tsp. - Cumin seeds,1/4tsp.- fenugreek seeds,1/2 tsp.- Urad daal","Kundapur Masala Powder can be used in place of the above  masala."]
+                                "Steps": [ "Boil the cut brinjal with tamarind water,jaggery and salt","Keep aside","Keep oil in the Kadai on fire", "Add mustard seeds","When they splutter,add urad daal,crushed garlic and curry leaves","Add *Masala chilly powder","Fry for a minute","Pour the cooked brinjal into it,cover and simmer for 5 minutes","*Masala Chilly Powder: 7-8 - Red Chillies,1 tbsp.- Coriander seeds,1/2 tsp. - Cumin seeds,1/4tsp.- fenugreek seeds,1/2 tsp.- Urad daal","Kundapur Masala Powder can be used in place of the above  masala."]
                             }
                         ]
                     }
@@ -1174,12 +1174,12 @@
             {
                 "Id": "8.6",
                 "Title": "Kundapur Masala Powder",
-                "SubTitle": "Kadle Gasi",
+                "SubTitle": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "500 gms.- Red Chillies","250 gms.- Coriander seeds","100 Gms.- Jeera","3 tbsp.- Pepper corns","1&1/2 tbsp. - Methi seeds","4 tbsp.- turmeric powder","1 handful - Garlic flakes"], 
+                        "Incredients": [ "500 gms.- Red Chillies","250 gms.- Coriander seeds","100 gms.- Jeera","3 tbsp.- Pepper corns","1&1/2 tbsp. - Methi seeds","4 tbsp.- turmeric powder","1 handful - Garlic flakes"], 
                         "Method": [
                             {
                                 "Steps": [ "Roast and grind all the above ingredients except garlic which has to be added last without peeling the skin","Cool and store in an air tight container","This Masala powder can be used for Chicken, Mutton,Vegetables or Eggs","Note:Roast every item separately on very slow fire."]
@@ -1196,7 +1196,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/2kg - White Pumpkin (skinned and cut into small pieces)","7-8 - Green Chillies,slitted","Tamarind - size of a small lime","Salt to taste","1 Glass - Curds","For Masala: 1/2 - Coconut,grated","1 tsp.- Jeera"],
+                        "Incredients": [ "1/2kg - White Pumpkin (skinned and cut into small pieces)","7-8 - Green Chillies,slitted","Tamarind - size of a small lime","Salt to taste","1 Glass - Butter milk","For Masala: 1/2 - Coconut,grated","1 tsp.- Jeera"],
                         "Method": [
                             {
                                 "Steps": [ "Keep the pumpkin pieces for boiling with 3 cups of water,green chillies,tamarind and salt","Boil till cooked","Grind the coconut with jeera to a fine paste","Add it to the cooked pumpkin and boil for 10-15 minutes","Add buttermilk and boil","remove from fire","Season with coconut oil, mustard seeds,curry leaves and broken red chilly."]
@@ -1213,7 +1213,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1 cup - Horse gram,sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste","For Masala: 1big- Coconut,grated","10 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","1/4 - methi,roasted","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric","Salt to taste"],
+                        "Incredients": [ "1 cup - Horse gram,sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste","For Masala: 1big- Coconut,grated","10 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","1/4 - methi,roasted","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste"],
                         "Method": [
                             {
                                 "Steps": [ "Grind all the masala ingredients together until fine","Cook Spinach and the horse gram with salt","After it cooked, Add the ground masala and boil for 10 minutes","Season with oil,mustard seeds, broken red chilly and curry leaves."]
