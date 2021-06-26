@@ -190,10 +190,10 @@
                 "Id": "4.2",
                 "Title": "Spicy Fish Curry",
                 "SubTitle": "Meen Puli Munchi",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi3.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi3.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi1.jpgial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi2.jpeg" ],
                         "Incredients": [ "12 - Mackerels or 25 - big Saradine,cleaned & cut into two", "For Masala - 30-35 Long chillies","Tamarind- size of two lemons","2tbsp.- Coriander seeds","1 tbsp.- Jeera","1/4 tsp.- Methi seeds","1tbsp.- pepper corns","1/4 tsp.- oama","1/4tsp.- turmeric powder","4-5 - Garlic flakes","1 tbsp.- Coconut oil","Salt to taste" ],
                         "Method": [
                             {
@@ -224,10 +224,10 @@
                 "Id": "4.4",
                 "Title": "Crab curry",
                 "SubTitle": "Denji Gasi",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry3.jpg" ],
                         "Incredients": [ "12 Crabs,cleaned and cut", "25-30 - red Chillies", "1tsp. Cumin seeds", "2tbsp. - Coriander seeds", "1tsp.- Fenugreek seeds", "1/4tsp.- Oama", "1/4tsp.- Turmeric powder", "6-8 - Garlic flakes", "Tamarind - size of a lemon", "1 -Coconut,grated", "2 - Onion chopped", "Salt to taste", "For Seasoning: 1tsp.coconut oil, 10 curry leaves, 1 onion finely chopped"],
                         "Method": [
                             {
@@ -258,10 +258,10 @@
                 "Id": "4.6",
                 "Title": "Dry Fish Chutney",
                 "SubTitle": "Nungel Chutney",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpeg"],
                         "Incredients": [ "3 - six inch pieces of shark fish - washed, skinned, fried in coconut oil and chopped", "10 -12 - Red Chillies,roasted", "6-8 - Garlic flakes", "Tamarind - size of a lime", "1/2 - Onion,chopped", "1/2 - Coconut,grated" ],
                         "Method": [
                             {
