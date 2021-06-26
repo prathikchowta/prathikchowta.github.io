@@ -384,10 +384,10 @@
                 "Id": "7.2",
                 "Title": "Chicken Curry with Coconut Milk",
                 "SubTitle": "Kori Rotti Gassi",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CueryCocMilk2.jpeg"],
                         "Incredients": [ "1Kg. Chicken -Cleaned and cut into pieces", "For Masala: 1/2 -Coconut grated", "Red Chillies - 15-20", "2 tbsp.- Coriander seeds", "1 tbsp.- Cumin seeds (Jeera)", "1tsp.- Curry leaves", "1tsp.- Pepper corns", "1/2tsp.- Fenugreek seeds (Methi)", "5-6 - Garlic flakes", "2 - Onions Chopped", "Juice of 1 lemon", "1/4tsp.- Turmeric powder","3 tbsp.- Ghee", "1 tsp.- Coconut oil", "1tbsp.- Butter", "Salt to taste", "1&1/2 - Coconut, grated,for milk", "For Seasoning: 1tbsp.- Ghee,1 -Onion,finely chopped, 1/2 tsp.-Garam Masala(Cardamom, Cinnamon,Cloves),powdered"],
                         "Method": [
                             {
