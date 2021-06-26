@@ -3,7 +3,7 @@
         "Id": "1",
         "Title": "Karavali Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/karavaliSpecial.jpeg",
-        "Count": "3",
+        "Count": "7",
         "RecipesList": [
             {
                 "Id": "1.1",
@@ -12,10 +12,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
-                        "Incredients": [ "1 Cup - Bombay Rava", "3/4 Cups - Sugar", "4tbsp. - Ghee", "4 Cups - Milk or water", "1 tbsp.- Cashew nuts", "1 tbsp.- Raisins( dry grapes)", "1tsp.- Cardamom, powdered", "5-6 - Safron,mixed in little milk", "1 pinch - Salt" ],
+                        "Incredients": [ "1Cup - Bombay Rava", "3/4Cups - Sugar", "4tbsp. - Ghee", "4Cups - Milk or water", "1tbsp. - Cashew nuts", "1tbsp. - Raisins(dry grapes)", "1tsp. - Cardamom, powdered", "5-6 - Safron, mixed in little milk", "1 pinch - Salt" ],
                         "Method": [
                             {
-                                "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate", "Fry Bombay Rava with 1 tbsp. Ghee until light brown in colour with low flame", "Keep aside", "Boil the milk in a vessel,add sugar, saffron and salt", "Pour the fried rava slowly and stir to avoid lumps", "Add 2 tbsp. Ghee and Cook on slow fire until it is dry", "Add Cardamom powder and fried nuts", "Mix well and remove from fire" ]
+                                "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate.", "Fry Bombay Rava with 1tbsp. Ghee until light brown in colour with low flame.", "Keep aside.", "Boil the milk in a vessel, add sugar, saffron and salt.", "Pour the fried rava slowly and stir to avoid lumps.", "Add 2tbsp. Ghee and Cook on slow fire until it is dry.", "Add Cardamom powder and fried nuts.", "Mix well and remove from fire.", "Ready to serve." ]
                             }
                         ]
                     }
@@ -28,10 +28,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa2.jpeg" ],
-                        "Incredients": [ "1 Kg. - Carrot", "3tbsp. - Ghee", "100gms.- Cashew nuts", "50 gms - Raisins", "20gms - almonds,chopped", "10 - Pistachios,chopped", "450 gms - Sugar", "1/2 liter - Milk" ],
+                        "Incredients": [ "1Kg. - Carrot", "3tbsp. - Ghee", "100gms. - Cashew nuts", "50gms. - Raisins", "20gms. - almonds, chopped", "10 - Pistachios, chopped", "450gms - Sugar", "1/2liter - Milk" ],
                         "Method": [
                             {
-                                "Steps": [ "Peel the skin of carrot, wash, scrap and keep aside", "Fry Cashews,Raisins,Almonds and Pistachios with 2tsp. ghee, remove it to a plate", "Keep the vessel on fire,fry the scrapped carrots,till its colour changes", "Add sugar,milk and cook till the water contents dissolve", "Add Ghee,stir and cook", "Cream can be added", "After it cooks well,add fried dry fruits,mix and turn off the gas" ]
+                                "Steps": [ "Peel the skin of carrot, wash, scrap and keep aside.", "Fry Cashews, Raisins, Almonds and Pistachios with 2tsp. ghee, remove it to a plate.", "Keep the vessel on fire, fry the scrapped carrots, till its colour changes.", "Add sugar, milk and cook till the water contents dissolve.", "Add Ghee, stir and cook.", "Cream can be added.", "After it cooks well, add fried dry fruits, mix and turn off the gas." ]
                             }
                         ]
                     }
@@ -44,12 +44,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa2.jpeg" ],
-                        "Incredients": [ "1Kg.- White Pumpkin,skinned & scrapped", "1 Cup - Cream", "2 Cups - Sugar", "4tbsp.- Ghee", "2 tbsp.-Chopped nuts (fried with ghee)" ],
+                        "Incredients": [ "1Kg. - White Pumpkin, skinned & scrapped", "1Cup - Cream", "2Cups - Sugar", "4tbsp. - Ghee", "2tbsp. - Chopped nuts(fried with ghee)" ],
                         "Method": [
                             {
-                                "Steps": [ "Cook the scrapped pumpkin with its own water till dry", "Add cream and sugar", "Keep on stirring till completely dry and brown in colour", "Add ghee", "Fry till ghee floats on top", "Remove and decorate with chopped nuts", "Note: Same Halwa can be done with bottle guard"]
+                                "Steps": [ "Cook the scrapped pumpkin with its own water till dry.", "Add cream and sugar.", "Keep on stirring till completely dry and brown in colour.", "Add ghee.", "Fry till ghee floats on top.", "Remove and decorate with chopped nuts."]
                             }
-                        ]
+                        ],
+                        "Note": "Same Halwa can be done with bottle guard."
                     }
                 ]
             },
@@ -60,12 +61,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu2.jpeg" ],
-                        "Incredients": [ "1/2 Kg - Bombay Rava", "1 Cup - grated Coconut", "2 tbsp Ghee", "1/4 kg.- Sugar,powdered", "50 gms.- Cashew nuts", "50 gms.- Raisins", "1 tsp - Cardamom powder" ],
+                        "Incredients": [ "1/2Kg - Bombay Rava", "1Cup - grated Coconut", "2tbsp. - Ghee", "1/4kg. - Sugar, powdered", "50gms. - Cashew nuts", "50gms. - Raisins", "1tsp. - Cardamom powder" ],
                         "Method": [
                             {
-                                "Steps": [ "Keep a Kadai on fire", "Fry cashew nuts and raisins with 1 tsp.ghee and keep aside", "Fry Bombay Rava with 1 tbsp Ghee", "Fry for 10 minutes with low flame", "Add coconut and sugar powder and mix well", "Off the gas, Add fried cashews and raisins and mix", "Make small laddoos", "Add hot ghee if needed", "Note: It can be stored for many days" ]
+                                "Steps": [ "Keep a Kadai on fire.", "Fry cashew nuts and raisins with 1tsp. ghee and keep aside.", "Fry Bombay Rava with 1tbsp. Ghee.", "Fry for 10 minutes with low flame.", "Add coconut and sugar powder and mix well.", "Off the gas. Add fried cashews and raisins and mix.", "Make small laddoos.", "Add hot ghee if needed." ]
                             }
-                        ]
+                        ],
+                        "Note": "It can be stored for many days."
                     }
                 ]
             },
@@ -76,12 +78,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "4 Cups - Boiled Rice", "Salt to taste", "1 Big - Coconut,grated", "500gms. - Jaggery,powdered", "1tsp.- Cardamom", "1 tsp.- Pepper corns ( optional)", "4tbsp. - Ghee", "100gms.- Cahew nuts", "50gms.- Raisins" ],
+                        "Incredients": [ "4Cups - Boiled Rice", "Salt to taste", "1Big - Coconut, grated", "500gms. - Jaggery, powdered", "1tsp. - Cardamom", "1tsp. - Pepper corns(optional)", "4tbsp. - Ghee", "100gms. - Cashew nuts", "50gms. - Raisins" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash the boiled rice", "Add salt with little water and mix it with rice", "Spread rice on a large plate and dry in the sunlight for one day", "Keep the thick bottomed vessel on fire", "Fry the rice little by little, grind  to a rough powder and keep aside", "Grind the coconut with jaggery,cardamom and pepper to fine powder", "Mix it with rice powder", "Fry Cahew nuts and raisins in 1tsp.ghee and mix to the powder", "Add the remained ghee and mix it well", "Make the laddos", "40-45 laddoos can be made,store in a air tight jar", "Note: It is a Karavali special,traditional sweet" ]
+                                "Steps": [ "Wash the boiled rice.", "Add salt with little water and mix it with rice.", "Spread rice on a large plate and dry in the sunlight for one day.", "Keep the thick bottomed vessel on fire.", "Fry the rice little by little, grind to a rough powder and keep aside.", "Grind the coconut with jaggery, cardamom and pepper to fine powder.", "Mix it with rice powder.", "Fry Cashew nuts and raisins in 1tsp. ghee and mix to the powder.", "Add the remained ghee and mix it well.", "Make the laddos.", "40-45 laddoos can be made, store in a air tight jar." ]
                             }
-                        ]
+                        ],
+                        "Note": "It is a Karavali special, traditional sweet."
                     }
                 ]
             },
@@ -92,12 +95,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri4.jpg" ],
-                        "Incredients": [ "3 Cups - Maida", "2 Cups - Sugar", "1/2 tsp. - Salt", "1 Pinch - Turmeric powder", "1 tbsp.- Bombay Rawa", "1 tsp.- Cardamom,powdered", "Oil - for frying" ],
+                        "Incredients": [ "3Cups - Maida", "2Cups - Sugar", "1/2tsp. - Salt", "1Pinch - Turmeric powder", "1tbsp. - Bombay Rawa", "1tsp. - Cardamom, powdered", "Oil for frying" ],
                         "Method": [
                             {
-                                "Steps": [ "Mix all the ingredients with water to the thick batter (Idli batter)", "Keep aside for 10-15 minutes", "Keep oil on fire", "Heat and Pour 1 ladleful of batter", "Fry both the sides,until crisp and brown with medium flame", "Remove it with 2 Spoons,press at the center from back side of the spoon", "This makes it flat", "Note: 15-16 Malpuries can be done" ]
+                                "Steps": [ "Mix all the ingredients with water to the thick batter(Idli batter).", "Keep aside for 10-15 minutes.", "Keep oil on fire.", "Heat and Pour 1 ladleful of batter.", "Fry both the sides, until crisp and brown with medium flame.", "Remove it with 2 Spoons, press at the center from back side of the spoon.", "This makes it flat." ]
                             }
-                        ]
+                        ],
+                        "Note": "15-16 Malpuries can be made."
                     }
                 ]
             },
@@ -108,10 +112,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige3.jpg" ],
-                        "Incredients": [ "1 kg.- Jackfruit(without seeds),sliced", "1/2 kg - Raw rice", "1 - Coconut,grated", "50 gms.- Jaggery", "10 - Cardamoms", "Salt to taste", "Oil for frying" ],
+                        "Incredients": [ "1kg. - Jackfruit(without seeds), sliced", "1/2kg - Raw rice", "1 - Coconut, grated", "50gms. - Jaggery", "10 - Cardamoms", "Salt to taste", "Oil for frying" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak rice for 2 hours", "Drain the water and grind with jackfruit and coconut", "After a little while add jaggery and cardamom", "Grind further without adding water at all", "Add salt to taste and grind it to a coarse paste", "Remove and keep aside", "Heat oil in a deep pan,when oil is hot,make small balls of the paste and deep fry in oil till brown in colour", "Drain and serve." ]
+                                "Steps": [ "Wash and soak rice for 2 hours", "Drain the water and grind with jackfruit and coconut.", "After a little while add jaggery and cardamom.", "Grind further without adding water at all.", "Add salt to taste and grind it to a coarse paste.", "Remove and keep aside.", "Heat oil in a deep pan. When oil is hot, make small balls of the paste and deep fry in oil till brown in colour.", "Drain and serve." ]
                             }
                         ]
                     }
