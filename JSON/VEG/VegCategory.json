@@ -61,10 +61,10 @@
                 "Id": "1.4",
                 "Title": "Rice Semia",
                 "SubTitle": "Semeda Adye",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye5.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye3.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye5.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye4.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye6.jpg" ],
                         "Incredients": [ "1/2kg - Boiled rice", "Salt to taste"],
                         "Method": [
                             {
@@ -97,10 +97,10 @@
                 "Id": "1.6",
                 "Title": "Cucumber Gatti",
                 "SubTitle": "Thekkareda Adye",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/CucumberAdiye1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TekareAdiye1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/CucumberAdiye1.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TekareAdiye1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TekareAdiye2.jpg" ],
                         "Incredients": [ "2 - cucumbers, skinned and cut into pieces", "3cups - raw rice, washed and soaked in water for 1 hour", "1/2 - grated coconut", "4-5 - cardamoms", "250gms. - jaggery", "Salt to taste", "2 - Plantain leaves"],
                         "Method": [
                             {
@@ -148,11 +148,11 @@
             {
                 "Id": "1.9",
                 "Title": "Saarne Adye",
-                "SubTitle": "Manjal Ereda Gatti",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "SubTitle": "Saarneda Adye",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SarneAdiye1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SarneAdiye1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SaarneAdiye2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SarneAdiye3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SarneAdiye4.jpg" ],
                         "Incredients": [ "1Cup - Boiled Rice", "3Cups - Raw Rice", "2 - Tender Coconut, grated or extracted milk from tender coconut", "8-10 - Peppecorns", "1tsp. - Jeera", "1tsp. - coriander seeds", "1/4tsp. - Oama", "1/2Kg - Jaggery", "Salt to taste", "1tsp. - Cardamom powder", "1 tbsp. - Ghee", "50gms - Cashews", "50gms - Raisins"],
                         "Method": [
                             {
