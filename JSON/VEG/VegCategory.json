@@ -246,7 +246,7 @@
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam2.jpeg?raw=true"],
+                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/AappamDose1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/AappamDose2.jpg" ],
                         "Incredients": [ "3cups - raw rice","1/2cup - urad daal","1/2cup - poha(soaked)", "1cup - tender coconut","Salt to taste", "Oil for frying"],
                         "Method": [
                             {
