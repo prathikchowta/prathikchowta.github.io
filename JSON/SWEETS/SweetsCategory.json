@@ -137,10 +137,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam2.jpeg" ],
-                        "Incredients": [ "1/4Kg. - Green Gram Daal", "100gms. - Saagu", "Milk of 1 Coconut (thick and thin milk)", "1/2 Kg. - Jaggery", "1tsp. - Cardamom,powdered", "10-15 cashew nuts and Raisins", "1/2tsp.- Salt", "1 tbsp. - Ghee"],
+                        "Incredients": [ "1/4Kg. - Green Gram Daal", "100gms. - Saagu", "Milk of 1 Coconut(thick and thin milk)", "1/2Kg. - Jaggery", "1tsp. - Cardamom, powdered", "10-15 cashew nuts and Raisins", "1/2tsp. - Salt", "1tbsp. - Ghee"],
                         "Method": [
                             {
-                                "Steps": [ "Boil Sagu with thin coconut milk", "When it is half cooked,add green gram daal and cook", "Add jaggery,salt and stir continuously", "Then add thick coconut milk and cook", "Add cardamom powder", "Fry Cashew nuts and raisins with ghee", "Add to the Payasam" ]
+                                "Steps": [ "Boil Sagu with thin coconut milk.", "When it is half cooked, add green gram daal and cook.", "Add jaggery, salt and stir continuously.", "Then add thick coconut milk and cook.", "Add cardamom powder.", "Fry Cashew nuts and raisins with ghee.", "Add to the Payasam." ]
                             }
                         ]
                     }
@@ -154,10 +154,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal1.jpeg" ],
-                        "Incredients": [ "1/4 Kg. - Channa Daal", "2 tbsp. - Raw Rice", "1/2 Kg.- Jaggery", "Milk of 1 Coconut", "50gms.- Cashew nuts", "50gms.- Raisins", "4-5 - Cardamoms,crushed", "1 tbsp.- Ghee"],
+                        "Incredients": [ "1/4Kg. - Channa Daal", "2tbsp. - Raw Rice", "1/2Kg. - Jaggery", "Milk of 1 Coconut", "50gms. - Cashew nuts", "50gms. - Raisins", "4-5 - Cardamoms, crushed", "1tbsp. - Ghee"],
                         "Method": [
                             {
-                                "Steps": [ "Fry Cashew nuts and raisins with ghee", "Keep aside", "Boil Channa daal with 8 cups of water", "Grind the rice coarsely and mix it with the daal and cook for sometime", "Add jaggery and salt, and keep on stirring", "Add coconut milk and cook", "Add cardamom powder", "Add fried cashews and raisins and stir." ]
+                                "Steps": [ "Fry Cashew nuts and raisins with ghee.", "Keep aside.", "Boil Channa daal with 8 cups of water.", "Grind the rice coarsely and mix it with the daal and cook for sometime.", "Add jaggery and salt, and keep on stirring.", "Add coconut milk and cook.", "Add cardamom powder.", "Add fried cashews and raisins and stir." ]
                             }
                         ]
                     }
@@ -171,10 +171,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam3.jpeg" ],
-                        "Incredients": [ "100gms.- Vermicelli", "50gms.- Cashew nuts & Raisins", "1/2 liter - Milk", "3/4 cup - Sugar", "1 tsp.- Cardamoms,crushed", "2 tbsp.- Ghee", "100gms. - Saagu (optional" ],
+                        "Incredients": [ "100gms. - Vermicelli", "50gms. - Cashew nuts & Raisins", "1/2liter - Milk", "3/4cup - Sugar", "1tsp. - Cardamoms, crushed", "2tbsp. - Ghee", "100gms. - Saagu(optional)" ],
                         "Method": [
                             {
-                                "Steps": [ "Cook Sagoo with water and keep aside", "Fry Vermicelli, Cashews and raisins with ghee and keep aside", "Boil the milk in vessel,add vermecelli and cook for sometime", "Add cooked sagoo,sugar and stir", "Add Cardamom and fried dry fruits." ]
+                                "Steps": [ "Cook Sagoo with water and keep aside.", "Fry Vermicelli, Cashews and raisins with ghee and keep aside.", "Boil the milk in vessel, add vermecelli and cook for sometime.", "Add cooked sagoo, sugar and stir.", "Add Cardamom and fried dry fruits." ]
                             }
                         ]
                     }
@@ -188,10 +188,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat2.jpeg" ],
-                        "Incredients": [ "250gms. - Broken Wheat( Godi Kadi)", "300 gms.- Jaggery", "Milk of 1 Coconut (thin and thick milk)", "50 gms.- Cashew nuts", "50 gms.- Raisins", "4-5 - Cardamoms,crushed", "1/2 tsp.- Salt", "1 tbsp.- Ghee"],
+                        "Incredients": [ "250gms. - Broken Wheat(Godi Kadi)", "300gms. - Jaggery", "Milk of 1 Coconut(thin and thick milk)", "50gms. - Cashew nuts", "50gms. - Raisins", "4-5 - Cardamoms, crushed", "1/2tsp. - Salt", "1tbsp. - Ghee"],
                         "Method": [
                             {
-                                "Steps": [ "Fry Cashew nuts and raisins with ghee", "Keep aside", "Cook broken wheat with thin coconut milk", "Add Jaggery and salt", "Then add thick coconut milk and cook well", "Add jaggery, if required", "Add Cardamoms and fried nuts." ]
+                                "Steps": [ "Fry Cashew nuts and raisins with ghee.", "Keep aside.", "Cook broken wheat with thin coconut milk.", "Add Jaggery and salt.", "Then add thick coconut milk and cook well.", "Add jaggery, if required.", "Add Cardamoms and fried nuts." ]
                             }
                         ]
                     }
