@@ -64,10 +64,10 @@
                 "Id": "1.4",
                 "Title": "Chicken Uruval",
                 "SubTitle": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Karavali/ChickenUruval1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Karavali/ChickenUruval1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Karavali/ChickenUruval2.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval3.jpg" ],
                         "Incredients": [ "1Kg - Chicken", "1 Bundle - Garlic", "1inch - Ginger", "10-15 - red long chilles", "1tsp. - Coriander powder", "1tsp. -  Jeera powder", "1tbsp. - Garam  masala powder", "10 -15 -Curry leaves", "1tbsp. - Lemon juice", "1tsp. - Turmeric powder", "2tbsp. - Ghee", "Salt to taste", "For seasoning - 1tsp. Ghee, Cashew nuts, 4 Long Red chilies,broken, 20-25 - Curry leaves"],
                         "Method": [
                             {
