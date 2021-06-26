@@ -2,7 +2,7 @@
     {
         "Id": "1",
         "Title": "Karavali Special",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/karavaliSpecial.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/Maalpuri1.jpg",
         "Count": "7",
         "RecipesList": [
             {
@@ -126,7 +126,7 @@
     {
         "Id": "2",
         "Title": "Payasam",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial.jpeg",
         "Count": "4",
         "RecipesList": [
             {
