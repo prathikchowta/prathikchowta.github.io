@@ -131,10 +131,10 @@
                 "Id": "3.2",
                 "Title": "Green Masala Fish Fry",
                 "SubTitle": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry4.jpg"  ],
                         "Incredients": [ "50-60 - Silver Fish(Bolenjir) or 10 - 20 Crabs", "1 bunch - Coriander leaves, cleaned and cut", "10-15 Mint Leaves", "7-8 - Green Chillies", "1 tsp- pepper corns", "Salt to taste", "1 bundle - Garlic", "2inches - Ginger", "Juice of 1 lemon", "Oil for frying" ],
                         "Method": [
                             {
