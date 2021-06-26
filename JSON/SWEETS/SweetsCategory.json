@@ -127,7 +127,8 @@
         "RecipesList": [
             {
                 "Id": "2.1",
-                "Title": "Green Gram Daal Payasam","Padengi Bele Payasa",
+                "Title": "Green Gram Daal Payasam",
+                "SubTitle": "Padengi Bele Payasa",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam1.jpeg",
                 "Prepare": [
                     {
@@ -143,7 +144,8 @@
             },
             {
                 "Id": "2.2",
-                "Title": "Chana Dal Payasam","Kadle Bele Payasa"
+                "Title": "Chana Dal Payasam",
+                "SubTitle": "Kadle Bele Payasa"
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal2.jpeg",
                 "Prepare": [
                     {
@@ -159,7 +161,8 @@
             },
             {
                 "Id": "2.3",
-                "Title": "Vermecelli Payasam","Seme Payasa"
+                "Title": "Vermecelli Payasam",
+                "SubTitle": "Seme Payasa"
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam1.jpeg",
                 "Prepare": [
                     {
@@ -175,7 +178,8 @@
             },
             {
                 "Id": "2.4",
-                "Title": "Broken Wheat Payasam","Godi Kadi Payasa"
+                "Title": "Broken Wheat Payasam",
+                "SubTitle": "Godi Kadi Payasa"
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat1.jpeg",
                 "Prepare": [
                     {
