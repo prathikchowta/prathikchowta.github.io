@@ -1107,10 +1107,10 @@
                 "Id": "8.2",
                 "Title": "Whole Bengal Gram Curry",
                 "SubTitle": "Kadle Gasi",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BengalGram1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BengalGram1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BengalGram2.jpeg"],
                         "Incredients": [ "1/4kg - Whole Bengal gram,soaked overnight","1 - Onion,chopped","1 pinch - Hing","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste"],
                         "Method": [
                             {
@@ -1124,10 +1124,10 @@
                 "Id": "8.3",
                 "Title": "Sprouted Green Gram Curry",
                 "SubTitle": "Padangi Gasi",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/GreenGram1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/GreenGram1.jpeg"],
                         "Incredients": [ "1/4kg - Green Gram","1 - Onion,chopped","1 - Tomato,sliced","For Masala: - 1/2 Coconut,grated","6-8 - red chillies,roasted","1 tbsp. - coriander seeds,roasted","1 tsp.- Cumin seeds","4-5 - Garlic flakes","1/4 tsp.- mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste"],
                         "Method": [
                             {
@@ -1175,10 +1175,10 @@
                 "Id": "8.6",
                 "Title": "Kundapur Masala Powder",
                 "SubTitle": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KundapurPowder1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KundapurPowder1.jpeg" ],
                         "Incredients": [ "500 gms.- Red Chillies","250 gms.- Coriander seeds","100 gms.- Jeera","3 tbsp.- Pepper corns","1&1/2 tbsp. - Methi seeds","4 tbsp.- turmeric powder","1 handful - Garlic flakes"], 
                         "Method": [
                             {
@@ -1192,10 +1192,10 @@
                 "Id": "8.7",
                 "Title": "White Pumpkin Curry",
                 "SubTitle": "Karkumbuda Puli Koddel",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/WhitePumpkin1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/WhitePumpkin1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/WhitePumpkin2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/WhitePumpkin3.jpeg" ],
                         "Incredients": [ "1/2kg - White Pumpkin (skinned and cut into small pieces)","7-8 - Green Chillies,slitted","Tamarind - size of a small lime","Salt to taste","1 Glass - Butter milk","For Masala: 1/2 - Coconut,grated","1 tsp.- Jeera"],
                         "Method": [
                             {
