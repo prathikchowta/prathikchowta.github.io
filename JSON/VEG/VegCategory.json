@@ -1152,10 +1152,10 @@
                 "Title": "Red Cucumber Curry",
                 "SubTitle": "Taute Koddel",
                 "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari2.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber2.jpg"],
                         "Incredients": [ "1 small or medium size - Cucumber(cut into medium pieces without removing skin)" ],
                         "Masala": [ "1 - Grated Coconut", "10-12 - Red chillies(roasted)","1tbsp. - Coriander seeds(roasted)", "1/2tbsp. - Cumin seeds","1/4tsp. - Fenugreek seeds(roasted)", "1/4tsp. - Mustard seeds(roasted)","1pinch - Turmeric powder","Tamarind - size of its seed","Jaggery - size of a lime","Salt to taste","4-5 - Garlic flakes","1 - Onion(chopped)"],
                         "Method": [
@@ -1210,10 +1210,10 @@
                 "Title": "Brinjal and Drumstick Curry",
                 "SubTitle": "Badane Nurge",
                 "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BadaneNurge1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BadaneNurge1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BadaneNurge2.jpg" ],
                         "Incredients": [ "1/4kg - Brinjal, cut & soaked in water","3-4 - drumsticks","Salt to taste","A small piece of jaggery(optional)" ], 
                         "Masala": [ "1/2 Coconut, grated","8-10 - Red chillies, roasted","1tbsp. - Coriander seeds, roasted","1tsp. - Cumin seeds", "1/4tsp. - fenugreek seeds, roasted","7-8 - Garlic flakes","1/4tsp. - turmeric powder","Tamarind - size of a big lemon, soaked in water" ],
                         "Method": [
@@ -1286,10 +1286,10 @@
                 "Title": "Horse Gram and Spinach Curry",
                 "SubTitle": "Kudu, Basale Gasi",
                 "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach2.jpg" ],
                         "Incredients": [ "1cup - Horse gram, sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste" ],
                         "Masala": [ "1big - Coconut, grated","10 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste" ],
                         "Method": [
