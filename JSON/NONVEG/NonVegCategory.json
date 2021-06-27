@@ -3,7 +3,7 @@
         "Id": "1",
         "Title": "Karavali Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
-        "Count": "4",
+        "Count": "6",
         "RecipesList": [
             {
                 "Id": "1.1",
@@ -72,6 +72,42 @@
                         "Method": [
                             {
                                 "Steps": [ "Clean the chicken and cut into pieces.", "Make Ginger, Garlic paste.", "Soak red chillies in hot water for 10 minutes.", "After cooled grind with curry leaves and keep aside.", "Marinate  chicken with ginger garlic paste, coriander powder, Jeera powder, lemon juice, garam masala powder, turmeric powder and salt.", "Heat ghee on a Kadai and add ground paste.", "Cook till the raw smell goes.", "Add Chicken and salt(if needed).", "Fry curry leaves, cashew nuts and red chillies, pour it to the cooked chicken.", "Garnish with coriander leaves." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.5",
+                "Title": "Spicy Fish Curry",
+                "SubTitle": "Meen Puli Munchi",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi3.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi3.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi1.jpgial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi2.jpeg" ],
+                        "Incredients": [ "12 - Mackerels or 25 - big Saradine, cleaned & cut into two" ],
+                        "Masala": [ "30-35 Long chillies","Tamarind - size of two lemons","2tbsp. - Coriander seeds","1tbsp. - Jeera","1/4tsp. - Methi seeds","1tbsp. - pepper corns","1/4tsp. - oama","1/4tsp. - turmeric powder","4-5 - Garlic flakes","1tbsp. - Coconut oil","Salt to taste" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry the Masala ingredients, except tamarind, turmeric powder and garlic with coconut oil.", "Add all the ingredients and grind to a thick fine paste.","Add little water and keep aside.","Keep earthen pot on fire.","Put coconut oil, crushed garlic flakes, 2 Chopped green chilies and ginger.","Then add ground masala, add salt, stir and boil.","Place fish in it and cook for 5-10 minutes." ]
+                            }
+                        ],
+                        "Note": "It can be kept for 2 days."
+                    }
+                ]
+            },
+            {
+                "Id": "1.6",
+                "Title": "Fish Fry Masala",
+                "SubTitle": "Meen Kaidina",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Grind all the above ingredients except rice to a fine paste with a little water, then add the rice and grind coarsely.", "Remove in a vessel with a lid and keep in the freezer.", "Whenever required dip fish pieces in it and deep fry." ]
                             }
                         ]
                     }
