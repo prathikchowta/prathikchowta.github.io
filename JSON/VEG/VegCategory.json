@@ -1004,10 +1004,10 @@
                 "Title": "Plantain Stem Sukka",
                 "SubTitle": "Bambe Ajadina",
                 "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainStem1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PumbeAjadina1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainStem1.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PumbeAjadina1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PumbeAjadina2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PumbeAjadina3.jpg" ],
                         "Incredients": [ "6inch piece of plantain stem", "Salt to taste"],
                         "Masala": [ "6 - red chillies(roasted)","1tbsp. - coriander seeds(roasted)","1tsp. - methi, mustard and jeera","1/4 coconut scraped"],
                         "Method": [
