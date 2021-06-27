@@ -9,6 +9,7 @@
                 "Id": "1.1",
                 "Title": "Sheera",
                 "SubTitle": "null",
+                "Duration": "15min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
                 "Prepare": [
                     {
@@ -26,6 +27,7 @@
                 "Id": "1.2",
                 "Title": "Carrot Halwa",
                 "SubTitle": "null",
+                "Duration": "2hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa1.jpeg",
                 "Prepare": [
                     {
@@ -43,6 +45,7 @@
                 "Id": "1.3",
                 "Title": "White Pumpkin Halwa",
                 "SubTitle": "Kashi Halwa",
+                "Duration": "1hr 15min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa1.jpeg",
                 "Prepare": [
                     {
@@ -61,6 +64,7 @@
                 "Id": "1.4",
                 "Title": "Rava Laddoo",
                 "SubTitle": "null",
+                "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu1.jpeg",
                 "Prepare": [
                     {
@@ -79,6 +83,7 @@
                 "Id": "1.5",
                 "Title": "Rice Laddoo",
                 "SubTitle": "Aritha Unde",
+                "Duration": "50min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
                 "Prepare": [
                     {
@@ -97,6 +102,7 @@
                 "Id": "1.6",
                 "Title": "Malpuri",
                 "SubTitle": "null",
+                "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg",
                 "Prepare": [
                     {
@@ -115,6 +121,7 @@
                 "Id": "1.7",
                 "Title": "Jackfruit Garige",
                 "SubTitle": "Pelakai Gulma",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg",
                 "Prepare": [
                     {
@@ -140,6 +147,7 @@
                 "Id": "2.1",
                 "Title": "Green Gram Daal Payasam",
                 "SubTitle": "Padengi Bele Payasa",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam1.jpeg",
                 "Prepare": [
                     {
@@ -157,6 +165,7 @@
                 "Id": "2.2",
                 "Title": "Chana Dal Payasam",
                 "SubTitle": "Kadle Bele Payasa",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal2.jpeg",
                 "Prepare": [
                     {
@@ -174,6 +183,7 @@
                 "Id": "2.3",
                 "Title": "Vermecelli Payasam",
                 "SubTitle": "Seme Payasa",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam1.jpeg",
                 "Prepare": [
                     {
@@ -191,6 +201,7 @@
                 "Id": "2.4",
                 "Title": "Broken Wheat Payasam",
                 "SubTitle": "Godi Kadi Payasa",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat1.jpeg",
                 "Prepare": [
                     {
