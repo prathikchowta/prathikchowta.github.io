@@ -9,7 +9,7 @@
                 "Id": "1.1",
                 "Title": "Chicken Curry with Rotti",
                 "SubTitle": "Kori Rotti",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -29,7 +29,7 @@
                 "Id": "1.2",
                 "Title": "Chicken Sukka",
                 "SubTitle": "Kori Ajadina",
-                "Duration": "null",
+                "Duration": "45 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -48,7 +48,7 @@
                 "Id": "1.3",
                 "Title": "Dry Chicken",
                 "SubTitle": "Kori Pulimunchi",
-                "Duration": "null",
+                "Duration": "45 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -67,7 +67,7 @@
                 "Id": "1.4",
                 "Title": "Chicken Uruval",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "40 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg",
                 "Prepare": [
                     {
@@ -85,7 +85,7 @@
                 "Id": "1.5",
                 "Title": "Spicy Fish Curry",
                 "SubTitle": "Meen Puli Munchi",
-                "Duration": "null",
+                "Duration": "30 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi3.jpeg",
                 "Prepare": [
                     {
@@ -105,7 +105,7 @@
                 "Id": "1.6",
                 "Title": "Fish Fry Masala",
                 "SubTitle": "Meen Kaidina",
-                "Duration": "null",
+                "Duration": "15 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -131,7 +131,7 @@
                 "Id": "2.1",
                 "Title": "Chicken Biryani",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "1 hour",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg",
                 "Prepare": [
                     {
@@ -157,7 +157,7 @@
                 "Id": "3.1",
                 "Title": "Fish Fry Masala",
                 "SubTitle": "Meen Kaidina",
-                "Duration": "null",
+                "Duration": "15 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -175,7 +175,7 @@
                 "Id": "3.2",
                 "Title": "Green Masala Fish Fry",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "40 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg",
                 "Prepare": [
                     {
@@ -193,7 +193,7 @@
                 "Id": "3.3",
                 "Title": "King Fish Pepper Fry",
                 "SubTitle": "Anjal Kaidina",
-                "Duration": "null",
+                "Duration": "30 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -219,7 +219,7 @@
                 "Id": "4.1",
                 "Title": "Mackerel Curry",
                 "SubTitle": "Bangude Gassi",
-                "Duration": "null",
+                "Duration": "30 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -238,7 +238,7 @@
                 "Id": "4.2",
                 "Title": "Spicy Fish Curry",
                 "SubTitle": "Meen Puli Munchi",
-                "Duration": "null",
+                "Duration": "30 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Pulimunchi3.jpeg",
                 "Prepare": [
                     {
@@ -258,7 +258,7 @@
                 "Id": "4.3",
                 "Title": "Shell Fish Curry(Dry)",
                 "SubTitle": "Marvai Ajadina",
-                "Duration": "null",
+                "Duration": "30 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -278,7 +278,7 @@
                 "Id": "4.4",
                 "Title": "Crab curry",
                 "SubTitle": "Denji Gasi",
-                "Duration": "null",
+                "Duration": "30 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg",
                 "Prepare": [
                     {
@@ -297,7 +297,7 @@
                 "Id": "4.5",
                 "Title": "Lady Fish with onions",
                 "SubTitle": "Kane Upkai",
-                "Duration": "null",
+                "Duration": "15 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -315,7 +315,7 @@
                 "Id": "4.6",
                 "Title": "Dry Fish Chutney",
                 "SubTitle": "Nungel Chutney",
-                "Duration": "null",
+                "Duration": "15 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpeg",
                 "Prepare": [
                     {
@@ -342,7 +342,7 @@
                 "Id": "5.1",
                 "Title": "Chicken Tava Fry",
                 "SubTitle": "Kori Kaidina",
-                "Duration": "null",
+                "Duration": "1hr 15 min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg",
                 "Prepare": [
                     {
@@ -368,7 +368,7 @@
                 "Id": "6.1",
                 "Title": "Chicken Sukka",
                 "SubTitle": "Kori Ajadina",
-                "Duration": "null",
+                "Duration": "45 min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -387,7 +387,7 @@
                 "Id": "6.2",
                 "Title": "Chicken Ghee Roast",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg",
                 "Prepare": [
                     {
@@ -406,7 +406,7 @@
                 "Id": "6.3",
                 "Title": "Chicken Green Masala",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg",
                 "Prepare": [
                     {
@@ -433,7 +433,7 @@
                 "Id": "7.1",
                 "Title": "Chicken Curry with Rotti",
                 "SubTitle": "Kori Rotti",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
@@ -453,7 +453,7 @@
                 "Id": "7.2",
                 "Title": "Chicken Curry with Coconut Milk",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg",
                 "Prepare": [
                     {
