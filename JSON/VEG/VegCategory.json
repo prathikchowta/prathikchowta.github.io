@@ -9,7 +9,7 @@
                 "Id": "1.1",
                 "Title": "Turmeric Leaf Gatti",
                 "SubTitle": "Manjal Ereda Gatti",
-                "Duration": "null",
+                "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
                 "Prepare": [
                     {
@@ -27,7 +27,7 @@
                 "Id": "1.2",
                 "Title": "Gatti in Jackfruit leaves",
                 "SubTitle": "Chilmi",
-                "Duration": "null",
+                "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi1.jpeg",
                 "Prepare": [
                     {
@@ -45,7 +45,7 @@
                 "Id": "1.3",
                 "Title": "Jackfruit Gatti",
                 "SubTitle": "Pelakai da Gatti",
-                "Duration": "null",
+                "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Jackfruit%20Gatti1.jpg",
                 "Prepare": [
                     {
@@ -64,7 +64,7 @@
                 "Id": "1.4",
                 "Title": "Rice Semia",
                 "SubTitle": "Semeda Adye",
-                "Duration": "null",
+                "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye5.jpg",
                 "Prepare": [
                     {
@@ -83,7 +83,7 @@
                 "Id": "1.5",
                 "Title": "Colacasia Leaves Rolls",
                 "SubTitle": "Patradde",
-                "Duration": "null",
+                "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg",
                 "Prepare": [
                     {
@@ -102,7 +102,7 @@
                 "Id": "1.6",
                 "Title": "Cucumber Gatti",
                 "SubTitle": "Thekkareda Adye",
-                "Duration": "null",
+                "Duration": "2hr 15min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TekareAdiye1.jpg",
                 "Prepare": [
                     {
