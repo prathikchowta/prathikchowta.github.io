@@ -64,19 +64,19 @@
         "SubTitle": "Taute Koddel",
         "Category": "#4cbb17",
         "Duration": "2hr",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber1.jpg",
         "Prepare": [
-            {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari2.jpeg"],
-                "Incredients": [ "1 small or medium size - Cucumber(cut into medium pieces without removing skin)" ],
-                "Masala": [ "1 - Grated Coconut", "10-12 - Red chillies(roasted)","1tbsp. - Coriander seeds(roasted)", "1/2tbsp. - Cumin seeds","1/4tsp. - Fenugreek seeds(roasted)", "1/4tsp. - Mustard seeds(roasted)","1pinch - Turmeric powder","Tamarind - size of its seed","Jaggery - size of a lime","Salt to taste","4-5 - Garlic flakes","1 - Onion(chopped)"],
-                "Method": [
                     {
-                        "Steps": [ "Grind all the masala ingredients except jaggery and salt to a fine paste.","Keep the cucumber in a vessel to boil with 3-4 cups of water, salt and Jaggery.","When it is cooked, add ground masala and cook for some more time.","Season it with oil, mustard seeds, 1 broken red chilly, crushed garlic and curry leaves."]
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber2.jpg"],
+                        "Incredients": [ "1 small or medium size - Cucumber(cut into medium pieces without removing skin)" ],
+                        "Masala": [ "1 - Grated Coconut", "10-12 - Red chillies(roasted)","1tbsp. - Coriander seeds(roasted)", "1/2tbsp. - Cumin seeds","1/4tsp. - Fenugreek seeds(roasted)", "1/4tsp. - Mustard seeds(roasted)","1pinch - Turmeric powder","Tamarind - size of its seed","Jaggery - size of a lime","Salt to taste","4-5 - Garlic flakes","1 - Onion(chopped)"],
+                        "Method": [
+                            {
+                                "Steps": [ "Grind all the masala ingredients except jaggery and salt to a fine paste.","Keep the cucumber in a vessel to boil with 3-4 cups of water, salt and Jaggery.","When it is cooked, add ground masala and cook for some more time.","Season it with oil, mustard seeds, 1 broken red chilly, crushed garlic and curry leaves."]
+                            }
+                        ]
                     }
                 ]
-            }
-        ]
     },
     {
         "Id": "5",
