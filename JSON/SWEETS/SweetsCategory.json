@@ -27,7 +27,7 @@
                 "Id": "1.2",
                 "Title": "Carrot Halwa",
                 "SubTitle": "null",
-                "Duration": "2hr",
+                "Duration": "1hr 15min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa1.jpeg",
                 "Prepare": [
                     {
@@ -110,7 +110,7 @@
                         "Incredients": [ "3Cups - Maida", "2Cups - Sugar", "1/2tsp. - Salt", "1Pinch - Turmeric powder", "1tbsp. - Bombay Rawa", "1tsp. - Cardamom, powdered", "Oil for frying" ],
                         "Method": [
                             {
-                                "Steps": [ "Mix all the ingredients with water to the thick batter(Idli batter).", "Keep aside for 10-15 minutes.", "Keep oil on fire.", "Heat and Pour 1 ladleful of batter.", "Fry both the sides, until crisp and brown with medium flame.", "Remove it with 2 Spoons, press at the center from back side of the spoon.", "This makes it flat." ]
+                                "Steps": [ "Mix all the ingredients with water to the thick batter(Idli batter).", "Keep aside for 10-15 minutes.", "Keep oil on fire.", "Heat and Pour 1 ladleful of batter.", "Fry both the sides, until crisp and brown with medium flame.", "Remove it with 2 Spoons, press at the centre from back side of the spoon.", "This makes it flat." ]
                             }
                         ],
                         "Note": "15-16 Malpuries can be made."
@@ -121,7 +121,7 @@
                 "Id": "1.7",
                 "Title": "Jackfruit Garige",
                 "SubTitle": "Pelakai Gulma",
-                "Duration": "null",
+                "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg",
                 "Prepare": [
                     {
@@ -147,7 +147,7 @@
                 "Id": "2.1",
                 "Title": "Green Gram Daal Payasam",
                 "SubTitle": "Padengi Bele Payasa",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam1.jpeg",
                 "Prepare": [
                     {
@@ -165,7 +165,7 @@
                 "Id": "2.2",
                 "Title": "Chana Dal Payasam",
                 "SubTitle": "Kadle Bele Payasa",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal2.jpeg",
                 "Prepare": [
                     {
@@ -183,7 +183,7 @@
                 "Id": "2.3",
                 "Title": "Vermecelli Payasam",
                 "SubTitle": "Seme Payasa",
-                "Duration": "null",
+                "Duration": "45min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam1.jpeg",
                 "Prepare": [
                     {
@@ -201,7 +201,7 @@
                 "Id": "2.4",
                 "Title": "Broken Wheat Payasam",
                 "SubTitle": "Godi Kadi Payasa",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat1.jpeg",
                 "Prepare": [
                     {
