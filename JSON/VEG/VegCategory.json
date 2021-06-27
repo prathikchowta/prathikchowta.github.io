@@ -9,6 +9,7 @@
                 "Id": "1.1",
                 "Title": "Turmeric Leaf Gatti",
                 "SubTitle": "Manjal Ereda Gatti",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
                 "Prepare": [
                     {
@@ -26,6 +27,7 @@
                 "Id": "1.2",
                 "Title": "Gatti in Jackfruit leaves",
                 "SubTitle": "Chilmi",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Chilimi1.jpeg",
                 "Prepare": [
                     {
@@ -43,6 +45,7 @@
                 "Id": "1.3",
                 "Title": "Jackfruit Gatti",
                 "SubTitle": "Pelakai da Gatti",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Jackfruit%20Gatti1.jpg",
                 "Prepare": [
                     {
@@ -61,6 +64,7 @@
                 "Id": "1.4",
                 "Title": "Rice Semia",
                 "SubTitle": "Semeda Adye",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SemeAdiye5.jpg",
                 "Prepare": [
                     {
@@ -79,6 +83,7 @@
                 "Id": "1.5",
                 "Title": "Colacasia Leaves Rolls",
                 "SubTitle": "Patradde",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg",
                 "Prepare": [
                     {
@@ -97,6 +102,7 @@
                 "Id": "1.6",
                 "Title": "Cucumber Gatti",
                 "SubTitle": "Thekkareda Adye",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TekareAdiye1.jpg",
                 "Prepare": [
                     {
@@ -115,6 +121,7 @@
                 "Id": "1.7",
                 "Title": "Rice Pudding",
                 "SubTitle": "Aritha Manni",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RicePudding1.jpeg",
                 "Prepare": [
                     {
@@ -132,6 +139,7 @@
                 "Id": "1.8",
                 "Title": "Raagi Pudding",
                 "SubTitle": "Raagi Manni",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding1.jpeg",
                 "Prepare": [
                     {
@@ -149,6 +157,7 @@
                 "Id": "1.9",
                 "Title": "Saarne Adye",
                 "SubTitle": "Saarneda Adye",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/SarneAdiye1.jpg",
                 "Prepare": [
                     {
@@ -174,6 +183,7 @@
                 "Id": "2.1",
                 "Title": "Neer Dosa",
                 "SubTitle": "Neer Dose",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -191,6 +201,7 @@
                 "Id": "2.2",
                 "Title": "Appa",
                 "SubTitle": "Appa",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -209,6 +220,7 @@
                 "Id": "2.3",
                 "Title": "Coconut dosa",
                 "SubTitle": "Bannangayi Dose",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true",
                 "Prepare": [
                     {
@@ -226,6 +238,7 @@
                 "Id": "2.4",
                 "Title": "Urad Dosa",
                 "SubTitle": "Urdu Dose",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -243,6 +256,7 @@
                 "Id": "2.5",
                 "Title": "Aappam",
                 "SubTitle": "Aapa",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -261,6 +275,7 @@
                 "Id": "2.6",
                 "Title": "Methi Dosa",
                 "SubTitle": "Metthe Dosa",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -278,6 +293,7 @@
                 "Id": "2.7",
                 "Title": "Maida Dosa",
                 "SubTitle": "Maida Dose",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -295,6 +311,7 @@
                 "Id": "2.8",
                 "Title": "Idli",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Idli1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -312,6 +329,7 @@
                 "Id": "2.9",
                 "Title": "Idli in jackfruit leaves",
                 "SubTitle": "Gunda / Kotte Idli",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -330,6 +348,7 @@
                 "Id": "2.10",
                 "Title": "Masala Dosa",
                 "SubTitle": "Masale Dose",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true",
                 "Prepare": [
                     {
@@ -347,6 +366,7 @@
                 "Id": "2.11",
                 "Title": "Jackfruit Dosa",
                 "SubTitle": "Pelakai Dose",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -364,6 +384,7 @@
                 "Id": "2.12",
                 "Title": "Rava Rotti",
                 "SubTitle": "Sajjige Rotti",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -381,6 +402,7 @@
                 "Id": "2.13",
                 "Title": "Rice Dumplings",
                 "SubTitle": "Pundi",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -398,6 +420,7 @@
                 "Id": "2.14",
                 "Title": "Rice Dumplings with Masala",
                 "SubTitle": "Arepuda Pundi",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/ArepudaPundi1.jpg",
                 "Prepare": [
                     {
@@ -423,6 +446,7 @@
                 "Id": "3.1",
                 "Title": "Mangalore Bajji",
                 "SubTitle": "Golibaje",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
                 "Prepare": [
                     {
@@ -440,6 +464,7 @@
                 "Id": "3.2",
                 "Title": "Bread fruit Pakoda",
                 "SubTitle": "Jigujje Podi",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -457,6 +482,7 @@
                 "Id": "3.3",
                 "Title": "Onion Pakoda",
                 "SubTitle": "Neerulli Baje",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/OnionPakoda1.jpeg",
                 "Prepare": [
                     {
@@ -475,6 +501,7 @@
                 "Id": "3.4",
                 "Title": "Urad Vada",
                 "SubTitle": "Uddina Vade",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/UradVada1.jpeg",
                 "Prepare": [
                     {
@@ -492,6 +519,7 @@
                 "Id": "3.5",
                 "Title": "Channa daal Vada",
                 "SubTitle": "Chattambade",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Chattambade1.jpeg",
                 "Prepare": [
                     {
@@ -509,6 +537,7 @@
                 "Id": "3.6",
                 "Title": "Potato Bondas",
                 "SubTitle": "Batate Ambade",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/PotatoAmbade2.jpeg",
                 "Prepare": [
                     {
@@ -526,6 +555,7 @@
                 "Id": "3.7",
                 "Title": "Beaten Rice Upkari",
                 "SubTitle": "Bajil Upkari",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/BeatenRice1.jpeg",
                 "Prepare": [
                     {
@@ -544,6 +574,7 @@
                 "Id": "3.8",
                 "Title": "Sooji Upma",
                 "SubTitle": "Uppittu / Sajjigge",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/SoojiUpma1.jpeg",
                 "Prepare": [
                     {
@@ -569,6 +600,7 @@
                 "Id": "4.1",
                 "Title": "Coconut Chutney",
                 "SubTitle": "Thaarayida Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CocChutney1.jpeg",
                 "Prepare": [
                     {
@@ -586,6 +618,7 @@
                 "Id": "4.2",
                 "Title": "Red Chutney",
                 "SubTitle": "Kempu Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg",
                 "Prepare": [
                     {
@@ -604,6 +637,7 @@
                 "Id": "4.3",
                 "Title": "Garlic Chutney",
                 "SubTitle": "Bolluli Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/GarlicChutney3.jpg",
                 "Prepare": [
                     {
@@ -621,6 +655,7 @@
                 "Id": "4.4",
                 "Title": "Raw Mango Chutney",
                 "SubTitle": "Kai Kukku Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RawMangoChutney1.jpeg",
                 "Prepare": [
                     {
@@ -638,6 +673,7 @@
                 "Id": "4.5",
                 "Title": "Ripe Mango Chutney",
                 "SubTitle": "Kukku Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RipeMangoChutney1.jpeg",
                 "Prepare": [
                     {
@@ -655,6 +691,7 @@
                 "Id": "4.6",
                 "Title": "Curry Leaves Chutney",
                 "SubTitle": "Bevu soppu Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney1.jpeg",
                 "Prepare": [
                     {
@@ -672,6 +709,7 @@
                 "Id": "4.7",
                 "Title": "Ridge Gourd Skin Chutney",
                 "SubTitle": "Peereda Cholida Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Ridgegourd1.jpeg",
                 "Prepare": [
                     {
@@ -689,6 +727,7 @@
                 "Id": "4.8",
                 "Title": "Brahmi Leaves Chutney",
                 "SubTitle": "Timare Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/BrahmiChutney3.jpg",
                 "Prepare": [
                     {
@@ -707,6 +746,7 @@
                 "Id": "4.9",
                 "Title": "Coriander Leaves Chutney",
                 "SubTitle": "Kottambhari Soppu Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CorianderChutney1.jpeg",
                 "Prepare": [
                     {
@@ -724,6 +764,7 @@
                 "Id": "4.10",
                 "Title": "Mint Leaves Chutney",
                 "SubTitle": "Pudina Chutney",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/MintChutney1.jpeg",
                 "Prepare": [
                     {
@@ -750,6 +791,7 @@
                 "Id": "5.1",
                 "Title": "Tomato Rasam",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -767,6 +809,7 @@
                 "Id": "5.2",
                 "Title": "Plain Saar",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSaar2.jpg",
                 "Prepare": [
                     {
@@ -784,6 +827,7 @@
                 "Id": "5.3",
                 "Title": "Jeera Rasam",
                 "SubTitle": "Jeerige Saar",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -801,6 +845,7 @@
                 "Id": "5.4",
                 "Title": "Plain Rasam",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -818,6 +863,7 @@
                 "Id": "5.5",
                 "Title": "Dal Curry",
                 "SubTitle": "Dal Saar",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -835,6 +881,7 @@
                 "Id": "5.6",
                 "Title": "Masala Sambar",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -853,6 +900,7 @@
                 "Id": "5.7",
                 "Title": "Plain Sambar",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -871,6 +919,7 @@
                 "Id": "5.8",
                 "Title": "Mango Saar",
                 "SubTitle": "Kukku Saar",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -888,6 +937,7 @@
                 "Id": "5.9",
                 "Title": "Mango Menaskai",
                 "SubTitle": "Kukku Menaskai",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -906,6 +956,7 @@
                 "Id": "5.10",
                 "Title": "Horse Gram Rasam",
                 "SubTitle": "Kudutha Saar",
+                "Duration": "null",
                 "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true",
                 "Prepare": [
                     {
@@ -932,6 +983,7 @@
                 "Id": "6.1",
                 "Title": "Whole Bengal Gram & Tendli Sukka",
                 "SubTitle": "Kadle, Manoli Sukka",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/KadleManoli1.jpeg",
                 "Prepare": [
                     {
@@ -951,6 +1003,7 @@
                 "Id": "6.2",
                 "Title": "Plantain Stem Sukka",
                 "SubTitle": "Bambe Ajadina",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainStem1.jpeg",
                 "Prepare": [
                     {
@@ -969,6 +1022,7 @@
                 "Id": "6.3",
                 "Title": "Plantain flower bud sukka",
                 "SubTitle": "Poombe Ajadina",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainFlower1.jpeg",
                 "Prepare": [
                     {
@@ -987,6 +1041,7 @@
                 "Id": "6.4",
                 "Title": "Raw Jackfruit(In salt water)",
                 "SubTitle": "Uppad Pachir",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir1.jpeg",
                 "Prepare": [
                     {
@@ -1005,6 +1060,7 @@
                 "Id": "6.5",
                 "Title": "Raw Jackfruit Sukka",
                 "SubTitle": "Gujje Ajadina",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawJackfruit1.jpg",
                 "Prepare": [
                     {
@@ -1023,6 +1079,7 @@
                 "Id": "6.6",
                 "Title": "Raw Banana Sukka",
                 "SubTitle": "Baareda Kaai Ajadina",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawBanana1.jpeg",
                 "Prepare": [
                     {
@@ -1049,6 +1106,7 @@
                 "Id": "7.1",
                 "Title": "Beans Upkari",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
                 "Prepare": [
                     {
@@ -1066,6 +1124,7 @@
                 "Id": "7.2",
                 "Title": "Ridge gourd Upkari",
                 "SubTitle": "Peere Upkari",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard1.jpg",
                 "Prepare": [
                     {
@@ -1092,6 +1151,7 @@
                 "Id": "8.1",
                 "Title": "Red Cucumber Curry",
                 "SubTitle": "Taute Koddel",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
                 "Prepare": [
                     {
@@ -1110,6 +1170,7 @@
                 "Id": "8.2",
                 "Title": "Whole Bengal Gram Curry",
                 "SubTitle": "Kadle Gasi",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BengalGram1.jpg",
                 "Prepare": [
                     {
@@ -1128,6 +1189,7 @@
                 "Id": "8.3",
                 "Title": "Sprouted Green Gram Curry",
                 "SubTitle": "Padangi Gasi",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/GreenGram1.jpeg",
                 "Prepare": [
                     {
@@ -1147,6 +1209,7 @@
                 "Id": "8.4",
                 "Title": "Brinjal and Drumstick Curry",
                 "SubTitle": "Badane Nurge",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -1165,6 +1228,7 @@
                 "Id": "8.5",
                 "Title": "Brinjal Chilly Curry",
                 "SubTitle": "Badane Munchi Gasi",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
@@ -1183,6 +1247,7 @@
                 "Id": "8.6",
                 "Title": "Kundapur Masala Powder",
                 "SubTitle": "null",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KundapurPowder1.jpeg",
                 "Prepare": [
                     {
@@ -1201,6 +1266,7 @@
                 "Id": "8.7",
                 "Title": "White Pumpkin Curry",
                 "SubTitle": "Karkumbuda Puli Koddel",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/WhitePumpkin1.jpeg",
                 "Prepare": [
                     {
@@ -1219,6 +1285,7 @@
                 "Id": "8.8",
                 "Title": "Horse Gram and Spinach Curry",
                 "SubTitle": "Kudu, Basale Gasi",
+                "Duration": "null",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
                 "Prepare": [
                     {
