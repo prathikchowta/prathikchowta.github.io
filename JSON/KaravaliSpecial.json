@@ -4,6 +4,7 @@
         "Title": "Turmeric Leaf Gatti",
         "SubTitle": "Manjal Ereda Gatti",
         "Category": "#4cbb17",
+        "Duration": "null",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
         "Prepare": [
             {
@@ -22,6 +23,7 @@
         "Title": "Chicken Curry with Rotti",
         "SubTitle": "Kori Rotti",
         "Category": "#ff0800",
+        "Duration": "1hr 15min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
         "Prepare": [
             {
@@ -42,6 +44,7 @@
         "Title": "Sheera",
         "SubTitle": "null",
         "Category": "#867ae9",
+        "Duration": "30min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
         "Prepare": [
             {
@@ -60,6 +63,7 @@
         "Title": "Red Cucumber Curry",
         "SubTitle": "Taute Koddel",
         "Category": "#4cbb17",
+        "Duration": "2hr",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
         "Prepare": [
             {
@@ -79,6 +83,7 @@
         "Title": "Dry Fish Chutney",
         "SubTitle": "Nungel Chutney",
         "Category": "#ff0800",
+        "Duration": "null",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpeg",
         "Prepare": [
             {
@@ -98,6 +103,7 @@
         "Title": "Malpuri",
         "SubTitle": "null",
         "Category": "#867ae9",
+        "Duration": "null",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg",
         "Prepare": [
             {
