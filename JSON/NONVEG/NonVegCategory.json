@@ -220,10 +220,10 @@
                 "Title": "Mackerel Curry",
                 "SubTitle": "Bangude Gassi",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude2.jpeg"],
                         "Incredients": [ "12 Mackerels, cleaned and cut into two or 25 - Saradine(Boothai)"],
                         "Masala": [ "1 grated coconut", "25-30 - Red chillies", "2tbsp. - Coriander seeds", "1tsp. - jeera", "1/2tsp. - Methi seeds","1/4tsp. - Turmeric powder","1/4tsp. - Ajwain(oama)","1tsp. - pepper corns(optional)","8-10 - garlic flakes","Tamarind - size of 2 big lemons","Salt to taste","2 big - onion","2-3 - Green chillies, cut","1inch - ginger, chopped","1tsp. - coconut oil" ],
                         "Method": [
@@ -259,10 +259,10 @@
                 "Title": "Shell Fish Curry(Dry)",
                 "SubTitle": "Marvai Ajadina",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish2.jpg"],
                         "Incredients": [ "200 - Shell Fish(Marvai)", "For Seasoning: 2 Tbsp.- coconut oil","1- Onion,chopped","4-5 - Garlic flakes","10-15 Curry leaves"],
                         "Masala": ["1 Coconut, grated", "25-30 - Red Chillies", "2tbsp. - Coriander Seeds", "1tbsp. - Jeera", "1/4tsp. - Methi","1/2tsp. - turmeric powder","6-8 - Garlic flakes","Tamarind - size of a lime", "1 - onion, chopped" ],
                         "Method": [
@@ -298,10 +298,10 @@
                 "Title": "Lady Fish with onions",
                 "SubTitle": "Kane Upkai",
                 "Duration": "15 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/LadyFish1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/LadyFish1.jpeg" ],
                         "Incredients": [ "12 - Lady fish, Cleaned and Cut", "2tbsp. - Coconut oil", "1tsp. - Urad daal", "4 - Onions, Chopped", "4 - Green Chillies, Chopped", "1inch - Ginger, Chopped", "5tsp. - Masala powder", "Tamarind - size of a lemon, soaked in water", "Salt to taste", "1tbsp. - Coconut, grated(optional)" ],
                         "Method": [
                             {
