@@ -84,10 +84,10 @@
                 "Title": "Rice Laddoo",
                 "SubTitle": "Aritha Unde",
                 "Duration": "50min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RiceLaddu1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RiceLaddu1.jpeg"],
                         "Incredients": [ "4Cups - Boiled Rice", "Salt to taste", "1Big - Coconut, grated", "500gms. - Jaggery, powdered", "1tsp. - Cardamom", "1tsp. - Pepper corns(optional)", "4tbsp. - Ghee", "100gms. - Cashew nuts", "50gms. - Raisins" ],
                         "Method": [
                             {
