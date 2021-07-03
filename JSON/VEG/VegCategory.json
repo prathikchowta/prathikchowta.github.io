@@ -710,10 +710,10 @@
                 "Title": "Ridge Gourd Skin Chutney",
                 "SubTitle": "Peereda Cholida Chutney",
                 "Duration": "30 min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Ridgegourd1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Ridgegourd1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Ridgegourd1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Ridgegourd2.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Ridgegourd1.jpg" ],
                         "Incredients": [ "3 - Ridge gourd's skin, cleaned & chopped fine", "1/2 - grated coconut", "3 - garlic flakes", "6 - red chillies roasted", "1tsp. - urad daal(roasted)", "1tsp. - mustard seeds(roasted)","Tamarind - small ball","Salt to taste"],
                         "Method": [
                             {
