@@ -54,7 +54,7 @@
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg"],
                         "Incredients": [ "1 Medium - Chicken, cleaned and cut" ],
-                        "Masala": [ "15 - Red chillies", "1tbsp. - Coriander seeds", "10 - Pepper corns", "4 - Cloves", "2 - Small bits cinnamon", "1tsp. - Poppy seeds(khus-khus)", "1/2tsp. - turmeric powder", "2 - Onions", "2tbsp. - Ghee", "1- Tomato, chopped","Salt to taste", "1tbsp. - Coriander leaves, finely chopped(optional)"],
+                        "Masala": [ "15 - Red chillies", "1tbsp. - Coriander seeds", "10 - Pepper corns", "4 - Cloves", "2 - Small bits cinnamon", "1tsp. - Poppy seeds(khus-khus)", "1/2tsp. - turmeric powder", "2 - Onions", "Tamarind - small ball", "2tbsp. - Ghee", "1- Tomato, chopped","Salt to taste", "1tbsp. - Coriander leaves, finely chopped(optional)"],
                         "Method": [
                             {
                                 "Steps": [ "Grind the Masala ingredients to a fine paste without water.", "Keep ghee in a vessel and add chopped onion and fry till it becomes brown.","Add the cleaned Chicken pieces and fry for 10 minutes on slow fire.", "Add the ground masala, chopped tomato, salt and 1 cup water and cook till done.", "Fry on slow fire.", "Garnish with coriander leaves.", "Ready to serve." ]
@@ -110,7 +110,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg" ],
-                        "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste" ],
+                        "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste", "Juice of 1 lemon"],
                         "Method": [
                             {
                                 "Steps": [ "Grind all the above ingredients except rice to a fine paste with a little water, then add the rice and grind coarsely.", "Remove in a vessel with a lid and keep in the freezer.", "Whenever required dip fish pieces in it and deep fry." ]
@@ -162,7 +162,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg"],
-                        "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste" ],
+                        "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste", "Juice of 1 lemon" ],
                         "Method": [
                             {
                                 "Steps": [ "Grind all the above ingredients except rice to a fine paste with a little water, then add the rice and grind coarsely.", "Remove in a vessel with a lid and keep in the freezer.", "Whenever required dip fish pieces in it and deep fry." ]
