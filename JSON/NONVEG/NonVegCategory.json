@@ -213,7 +213,7 @@
         "Id": "4",
         "Title": "Fish Curry",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishCurry.jpeg",
-        "Count": "6",
+        "Count": "5",
         "RecipesList": [
             {
                 "Id": "4.1",
@@ -290,24 +290,6 @@
                             }
                         ],
                         "Note": "Prawn curry(Yetti Gasi) can be prepared in the same method. Instead of tamarind add 4 to 5 ambade." 
-                    }
-                ]
-            },
-            {
-                "Id": "4.5",
-                "Title": "Lady Fish with onions",
-                "SubTitle": "Kane Upkai",
-                "Duration": "15 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/LadyFish1.jpeg",
-                "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/LadyFish1.jpeg" ],
-                        "Incredients": [ "12 - Lady fish, Cleaned and Cut", "2tbsp. - Coconut oil", "1tsp. - Urad daal", "4 - Onions, Chopped", "4 - Green Chillies, Chopped", "1inch - Ginger, Chopped", "5tsp. - Masala powder", "Tamarind - size of a lemon, soaked in water", "Salt to taste", "1tbsp. - Coconut, grated(optional)" ],
-                        "Method": [
-                            {
-                                "Steps": [ "Heat coconut oil in a vessel.", "Add urad daal and chopped onions, fry till half brown, add chillies and ginger.", "Stir and fry for 5 minutes.", "Add masala powder and cook for 5 minutes.", "Add tamarind water, salt to taste and cleaned fish.", "Cook on slow fire and dry.", "Sprinkle with coconut.", "For Masala Powder: 25 - Red chillies, dry, 2tsp. - Coriander seeds, 1/2tsp. - fenugreek seeds, 1/2tsp. - turmeric powder, 1/2tsp. - cumin seeds" ]
-                            }
-                        ]
                     }
                 ]
             },
