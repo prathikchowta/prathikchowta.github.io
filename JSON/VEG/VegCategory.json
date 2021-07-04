@@ -1229,10 +1229,10 @@
                 "Title": "Kundapur Masala Powder",
                 "SubTitle": "null",
                 "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KundapurPowder1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kundapur1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KundapurPowder1.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kundapur1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kundapur2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kundapur3.jpg" ],
                         "Incredients": [ "500gms. - Red Chillies","250gms. - Coriander seeds","100gms. - Jeera","3tbsp. - Pepper corns","1&1/2tbsp. - Methi seeds","4tbsp. - turmeric powder","1 handful - Garlic flakes"], 
                         "Method": [
                             {
