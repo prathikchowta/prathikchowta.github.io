@@ -1145,7 +1145,7 @@
         "Id": "8",
         "Title": "Curry Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/CurrySpecial.jpeg",
-        "Count": "8",
+        "Count": "7",
         "RecipesList": [
             {
                 "Id": "8.1",
@@ -1219,25 +1219,6 @@
                         "Method": [
                             {
                                 "Steps": [ "Skin, wash and cut the drumsticks into 3-4 inch long pieces, keep aside.","Remove the brinjal pieces from water.","Cook them with tamarind water, then add drumsticks, salt and jaggery.","Grind all the masala ingredients together to a fine paste.","Add it to the cooked vegetables and boil for 10 minutes.","Season with coconut oil, mustard seeds, broken red chilly and crushed garlic flakes and curry leaves."]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Id": "8.5",
-                "Title": "Brinjal Chilly Curry",
-                "SubTitle": "Badane Munchi Gasi",
-                "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
-                "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
-                        "Incredients": [ "1/4kg - Brinjal, cut and soaked in water","Tamarind - size of a big lime, soaked in water","Jaggery - size of a small lime","Salt to taste","2tbsp. - oil","1tsp. - Mustard seeds","1sprig - curry leaves","1tsp. - urad daal","7-8 - garlic flakes, crushed","2tbsp. - Masala Chilly Powder"],
-                        "Masala": [ "Masala Chilly Powder:", "7-8 - Red Chillies", "1tbsp. - Coriander seeds", "1/2tsp. - Cumin seeds", "1/4tsp. - fenugreek seeds", "1/2tsp. - Urad daal","Kundapur Masala Powder can be used in place of the above masala."],
-                        "Method": [
-                            {
-                                "Steps": [ "Boil the cut brinjal with tamarind water, jaggery and salt.","Keep aside.","Keep oil in the Kadai on fire.", "Add mustard seeds.","When they splutter, add urad daal, crushed garlic and curry leaves.","Add Masala chilly powder.","Fry for a minute.","Pour the cooked brinjal into it, cover and simmer for 5 minutes." ]
                             }
                         ]
                     }
