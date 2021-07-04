@@ -556,10 +556,10 @@
                 "Title": "Beaten Rice Upkari",
                 "SubTitle": "Bajil Upkari",
                 "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/BeatenRice1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Bajil1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/BeatenRice1.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Bajil1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Bajil2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Bajil3.jpg" ],
                         "Incredients": [ "1/2Kg. - Beaten Rice", "1/2 - Coconut, grated", "2 - Onions, finely chopped", "4 - Green Chillies, finely cut", "Salt to taste", "For Seasoning:", "2tbsp. - Ghee", "3-4 - Red Chillies, broken", "10-15 - Curry leaves", "1tsp. - Urad daal"],
                         "Masala": [ "5-6 - Red Chillies", "2tsp. - Coriander Seeds", "1tsp. - Jeera", "2tbsp.- Sugar or Jaggery"],
                         "Method": [
