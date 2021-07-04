@@ -579,10 +579,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/SoojiUpma1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/SoojiUpma2.jpeg" ],
-                        "Incredients": [ "1Cup - Sooji", "2tbsp. - Oil", "1tsp. - Mustard seeds", "1tsp. - Urad daal", "1Sprig - Curry leaves", "1 - Onion, Sliced", "2 - Red Chillies, broken", "2 Cups - Water", "Salt to taste", "1tbsp. - Sugar(optional)", "1/4 - Coconut, grated"],
+                        "Incredients": [ "1Cup - Sooji", "2tbsp. - Oil", "1tsp. - Mustard seeds", "1tsp. - Urad daal", "1Sprig - Curry leaves", "1 - Onion, Sliced", "1 Small- Tomato,chopped", "2 - Red Chillies, broken", "2 Cups - Water", "Salt to taste", "1tbsp. - Sugar(optional)", "1/4 - Coconut, grated"],
                         "Method": [
                             {
-                                "Steps": [ "Keep oil in a Kadai and place on fire.", "Add mustard seeds, when it splutter, add urad daal and curry leaves.", "When urad daal turns brown, add onion and red chillies.", "Fry till onion is transparent.", "Add water.", "When it boils.", "Add salt, sugar and coconut.", "Then slowly pour the sooji and stir thoroughly to avoid lumps.", "Cook till it dries, on low flame.", "Remove and Serve."] 
+                                "Steps": [ "Keep oil in a Kadai and place on fire.", "Add mustard seeds, when it splutter, add urad daal and curry leaves.", "When urad daal turns brown, add onion and red chillies and tomato", "Fry till onion is transparent.", "Add water.", "When it boils.", "Add salt, sugar and coconut.", "Then slowly pour the sooji and stir thoroughly to avoid lumps.", "Cook till it dries, on low flame.", "Remove and Serve."] 
                             }
                         ]
                     }
