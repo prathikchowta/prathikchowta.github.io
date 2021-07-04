@@ -983,7 +983,7 @@
                 "Id": "6.1",
                 "Title": "Whole Bengal Gram & Tendli Sukka",
                 "SubTitle": "Kadle, Manoli Sukka",
-                "Duration": "null",
+                "Duration": "45min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/KadleManoli1.jpeg",
                 "Prepare": [
                     {
@@ -1003,7 +1003,7 @@
                 "Id": "6.2",
                 "Title": "Plantain Stem Sukka",
                 "SubTitle": "Bambe Ajadina",
-                "Duration": "null",
+                "Duration": "50min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PumbeAjadina1.jpg",
                 "Prepare": [
                     {
@@ -1022,7 +1022,7 @@
                 "Id": "6.3",
                 "Title": "Plantain flower bud sukka",
                 "SubTitle": "Poombe Ajadina",
-                "Duration": "null",
+                "Duration": "40min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/PlaintainFlower1.jpeg",
                 "Prepare": [
                     {
@@ -1041,7 +1041,7 @@
                 "Id": "6.4",
                 "Title": "Raw Jackfruit(In salt water)",
                 "SubTitle": "Uppad Pachir",
-                "Duration": "null",
+                "Duration": "40min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir1.jpeg",
                 "Prepare": [
                     {
@@ -1060,7 +1060,7 @@
                 "Id": "6.5",
                 "Title": "Raw Jackfruit Sukka",
                 "SubTitle": "Gujje Ajadina",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawJackfruit1.jpg",
                 "Prepare": [
                     {
@@ -1079,7 +1079,7 @@
                 "Id": "6.6",
                 "Title": "Raw Banana Sukka",
                 "SubTitle": "Baareda Kaai Ajadina",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/RawBanana1.jpeg",
                 "Prepare": [
                     {
@@ -1106,7 +1106,7 @@
                 "Id": "7.1",
                 "Title": "Beans Upkari",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
                 "Prepare": [
                     {
@@ -1124,7 +1124,7 @@
                 "Id": "7.2",
                 "Title": "Ridge gourd Upkari",
                 "SubTitle": "Peere Upkari",
-                "Duration": "null",
+                "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/RidgeGard1.jpg",
                 "Prepare": [
                     {
@@ -1151,7 +1151,7 @@
                 "Id": "8.1",
                 "Title": "Red Cucumber Curry",
                 "SubTitle": "Taute Koddel",
-                "Duration": "null",
+                "Duration": "50min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber1.jpg",
                 "Prepare": [
                     {
@@ -1170,7 +1170,7 @@
                 "Id": "8.2",
                 "Title": "Whole Bengal Gram Curry",
                 "SubTitle": "Kadle Gasi",
-                "Duration": "null",
+                "Duration": "45min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BengalGram1.jpg",
                 "Prepare": [
                     {
@@ -1189,7 +1189,7 @@
                 "Id": "8.3",
                 "Title": "Sprouted Green Gram Curry",
                 "SubTitle": "Padangi Gasi",
-                "Duration": "null",
+                "Duration": "45min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/GreenGram1.jpeg",
                 "Prepare": [
                     {
@@ -1209,7 +1209,7 @@
                 "Id": "8.4",
                 "Title": "Brinjal and Drumstick Curry",
                 "SubTitle": "Badane Nurge",
-                "Duration": "null",
+                "Duration": "45min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BadaneNurge1.jpg",
                 "Prepare": [
                     {
@@ -1228,7 +1228,7 @@
                 "Id": "8.6",
                 "Title": "Kundapur Masala Powder",
                 "SubTitle": "null",
-                "Duration": "null",
+                "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kundapur1.jpg",
                 "Prepare": [
                     {
@@ -1247,7 +1247,7 @@
                 "Id": "8.7",
                 "Title": "White Pumpkin Curry",
                 "SubTitle": "Karkumbuda Puli Koddel",
-                "Duration": "null",
+                "Duration": "50min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/WhitePumpkin1.jpeg",
                 "Prepare": [
                     {
@@ -1266,7 +1266,7 @@
                 "Id": "8.8",
                 "Title": "Horse Gram and Spinach Curry",
                 "SubTitle": "Kudu, Basale Gasi",
-                "Duration": "null",
+                "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg",
                 "Prepare": [
                     {
