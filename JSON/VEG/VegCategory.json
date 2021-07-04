@@ -144,10 +144,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/RagiPudding2.jpg"],
-                        "Incredients": [ "1cup - Ragi", "Salt to taste", "3/4cup - jaggery", "2tbsp. - ghee" ],
+                        "Incredients": [ "1cup - Ragi", "Salt to taste", "3/4cup - jaggery", "1 Cup - coconut,grated or cut into pieces", "2tbsp. - ghee" ],
                         "Method": [
                             {
-                                "Steps": [ "Clean and soak Ragi for 8 hours.", "Grind the ragi with water and seive.", "Grind the ragi again & again and seive.", "Add water and make a thin consistency.", "Keep the vessel on fire.", "Add salt and jaggery, stir well.", "Cook till it becomes thick.", "Add ghee and stir again, cook till the ghee dissolves.", "Pour to a greased plantain leaf.", "When it completely cooled, cut into pieces and Raagi Pudding is ready to serve."]
+                                "Steps": [ "Clean and soak Ragi for 8 hours.", "Grind the ragi with water and seive.", "Grind the ragi again & again and seive.", "Add water and make a thin consistency.", "Keep the vessel on fire.", "Add salt,coconut and jaggery, stir well.", "Cook till it becomes thick.", "Add ghee and stir again, cook till the ghee dissolves.", "Pour to a greased plantain leaf.", "When it completely cooled, cut into pieces and Raagi Pudding is ready to serve."]
                             }
                         ]
                     }
