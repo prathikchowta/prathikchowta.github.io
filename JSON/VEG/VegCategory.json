@@ -692,10 +692,10 @@
                 "Title": "Curry Leaves Chutney",
                 "SubTitle": "Bevu soppu Chutney",
                 "Duration": "30min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney2.jpeg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/CurryLeavesChutney2.jpg"],
                         "Incredients": [ "1cup - curry leaves", "1/2 - grated or dry coconut", "3 - red chillies", "tamarind - small ball", "Salt to taste"],
                         "Method": [
                             {
