@@ -177,7 +177,7 @@
         "Id": "2",
         "Title": "Breakfast Recipe",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
-        "Count": "14",
+        "Count": "15",
         "RecipesList": [
             {
                 "Id": "2.1",
@@ -433,6 +433,24 @@
                         ]
                     }
                 ]
+            },
+            {
+                "Id": "2.15",
+                "Title": "Mangalore Buns",
+                "SubTitle": "null",
+                "Duration": "null",
+                "ImgURL": "",
+                "Prepare": [
+                    {
+                        "ImgURL": [""],
+                        "Incredients": [ "1/2kg - Maida", "6 - Bananas", "1tbsp. - Jeera", "1tsp. - Salt", "1/2litre - Curds", "1tsp. - Soda" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Mix all the ingredients and add water if needed. Make a soft dough.","Keep aside for 6-8 hours.", "Knead the dough again. Make small balls, roll it to a small round shape.", "Fry it in medium flame until it turns brown.", "Serve hot with chutney and sambar."]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -440,7 +458,7 @@
         "Id": "3",
         "Title": "Evening Snacks",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg",
-        "Count": "8",
+        "Count": "9",
         "RecipesList": [
             {
                 "Id": "3.1",
@@ -583,6 +601,24 @@
                         "Method": [
                             {
                                 "Steps": [ "Keep oil in a Kadai and place on fire.", "Add mustard seeds, when it splutter, add urad daal and curry leaves.", "When urad daal turns brown, add onion and red chillies and tomato", "Fry till onion is transparent.", "Add water.", "When it boils.", "Add salt, sugar and coconut.", "Then slowly pour the sooji and stir thoroughly to avoid lumps.", "Cook till it dries, on low flame.", "Remove and Serve."] 
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.9",
+                "Title": "Samosa",
+                "SubTitle": "null",
+                "Duration": "45min",
+                "ImgURL": "",
+                "Prepare": [
+                    {
+                        "ImgURL": ["", "" ],
+                        "Incredients": [ "To make dough:", "2cups - Wheat flour / Maida", "1tbsp. - Ajwain(oama)", "1tsp. - Salt", "2tbsp. - Oil", "To Stuff:", "3 Potatoes - Boiled skinned and smashed", "1cup - Dry green peas(Soaked for 4-5hrs and boiled or frozen green peas)", "1/2Cup - Beans(finely cut)", "1/2cup - Carrot(finely cut)", "1tsp. - Jeera", "1/2tsp. - Turmeric powder", "1tsp. - Garam masala powder", "1tsp. - Red chilly powder", "2 big Onions(finely chopped)", "3-4 Green Chilies(finely chopped)", "1inch - Ginger(finely chopped)", "1tsp. - Chaat Masala(optional)", "1/2cup - Coriander leaves(finely chopped)", "1tsp. - Asafoetida powder", "Salt to taste" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Mix wheat flour, salt, ajwain and oil.", "Then add water and make a hard dough and keep aside for 10-15 minutes.", "Keep a vessel on fire, add oil, fry onions, jeera, green chillies, ginger, beans, carrot and mix.", "Then add Turmeric powder, red chilly powder, garam masala powder, salt and mix.", "Cook it for 5minutes.", "Add boiled green peas and potatoes and mix well.", "Marinate with coriander leaves and keep aside.", "Take the dough and knead again.", "Make small balls and roll it to a oval shape. Cut into half and make a cone shape and fill the stuff.", "Apply water to the sides and seal it properly.", "Prepare all the samosas and deep fry it in a oil, until it turns brown on low flame." "Serve hot with chutney and tomato sauce."] 
                             }
                         ]
                     }
