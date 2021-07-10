@@ -1229,10 +1229,10 @@
                 "Title": "Brinjal Chilly Curry",
                 "SubTitle": "Badane Munchi Gasi",
                 "Duration": "null",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/BreadFruitPakoda.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BrinjalChillyCurry1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/TurmericLeafGatti.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BrinjalChillyCurry1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BrinjalChillyCurry2.jpg" ],
                         "Incredients": [ "1/4kg - Brinjal, cut and soaked in water","Tamarind - size of a big lime, soaked in water","Jaggery - size of a small lime","Salt to taste","2tbsp. - oil","1tsp. - Mustard seeds","1sprig - curry leaves","1tsp. - urad daal","7-8 - garlic flakes, crushed","2tbsp. - Masala Chilly Powder"],
                         "Masala": [ "Masala Chilly Powder:", "7-8 - Red Chillies", "1tbsp. - Coriander seeds", "1/2tsp. - Cumin seeds", "1/4tsp. - fenugreek seeds", "1/2tsp. - Urad daal","Kundapur Masala Powder can be used in place of the above masala."],
                         "Method": [
