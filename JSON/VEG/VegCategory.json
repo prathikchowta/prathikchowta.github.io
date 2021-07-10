@@ -439,10 +439,10 @@
                 "Title": "Mangalore Buns",
                 "SubTitle": "null",
                 "Duration": "null",
-                "ImgURL": "",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Buns2.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": [""],
+                        "ImgURL": [ "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Buns2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Buns1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Buns3.jpg" ],
                         "Incredients": [ "1/2kg - Maida", "6 - Bananas", "1tbsp. - Jeera", "1tsp. - Salt", "1/2litre - Curds", "1tsp. - Soda" ],
                         "Method": [
                             {
@@ -611,10 +611,10 @@
                 "Title": "Samosa",
                 "SubTitle": "null",
                 "Duration": "45min",
-                "ImgURL": "",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Samosa2.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["", "" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Samosa2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Samosa1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Samosa3.jpg" ],
                         "Incredients": [ "To make dough:", "2cups - Wheat flour / Maida", "1tbsp. - Ajwain(oama)", "1tsp. - Salt", "2tbsp. - Oil", "To Stuff:", "3 Potatoes - Boiled skinned and smashed", "1cup - Dry green peas(Soaked for 4-5hrs and boiled or frozen green peas)", "1/2Cup - Beans(finely cut)", "1/2cup - Carrot(finely cut)", "1tsp. - Jeera", "1/2tsp. - Turmeric powder", "1tsp. - Garam masala powder", "1tsp. - Red chilly powder", "2 big Onions(finely chopped)", "3-4 Green Chilies(finely chopped)", "1inch - Ginger(finely chopped)", "1tsp. - Chaat Masala(optional)", "1/2cup - Coriander leaves(finely chopped)", "1tsp. - Asafoetida powder", "Salt to taste" ],
                         "Method": [
                             {
