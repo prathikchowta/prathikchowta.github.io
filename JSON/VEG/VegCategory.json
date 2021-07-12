@@ -615,10 +615,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Samosa2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Samosa1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Samosa3.jpg" ],
-                        "Incredients": [ "To make dough:", "2cups - Wheat flour / Maida", "1tbsp. - Ajwain(oama)", "1tsp. - Salt", "2tbsp. - Oil", "To Stuff:", "3 Potatoes - Boiled skinned and smashed", "1cup - Dry green peas(Soaked for 4-5hrs and boiled or frozen green peas)", "1/2Cup - Beans(finely cut)", "1/2cup - Carrot(finely cut)", "1tsp. - Jeera", "1/2tsp. - Turmeric powder", "1tsp. - Garam masala powder", "1tsp. - Red chilly powder", "2 big Onions(finely chopped)", "3-4 Green Chilies(finely chopped)", "1inch - Ginger(finely chopped)", "1tsp. - Chaat Masala(optional)", "1/2cup - Coriander leaves(finely chopped)", "1tsp. - Asafoetida powder", "Salt to taste" ],
+                        "Incredients": [ "To make dough:", "2cups - Wheat flour / Maida", "1tbsp. - Ajwain(oama)", "1tsp. - Salt", "2tbsp. - Oil", "For Stuffing:", "3 Potatoes - Boiled skinned and smashed", "1cup - Dry green peas(Soaked for 4-5hrs and boiled or frozen green peas)", "1/2Cup - Beans(finely cut)", "1/2cup - Carrot(finely cut)", "1tsp. - Jeera", "1/2tsp. - Turmeric powder", "1tsp. - Garam masala powder", "1tsp. - Red chilly powder", "2 big Onions(finely chopped)", "3-4 Green Chilies(finely chopped)", "1inch - Ginger(finely chopped)", "1tsp. - Chaat Masala(optional)", "1/2cup - Coriander leaves(finely chopped)", "1tsp. - Asafoetida powder (Hing)", "Salt to taste" ],
                         "Method": [
                             {
-                                "Steps": [ "Mix wheat flour, salt, ajwain and oil.", "Then add water and make a hard dough and keep aside for 10-15 minutes.", "Keep a vessel on fire, add oil, fry onions, jeera, green chillies, ginger, beans, carrot and mix.", "Then add Turmeric powder, red chilly powder, garam masala powder, salt and mix.", "Cook it for 5minutes.", "Add boiled green peas and potatoes and mix well.", "Marinate with coriander leaves and keep aside.", "Take the dough and knead again.", "Make small balls and roll it to a oval shape. Cut into half and make a cone shape and fill the stuff.", "Apply water to the sides and seal it properly.", "Prepare all the samosas and deep fry it in a oil, until it turns brown on low flame.", "Serve hot with chutney and tomato sauce."] 
+                                "Steps": [ "Mix wheat flour, salt, ajwain and oil.", "Then add water and make a hard dough and keep aside for 10-15 minutes.", "Keep a vessel on fire, add oil, fry onions, jeera, green chillies, ginger, beans, carrot and mix.", "Then add Turmeric powder, red chilly powder, garam masala powder, salt and mix.", "Cook it for 5 minutes.", "Add boiled green peas and potatoes and mix well.", "Marinate with coriander leaves and keep aside.", "Take the dough and knead again.", "Make small balls and roll it to a oval shape. Cut into half and make a cone shape and fill the stuff.", "Apply water to the sides and seal it properly.", "Prepare all the samosas and deep fry it in oil, until it turns brown on low flame.", "Serve hot with chutney and tomato sauce."] 
                             }
                         ]
                     }
@@ -630,7 +630,7 @@
         "Id": "4",
         "Title": "Chutney Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/chutney.jpeg",
-        "Count": "10",
+        "Count": "11",
         "RecipesList": [
             {
                 "Id": "4.1",
@@ -671,6 +671,25 @@
             },
             {
                 "Id": "4.3",
+                "Title": "Wild Fruit Chutney",
+                "SubTitle": "Pejakaai Chutney",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney4.jpg"],
+                        "Incredients": [ "4- Wild fruit (Pejakaai),soaked in salt water", "For Masala -1/2 - grated coconut", "Red Chillies - 4 long and 4 red", "1tsp. - mustard seeds", "2 sprigs- curry leaves", "1tsp. - urad daal", "4-5 - garlic flakes","Salt to taste"],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry oil in small pan with red chillies,urad daal and curry leaves.", "Grind with coconut,mustard seeds and garlic  to a fine paste", "pour it to a vessel", "Take the Wild fruit(Pejakaai) from salt water,wash and smash with ground chutney, add salt if needed", "Serve with boiled rice."]
+                            }
+                        ],
+                     
+                    }
+                ]
+            },
+            {
+                "Id": "4.4",
                 "Title": "Garlic Chutney",
                 "SubTitle": "Bolluli Chutney",
                 "Duration": "30min",
@@ -688,7 +707,7 @@
                 ]
             },
             {
-                "Id": "4.4",
+                "Id": "4.5",
                 "Title": "Raw Mango Chutney",
                 "SubTitle": "Kai Kukku Chutney",
                 "Duration": "30min",
@@ -706,7 +725,7 @@
                 ]
             },
             {
-                "Id": "4.5",
+                "Id": "4.6",
                 "Title": "Ripe Mango Chutney",
                 "SubTitle": "Kukku Chutney",
                 "Duration": "30min",
@@ -724,7 +743,7 @@
                 ]
             },
             {
-                "Id": "4.6",
+                "Id": "4.7",
                 "Title": "Curry Leaves Chutney",
                 "SubTitle": "Bevu soppu Chutney",
                 "Duration": "30min",
@@ -742,7 +761,7 @@
                 ]
             },
             {
-                "Id": "4.7",
+                "Id": "4.8",
                 "Title": "Ridge Gourd Skin Chutney",
                 "SubTitle": "Peereda Cholida Chutney",
                 "Duration": "30min",
@@ -760,7 +779,7 @@
                 ]
             },
             {
-                "Id": "4.8",
+                "Id": "4.9",
                 "Title": "Brahmi Leaves Chutney",
                 "SubTitle": "Timare Chutney",
                 "Duration": "30min",
@@ -779,7 +798,7 @@
                 ]
             },
             {
-                "Id": "4.9",
+                "Id": "4.10",
                 "Title": "Coriander Leaves Chutney",
                 "SubTitle": "Kottambhari Soppu Chutney",
                 "Duration": "30min",
@@ -797,7 +816,7 @@
                 ]
             },
             {
-                "Id": "4.10",
+                "Id": "4.11",
                 "Title": "Mint Leaves Chutney",
                 "SubTitle": "Pudina Chutney",
                 "Duration": "20min",
@@ -1082,11 +1101,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir2.jpeg" ],
-                        "Incredients": [ "1/4kg raw jackfruit, cut and soaked in salt water","Salt to taste"],
+                        "Incredients": [ "1/4kg raw jackfruit, (cut and soaked in salt few days before","Salt to taste"],
                         "Masala": [ "6-7 - red chillies(roasted)","2tbsp. - coriander seeds(roasted)","1tsp. - jeera","1/4tsp. - turmeric powder","4 - garlic flakes","1/2 - grated coconut","1 - onion" ],
                         "Method": [
                             {
-                                "Steps": [ "Grind together masala ingredients except coconut to a fine paste.","Add the coconut and grind to a coarse paste.","Remove and set aside.","Take out the jackfruit pieces from the salt water.","Cut into strips and put in fresh water.","Heat oil and add mustard seeds.","When they splutter add sliced onion, curry leaves and crushed garlic flakes.","When onion turns brown add jackfruit slices, add 2 cups of water.","Boil till it cooked.","Add the ground masala and salt.","Cook it for 10-15 minutes."]
+                                "Steps": [ "Grind together masala ingredients except coconut to a fine paste.","Add the coconut and grind to a coarse paste.","Remove and set aside.","Take out the jackfruit pieces from the salt.","Cut into strips and put in fresh water.","Heat oil and add mustard seeds.","When they splutter add sliced onion, curry leaves and crushed garlic flakes.","When onion turns brown add jackfruit slices, add 2 cups of water.","Boil till it cooked.","Add the ground masala and salt.","Cook it for 10-15 minutes."]
                             }
                         ]
                     }
@@ -1181,7 +1200,7 @@
         "Id": "8",
         "Title": "Curry Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/CurrySpecial.jpeg",
-        "Count": "7",
+        "Count": "9",
         "RecipesList": [
             {
                 "Id": "8.1",
@@ -1206,7 +1225,7 @@
                 "Id": "8.2",
                 "Title": "Whole Bengal Gram Curry",
                 "SubTitle": "Kadle Gasi",
-                "Duration": "45min",
+                "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/BengalGram1.jpg",
                 "Prepare": [
                     {
@@ -1223,6 +1242,25 @@
             },
             {
                 "Id": "8.3",
+                "Title": "Chole Masala",
+                "SubTitle": "Bili Kadle gasi",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney4.jpg"],
+                        "Incredients": [ "1/2 Kg - Kabul Chole (soaked overnight)", "For Masala: - 4-6 -Long Red chillies", "1 tsp.- Pepper corns", "1 tbsp - Coriander seeds", "1tbsp. - Cumin seeds(jeera)", "1/4 tbsp.- Ajwain(oama)", "1 inch - Cinamon", "6 - Cloves", "4 - Cardamom", "Salt to taste", "2- Tomatoes", "1inch - Ginger", "1 Bundle - Garlic", "1 - Onion,sliced", "1tsp. - Asafoetida powder(Hing)", "1 Cup - Coriander leaves, finely chopped"],
+                        "Method": [
+                            {
+                                "Steps": [ "Cook Kabul Chole with water and salt", "Make Ginger,Garlic paste", "Make Tomato puree and keep aside", "Dry roast - red chillies,coriander seeds,jeera,oama,pepper,cinnamon,cloves and cardamom", "Grind it to a fine powder", "Fry a pan with oil,add onion,ginger garlic paste and fry till raw smell goes", "Add ground powder,tomato puree,hing and cook for 5 minutes", "Then add  cooked Kabul Chole", "Grind 1 tbsp.chole and add it to the cooked masala, to make curry thick and cook for 5 minutes", "Marinate with coriander leaves", "Turn off the gas", "Serve with Parota or Chapathi"]
+                            }
+                        ],
+                        "Note": "Serve with Dosa, Apaam and Idli."
+                    }
+                ]
+            },
+            {
+                "Id": "8.4",
                 "Title": "Sprouted Green Gram Curry",
                 "SubTitle": "Padangi Gasi",
                 "Duration": "45min",
@@ -1242,7 +1280,7 @@
                 ]
             },
             {
-                "Id": "8.4",
+                "Id": "8.5",
                 "Title": "Brinjal and Drumstick Curry",
                 "SubTitle": "Badane Nurge",
                 "Duration": "45min",
@@ -1261,7 +1299,7 @@
                 ]
             },
             {
-                "Id": "8.5",
+                "Id": "8.6",
                 "Title": "Brinjal Chilly Curry",
                 "SubTitle": "Badane Munchi Gasi",
                 "Duration": "null",
@@ -1280,7 +1318,7 @@
                 ]
             },
             {
-                "Id": "8.6",
+                "Id": "8.7",
                 "Title": "Kundapur Masala Powder",
                 "SubTitle": "null",
                 "Duration": "30min",
@@ -1299,7 +1337,7 @@
                 ]
             },
             {
-                "Id": "8.7",
+                "Id": "8.8",
                 "Title": "White Pumpkin Curry",
                 "SubTitle": "Karkumbuda Puli Koddel",
                 "Duration": "50min",
@@ -1318,7 +1356,7 @@
                 ]
             },
             {
-                "Id": "8.8",
+                "Id": "8.9",
                 "Title": "Horse Gram and Spinach Curry",
                 "SubTitle": "Kudu, Basale Gasi",
                 "Duration": "1hr",
