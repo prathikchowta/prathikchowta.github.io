@@ -674,10 +674,10 @@
                 "Title": "Wild Fruit Chutney",
                 "SubTitle": "Pejakaai Chutney",
                 "Duration": "---",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Pejakai1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney4.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Pejakai1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Pejakai2.jpg"],
                         "Incredients": [ "4 - Wild fruit(Pejakaai), soaked in salt water" ],
                         "Masala": [ "1/2 - grated coconut", "Red Chillies - 4 long and 4 red", "1tsp. - mustard seeds", "2sprigs - Curry leaves", "1tsp. - Urad daal", "4-5 - Garlic flakes","Salt to taste" ],
                         "Method": [
