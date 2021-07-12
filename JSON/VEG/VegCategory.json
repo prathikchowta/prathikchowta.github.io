@@ -678,13 +678,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney4.jpg"],
-                        "Incredients": [ "4- Wild fruit (Pejakaai),soaked in salt water", "For Masala -1/2 - grated coconut", "Red Chillies - 4 long and 4 red", "1tsp. - mustard seeds", "2 sprigs- curry leaves", "1tsp. - urad daal", "4-5 - garlic flakes","Salt to taste"],
+                        "Incredients": [ "4 - Wild fruit(Pejakaai), soaked in salt water" ],
+                        "Masala": [ "1/2 - grated coconut", "Red Chillies - 4 long and 4 red", "1tsp. - mustard seeds", "2sprigs - Curry leaves", "1tsp. - Urad daal", "4-5 - Garlic flakes","Salt to taste" ],
                         "Method": [
                             {
-                                "Steps": [ "Fry oil in small pan with red chillies,urad daal and curry leaves.", "Grind with coconut,mustard seeds and garlic  to a fine paste", "pour it to a vessel", "Take the Wild fruit(Pejakaai) from salt water,wash and smash with ground chutney, add salt if needed", "Serve with boiled rice."]
+                                "Steps": [ "Fry oil in small pan with red chillies, urad daal and curry leaves.", "Grind with coconut, mustard seeds and garlic to a fine paste.", "Pour it to a vessel.", "Take the Wild fruit(Pejakaai) from salt water, wash and smash with ground chutney, add salt if needed.", "Serve with boiled rice."]
                             }
-                        ],
-                     
+                        ]
                     }
                 ]
             },
@@ -1249,10 +1249,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChuntey3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/RedChutney4.jpg"],
-                        "Incredients": [ "1/2 Kg - Kabul Chole (soaked overnight)", "For Masala: - 4-6 -Long Red chillies", "1 tsp.- Pepper corns", "1 tbsp - Coriander seeds", "1tbsp. - Cumin seeds(jeera)", "1/4 tbsp.- Ajwain(oama)", "1 inch - Cinamon", "6 - Cloves", "4 - Cardamom", "Salt to taste", "2- Tomatoes", "1inch - Ginger", "1 Bundle - Garlic", "1 - Onion,sliced", "1tsp. - Asafoetida powder(Hing)", "1 Cup - Coriander leaves, finely chopped"],
+                        "Incredients": [ "1/2 Kg - Kabul Chole(soaked overnight)" ],
+                        "Masala": [ "4-6 - Long Red chillies", "1tsp. - Pepper corns", "1tbsp - Coriander seeds", "1tbsp. - Cumin seeds(jeera)", "1/4tbsp. - Ajwain(oama)", "1inch - Cinamon", "6 - Cloves", "4 - Cardamom", "Salt to taste", "2 - Tomatoes", "1inch - Ginger", "1Bundle - Garlic", "1 - Onion, sliced", "1tsp. - Asafoetida powder(Hing)", "1Cup - Coriander leaves, finely chopped" ],
                         "Method": [
                             {
-                                "Steps": [ "Cook Kabul Chole with water and salt", "Make Ginger,Garlic paste", "Make Tomato puree and keep aside", "Dry roast - red chillies,coriander seeds,jeera,oama,pepper,cinnamon,cloves and cardamom", "Grind it to a fine powder", "Fry a pan with oil,add onion,ginger garlic paste and fry till raw smell goes", "Add ground powder,tomato puree,hing and cook for 5 minutes", "Then add  cooked Kabul Chole", "Grind 1 tbsp.chole and add it to the cooked masala, to make curry thick and cook for 5 minutes", "Marinate with coriander leaves", "Turn off the gas", "Serve with Parota or Chapathi"]
+                                "Steps": [ "Cook Kabul Chole with water and salt.", "Make Ginger, Garlic paste.", "Make Tomato puree and keep aside.", "Dry roast - red chillies, coriander seeds, jeera, oama, pepper, cinnamon, cloves and cardamom.", "Grind it to a fine powder.", "Fry a pan with oil, add onion, ginger garlic paste and fry till raw smell goes.", "Add ground powder, tomato puree, hing and cook for 5 minutes.", "Then add cooked Kabul Chole.", "Grind 1tbsp. chole and add it to the cooked masala, to make curry thick and cook for 5 minutes.", "Marinate with coriander leaves.", "Turn off the gas.", "Serve with Parota or Chapathi."]
                             }
                         ],
                         "Note": "Serve with Dosa, Apaam and Idli."
