@@ -206,10 +206,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Appa2.jpeg?raw=true"],
-                        "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi)seeds","250grams - jaggery(optional)","1 tender coconut(grated)","salt to taste","1/2tsp. - soda"],
+                        "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi)seeds","250grams - jaggery(optional)","1 tender coconut(grated)","salt to taste"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours.","Grind grated coconut and fenugreek seeds along with soaked water.", "Then add rice and grind further to a fine paste.","Remove and mix it well with salt.","Keep aside for 8 hours.","Add jaggery and soda, mix well.","Keep guri appa tava on fire.","Apply oil, pour batter to all the rounds and cover it.","Cook both the sides." ]
+                                "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours.","Grind grated coconut and fenugreek seeds along with soaked water.", "Then add rice and grind further to a fine paste.","Remove and mix it well with salt.","Keep aside for 8 hours.","Add jaggery and  mix well.","Keep guri appa tava on fire.","Apply oil, pour batter to all the rounds and cover it.","Cook both the sides." ]
                             }
                         ],
                         "Note": "Guri appa tava-special tava with 7 or 11 depressions."
