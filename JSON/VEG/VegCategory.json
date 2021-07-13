@@ -221,17 +221,16 @@
                 "Title": "Puffed Bun Dosa",
                 "SubTitle": "Banaleda Adye",
                 "Duration": "---",
-                "ImgURL": "",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["", ""],
-                        "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi)seeds","250grams - jaggery(optional)","1 tender coconut(grated)", "1 Cup- Poha,soaked in water", "salt to taste", "2tsp. -Oil", "1- Onion,finely chopped", "1 tsp.- Urad daal", "1- Red Chilly,broken"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg" ],
+                        "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi) seeds","250grams - jaggery(optional)","1 - tender coconut(grated)", "1Cup - Poha, soaked in water", "Salt to taste", "2tsp. - Oil", "1 - Onion, finely chopped", "1tsp. - Urad daal", "1 - Red Chilly, broken"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours.","Grind grated coconut, fenugreek seeds along with soaked water and poha", "Then add rice and grind further to a fine paste.","Remove and mix it well with salt.","Keep aside for 8 hours.","Add jaggery and  mix well.","Keep the Kadai on fire,add oil,onion,urad daal and red chilly", "Pour 2 ladleful batter and cook both the sides on low flame", "Serve with red chutney." ]
+                                "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours.","Grind grated coconut, fenugreek seeds along with soaked water and poha.", "Then add rice and grind further to a fine paste.","Remove and mix it well with salt.","Keep aside for 8 hours.","Add jaggery and  mix well.","Keep the Kadai on fire, add oil, onion, urad daal and red chilly.", "Pour 2 ladleful batter and cook both the sides on low flame.", "Serve with red chutney." ]
                             }
-                        ],
-                       
+                        ]
                     }
                 ]
             },
@@ -1050,10 +1049,10 @@
                 "Title": "Brahmi Tambuli",
                 "SubTitle": "Thimare Tambuli",
                 "Duration": "30 minutes",
-                "ImgURL": "",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rasam/Thambuli1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["", ""],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rasam/Thambuli1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rasam/Thambuli2.jpg"],
                         "Incredients": [ "2cups - Brahmi, cleaned and cut", "4-5 - Green chillies", "1tbsp. - Pepper Corns, roasted", "1/2litre - Curds", "1tsp. - Cumin seeds(Jeera), roasted", "1cup - Coconut, grated", "Salt to taste", "For Seasoning:", "1/2tsp. - Ghee or oil", "1tsp. - Jeera", "1 - Long Red Chilly, broken", "1Sprig - Curry leaves"],
                         "Method": [
                             {
