@@ -317,17 +317,17 @@
                 "Title": "Ajwain Curry",
                 "SubTitle": "Oamada Paladya",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney2.jpg" ],
-                        "Incredients": [ "8-10 - Long Red Chillies", "2tbsp.- Ajwain(oama)", "3 tsp.- Pepper corns", "1 tsp.- Mustard Seeds", "5tsp.- Coriander seeds", "2 tsp.- Cumin seeds(Jeera)", "1tsp.- Fenugreek seeds (Methi)", "1/4tsp.- Turmeric powder", "Dry Cocum,soaked in water or tamarind - size of a lime", "2big- Onion,sliced", "4-5 - Garlic flakes", "2 cups- Dry coconut,scrapped", "Salt to taste", "8-10 - Eggs or Dry Fish pieces washed and soaked in water(optional)", "For Seasoning- 1tsp.- Coconut oil, 1 Onion,finely chopped, 5-6- Garlic flakes, crushed, 2 sprig- Curry leaves" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain3.jpg" ],
+                        "Incredients": [ "8-10 - Long Red Chillies", "2tbsp. - Ajwain(oama)", "3tsp. - Pepper corns", "1tsp. - Mustard Seeds", "5tsp. - Coriander seeds", "2tsp. - Cumin seeds(Jeera)", "1tsp. - Fenugreek seeds(Methi)", "1/4tsp. - Turmeric powder", "Dry Cocum, soaked in water or tamarind(size of a lime)", "2big - Onion, sliced", "4-5 - Garlic flakes", "2cups - Dry coconut, scrapped", "Salt to taste", "8-10 - Eggs or Dry Fish pieces washed and soaked in water(optional)", "For Seasoning:", "1tsp. - Coconut oil", "1Onion, finely chopped", "5-6 - Garlic flakes, crushed", "2sprig - Curry leaves" ],
                         "Method": [
                             {
-                                "Steps": [ "Fry Red Chillies,Pepper Corns,Ajwain,Jeera,Coriander seeds,Methi,1 Onion and garlic flakes with 1tsp.coconut oil", "Then fry, dry coconut", "Grind  the ingredients with cocum,tumeric powder and water to a fine paste", "Cook the ground masala in earthen pot, add salt and 1 sliced onion", "Add  broken eggs or dry fish and cook for 10 minutes on low flame", "Season it", "Note:It is a tradional curry,given to the new mother(woman who gave birth to a child)." ]
+                                "Steps": [ "Fry Red Chillies, Pepper Corns, Ajwain, Jeera, Coriander seeds, Methi, 1 Onion and garlic flakes with 1tsp. coconut oil.", "Then fry, dry coconut.", "Grind  the ingredients with cocum, tumeric powder and water to a fine paste.", "Cook the ground masala in earthen pot, add salt and 1 sliced onion.", "Add broken eggs or dry fish and cook for 10 minutes on low flame.", "Season it." ]
                             }
                         ],
-                        "Note": "Same Chutney can be prepared with dry Mackerel or dry Prawns or small white fish(Kollatharu)"
+                        "Note": "It is a tradional curry, given to the new mother(woman who gives birth to a child)."
                     }
                 ]
             }
