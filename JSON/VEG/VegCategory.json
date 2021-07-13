@@ -177,7 +177,7 @@
         "Id": "2",
         "Title": "Breakfast Recipe",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
-        "Count": "15",
+        "Count": "16",
         "RecipesList": [
             {
                 "Id": "2.1",
@@ -218,6 +218,25 @@
             },
             {
                 "Id": "2.3",
+                "Title": "Puffed Bun Dosa",
+                "SubTitle": "Banaleda Adye",
+                "Duration": "---",
+                "ImgURL": "",
+                "Prepare": [
+                    {
+                        "ImgURL": ["", ""],
+                        "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi)seeds","250grams - jaggery(optional)","1 tender coconut(grated)", "1 Cup- Poha,soaked in water", "salt to taste", "2tsp. -Oil", "1- Onion,finely chopped", "1 tsp.- Urad daal", "1- Red Chilly,broken"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours.","Grind grated coconut, fenugreek seeds along with soaked water and poha", "Then add rice and grind further to a fine paste.","Remove and mix it well with salt.","Keep aside for 8 hours.","Add jaggery and  mix well.","Keep the Kadai on fire,add oil,onion,urad daal and red chilly", "Pour 2 ladleful batter and cook both the sides on low flame", "Serve with red chutney." ]
+                            }
+                        ],
+                       
+                    }
+                ]
+            },
+            {
+                "Id": "2.4",
                 "Title": "Coconut dosa",
                 "SubTitle": "Bannangayi Dose",
                 "Duration": "---",
@@ -235,7 +254,7 @@
                 ]
             },
             {
-                "Id": "2.4",
+                "Id": "2.5",
                 "Title": "Urad Dosa",
                 "SubTitle": "Urdu Dose",
                 "Duration": "---",
@@ -253,7 +272,7 @@
                 ]
             },
             {
-                "Id": "2.5",
+                "Id": "2.6",
                 "Title": "Aappam",
                 "SubTitle": "Aapa",
                 "Duration": "---",
@@ -272,7 +291,7 @@
                 ]
             },
             {
-                "Id": "2.6",
+                "Id": "2.7",
                 "Title": "Methi Dosa",
                 "SubTitle": "Metthe Dose",
                 "Duration": "---",
@@ -290,7 +309,7 @@
                 ]
             },
             {
-                "Id": "2.7",
+                "Id": "2.8",
                 "Title": "Maida Dosa",
                 "SubTitle": "Maida Dose",
                 "Duration": "30min",
@@ -308,7 +327,7 @@
                 ]
             },
             {
-                "Id": "2.8",
+                "Id": "2.9",
                 "Title": "Idli",
                 "SubTitle": "null",
                 "Duration": "---",
@@ -326,7 +345,7 @@
                 ]
             },
             {
-                "Id": "2.9",
+                "Id": "2.10",
                 "Title": "Idli in jackfruit leaves",
                 "SubTitle": "Gunda / Kotte Idli",
                 "Duration": "---",
@@ -345,7 +364,7 @@
                 ]
             },
             {
-                "Id": "2.10",
+                "Id": "2.11",
                 "Title": "Masala Dosa",
                 "SubTitle": "Masale Dose",
                 "Duration": "---",
@@ -363,7 +382,7 @@
                 ]
             },
             {
-                "Id": "2.11",
+                "Id": "2.12",
                 "Title": "Jackfruit Dosa",
                 "SubTitle": "Pelakai Dose",
                 "Duration": "2hr 45min",
@@ -381,7 +400,7 @@
                 ]
             },
             {
-                "Id": "2.12",
+                "Id": "2.13",
                 "Title": "Rava Rotti",
                 "SubTitle": "Sajjige Rotti",
                 "Duration": "30min",
@@ -399,7 +418,7 @@
                 ]
             },
             {
-                "Id": "2.13",
+                "Id": "2.14",
                 "Title": "Rice Dumplings",
                 "SubTitle": "Pundi",
                 "Duration": "---",
@@ -417,7 +436,7 @@
                 ]
             },
             {
-                "Id": "2.14",
+                "Id": "2.15",
                 "Title": "Rice Dumplings with Masala",
                 "SubTitle": "Arepuda Pundi",
                 "Duration": "30min",
@@ -435,7 +454,7 @@
                 ]
             },
             {
-                "Id": "2.15",
+                "Id": "2.16",
                 "Title": "Mangalore Buns",
                 "SubTitle": "null",
                 "Duration": "null",
