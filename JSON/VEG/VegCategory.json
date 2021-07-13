@@ -697,13 +697,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Pejakai1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Pejakai2.jpg"],
-                        "Incredients": [ "4 - Wild fruit(Pejakaai),scrapped and soaked in salt water" ],
+                        "Incredients": [ "4 - Wild fruit(Pejakaai),scrapped,cooked and soaked in salt water" ],
                         "Masala": [ "1/2 - grated coconut", "Red Chillies - 4 long and 4 red", "1tsp. - mustard seeds", "2sprigs - Curry leaves", "1tsp. - Urad daal", "4-5 - Garlic flakes","Salt to taste" ],
                         "Method": [
                             {
                                 "Steps": [ "Fry oil in small pan with red chillies, urad daal and curry leaves.", "Grind with coconut, mustard seeds and garlic to a fine paste.", "Pour it to a vessel.", "Take the Wild fruit(Pejakaai) from salt water, wash and smash with ground chutney, add salt if needed.", "Serve with boiled rice."]
                             }
-                        ]
+                        ]"Note": "Raw Mangoes Chutney can be made with same process."
                     }
                 ]
             },
