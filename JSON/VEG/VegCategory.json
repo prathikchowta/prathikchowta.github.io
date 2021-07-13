@@ -678,7 +678,7 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Pejakai1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Chutney/Pejakai2.jpg"],
-                        "Incredients": [ "4 - Wild fruit(Pejakaai), soaked in salt water" ],
+                        "Incredients": [ "4 - Wild fruit(Pejakaai),scrapped and soaked in salt water" ],
                         "Masala": [ "1/2 - grated coconut", "Red Chillies - 4 long and 4 red", "1tsp. - mustard seeds", "2sprigs - Curry leaves", "1tsp. - Urad daal", "4-5 - Garlic flakes","Salt to taste" ],
                         "Method": [
                             {
@@ -840,7 +840,7 @@
         "Id": "5",
         "Title": "Rasam Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/sambar.jpeg",
-        "Count": "10",
+        "Count": "11",
         "RecipesList": [
             {
                 "Id": "5.1",
@@ -1021,6 +1021,24 @@
                         "Method": [
                             {
                                 "Steps": [ "Grind together masala ingredients to a fine paste.", "Boil the horsegram with 7-8 cups of water, until well cooked.", "Drain and take away the residue of the horsegram.", "Add the ground masala, tamarind water, salt and boil for 15 minutes.", "Season with oil, mustard seeds, broken red chilly, crushed garlic and curry leaves."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "5.11",
+                "Title": "Brahmi Tambuli",
+                "SubTitle": "Thimare Tambuli",
+                "Duration": "30 minutes",
+                "ImgURL": "",
+                "Prepare": [
+                    {
+                        "ImgURL": ["", ""],
+                        "Incredients": [ "2cups - Brahmi, cleaned and cut", "4-5 - Green chillies", "1tbsp. - Pepper Corns, roasted", "1/2litre - Curds", "1tsp. - Cumin seeds(Jeera), roasted", "1cup - Coconut, grated", "Salt to taste", "For Seasoning:", "1/2tsp. - Ghee or oil", "1tsp. - Jeera", "1 - Long Red Chilly, broken", "1Sprig - Curry leaves"],
+                        "Method": [
+                            {
+                                "Steps": [ "Grind the ingredients finely.", "Pour to the vessel.", "Season it and serve."]
                             }
                         ]
                     }
