@@ -184,10 +184,10 @@
                 "Title": "Neer Dosa",
                 "SubTitle": "Neer Dose",
                 "Duration": "3hr",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/NeerDose1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/master/JSON/Images/Veg/Category/Recipes/Breakfast/Neerdosa1.jpeg?raw=true"],
+                        "ImgURL": [ "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/NeerDose1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/NeerDose2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/NeerDose3.jpg" ],
                         "Incredients": [ "2cups - raw rice", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
