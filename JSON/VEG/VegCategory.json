@@ -1131,14 +1131,14 @@
             },
             {
                 "Id": "6.4",
-                "Title": "Raw Jackfruit(In salt water)",
+                "Title": "Raw Jackfruit(In salt)",
                 "SubTitle": "Uppad Pachir",
                 "Duration": "40min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Sukka/JackfruitPachir2.jpeg" ],
-                        "Incredients": [ "1/4kg raw jackfruit, (cut and soaked in salt few days before","Salt to taste"],
+                        "Incredients": [ "1/4kg raw jackfruit, (cut and soaked in salt few days before)","Salt to taste"],
                         "Masala": [ "6-7 - red chillies(roasted)","2tbsp. - coriander seeds(roasted)","1tsp. - jeera","1/4tsp. - turmeric powder","4 - garlic flakes","1/2 - grated coconut","1 - onion" ],
                         "Method": [
                             {
