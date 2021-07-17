@@ -1199,10 +1199,10 @@
                 "Title": "Beans Upkari",
                 "SubTitle": "null",
                 "Duration": "30min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari2.jpg"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari2.jpg" ],
                         "Incredients": [ "1/2kg. - Beans chopped into small pieces", "2-3 - green chilies(slitted)","1tbsp. - channa daal","1tsp. - mustard seeds","2sprig curry leaves","1 pinch turmeric powder","1 - onion sliced","1tbsp. - grated coconut","Salt to taste"],
                         "Method": [
                             {
@@ -1237,7 +1237,7 @@
         "Id": "8",
         "Title": "Curry Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/CurrySpecial.jpeg",
-        "Count": "9",
+        "Count": "10",
         "RecipesList": [
             {
                 "Id": "8.1",
@@ -1299,6 +1299,26 @@
             },
             {
                 "Id": "8.4",
+                "Title": "Vegetable Kurma",
+                "SubTitle": "null",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma3.jpg" ],
+                        "Incredients": [ "1/2 Kg - Kabul Chole(soaked overnight)" ],
+                        "Masala": [ "4-6 - Long Red chillies", "1tsp. - Pepper corns", "1tbsp - Coriander seeds", "1tbsp. - Cumin seeds(jeera)", "1/4tbsp. - Ajwain(oama)", "1inch - Cinamon", "6 - Cloves", "4 - Cardamom", "Salt to taste", "2 - Tomatoes", "1inch - Ginger", "1Bundle - Garlic", "1 - Onion, sliced", "1tsp. - Asafoetida powder(Hing)", "1Cup - Coriander leaves, finely chopped" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Cook Kabul Chole with water and salt.", "Make Ginger, Garlic paste.", "Make Tomato puree and keep aside.", "Dry roast - red chillies, coriander seeds, jeera, oama, pepper, cinnamon, cloves and cardamom.", "Grind it to a fine powder.", "Fry a pan with oil, add onion, ginger garlic paste and fry till raw smell goes.", "Add ground powder, tomato puree, hing and cook for 5 minutes.", "Then add cooked Kabul Chole.", "Grind 1tbsp. chole and add it to the cooked masala, to make curry thick and cook for 5 minutes.", "Marinate with coriander leaves.", "Turn off the gas.", "Serve with Parota or Chapathi."]
+                            }
+                        ],
+                        "Note": "Serve with Dosa, Apaam and Idli."
+                    }
+                ]
+            },
+            {
+                "Id": "8.5",
                 "Title": "Sprouted Green Gram Curry",
                 "SubTitle": "Padangi Gasi",
                 "Duration": "45min",
@@ -1318,7 +1338,7 @@
                 ]
             },
             {
-                "Id": "8.5",
+                "Id": "8.6",
                 "Title": "Brinjal and Drumstick Curry",
                 "SubTitle": "Badane Nurge",
                 "Duration": "45min",
@@ -1337,7 +1357,7 @@
                 ]
             },
             {
-                "Id": "8.6",
+                "Id": "8.7",
                 "Title": "Brinjal Chilly Curry",
                 "SubTitle": "Badane Munchi Gasi",
                 "Duration": "null",
@@ -1356,7 +1376,7 @@
                 ]
             },
             {
-                "Id": "8.7",
+                "Id": "8.8",
                 "Title": "Kundapur Masala Powder",
                 "SubTitle": "null",
                 "Duration": "30min",
@@ -1375,7 +1395,7 @@
                 ]
             },
             {
-                "Id": "8.8",
+                "Id": "8.9",
                 "Title": "White Pumpkin Curry",
                 "SubTitle": "Karkumbuda Puli Koddel",
                 "Duration": "50min",
@@ -1394,7 +1414,7 @@
                 ]
             },
             {
-                "Id": "8.9",
+                "Id": "8.10",
                 "Title": "Horse Gram and Spinach Curry",
                 "SubTitle": "Kudu, Basale Gasi",
                 "Duration": "1hr",
