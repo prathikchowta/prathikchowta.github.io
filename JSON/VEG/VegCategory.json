@@ -1306,14 +1306,14 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma3.jpg" ],
-                        "Incredients": [ "Vegetables: 100 gms- Green Peas,soaked in water,1 -Potato,peeled, 2 -Carrots,peeled, 10-15 -Beans, 2- Onions, 1 -Tomato, 2 - Capsicums- Cut into pieces", "2tsp.- Ghee or Oil", "1tsp.- Coriander powder", "1tsp.- Jeera powder", "1tsp.- Garam masala powder", "4-5 - Pepper Corns", "4-5 - Cloves", "2-3 - Cardamom", "1- Bay leaf", "Salt to taste" ],
-                        "Masala": [ "1 Bunch - Coriander leaves, cleaned and cut", "10-15 - Mint leaves", "1 inch - Ginger,cut", "10-15 - Garlic flakes,cut", "6-8 - Green Chillies", "1 Cup - Grated coconut", "50gms - Cashew nuts" ],
+                        "Incredients": [ "100gms - Green Peas, soaked in water", "1 - Potato, peeled", "2 - Carrots, peeled", "10-15 - Beans", "2 - Onions", "1 - Tomato", "2 - Capsicums, cut into pieces", "2tsp. - Ghee or Oil", "1tsp. - Coriander powder", "1tsp. - Jeera powder", "1tsp. - Garam masala powder", "4-5 - Pepper Corns", "4-5 - Cloves", "2-3 - Cardamom", "1 - Bay leaf", "Salt to taste" ],
+                        "Masala": [ "1Bunch - Coriander leaves, cleaned and cut", "10-15 - Mint leaves", "1inch - Ginger, cut", "10-15 - Garlic flakes, cut", "6-8 - Green Chillies", "1Cup - Grated coconut", "50gms - Cashew nuts" ],
                         "Method": [
                             {
-                                "Steps": [ "Grind the Masala ingredients to a fine paste", "Keep Cooker on fire", "Add Ghee,Pepper Corns,Cloves,Cardamom and Bay leaf", "Fry little,then add cut vegetables,salt,Coriander powder,Jeera powder,Garam Masala Powder and mix", "Add  Ground Masala,1 cup water and mix", "Close the lid and cook for 2 whistles", "Let it cool."]
+                                "Steps": [ "Grind the Masala ingredients to a fine paste.", "Keep Cooker on fire.", "Add Ghee, Pepper Corns, Cloves, Cardamom and Bay leaf.", "Fry little, then add cut vegetables, salt, Coriander powder, Jeera powder, Garam Masala Powder and mix.", "Add Ground Masala, 1cup water and mix.", "Close the lid and cook for 2 whistles.", "Let it cool." ]
                             }
                         ],
-                        "Note": "Serve with Chapati,Parota or Puri."
+                        "Note": "Serve with Chapati, Parota or Puri."
                     }
                 ]
             },
