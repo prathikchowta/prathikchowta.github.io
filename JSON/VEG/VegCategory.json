@@ -1197,7 +1197,7 @@
             {
                 "Id": "7.1",
                 "Title": "Beans Upkari",
-                "SubTitle": "null",
+                "SubTitle": "Lathane Upkari",
                 "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Upkari/BeansUpkari1.jpg",
                 "Prepare": [
@@ -1306,14 +1306,14 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma3.jpg" ],
-                        "Incredients": [ "1/2 Kg - Kabul Chole(soaked overnight)" ],
-                        "Masala": [ "4-6 - Long Red chillies", "1tsp. - Pepper corns", "1tbsp - Coriander seeds", "1tbsp. - Cumin seeds(jeera)", "1/4tbsp. - Ajwain(oama)", "1inch - Cinamon", "6 - Cloves", "4 - Cardamom", "Salt to taste", "2 - Tomatoes", "1inch - Ginger", "1Bundle - Garlic", "1 - Onion, sliced", "1tsp. - Asafoetida powder(Hing)", "1Cup - Coriander leaves, finely chopped" ],
+                        "Incredients": [ "Vegetables: 100 gms- Green Peas,soaked in water,1 -Potato,peeled, 2 -Carrots,peeled, 10-15 -Beans, 2- Onions, 1 -Tomato, 2 - Capsicums- Cut into pieces", "2tsp.- Ghee or Oil", "1tsp.- Coriander powder", "1tsp.- Jeera powder", "1tsp.- Garam masala powder", "4-5 - Pepper Corns", "4-5 - Cloves", "2-3 - Cardamom", "1- Bay leaf", "Salt to taste" ],
+                        "Masala": [ "1 Bunch - Coriander leaves, cleaned and cut", "10-15 - Mint leaves", "1 inch - Ginger,cut", "10-15 - Garlic flakes,cut", "6-8 - Green Chillies", "1 Cup - Grated coconut", "50gms - Cashew nuts" ],
                         "Method": [
                             {
-                                "Steps": [ "Cook Kabul Chole with water and salt.", "Make Ginger, Garlic paste.", "Make Tomato puree and keep aside.", "Dry roast - red chillies, coriander seeds, jeera, oama, pepper, cinnamon, cloves and cardamom.", "Grind it to a fine powder.", "Fry a pan with oil, add onion, ginger garlic paste and fry till raw smell goes.", "Add ground powder, tomato puree, hing and cook for 5 minutes.", "Then add cooked Kabul Chole.", "Grind 1tbsp. chole and add it to the cooked masala, to make curry thick and cook for 5 minutes.", "Marinate with coriander leaves.", "Turn off the gas.", "Serve with Parota or Chapathi."]
+                                "Steps": [ "Grind the Masala ingredients to a fine paste", "Keep Cooker on fire", "Add Ghee,Pepper Corns,Cloves,Cardamom and Bay leaf", "Fry little,then add cut vegetables,salt,Coriander powder,Jeera powder,Garam Masala Powder and mix", "Add  Ground Masala,1 cup water and mix", "Close the lid and cook for 2 whistles", "Let it cool."]
                             }
                         ],
-                        "Note": "Serve with Dosa, Apaam and Idli."
+                        "Note": "Serve with Chapati,Parota or Puri."
                     }
                 ]
             },
