@@ -1301,7 +1301,7 @@
                 "Id": "8.4",
                 "Title": "Vegetable Kurma",
                 "SubTitle": "null",
-                "Duration": "---",
+                "Duration": "30min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Kurma1.jpg",
                 "Prepare": [
                     {
@@ -1320,7 +1320,7 @@
             {
                 "Id": "8.5",
                 "Title": "Sprouted Green Gram Curry",
-                "SubTitle": "Padangi Gasi",
+                "SubTitle": "Padengi Gasi",
                 "Duration": "45min",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/GreenGram1.jpeg",
                 "Prepare": [
