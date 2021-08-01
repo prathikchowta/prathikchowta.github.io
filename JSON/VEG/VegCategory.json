@@ -487,12 +487,13 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
-                        "Incredients": [ "2Cups - Sona Masoori Rice", "2tbsp. - Methi(fenugreek seeds),soaked in water for 6 hours", "1Big - Tender Coconut,grated or coconut milk", "1tsp. - Coriander seeds", "1tsp.- Jeera(Cumin seeds)", "1/2tsp. - Pepper Corns", "1 Shory - Red Chilly", "1/4 tsp.- Turmeric powder", "Salt to taste", "300 gms - Jaggery"],
+                        "Incredients": [ "2Cups - Sona Masoori Rice", "2tbsp. - Methi(fenugreek seeds), soaked in water for 6 hours", "1Big - Tender Coconut, grated or coconut milk", "1tsp. - Coriander seeds", "1tsp. - Jeera(Cumin seeds)", "1/2tsp. - Pepper Corns", "1Shory - Red Chilly", "1/4tsp. - Turmeric powder", "Salt to taste", "300gms - Jaggery"],
                         "Method": [
                             {
-                                "Steps": [ "Grind the coconut with coriander seeds,jeera,turmeric powder,red chilly and 1tbsp. soaked methi to a fine paste", "Keep aside", "Cook Sona Masoori Rice with 1 tbsp.methi,along with soaked water", "Cook till it becomes soft", "Add ground paste,salt and jaggery", "Add water,stir and cook for 5 minutes", "Serve hot with ghee", "Note: Methi Rice is a traditional sweet prepared in Karavali, specially during Aati Amavasya".]
+                                "Steps": [ "Grind the coconut with coriander seeds, jeera, turmeric powder, red chilly and 1tbsp. soaked methi to a fine paste.", "Keep aside.", "Cook Sona Masoori Rice with 1 tbsp. methi, along with soaked water.", "Cook till it becomes soft.", "Add ground paste, salt and jaggery.", "Add water, stir and cook for 5 minutes.", "Serve hot with ghee." ]
                             }
-                        ]
+                        ],
+                        "Note": "Methi Rice is a traditional sweet prepared in Karavali, specially during Aati Amavasya."
                     }
                 ]
             },
@@ -500,15 +501,15 @@
                 "Id": "3.2",
                 "Title": "Ghee Rice",
                 "SubTitle": "Naitha Nuppu",
-                "Duration": "45 mins.",
+                "Duration": "45mins.",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
-                        "Incredients": [ "To Make Rice : 4Cups - Basmati Rice", "6 tbsp.- Ghee", "4 Big - Onions,finely sliced", "2 - Bay leaves", "6-8 - Cloves", "4 - Cardamoms", "2 pieces - Cinamon", "10-12 - Pepper Corns", "2 - Star Anise", "50 gms.- Cashew nuts", "10-15 - Raisins", "Salt to taste", "To Make Salad - 1 - Cucumber", "2-3 - Onions", "2 - Tomatoes", "2-3 - Green Chillies", "1 Cup - Curds", "Salt to taste", "1/2 Cup - Coriander leaves"],
+                        "Incredients": [ "To Make Rice:", "4Cups - Basmati Rice", "6tbsp. - Ghee", "4Big - Onions, finely sliced", "2 - Bay leaves", "6-8 - Cloves", "4 - Cardamoms", "2pieces - Cinamon", "10-12 - Pepper Corns", "2 - Star Anise", "50gms. - Cashew nuts", "10-15 - Raisins", "Salt to taste", "To Make Salad:", "1 - Cucumber", "2-3 - Onions", "2 - Tomatoes", "2-3 - Green Chillies", "1Cup - Curds", "Salt to taste", "1/2Cup - Coriander leaves" ],
                         "Method": [
                             {
-                                "Steps": [ "Wash the Basmati Rice and keep aside", "Keep  a thick bottomed Vessel on fire", "Add Ghee,fry onions till it becomes transparent", "Add other ingredients except salt and fry little", "Add 8 cups of water( double of rice)", "Then add salt", "When water boils, add washed rice", "Cook till the water drains on low flame", "For Salad: Peel the skin of cucumber", "wash and cut into small pieces", "Then finely chop onions,tomatoes, green chillies and coriander leaves", "Add salt", "Then add curds and Mix altogether", "Serve with Ghee Rice." ]
+                                "Steps": [ "Wash the Basmati Rice and keep aside.", "Keep a thick bottomed Vessel on fire.", "Add Ghee, fry onions till it becomes transparent.", "Add other ingredients except salt and fry little.", "Add 8cups of water(double of rice).", "Then add salt.", "When water boils, add washed rice.", "Cook till the water drains on low flame.", "For Salad: Peel the skin of cucumber, wash and cut into small pieces. Then finely chop onions, tomatoes, green chillies and coriander leaves. Add salt. Then add curds and Mix all together. Serve with Ghee Rice." ]
                             }
                         ]
                     }
