@@ -474,9 +474,9 @@
     },
     {
         "Id": "3",
-        "Title": "Evening Snacks",
+        "Title": "Rice Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg",
-        "Count": "9",
+        "Count": "3",
         "RecipesList": [
             {
                 "Id": "3.1",
@@ -498,6 +498,68 @@
             },
             {
                 "Id": "3.2",
+                "Title": "Mangalore Bajji",
+                "SubTitle": "Golibaje",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
+                        "Incredients": [ "2Cups - Maida", "2tsp. - Rice flour", "1tbsp. - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
+                        "Method": [
+                            {
+                                "Steps": [ "Take a vessel, mix all the ingredients. Add water, if needed.", "Make a soft batter and keep aside for 4 hours.", "Heat oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.3",
+                "Title": "Mangalore Bajji",
+                "SubTitle": "Golibaje",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
+                        "Incredients": [ "2Cups - Maida", "2tsp. - Rice flour", "1tbsp. - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
+                        "Method": [
+                            {
+                                "Steps": [ "Take a vessel, mix all the ingredients. Add water, if needed.", "Make a soft batter and keep aside for 4 hours.", "Heat oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+     },
+     {
+        "Id": "4",
+        "Title": "Evening Snacks",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg",
+        "Count": "9",
+        "RecipesList": [
+            {
+                "Id": "4.1",
+                "Title": "Mangalore Bajji",
+                "SubTitle": "Golibaje",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
+                        "Incredients": [ "2Cups - Maida", "2tsp. - Rice flour", "1tbsp. - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
+                        "Method": [
+                            {
+                                "Steps": [ "Take a vessel, mix all the ingredients. Add water, if needed.", "Make a soft batter and keep aside for 4 hours.", "Heat oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "4.2",
                 "Title": "Bread fruit Pakoda",
                 "SubTitle": "Jigujje Podi",
                 "Duration": "45min",
@@ -515,7 +577,7 @@
                 ]
             },
             {
-                "Id": "3.3",
+                "Id": "4.3",
                 "Title": "Onion Pakoda",
                 "SubTitle": "Neerulli Baje",
                 "Duration": "30min",
@@ -534,7 +596,7 @@
                 ]
             },
             {
-                "Id": "3.4",
+                "Id": "4.4",
                 "Title": "Urad Vada",
                 "SubTitle": "Uddina Vade",
                 "Duration": "---",
@@ -552,7 +614,7 @@
                 ]
             },
             {
-                "Id": "3.5",
+                "Id": "4.5",
                 "Title": "Channa daal Vada",
                 "SubTitle": "Chattambade",
                 "Duration": "2hr 45min",
@@ -570,7 +632,7 @@
                 ]
             },
             {
-                "Id": "3.6",
+                "Id": "4.6",
                 "Title": "Potato Bondas",
                 "SubTitle": "Batate Ambade",
                 "Duration": "50min",
@@ -588,7 +650,7 @@
                 ]
             },
             {
-                "Id": "3.7",
+                "Id": "4.7",
                 "Title": "Beaten Rice Upkari",
                 "SubTitle": "Bajil Upkari",
                 "Duration": "30min",
@@ -607,7 +669,7 @@
                 ]
             },
             {
-                "Id": "3.8",
+                "Id": "4.8",
                 "Title": "Sooji Upma",
                 "SubTitle": "Uppittu / Sajjigge",
                 "Duration": "20min",
@@ -625,7 +687,7 @@
                 ]
             },
             {
-                "Id": "3.9",
+                "Id": "4.9",
                 "Title": "Samosa",
                 "SubTitle": "null",
                 "Duration": "45min",
@@ -645,13 +707,13 @@
         ]
     },
     {
-        "Id": "4",
+        "Id": "5",
         "Title": "Chutney Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/chutney.jpeg",
         "Count": "11",
         "RecipesList": [
             {
-                "Id": "4.1",
+                "Id": "5.1",
                 "Title": "Coconut Chutney",
                 "SubTitle": "Thaarayida Chutney",
                 "Duration": "20min",
@@ -669,7 +731,7 @@
                 ]
             },
             {
-                "Id": "4.2",
+                "Id": "5.2",
                 "Title": "Red Chutney",
                 "SubTitle": "Kempu Chutney",
                 "Duration": "20min",
@@ -688,7 +750,7 @@
                 ]
             },
             {
-                "Id": "4.3",
+                "Id": "5.3",
                 "Title": "Wild Fruit Chutney",
                 "SubTitle": "Pejakaai Chutney",
                 "Duration": "---",
@@ -708,7 +770,7 @@
                 ]
             },
             {
-                "Id": "4.4",
+                "Id": "5.4",
                 "Title": "Garlic Chutney",
                 "SubTitle": "Bolluli Chutney",
                 "Duration": "30min",
@@ -726,7 +788,7 @@
                 ]
             },
             {
-                "Id": "4.5",
+                "Id": "5.5",
                 "Title": "Raw Mango Chutney",
                 "SubTitle": "Kai Kukku Chutney",
                 "Duration": "30min",
@@ -744,7 +806,7 @@
                 ]
             },
             {
-                "Id": "4.6",
+                "Id": "5.6",
                 "Title": "Ripe Mango Chutney",
                 "SubTitle": "Kukku Chutney",
                 "Duration": "30min",
@@ -762,7 +824,7 @@
                 ]
             },
             {
-                "Id": "4.7",
+                "Id": "5.7",
                 "Title": "Curry Leaves Chutney",
                 "SubTitle": "Bevu soppu Chutney",
                 "Duration": "30min",
@@ -780,7 +842,7 @@
                 ]
             },
             {
-                "Id": "4.8",
+                "Id": "5.8",
                 "Title": "Ridge Gourd Skin Chutney",
                 "SubTitle": "Peereda Cholida Chutney",
                 "Duration": "30min",
@@ -798,7 +860,7 @@
                 ]
             },
             {
-                "Id": "4.9",
+                "Id": "5.9",
                 "Title": "Brahmi Leaves Chutney",
                 "SubTitle": "Timare Chutney",
                 "Duration": "30min",
@@ -817,7 +879,7 @@
                 ]
             },
             {
-                "Id": "4.10",
+                "Id": "5.10",
                 "Title": "Coriander Leaves Chutney",
                 "SubTitle": "Kottambhari Soppu Chutney",
                 "Duration": "30min",
@@ -835,7 +897,7 @@
                 ]
             },
             {
-                "Id": "4.11",
+                "Id": "5.11",
                 "Title": "Mint Leaves Chutney",
                 "SubTitle": "Pudina Chutney",
                 "Duration": "20min",
@@ -856,13 +918,13 @@
         ]
     },
     {
-        "Id": "5",
+        "Id": "6",
         "Title": "Rasam Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/sambar.jpeg",
         "Count": "11",
         "RecipesList": [
             {
-                "Id": "5.1",
+                "Id": "6.1",
                 "Title": "Tomato Rasam",
                 "SubTitle": "null",
                 "Duration": "30min",
@@ -880,7 +942,7 @@
                 ]
             },
             {
-                "Id": "5.2",
+                "Id": "6.2",
                 "Title": "Plain Saar",
                 "SubTitle": "null",
                 "Duration": "30min",
@@ -898,7 +960,7 @@
                 ]
             },
             {
-                "Id": "5.3",
+                "Id": "6.3",
                 "Title": "Jeera Rasam",
                 "SubTitle": "Jeerige Saar",
                 "Duration": "45min",
@@ -916,7 +978,7 @@
                 ]
             },
             {
-                "Id": "5.4",
+                "Id": "6.4",
                 "Title": "Plain Rasam",
                 "SubTitle": "null",
                 "Duration": "45min",
@@ -934,7 +996,7 @@
                 ]
             },
             {
-                "Id": "5.5",
+                "Id": "6.5",
                 "Title": "Dal Curry",
                 "SubTitle": "Dal Saar",
                 "Duration": "45min",
@@ -952,7 +1014,7 @@
                 ]
             },
             {
-                "Id": "5.6",
+                "Id": "6.6",
                 "Title": "Masala Sambar",
                 "SubTitle": "null",
                 "Duration": "1hr",
@@ -971,7 +1033,7 @@
                 ]
             },
             {
-                "Id": "5.7",
+                "Id": "6.7",
                 "Title": "Plain Sambar",
                 "SubTitle": "null",
                 "Duration": "45min",
@@ -990,7 +1052,7 @@
                 ]
             },
             {
-                "Id": "5.8",
+                "Id": "6.8",
                 "Title": "Mango Saar",
                 "SubTitle": "Kukku Saar",
                 "Duration": "30min",
@@ -1008,7 +1070,7 @@
                 ]
             },
             {
-                "Id": "5.9",
+                "Id": "6.9",
                 "Title": "Mango Menaskai",
                 "SubTitle": "Kukku Menaskai",
                 "Duration": "50min",
@@ -1027,7 +1089,7 @@
                 ]
             },
             {
-                "Id": "5.10",
+                "Id": "6.10",
                 "Title": "Horse Gram Rasam",
                 "SubTitle": "Kudutha Saar",
                 "Duration": "45min",
@@ -1046,7 +1108,7 @@
                 ]
             },
             {
-                "Id": "5.11",
+                "Id": "6.11",
                 "Title": "Brahmi Tambuli",
                 "SubTitle": "Thimare Tambuli",
                 "Duration": "30 minutes",
@@ -1066,13 +1128,13 @@
         ]
     },
     {
-        "Id": "6",
+        "Id": "7",
         "Title": "Sukka Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/SukkaSpecial.jpeg",
         "Count": "6",
         "RecipesList": [
             {
-                "Id": "6.1",
+                "Id": "7.1",
                 "Title": "Whole Bengal Gram & Tendli Sukka",
                 "SubTitle": "Kadle, Manoli Sukka",
                 "Duration": "45min",
@@ -1092,7 +1154,7 @@
                 ]
             },
             {
-                "Id": "6.2",
+                "Id": "7.2",
                 "Title": "Plantain Stem Sukka",
                 "SubTitle": "Bambe Ajadina",
                 "Duration": "50min",
@@ -1111,7 +1173,7 @@
                 ]
             },
             {
-                "Id": "6.3",
+                "Id": "7.3",
                 "Title": "Plantain flower bud sukka",
                 "SubTitle": "Poombe Ajadina",
                 "Duration": "40min",
@@ -1130,7 +1192,7 @@
                 ]
             },
             {
-                "Id": "6.4",
+                "Id": "7.4",
                 "Title": "Raw Jackfruit(In salt)",
                 "SubTitle": "Uppad Pachir",
                 "Duration": "40min",
@@ -1149,7 +1211,7 @@
                 ]
             },
             {
-                "Id": "6.5",
+                "Id": "7.5",
                 "Title": "Raw Jackfruit Sukka",
                 "SubTitle": "Gujje Ajadina",
                 "Duration": "1hr",
@@ -1168,7 +1230,7 @@
                 ]
             },
             {
-                "Id": "6.6",
+                "Id": "7.6",
                 "Title": "Raw Banana Sukka",
                 "SubTitle": "Baareda Kaai Ajadina",
                 "Duration": "1hr",
@@ -1189,13 +1251,13 @@
         ]
     },
     {
-        "Id": "7",
+        "Id": "8",
         "Title": "Upkari Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/BeansUpkari1.jpeg",
         "Count": "2",
         "RecipesList": [
             {
-                "Id": "7.1",
+                "Id": "8.1",
                 "Title": "Beans Upkari",
                 "SubTitle": "Lathane Upkari",
                 "Duration": "30min",
@@ -1213,7 +1275,7 @@
                 ]
             },
             {
-                "Id": "7.2",
+                "Id": "8.2",
                 "Title": "Ridge gourd Upkari",
                 "SubTitle": "Peere Upkari",
                 "Duration": "30min",
@@ -1234,13 +1296,13 @@
         ]
     },
     {
-        "Id": "8",
+        "Id": "9",
         "Title": "Curry Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/CurrySpecial.jpeg",
         "Count": "10",
         "RecipesList": [
             {
-                "Id": "8.1",
+                "Id": "9.1",
                 "Title": "Red Cucumber Curry",
                 "SubTitle": "Taute Koddel",
                 "Duration": "50min",
@@ -1259,7 +1321,7 @@
                 ]
             },
             {
-                "Id": "8.2",
+                "Id": "9.2",
                 "Title": "Whole Bengal Gram Curry",
                 "SubTitle": "Kadle Gasi",
                 "Duration": "---",
@@ -1278,7 +1340,7 @@
                 ]
             },
             {
-                "Id": "8.3",
+                "Id": "9.3",
                 "Title": "Chole Masala",
                 "SubTitle": "Bili Kadle gasi",
                 "Duration": "---",
@@ -1298,7 +1360,7 @@
                 ]
             },
             {
-                "Id": "8.4",
+                "Id": "9.4",
                 "Title": "Vegetable Kurma",
                 "SubTitle": "null",
                 "Duration": "30min",
@@ -1318,7 +1380,7 @@
                 ]
             },
             {
-                "Id": "8.5",
+                "Id": "9.5",
                 "Title": "Sprouted Green Gram Curry",
                 "SubTitle": "Padengi Gasi",
                 "Duration": "45min",
@@ -1338,7 +1400,7 @@
                 ]
             },
             {
-                "Id": "8.6",
+                "Id": "9.6",
                 "Title": "Brinjal and Drumstick Curry",
                 "SubTitle": "Badane Nurge",
                 "Duration": "45min",
@@ -1357,7 +1419,7 @@
                 ]
             },
             {
-                "Id": "8.7",
+                "Id": "9.7",
                 "Title": "Brinjal Chilly Curry",
                 "SubTitle": "Badane Munchi Gasi",
                 "Duration": "null",
@@ -1376,7 +1438,7 @@
                 ]
             },
             {
-                "Id": "8.8",
+                "Id": "9.8",
                 "Title": "Kundapur Masala Powder",
                 "SubTitle": "null",
                 "Duration": "30min",
@@ -1395,7 +1457,7 @@
                 ]
             },
             {
-                "Id": "8.9",
+                "Id": "9.9",
                 "Title": "White Pumpkin Curry",
                 "SubTitle": "Karkumbuda Puli Koddel",
                 "Duration": "50min",
@@ -1414,7 +1476,7 @@
                 ]
             },
             {
-                "Id": "8.10",
+                "Id": "9.10",
                 "Title": "Horse Gram and Spinach Curry",
                 "SubTitle": "Kudu, Basale Gasi",
                 "Duration": "1hr",
