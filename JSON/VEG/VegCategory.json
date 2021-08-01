@@ -519,15 +519,15 @@
                 "Id": "3.3",
                 "Title": "Vegetable Pulao",
                 "SubTitle": "----",
-                "Duration": "---",
+                "Duration": "1 hour",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
-                        "Incredients": [ "2Cups - Maida", "2tsp. - Rice flour", "1tbsp. - Curds", "1tsp. - sugar", "Salt to taste", "1/2tsp. - Soda", "2-3 - Green Chillies, finely chopped", "1 inch - Ginger, finely chopped", "1tbsp. - Curry leaves, finely chopped", "Oil for frying"],
+                        "Incredients": [ "2 Cups - Basmati Rice or Sona Masoori Rice", "50 gms. - Carrot,cut", "50gms. - French beans,cut", "100gms. -  Green Peas,soaked in water or frozen peas", "Salt to taste", "10 - Pepper Corns", "4 - Cloves", "4 - Cardamoms", "4 pieces - Cinnamons", "4 -Onions,sliced", "1 - Bay leaf", "4-5 - Pulao leaves", "1/2 inch - Ginger", "10-12 - Garlic flakes", "2-3 - Green Chillies, sliced", "2 - Tomatoes,cut", "4 tbsp.- Ghee", "Salt to taste", "1 Cup - Coriander leaves, chopped", "8-10 - Mint leaves,chopped", "4 glasses - Water"],
                         "Method": [
                             {
-                                "Steps": [ "Take a vessel, mix all the ingredients. Add water, if needed.", "Make a soft batter and keep aside for 4 hours.", "Heat oil in a Kadai, take the batter in hand and slowly drop it to the oil.", "Deep fry in a low flame.", "Same way fry all the vadas and serve with coconut chutney and sambar." ]
+                                "Steps": [ "Make ginger garlic paste", "Make the powder of - Pepper,cloves,cardamoms and cinnamons", "Keep aside", "In a Cooker,heat the ghee", "Add sliced onion,cook till it becomes transparent", "Add ginger garlic paste", "Then add ground garam masala powder", "Cook till the raw smell goes", "Now add green peas,other vegetables and Green chillies", Add bay leaf and Pulao leaves", "Add Rice and fry", "Now add water,salt,chopped coriander leaves and mint leaves", "Cover the lid", "Cook till 1 whistle blows", "Remove from fire", "When it cools,open the lid, Mix and serve with Salad." ]
                             }
                         ]
                     }
