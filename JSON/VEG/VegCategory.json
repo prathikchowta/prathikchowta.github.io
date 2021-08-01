@@ -475,7 +475,7 @@
     {
         "Id": "3",
         "Title": "Rice Special",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Snacks.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/GheeRice.jpeg",
         "Count": "3",
         "RecipesList": [
             {
@@ -483,10 +483,10 @@
                 "Title": "Methi Rice",
                 "SubTitle": "Metthe Ganji",
                 "Duration": "---",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/MethiRice.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/MethiRice.jpg" ],
                         "Incredients": [ "2Cups - Sona Masoori Rice", "2tbsp. - Methi(fenugreek seeds), soaked in water for 6 hours", "1Big - Tender Coconut, grated or coconut milk", "1tsp. - Coriander seeds", "1tsp. - Jeera(Cumin seeds)", "1/2tsp. - Pepper Corns", "1Shory - Red Chilly", "1/4tsp. - Turmeric powder", "Salt to taste", "300gms - Jaggery"],
                         "Method": [
                             {
@@ -502,10 +502,10 @@
                 "Title": "Ghee Rice",
                 "SubTitle": "Naitha Nuppu",
                 "Duration": "45mins.",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/GheeRice.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
+                        "ImgURL": [ "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/GheeRice.jpeg" ],
                         "Incredients": [ "To Make Rice:", "4Cups - Basmati Rice", "6tbsp. - Ghee", "4Big - Onions, finely sliced", "2 - Bay leaves", "6-8 - Cloves", "4 - Cardamoms", "2pieces - Cinamon", "10-12 - Pepper Corns", "2 - Star Anise", "50gms. - Cashew nuts", "10-15 - Raisins", "Salt to taste", "To Make Salad:", "1 - Cucumber", "2-3 - Onions", "2 - Tomatoes", "2-3 - Green Chillies", "1Cup - Curds", "Salt to taste", "1/2Cup - Coriander leaves" ],
                         "Method": [
                             {
@@ -519,11 +519,11 @@
                 "Id": "3.3",
                 "Title": "Vegetable Pulao",
                 "SubTitle": "----",
-                "Duration": "1 hour",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg",
+                "Duration": "1hour",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/VegPulav.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Evening%20Snacks/Golibaje3.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/VegPulav.jpeg" ],
                         "Incredients": [ "2Cups - Basmati Rice or Sona Masoori Rice", "50gms. - Carrot, cut", "50gms. - French beans, cut", "100gms. -  Green Peas, soaked in water or frozen peas", "Salt to taste", "10 - Pepper Corns", "4 - Cloves", "4 - Cardamoms", "4pieces - Cinnamons", "4 - Onions, sliced", "1 - Bay leaf", "4-5 - Pulao leaves", "1/2inch - Ginger", "10-12 - Garlic flakes", "2-3 - Green Chillies, sliced", "2 - Tomatoes, cut", "4tbsp. - Ghee", "Salt to taste", "1Cup - Coriander leaves, chopped", "8-10 - Mint leaves, chopped", "4glasses - Water"],
                         "Method": [
                             {
