@@ -487,10 +487,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/MethiRice.jpg" ],
-                        "Incredients": [ "2Cups - Sona Masoori Rice", "2tbsp. - Methi(fenugreek seeds), soaked in water for 6 hours", "1Big - Tender Coconut, grated or coconut milk", "1tsp. - Coriander seeds", "1tsp. - Jeera(Cumin seeds)", "1/2tsp. - Pepper Corns", "1Shory - Red Chilly", "1/4tsp. - Turmeric powder", "Salt to taste", "300gms - Jaggery"],
+                        "Incredients": [ "2Cups - Sona Masoori Rice", "2tbsp. - Methi(fenugreek seeds), soaked in water for 6 hours", "1Big - Tender Coconut, grated or coconut milk", "1tsp. - Coriander seeds", "1tsp. - Jeera(Cumin seeds)", "1/2tsp. - Pepper Corns", "1 Short - Red Chilly", "1/4tsp. - Turmeric powder", "Salt to taste", "300gms - Jaggery"],
                         "Method": [
                             {
-                                "Steps": [ "Grind the coconut with coriander seeds, jeera, turmeric powder, red chilly and 1tbsp. soaked methi to a fine paste.", "Keep aside.", "Cook Sona Masoori Rice with 1 tbsp. methi, along with soaked water.", "Cook till it becomes soft.", "Add ground paste, salt and jaggery.", "Add water, stir and cook for 5 minutes.", "Serve hot with ghee." ]
+                                "Steps": [ "Grind the coconut with coriander seeds, jeera, turmeric powder, red chilly and 1tbsp. soaked methi, to a fine paste.", "Keep aside.", "Cook Sona Masoori Rice with 1 tbsp. methi, along with soaked water.", "Cook till it becomes soft.", "Add ground paste, salt and jaggery.", "Add water, stir and cook for 5 minutes.", "Serve hot with ghee." ]
                             }
                         ],
                         "Note": "Methi Rice is a traditional sweet prepared in Karavali, specially during Aati Amavasya."
