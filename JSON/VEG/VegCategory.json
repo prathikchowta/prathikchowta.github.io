@@ -1541,11 +1541,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach2.jpg" ],
-                        "Incredients": [ "1cup - Horse gram, sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste" ],
-                        "Masala": [ "1big - Coconut, grated","10 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste" ],
+                        "Incredients": [ "1/4Kg.- Ladies Finger","10 -Ambades or Tamarind,size of a big lemon","Salt to taste" ],
+                        "Masala": [ "1big - Coconut, grated","8-10 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder",],
                         "Method": [
                             {
-                                "Steps": [ "Grind all the masala ingredients together until fine paste.","Cook Spinach and the horse gram with salt.","After it cooked, add the ground masala and boil for 10 minutes.","Season with oil, mustard seeds, broken red chilly and curry leaves."]
+                                "Steps": [ "Grind all the masala ingredients together until fine paste.","Crush the Ambades with stone,cook till it changes its colour", "Add Salt", "Wash and wipe the ladies finger", "Cut into slant long pieces", "Add it to the cooked ambades", "Cook the ladies finger for 10 minutes", "Add ground masala, mix and cook for 5 minutes", "Season it", "Serve with boiled  rice."]
                             }
                         ]
                     }
