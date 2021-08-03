@@ -177,7 +177,7 @@
         "Id": "2",
         "Title": "Breakfast Recipe",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/NeerDosa.jpeg",
-        "Count": "16",
+        "Count": "17",
         "RecipesList": [
             {
                 "Id": "2.1",
@@ -236,6 +236,24 @@
             },
             {
                 "Id": "2.4",
+                "Title": "Kalthappa",
+                "SubTitle": "---",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg" ],
+                        "Incredients": [ "2 cups - raw rice", "1 Big - Tender coconut,grated", "1 Cup - Cooked Rice", "200grams - jaggery", "1/2tsp. - Soda", "1 Big - Onion,finely chopped", "1tsp. - Cardamom, crushed", "Salt to taste", "2 tsp. - Coconut Oil", "1/2 Cup - Coconut,cut into small pieces"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash and soak rice for 3 hours.","Drain the water,grind with grated coconut and cooked rice.", "Grind to a fine paste", "Batter should be of thin consistency (dosa batter).","Remove to a bowl and keep aside", "Put the jaggery to a vessel,keep it on fire,melt with little water", "Let it cool", "Add it to the batter", " Then add salt,soda and crushed cardamom ", "Mix it well,keep aside for 15 minutes.","Keep a Cooker on fire,add coconut oil,add chopped onion", "Fry till it becomes brown in colour", "Add coconut pieces.", "Pour the batter", "Cover the lid", "Without keeping the whistle,cook till done on low flame", "Remove to a plate,cut and serve." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.5",
                 "Title": "Coconut dosa",
                 "SubTitle": "Bannangayi Dose",
                 "Duration": "---",
@@ -253,7 +271,7 @@
                 ]
             },
             {
-                "Id": "2.5",
+                "Id": "2.6",
                 "Title": "Urad Dosa",
                 "SubTitle": "Urdu Dose",
                 "Duration": "---",
@@ -271,7 +289,7 @@
                 ]
             },
             {
-                "Id": "2.6",
+                "Id": "2.7",
                 "Title": "Aappam",
                 "SubTitle": "Aapa",
                 "Duration": "---",
@@ -290,7 +308,7 @@
                 ]
             },
             {
-                "Id": "2.7",
+                "Id": "2.8",
                 "Title": "Methi Dosa",
                 "SubTitle": "Metthe Dose",
                 "Duration": "---",
@@ -308,7 +326,7 @@
                 ]
             },
             {
-                "Id": "2.8",
+                "Id": "2.9",
                 "Title": "Maida Dosa",
                 "SubTitle": "Maida Dose",
                 "Duration": "30min",
@@ -326,7 +344,7 @@
                 ]
             },
             {
-                "Id": "2.9",
+                "Id": "2.10",
                 "Title": "Idli",
                 "SubTitle": "null",
                 "Duration": "---",
@@ -344,7 +362,7 @@
                 ]
             },
             {
-                "Id": "2.10",
+                "Id": "2.11",
                 "Title": "Idli in jackfruit leaves",
                 "SubTitle": "Gunda / Kotte Idli",
                 "Duration": "---",
@@ -363,7 +381,7 @@
                 ]
             },
             {
-                "Id": "2.11",
+                "Id": "2.12",
                 "Title": "Masala Dosa",
                 "SubTitle": "Masale Dose",
                 "Duration": "---",
@@ -381,7 +399,7 @@
                 ]
             },
             {
-                "Id": "2.12",
+                "Id": "2.13",
                 "Title": "Jackfruit Dosa",
                 "SubTitle": "Pelakai Dose",
                 "Duration": "2hr 45min",
@@ -399,7 +417,7 @@
                 ]
             },
             {
-                "Id": "2.13",
+                "Id": "2.14",
                 "Title": "Rava Rotti",
                 "SubTitle": "Sajjige Rotti",
                 "Duration": "30min",
@@ -417,7 +435,7 @@
                 ]
             },
             {
-                "Id": "2.14",
+                "Id": "2.15",
                 "Title": "Rice Dumplings",
                 "SubTitle": "Pundi",
                 "Duration": "---",
@@ -435,7 +453,7 @@
                 ]
             },
             {
-                "Id": "2.15",
+                "Id": "2.16",
                 "Title": "Rice Dumplings with Masala",
                 "SubTitle": "Arepuda Pundi",
                 "Duration": "30min",
@@ -453,7 +471,7 @@
                 ]
             },
             {
-                "Id": "2.16",
+                "Id": "2.17",
                 "Title": "Mangalore Buns",
                 "SubTitle": "null",
                 "Duration": "null",
@@ -1480,6 +1498,44 @@
                 "Id": "9.10",
                 "Title": "Horse Gram and Spinach Curry",
                 "SubTitle": "Kudu, Basale Gasi",
+                "Duration": "1hr",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach2.jpg" ],
+                        "Incredients": [ "1cup - Horse gram, sprouted","1 Bundle - Spinach, cleaned and cut","Salt to taste" ],
+                        "Masala": [ "1big - Coconut, grated","10 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 pinch - turmeric powder","Salt to taste" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Grind all the masala ingredients together until fine paste.","Cook Spinach and the horse gram with salt.","After it cooked, add the ground masala and boil for 10 minutes.","Season with oil, mustard seeds, broken red chilly and curry leaves."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "9.11",
+                "Title": "Raw Bamboo and Green Gram Curry",
+                "SubTitle": "Kanile,Padengi Gasi",
+                "Duration": "---",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach2.jpg" ],
+                        "Incredients": [ "1Raw Bamboo(Kanile)", "1 Cup - Sprouted Green Gram", "1 - Onion,sliced", "1 - Tomato,sliced","Salt to taste" ],
+                        "Masala": [ "1big - Coconut, grated","10-12- red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 - Onion,cut", "1 pinch - turmeric powder" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Take the Raw Bamboo,remove its skin and finely chop its white parts", "Wash it for 3-4 times", "Keep a vessel on fire,cook the chopped raw bamboo with water", "Cook till it becomes soft", "Then add sprouted green gram", "After it cooked, add sliced onion and tomato", "Add salt and cook for 5 minutes", "Grind the masala ingredients with coconut to a fine paste", "Add it to the cooked  bamboo and green gram", "Add water and cook till it boils", "Season it", "Note: Raw Bamboo available during Rainy Season in Karavali."]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "9.12",
+                "Title": "Ladies Finger Curry",
+                "SubTitle": "Bendekai Gasi",
                 "Duration": "1hr",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg",
                 "Prepare": [
