@@ -237,16 +237,16 @@
             {
                 "Id": "2.4",
                 "Title": "Kalthappa",
-                "SubTitle": "---",
+                "SubTitle": "null",
                 "Duration": "---",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Kalthappa1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg" ],
-                        "Incredients": [ "2 cups - raw rice", "1 Big - Tender coconut,grated", "1 Cup - Cooked Rice", "200grams - jaggery", "1/2tsp. - Soda", "1 Big - Onion,finely chopped", "1tsp. - Cardamom, crushed", "Salt to taste", "2 tsp. - Coconut Oil", "1/2 Cup - Coconut,cut into small pieces"],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Kalthappa1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Kalthappa2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/Kalthappa3.jpg" ],
+                        "Incredients": [ "2cups - raw rice", "1Big - Tender coconut, grated", "1Cup - Cooked Rice", "200grams - jaggery", "1/2tsp. - Soda", "1 Big - Onion, finely chopped", "1tsp. - Cardamom, crushed", "Salt to taste", "2tsp. - Coconut Oil", "1/2 Cup - Coconut, cut into small pieces"],
                         "Method": [
                             {
-                                "Steps": [ "Wash and soak rice for 3 hours.","Drain the water,grind with grated coconut and cooked rice.", "Grind to a fine paste", "Batter should be of thin consistency (dosa batter).","Remove to a bowl and keep aside", "Put the jaggery to a vessel,keep it on fire,melt with little water", "Let it cool", "Add it to the batter", " Then add salt,soda and crushed cardamom ", "Mix it well,keep aside for 15 minutes.","Keep a Cooker on fire,add coconut oil,add chopped onion", "Fry till it becomes brown in colour", "Add coconut pieces.", "Pour the batter", "Cover the lid", "Without keeping the whistle,cook till done on low flame", "Remove to a plate,cut and serve." ]
+                                "Steps": [ "Wash and soak rice for 3 hours.", "Drain the water, grind with grated coconut and cooked rice.", "Grind to a fine paste.", "Batter should be of thin consistency(dosa batter).","Remove to a bowl and keep aside.", "Put the jaggery to a vessel, keep it on fire, melt with little water.", "Let it cool.", "Add it to the batter.", "Then add salt, soda and crushed cardamom.", "Mix it well, keep aside for 15 minutes.","Keep a Cooker on fire, add coconut oil, add chopped onion.", "Fry till it becomes brown in colour.", "Add coconut pieces.", "Pour the batter.", "Cover the lid.", "Without keeping the whistle, cook till done on low flame.", "Remove to a plate, cut and serve." ]
                             }
                         ]
                     }
@@ -1516,19 +1516,20 @@
             {
                 "Id": "9.11",
                 "Title": "Raw Bamboo and Green Gram Curry",
-                "SubTitle": "Kanile,Padengi Gasi",
+                "SubTitle": "Kanile, Padengi Gasi",
                 "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach2.jpg" ],
-                        "Incredients": [ "1Raw Bamboo(Kanile)", "1 Cup - Sprouted Green Gram", "1 - Onion,sliced", "1 - Tomato,sliced","Salt to taste" ],
-                        "Masala": [ "1big - Coconut, grated","10-12- red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 - Onion,cut", "1 pinch - turmeric powder" ],
+                        "Incredients": [ "1Raw Bamboo(Kanile)", "1Cup - Sprouted Green Gram", "1 - Onion, sliced", "1 - Tomato, sliced","Salt to taste" ],
+                        "Masala": [ "1big - Coconut, grated","10-12 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 - Onion, cut", "1 pinch - turmeric powder" ],
                         "Method": [
                             {
-                                "Steps": [ "Take the Raw Bamboo,remove its skin and finely chop its white parts", "Wash it for 3-4 times", "Keep a vessel on fire,cook the chopped raw bamboo with water", "Cook till it becomes soft", "Then add sprouted green gram", "After it cooked, add sliced onion and tomato", "Add salt and cook for 5 minutes", "Grind the masala ingredients with coconut to a fine paste", "Add it to the cooked  bamboo and green gram", "Add water and cook till it boils", "Season it", "Note: Raw Bamboo available during Rainy Season in Karavali."]
+                                "Steps": [ "Take the Raw Bamboo, remove its skin and finely chop its white parts.", "Wash it for 3-4 times.", "Keep a vessel on fire, cook the chopped raw bamboo with water.", "Cook till it becomes soft.", "Then add sprouted green gram.", "After it cooked, add sliced onion and tomato.", "Add salt and cook for 5 minutes.", "Grind the masala ingredients with coconut to a fine paste.", "Add it to the cooked bamboo and green gram.", "Add water and cook till it boils.", "Season it."]
                             }
-                        ]
+                        ],
+                        "Note": "Raw Bamboo available during Rainy Season in Karavali."
                     }
                 ]
             },
@@ -1541,11 +1542,11 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Spinach2.jpg" ],
-                        "Incredients": [ "1/4Kg.- Ladies Finger","10 -Ambattes or Tamarind,size of a big lemon","Salt to taste" ],
+                        "Incredients": [ "1/4Kg. - Ladies Finger","10 - Ambattes or Tamarind, size of a big lemon","Salt to taste" ],
                         "Masala": [ "1big - Coconut, grated","8-10 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","1 pinch - turmeric powder"],
                         "Method": [
                             {
-                                "Steps": [ "Grind all the masala ingredients together until fine paste.","Crush the Ambattes with stone,cook till it changes its colour", "Add Salt", "Wash and wipe the ladies finger", "Cut into slant long pieces", "Add it to the cooked ambattes", "Cook the ladies finger for 10 minutes", "Add ground masala, mix and cook for 5 minutes", "Season it", "Serve with boiled  rice."]
+                                "Steps": [ "Grind all the masala ingredients together until fine paste.","Crush the Ambattes with stone, cook till it changes its colour.", "Add Salt.", "Wash and wipe the ladies finger.", "Cut into slant long pieces.", "Add it to the cooked ambattes.", "Cook the ladies finger for 10 minutes.", "Add ground masala, mix and cook for 5 minutes.", "Season it.", "Serve with boiled rice."]
                             }
                         ]
                     }
