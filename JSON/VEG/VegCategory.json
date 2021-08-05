@@ -1515,21 +1515,21 @@
             },
             {
                 "Id": "9.11",
-                "Title": "Raw Bamboo and Green Gram Curry",
+                "Title": " Bamboo Shoots and Green Gram Curry",
                 "SubTitle": "Kanile, Padengi Gasi",
                 "Duration": "---",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KanileCurry1.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KanileCurry1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/KanileCurry2.jpg" ],
-                        "Incredients": [ "1Raw Bamboo(Kanile)", "1Cup - Sprouted Green Gram", "1 - Onion, sliced", "1 - Tomato, sliced","Salt to taste" ],
+                        "Incredients": [ "1 Bamboo Shoot(Kanile)", "1Cup - Sprouted Green Gram", "1 - Onion, sliced", "1 - Tomato, sliced","Salt to taste" ],
                         "Masala": [ "1big - Coconut, grated","10-12 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","Tamarind - size of its seed","1 - Onion, cut", "1 pinch - turmeric powder" ],
                         "Method": [
                             {
-                                "Steps": [ "Take the Raw Bamboo, remove its skin and finely chop its white parts.", "Wash it for 3-4 times.", "Keep a vessel on fire, cook the chopped raw bamboo with water.", "Cook till it becomes soft.", "Then add sprouted green gram.", "After it cooked, add sliced onion and tomato.", "Add salt and cook for 5 minutes.", "Grind the masala ingredients with coconut to a fine paste.", "Add it to the cooked bamboo and green gram.", "Add water and cook till it boils.", "Season it."]
+                                "Steps": [ "Take the Bamboo Shoot, remove its skin and finely chop its white parts.", "Wash it for 3-4 times.", "Keep a vessel on fire, cook the chopped  bamboo shoot with water.", "Cook till it becomes soft.", "Then add sprouted green gram.", "After it cooked, add sliced onion and tomato.", "Add salt and cook for 5 minutes.", "Grind the masala ingredients with coconut to a fine paste.", "Add it to the cooked bamboo.", "Add water and cook till it boils.", "Season it."]
                             }
                         ],
-                        "Note": "Raw Bamboo available during Rainy Season in Karavali."
+                        "Note": "Bamboo Shoots available during Rainy Season in Karavali."
                     }
                 ]
             },
@@ -1537,12 +1537,12 @@
                 "Id": "9.12",
                 "Title": "Ladies Finger Curry",
                 "SubTitle": "Bendekai Gasi",
-                "Duration": "1hr",
+                "Duration": "30 minutes",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Bendekai1.jpg",
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Bendekai1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Bendekai2.jpg" ],
-                        "Incredients": [ "1/4Kg. - Ladies Finger","10 - Ambattes or Tamarind, size of a big lemon","Salt to taste" ],
+                        "Incredients": [ "1/4Kg. - Ladies Finger","10 - Ambattes(sour fruit) or Tamarind, size of a big lemon","Salt to taste" ],
                         "Masala": [ "1big - Coconut, grated","8-10 - red chillies, roasted","1tbsp. - coriander seeds, roasted","1tsp. - Cumin seeds","1/4 - methi, roasted","4-5 - Garlic flakes","1/4tsp. - mustard seeds, roasted","1 pinch - turmeric powder"],
                         "Method": [
                             {
