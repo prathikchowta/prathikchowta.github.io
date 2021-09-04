@@ -1,0 +1,61 @@
+[
+    {
+        "Id": "1",
+        "Title": "Turmeric Leaf Gatti",
+        "SubTitle": "Manjal Ereda Gatti",
+        "Category": "#4cbb17",
+        "Duration": "---",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti3.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti4.jpeg" ],
+                "Incredients": [ "12-15 - Turmeric leaves","1/2kg - Boiled rice(soaked in water for 4 -6 hours)", "Salt to taste", "For filling:", "1 coconut(grated)", "1/2kg - jaggery(grated)", "4 cardamoms(powdered)" ],
+                "Method": [
+                    {
+                        "Steps": [ "Wash and wipe the turmeric leaves to make it dry.", "Grind the rice with salt to taste and just add enough water to a fine paste.", "Remove the prepared paste and apply evenly on each turmeric leaf.", "Mix the filling ingredients.", "Place one spoon on top and fold the leaves into half.", "Steam them till cooked in an Idli cooker."]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2",
+        "Title": "Chicken Curry with Rotti",
+        "SubTitle": "Kori Rotti",
+        "Category": "#ff0800",
+        "Duration": "1hr",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces" ],
+                "Masala": ["1/2 - Coconut grated", "Red Chillies - 15 long & 8 short", "2tbsp. - Coriander seeds", "1tsp. - Cumin seeds(Jeera)", "1tbsp. - Curry leaves", "1/2tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 - tomato, Chopped", "1/2tsp. - Turmeric powder", "Tamarind - small ball", "3tbsp. - Ghee", "1tsp. - Coconut oil", "1tbsp. - Butter", "Salt to taste"],
+                "Method": [
+                    {
+                        "Steps": [ "Marinate Chicken with juice of half lemon, salt and 1/2tsp. turmeric powder.", "Fry Red Chillies, Coriander seeds, Methi, Jeera, Curry leaves and Pepper corns with coconut oil.", "Grind fried masala ingredients with coconut, 1 onion, garlic, tamarind, 1tsp. Coriander seeds and water to a fine paste.", "Cook marinated Chicken pieces with ground masala. Add 2 onions, tomato and butter.", "Add salt if needed, as we added salt, when marinated.", "Stir and cook until the chicken piece softened.", "Season with ghee, finely chopped onion, crushed garlic, crushed methi & jeera and curry leaves." ]
+                    }
+                ],
+                "Note": "Usually served with Rotti - a crisp rice flakes preparation which could be bought in any Mangalore store. Roti is a tradtional dish of Bunts served at every wedding and party. It should be soaked in chicken curry and eaten."
+            }
+        ]
+    },
+    {
+        "Id": "3",
+        "Title": "Sheera",
+        "SubTitle": "null",
+        "Category": "#867ae9",
+        "Duration": "15min",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
+                "Incredients": [ "1Cup - Bombay Rava", "3/4Cups - Sugar", "4tbsp. - Ghee", "4Cups - Milk or water", "1tbsp. - Cashew nuts", "1tbsp. - Raisins(dry grapes)", "1tsp. - Cardamom, powdered", "5-6 - Safron, mixed in little milk", "1 pinch - Salt" ],
+                "Method": [
+                    {
+                        "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate.", "Fry Bombay Rava with 1tbsp. Ghee until light brown in colour with low flame.", "Keep aside.", "Boil the milk in a vessel, add sugar, saffron and salt.", "Pour the fried rava slowly and stir to avoid lumps.", "Add 2tbsp. Ghee and Cook on slow fire until it is dry.", "Add Cardamom powder and fried nuts.", "Mix well and remove from fire.", "Ready to serve." ]
+                    }
+                ]
+            }
+        ]
+    }
+ ]
