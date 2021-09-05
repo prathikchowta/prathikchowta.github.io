@@ -24,7 +24,7 @@
         "Title": "Rice Kheer(1)",
         "SubTitle": "",
         "Category": "#867ae9",
-        "Duration": "1hr",
+        "Duration": "",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
         "Prepare": [
             {
@@ -41,6 +41,25 @@
     },
     {
         "Id": "3",
+        "Title": "Rice Kheer(2)",
+        "SubTitle": "",
+        "Category": "#867ae9",
+        "Duration": "",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "2litres - thick milk", "4Cups - Sugar", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "4-5 - Saffrons, mixed with milk(optional)", "1tbsp. - Ghee", "1tsp. - Salt" ],
+                "Method": [
+                    {
+                        "Steps": [ "Fry cashews and raisins with ghee and keep aside.", "Cook the rice with water.", "Add salt and cook till it becomes very soft.", "Pour the milk.", "When it boils add sugar and stir well", "Add cardamom, Saffrons, Fried cashews and raisins.", "Mix altogether and off the fire.", "Serve hot." ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "4",
         "Title": "Sheera",
         "SubTitle": "null",
         "Category": "#867ae9",
