@@ -3,7 +3,7 @@
         "Id": "1",
         "Title": "Squid Fish Sukka",
         "SubTitle": "Bondas Ajadina",
-        "Category": "#ff0800 #4cbb17",
+        "Category": "#ff0800",
         "Duration": "---",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
         "Prepare": [
@@ -60,21 +60,21 @@
     },
     {
         "Id": "4",
-        "Title": "Sheera",
+        "Title": "Fish fry",
         "SubTitle": "null",
-        "Category": "#867ae9",
+        "Category": "#ff0800",
         "Duration": "15min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
         "Prepare": [
             {
                 "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
-                "Incredients": [ "1Cup - Bombay Rava", "3/4Cups - Sugar", "4tbsp. - Ghee", "4Cups - Milk or water", "1tbsp. - Cashew nuts", "1tbsp. - Raisins(dry grapes)", "1tsp. - Cardamom, powdered", "5-6 - Safron, mixed in little milk", "1 pinch - Salt" ],
+                "Incredients": [ "25 - Red Chillies, roasted", "1piece - Ginger", "20-25 - Garlic", "1tbsp. - coriander seeds, roasted", "1tsp. - Jeera", "Salt to taste", "Tamarind, size of a lime", "1/2Cup - Rice flour", "1/2Cup - Corn flour", "2tbsp. - Oil for frying" ],
                 "Method": [
                     {
-                        "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate.", "Fry Bombay Rava with 1tbsp. Ghee until light brown in colour with low flame.", "Keep aside.", "Boil the milk in a vessel, add sugar, saffron and salt.", "Pour the fried rava slowly and stir to avoid lumps.", "Add 2tbsp. Ghee and Cook on slow fire until it is dry.", "Add Cardamom powder and fried nuts.", "Mix well and remove from fire.", "Ready to serve." ]
+                        "Steps": [ "Clean the fish. Marinate with salt, turmeric powder and 1tsp. Lemon juice.", "Keep aside for 10-15minutes.", "Grind red Chillies, ginger, garlic, coriander seeds, jeera, tamarind and salt to a fine paste.", "Remove it to a plate and add rice flour and corn flour.", "Mix well.", "Now place marinated fish in the paste.", "Mix and keep aside for 30minutes.", "Keep a pan on fire.", "Add oil, fry both the side of fish.", "Ready to serve hot." ]
                     }
                 ]
             }
         ]
-    }
+     }
  ]
