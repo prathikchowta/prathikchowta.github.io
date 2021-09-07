@@ -5,10 +5,10 @@
         "SubTitle": "Bondas Ajadina",
         "Category": "#ff0800",
         "Duration": "---",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti3.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti4.jpeg" ],
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg" ],
                 "Incredients": [ "1Kg - Bondas Fish", "For Seasoning:", "1tsp. - coconut oil", "1 onion, finely chopped", "1sprig - curry leaves" ], 
                 "Masala": [ "12-15 - Red Chillies mix", "1tbsp. - Coriander seeds", "1spoon - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "1/4thtsp. - Ajwain(oama)", "5-6 - Garlic floakes", "1 onion, cut", "Tamarind small ball", "1cup - coconut, grated", "Salt to taste", "1tsp. - coconut oil" ],
                 "Method": [
@@ -25,10 +25,10 @@
         "SubTitle": "",
         "Category": "#867ae9",
         "Duration": "",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS2.jpg"],
                 "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "1big tender coconut", "3cups - Jaggery, powdered", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "1tbsp. - Ghee", "1tsp. - Salt" ],
                 "Method": [
                     {
@@ -45,10 +45,10 @@
         "SubTitle": "",
         "Category": "#867ae9",
         "Duration": "",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
                 "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "2litres - thick milk", "4Cups - Sugar", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "4-5 - Saffrons, mixed with milk(optional)", "1tbsp. - Ghee", "1tsp. - Salt" ],
                 "Method": [
                     {
@@ -64,10 +64,10 @@
         "SubTitle": "null",
         "Category": "#ff0800",
         "Duration": "15min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg" ],
                 "Incredients": [ "25 - Red Chillies, roasted", "1piece - Ginger", "20-25 - Garlic", "1tbsp. - coriander seeds, roasted", "1tsp. - Jeera", "Salt to taste", "Tamarind, size of a lime", "1/2Cup - Rice flour", "1/2Cup - Corn flour", "2tbsp. - Oil for frying" ],
                 "Method": [
                     {
