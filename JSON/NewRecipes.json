@@ -4,7 +4,7 @@
         "Title": "Squid Fish Sukka",
         "SubTitle": "Bondas Ajadina",
         "Category": "#ff0800",
-        "Duration": "---",
+        "Duration": "45min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
         "Prepare": [
             {
@@ -22,9 +22,9 @@
     {
         "Id": "2",
         "Title": "Rice Kheer(1)",
-        "SubTitle": "",
+        "SubTitle": "null",
         "Category": "#867ae9",
-        "Duration": "",
+        "Duration": "30min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
         "Prepare": [
             {
@@ -42,9 +42,9 @@
     {
         "Id": "3",
         "Title": "Rice Kheer(2)",
-        "SubTitle": "",
+        "SubTitle": "null",
         "Category": "#867ae9",
-        "Duration": "",
+        "Duration": "30min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
         "Prepare": [
             {
@@ -63,7 +63,7 @@
         "Title": "Fish fry",
         "SubTitle": "null",
         "Category": "#ff0800",
-        "Duration": "15min",
+        "Duration": "45min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
         "Prepare": [
             {
