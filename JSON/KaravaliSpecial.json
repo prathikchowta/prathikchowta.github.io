@@ -1,6 +1,65 @@
 [
-    {
+     {
         "Id": "1",
+        "Title": "Puffed Bun Dosa",
+        "SubTitle": "Banaleda Adye",
+        "Category": "#4cbb17",
+        "Duration": "---",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Breakfast/BanaleAdiye1.jpg" ],
+                "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi) seeds","250grams - jaggery(optional)","1 - tender coconut(grated)", "1Cup - Poha, soaked in water", "Salt to taste", "2tsp. - Oil", "1 - Onion, finely chopped", "1tsp. - Urad daal", "1 - Red Chilly, broken"],
+                "Method": [
+                    {
+                        "Steps": [ "Wash and soak fenugreek seeds for 5-6 hours and rice for 2 hours.","Grind grated coconut, fenugreek seeds along with soaked water and poha.", "Then add rice and grind further to a fine paste.","Remove and mix it well with salt.","Keep aside for 8 hours.","Add jaggery and  mix well.","Keep the Kadai on fire, add oil, onion, urad daal and red chilly.", "Pour 2 ladleful batter and cook both the sides on low flame.", "Serve with red chutney." ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2",
+        "Title": "Spicy Fish Curry",
+        "SubTitle": "Meen Puli Munchi",
+        "Category": "#ff0800",
+        "Duration": "30 minutes",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
+                "Incredients": [ "12 - Mackerels or 25 - big Saradine, cleaned & cut into two" ],
+                "Masala": [ "30-35 Long chillies","Tamarind - size of two lemons","2tbsp. - Coriander seeds","1tbsp. - Jeera","1/4tsp. - Methi seeds","1tbsp. - pepper corns","1/4tsp. - oama","1/4tsp. - turmeric powder","4-5 - Garlic flakes","1tbsp. - Coconut oil","Salt to taste" ],
+                "Method": [
+                    {
+                        "Steps": [ "Fry the Masala ingredients, except tamarind, turmeric powder and garlic with coconut oil.", "Add all the ingredients and grind to a thick fine paste.","Add little water and keep aside.","Keep earthen pot on fire.","Put coconut oil, crushed garlic flakes, 2 Chopped green chilies and ginger.","Then add ground masala, add salt, stir and boil.","Place fish in it and cook for 5-10 minutes." ]
+                    }
+                ],
+                "Note": "It can be kept for 2 days."
+            }
+        ]
+    },
+    {
+        "Id": "3",
+        "Title": "Jackfruit Garige",
+        "SubTitle": "Pelakai Gulma",
+        "Category": "#867ae9",
+        "Duration": "30min",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige3.jpg" ],
+                "Incredients": [ "1kg. - Jackfruit(without seeds), sliced", "1/2kg - Raw rice", "1 - Coconut, grated", "50gms. - Jaggery", "10 - Cardamoms", "Salt to taste", "Oil for frying" ],
+                "Method": [
+                    {
+                        "Steps": [ "Wash and soak rice for 2 hours", "Drain the water and grind with jackfruit and coconut.", "After a little while add jaggery and cardamom.", "Grind further without adding water at all.", "Add salt to taste and grind it to a coarse paste.", "Remove and keep aside.", "Heat oil in a deep pan. When oil is hot, make small balls of the paste and deep fry in oil till brown in colour.", "Drain and serve." ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "4",
         "Title": "Turmeric Leaf Gatti",
         "SubTitle": "Manjal Ereda Gatti",
         "Category": "#4cbb17",
@@ -19,7 +78,7 @@
         ]
     },
     {
-        "Id": "2",
+        "Id": "5",
         "Title": "Chicken Curry with Rotti",
         "SubTitle": "Kori Rotti",
         "Category": "#ff0800",
@@ -40,7 +99,7 @@
         ]
     },
     {
-        "Id": "3",
+        "Id": "6",
         "Title": "Sheera",
         "SubTitle": "null",
         "Category": "#867ae9",
@@ -55,66 +114,6 @@
                         "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate.", "Fry Bombay Rava with 1tbsp. Ghee until light brown in colour with low flame.", "Keep aside.", "Boil the milk in a vessel, add sugar, saffron and salt.", "Pour the fried rava slowly and stir to avoid lumps.", "Add 2tbsp. Ghee and Cook on slow fire until it is dry.", "Add Cardamom powder and fried nuts.", "Mix well and remove from fire.", "Ready to serve." ]
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "Id": "4",
-        "Title": "Red Cucumber Curry",
-        "SubTitle": "Taute Koddel",
-        "Category": "#4cbb17",
-        "Duration": "50min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber1.jpg",
-        "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/RedCucumber2.jpg"],
-                        "Incredients": [ "1 small or medium size - Cucumber(cut into medium pieces without removing skin)" ],
-                        "Masala": [ "1 - Grated Coconut", "10-12 - Red chillies(roasted)","1tbsp. - Coriander seeds(roasted)", "1/2tbsp. - Cumin seeds","1/4tsp. - Fenugreek seeds(roasted)", "1/4tsp. - Mustard seeds(roasted)","1pinch - Turmeric powder","Tamarind - size of its seed","Jaggery - size of a lime","Salt to taste","4-5 - Garlic flakes","1 - Onion(chopped)"],
-                        "Method": [
-                            {
-                                "Steps": [ "Grind all the masala ingredients except jaggery and salt to a fine paste.","Keep the cucumber in a vessel to boil with 3-4 cups of water, salt and Jaggery.","When it is cooked, add ground masala and cook for some more time.","Season it with oil, mustard seeds, 1 broken red chilly, crushed garlic and curry leaves."]
-                            }
-                        ]
-                    }
-                ]
-    },
-    {
-        "Id": "5",
-        "Title": "Dry Fish Chutney",
-        "SubTitle": "Nungel Chutney",
-        "Category": "#ff0800",
-        "Duration": "30min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg",
-        "Prepare": [
-            {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney2.jpg" ],
-                "Incredients": [ "3 - six inch pieces of shark fish - washed, skinned, fried in coconut oil and chopped", "10-12 - Red Chillies, roasted", "6-8 - Garlic flakes", "Tamarind - size of a lime", "1/2 - Onion, chopped", "1/2 - Coconut, grated" ],
-                "Method": [
-                    {
-                        "Steps": [ "Grind the ingredients - chillies, garlic, tamarind and onion roughly.", "Add coconut and grind to rough paste without water.", "Remove in a serving dish.", "Add the fish pieces, mix well and serve." ]
-                    }
-                ],
-                "Note": "Same Chutney can be prepared with dry Mackerel or dry Prawns or small white fish(Kollatharu)"
-            }
-        ]
-    },
-    {
-        "Id": "6",
-        "Title": "Malpuri",
-        "SubTitle": "null",
-        "Category": "#867ae9",
-        "Duration": "30min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg",
-        "Prepare": [
-            {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri4.jpg" ],
-                "Incredients": [ "3Cups - Maida", "2Cups - Sugar", "1/2tsp. - Salt", "1Pinch - Turmeric powder", "1tbsp. - Bombay Rawa", "1tsp. - Cardamom, powdered", "Oil for frying" ],
-                "Method": [
-                    {
-                        "Steps": [ "Mix all the ingredients with water to the thick batter(Idli batter).", "Keep aside for 10-15 minutes.", "Keep oil on fire.", "Heat and Pour 1 ladleful of batter.", "Fry both the sides, until crisp and brown with medium flame.", "Remove it with 2 Spoons, press at the center from back side of the spoon.", "This makes it flat." ]
-                    }
-                ],
-                "Note": "15-16 Malpuries can be made."
             }
         ]
     }
