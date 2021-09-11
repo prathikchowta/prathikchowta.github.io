@@ -1318,7 +1318,7 @@
         "Id": "9",
         "Title": "Curry Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/CurrySpecial.jpeg",
-        "Count": "12",
+        "Count": "13",
         "RecipesList": [
             {
                 "Id": "9.1",
@@ -1549,6 +1549,26 @@
                                 "Steps": [ "Grind all the masala ingredients together until fine paste.","Crush the Ambattes with stone, cook till it changes its colour.", "Add Salt.", "Wash and wipe the ladies finger.", "Cut into slant long pieces.", "Add it to the cooked ambattes.", "Cook the ladies finger for 10 minutes.", "Add ground masala, mix and cook for 5 minutes.", "Season it.", "Serve with boiled rice."]
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "Id": "9.13",
+                "Title": "Sour Fruit Curry",
+                "SubTitle": "Ambade Gasi",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
+                        "Incredients": [ "6-8 - Sour Fruit", "For Seasoning:", "1 - Broken long red chilly", "1tsp. - Mustard Seeds", "2sprig - curry leaves", "1 - Onion, finelly chopped", "4-5 - Garlic flakes, crushed" ],
+                        "Masala": [ "10 - Red Chillies mix", "1tbsp. - Coriander seeds", "1tsp. - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "5-6 - Garlic flakes", "1 - onion, sliced", "1/4tsp. - Turmeric powder", "1Cup - Coconut, grated" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Grind the masala ingredients to a fine paste and keep aside.", "Wash and cut the sour fruits into pieces.", "Crush the seeds and put it into a thick bottomed vessel and add water and salt.", "Cook till it becomes soft.", "Add ground Masala and kaggery and cook altogether.", "Remove from the fire and season it.", "Serve hot." ]
+                            }
+                        ],
+                        "Note": "Sour Fruit curry is a side dish to the rice."
                     }
                 ]
             }
