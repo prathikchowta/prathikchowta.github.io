@@ -170,10 +170,10 @@
                 "Prepare": [
                     {
                         "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal1.jpeg" ],
-                        "Incredients": [ "1/4Kg. - Channa Daal", "2tbsp. - Raw Rice", "1/2Kg. - Jaggery", "Milk of 1 Coconut", "50gms. - Cashew nuts", "50gms. - Raisins", "4-5 - Cardamoms, crushed", "1tbsp. - Ghee"],
+                        "Incredients": [ "1/4Kg. - Channa Daal", "2tbsp. - Raw Rice", "100gms. - Saagu", "1/2Kg. - Jaggery", "Milk of 1 Coconut", "50gms. - Cashew nuts", "50gms. - Raisins", "4-5 - Cardamoms, crushed", "1tbsp. - Ghee"],
                         "Method": [
                             {
-                                "Steps": [ "Fry Cashew nuts and raisins with ghee.", "Keep aside.", "Boil Channa daal with 8 cups of water.", "Grind the rice coarsely and mix it with the daal and cook for sometime.", "Add jaggery and salt, and keep on stirring.", "Add coconut milk and cook.", "Add cardamom powder.", "Add fried cashews and raisins and stir." ]
+                                "Steps": [ "Fry Cashew nuts and raisins with ghee.", "Keep aside.", "Boil Channa daal and Saagu with 8 cups of water.", "Grind the rice coarsely and mix it with the daal and cook for sometime.", "Add jaggery and salt, and keep on stirring.", "Add coconut milk and cook.", "Add cardamom powder.", "Add fried cashews and raisins and stir." ]
                             }
                         ]
                     }
@@ -191,7 +191,7 @@
                         "Incredients": [ "100gms. - Vermicelli", "50gms. - Cashew nuts & Raisins", "1/2liter - Milk", "3/4cup - Sugar", "1tsp. - Cardamoms, crushed", "2tbsp. - Ghee", "100gms. - Saagu(optional)" ],
                         "Method": [
                             {
-                                "Steps": [ "Cook Sagoo with water and keep aside.", "Fry Vermicelli, Cashews and raisins with ghee and keep aside.", "Boil the milk in vessel, add vermecelli and cook for sometime.", "Add cooked sagoo, sugar and stir.", "Add Cardamom and fried dry fruits." ]
+                                "Steps": [ "Cook Saagu with water and keep aside.", "Fry Vermicelli, Cashews and raisins with ghee and keep aside.", "Boil the milk in vessel, add vermecelli and cook for sometime.", "Add cooked sagoo, sugar and stir.", "Add Cardamom and fried dry fruits." ]
                             }
                         ]
                     }
