@@ -52,7 +52,7 @@
                 "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "2litres - thick milk", "4Cups - Sugar", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "4-5 - Saffrons, mixed with milk(optional)", "1tbsp. - Ghee", "1tsp. - Salt" ],
                 "Method": [
                     {
-                        "Steps": [ "Fry cashews and raisins with ghee and keep aside.", "Cook the rice with water.", "Add salt and cook till it becomes very soft.", "Pour the milk.", "When it boils add sugar and stir well", "Add cardamom, Saffrons, Fried cashews and raisins.", "Mix altogether and off the fire.", "Serve hot." ]
+                        "Steps": [ "Fry cashews and raisins with ghee and keep aside.", "Cook the rice with water.", "Add salt and cook till it becomes very soft.", "Pour the milk.", "When it boils add sugar and stir well.", "Add cardamom, Saffrons, Fried cashews and raisins.", "Mix altogether and off the fire.", "Serve hot." ]
                     }
                 ]
             }
@@ -60,6 +60,27 @@
     },
     {
         "Id": "4",
+        "Title": "Sour Fruit Curry",
+        "SubTitle": "Ambade Gasi",
+        "Category": "#4cbb17",
+        "Duration": "30min",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
+                "Incredients": [ "6-8 - Ambades", "For Seasoning:", "1 - Broken long red chilly", "1tsp. - Mustard Seeds", "2sprig - curry leaves", "1 - Onion, finelly chopped", "4-5 - Garlic flakes, crushed" ],
+                "Masala": [ "10 - Red Chillies mix", "1tbsp. - Coriander seeds", "1tsp. - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "5-6 - Garlic flakes", "1 - onion, sliced", "1/4tsp. - Turmeric powder", "1Cup - Coconut, grated" ],
+                "Method": [
+                    {
+                        "Steps": [ "Grind the masala ingredients to a fine paste and keep aside.", "Wash and cut the sour fruits into pieces.", "Crush the seeds and put it into a thick bottomed vessel and add water and salt.", "Cook till it becomes soft.", "Add ground Masala and kaggery and cook altogether.", "Remove from the fire and season it.", "Serve hot." ]
+                    }
+                ],
+                "Note": "Sour Fruit curry is a side dish to the rice."
+            }
+        ]
+    },
+    {
+        "Id": "5",
         "Title": "Fish fry",
         "SubTitle": "null",
         "Category": "#ff0800",
