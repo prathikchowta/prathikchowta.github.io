@@ -141,7 +141,7 @@
         "Id": "2",
         "Title": "Payasam",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial.jpeg",
-        "Count": "4",
+        "Count": "6",
         "RecipesList": [
             {
                 "Id": "2.1",
@@ -210,6 +210,43 @@
                         "Method": [
                             {
                                 "Steps": [ "Fry Cashew nuts and raisins with ghee.", "Keep aside.", "Cook broken wheat with thin coconut milk.", "Add Jaggery and salt.", "Then add thick coconut milk and cook well.", "Add jaggery, if required.", "Add Cardamoms and fried nuts." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.5",
+                "Title": "Rice Kheer(1)",
+                "SubTitle": "null",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS2.jpg"],
+                        "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "1big tender coconut", "3cups - Jaggery, powdered", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "1tbsp. - Ghee", "1tsp. - Salt" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Gandhakasala Rice.", "Cook with water till it becomes very soft.", "Pour the coconut milk. Mix and cook for 10minutes.", "Add jaggery and salt. Stir well. Add to jaggery if needed.", "Add cardamom. Fry cashews and raisins with ghee.", "Add it to Kheer.", "Serve hot." ]
+                            }
+                        ],
+                        "Note": "Gandhakasala rice gives a good aroma."
+                    }
+                ]
+            },
+            {
+                "Id": "2.6",
+                "Title": "Rice Kheer(2)",
+                "SubTitle": "null",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
+                        "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "2litres - thick milk", "4Cups - Sugar", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "4-5 - Saffrons, mixed with milk(optional)", "1tbsp. - Ghee", "1tsp. - Salt" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry cashews and raisins with ghee and keep aside.", "Cook the rice with water.", "Add salt and cook till it becomes very soft.", "Pour the milk.", "When it boils add sugar and stir well.", "Add cardamom, Saffrons, Fried cashews and raisins.", "Mix altogether and off the fire.", "Serve hot." ]
                             }
                         ]
                     }
