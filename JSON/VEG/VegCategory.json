@@ -556,10 +556,10 @@
                 "Title": "Lemon Rice",
                 "SubTitle": "Chitranna",
                 "Duration": "1hour",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/VegPulav.jpeg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/VegPulav.jpeg" ],
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg" ],
                         "Incredients": [ "3Cups - Sona Masoori Rice", "6Cups - Water(Double of rice)", "1tbsp. - Uraddaal", "1Cup - Ground nut", "4 - Green chillies, slitted", "1tbsp. - Oil", "1pinch - Saffron color or turmeric powder", "2Sprig - Curry leaves", "1tbsp. - Lemon juice", "1 - Big onion, finely sliced", "Salt to taste"],
                         "Method": [
                             {
