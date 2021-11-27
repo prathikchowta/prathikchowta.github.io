@@ -5,10 +5,10 @@
         "SubTitle": "null",
         "Category": "#ff0800",
         "Duration": "20min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpeg",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpeg" ],
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg" ],
                 "Incredients": [ "6-8 - Eggs" ],
                 "Masala": [ "1Big - Onion, finely chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder", "1&1/2tsp. - Pepper powder", "1/2tsp. - Coriander powder", "1tsp. - Garam masala powder", "1tsp. - Jeera", "1tbsp. - Oil", "1spring - Curry leaves", "2tsp. - Red Chilly powder(for more spicy)", "Salt to taste" ],
                 "Method": [
