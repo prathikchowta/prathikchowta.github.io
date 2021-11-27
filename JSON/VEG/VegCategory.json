@@ -494,7 +494,7 @@
         "Id": "3",
         "Title": "Rice Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/GheeRice.jpeg",
-        "Count": "3",
+        "Count": "4",
         "RecipesList": [
             {
                 "Id": "3.1",
@@ -548,6 +548,25 @@
                                 "Steps": [ "Make ginger garlic paste.", "Make the powder of - Pepper, cloves, cardamoms and cinnamons.", "Keep aside.", "In a Cooker, heat the ghee.", "Add sliced onion, cook till it becomes transparent.", "Add ginger garlic paste.", "Then add ground garam masala powder.", "Cook till the raw smell goes.", "Now add green peas, other vegetables and Green chillies.", "Add bay leaf and Pulao leaves.", "Add Rice and fry.", "Now add water, salt, chopped coriander leaves and mint leaves.", "Cover the lid.", "Cook till 1 whistle blows.", "Remove from fire.", "When it cools, open the lid, Mix and serve with Salad." ]
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "Id": "3.4",
+                "Title": "Lemon Rice",
+                "SubTitle": "Chitranna",
+                "Duration": "1hour",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/VegPulav.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/VegPulav.jpeg" ],
+                        "Incredients": [ "3Cups - Sona Masoori Rice", "6Cups - Water(Double of rice)", "1tbsp. - Uraddaal", "1Cup - Ground nut", "4 - Green chillies, slitted", "1tbsp. - Oil", "1pinch - Saffron color or turmeric powder", "2Sprig - Curry leaves", "1tbsp. - Lemon juice", "1 - Big onion, finely sliced", "Salt to taste"],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash and cook the rice with water, 1/2tsp. salt and 1tsp. coconut oil.", "Cook the rice in cooker for 2 whistle.", "Let it cool.", "Keep a vessel on fire. Add oil, fry the ground nut and remove to a plate.", "Now add onion to the oil, when it fries add urad daal, green chilly, saffron color, curry leaves and salt.", "Mix well.", "Then add rice and juice of lemon. Mix altogether and serve." ]
+                            }
+                        ],
+                        "Note": "Serves 6 to 8."
                     }
                 ]
             }
