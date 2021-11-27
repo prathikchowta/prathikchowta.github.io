@@ -231,7 +231,7 @@
         "Id": "4",
         "Title": "Fish Curry",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishCurry.jpeg",
-        "Count": "7",
+        "Count": "6",
         "RecipesList": [
             {
                 "Id": "4.1",
@@ -346,25 +346,6 @@
                             }
                         ],
                         "Note": "Same Chutney can be prepared with dry Mackerel or dry Prawns or small white fish(Kollatharu)"
-                    }
-                ]
-            },
-            {
-                "Id": "4.7",
-                "Title": "Ajwain Curry",
-                "SubTitle": "Oamada Paladya",
-                "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
-                "Prepare": [
-                    {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain3.jpg" ],
-                        "Incredients": [ "8-10 - Long Red Chillies", "2tbsp. - Ajwain(oama)", "3tsp. - Pepper corns", "1tsp. - Mustard Seeds", "5tsp. - Coriander seeds", "2tsp. - Cumin seeds(Jeera)", "1tsp. - Fenugreek seeds(Methi)", "1/4tsp. - Turmeric powder", "Dry Cocum, soaked in water or tamarind(size of a lime)", "2big - Onion, sliced", "4-5 - Garlic flakes", "2cups - Dry coconut, scrapped", "Salt to taste", "8-10 - Eggs or Dry Fish pieces washed and soaked in water(optional)", "For Seasoning:", "1tsp. - Coconut oil", "1Onion, finely chopped", "5-6 - Garlic flakes, crushed", "2sprig - Curry leaves" ],
-                        "Method": [
-                            {
-                                "Steps": [ "Fry Red Chillies, Pepper Corns, Ajwain, Jeera, Coriander seeds, Methi, 1 Onion and garlic flakes with 1tsp. coconut oil.", "Then fry, dry coconut.", "Grind  the ingredients with cocum, tumeric powder and water to a fine paste.", "Cook the ground masala in earthen pot, add salt and 1 sliced onion.", "Add broken eggs or dry fish and cook for 10 minutes on low flame.", "Season it." ]
-                            }
-                        ],
-                        "Note": "It is a tradional curry, given to the new mother(woman who gives birth to a child)."
                     }
                 ]
             }
@@ -501,6 +482,52 @@
                         "Method": [
                             {
                                 "Steps": [ "Grind the coconut finely with 2 cups of water.", "Squeeze out thick coconut milk and keep aside.", "Add 3 cups of water to the residue and take out thin milk.", "Roast 1/2  grated coconut till light brown.", "Fry red chillies, coriander seeds, jeera,curry leaves, methi and pepper corns in coconut oil.", "Grind all these ingredients together with turmeric powder and garlic flakes with thin coconut milk.", "Remove the masala, mix it with cleaned and cut chicken pieces, one sliced onion, butter, salt and lemon juice.", "Boil for 5 minutes.", "Add thick coconut milk and cook till the chicken piece softened.", "Keep Ghee in a flat vessel on fire.", "Add  chopped onion and fry till brown.","Add Garam masala powder and pour it to the cooked chicken.", "Cover and remove from fire.", "Serve with Rotti, Neer dosa, Aapam, Idli or Semia." ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "8",
+        "Title": "Egg Curry",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
+        "Count": "2",
+        "RecipesList": [
+            {
+                "Id": "8.1",
+                "Title": "Ajwain Curry",
+                "SubTitle": "Oamada Paladya",
+                "Duration": "30 minutes",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain3.jpg" ],
+                        "Incredients": [ "8-10 - Long Red Chillies", "2tbsp. - Ajwain(oama)", "3tsp. - Pepper corns", "1tsp. - Mustard Seeds", "5tsp. - Coriander seeds", "2tsp. - Cumin seeds(Jeera)", "1tsp. - Fenugreek seeds(Methi)", "1/4tsp. - Turmeric powder", "Dry Cocum, soaked in water or tamarind(size of a lime)", "2big - Onion, sliced", "4-5 - Garlic flakes", "2cups - Dry coconut, scrapped", "Salt to taste", "8-10 - Eggs or Dry Fish pieces washed and soaked in water(optional)", "For Seasoning:", "1tsp. - Coconut oil", "1Onion, finely chopped", "5-6 - Garlic flakes, crushed", "2sprig - Curry leaves" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry Red Chillies, Pepper Corns, Ajwain, Jeera, Coriander seeds, Methi, 1 Onion and garlic flakes with 1tsp. coconut oil.", "Then fry, dry coconut.", "Grind  the ingredients with cocum, tumeric powder and water to a fine paste.", "Cook the ground masala in earthen pot, add salt and 1 sliced onion.", "Add broken eggs or dry fish and cook for 10 minutes on low flame.", "Season it." ]
+                            }
+                        ],
+                        "Note": "It is a tradional curry, given to the new mother(woman who gives birth to a child)."
+                    }
+                ]
+            },
+            {
+                "Id": "8.2",
+                "Title": "Boiled Egg Fry Masala",
+                "SubTitle": "null",
+                "Duration": "20min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CueryCocMilk2.jpeg"],
+                        "Incredients": [ "6-8 - Eggs" ],
+                        "Masala": [ "1Big - Onion, finely chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder", "1&1/2tsp. - Pepper powder", "1/2tsp. - Coriander powder", "1tsp. - Garam masala powder", "1tsp. - Jeera", "1tbsp. - Oil", "1spring - Curry leaves", "2tsp. - Red Chilly powder(for more spicy)", "Salt to taste" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Boil the eggs with water and salt. After it cools, remove the shell and make few cuts. Marinate with 1tsp. salt and keep aside.", "Keep a pan on fire.", "Add oil, Jeera and onion.", "When onion fries add turmeric powder, then add other masala ingredients. Mix well.", "Then add boiled eggs. Mix and off the gas." ]
                             }
                         ]
                     }
