@@ -1,5 +1,25 @@
 [
     {
+        "Id": "8.2",
+        "Title": "Boiled Egg Fry Masala",
+        "SubTitle": "null",
+        "Category": "#ff0800",
+        "Duration": "20min",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpeg",
+        "Prepare": [
+            {
+                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpeg" ],
+                "Incredients": [ "6-8 - Eggs" ],
+                "Masala": [ "1Big - Onion, finely chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder", "1&1/2tsp. - Pepper powder", "1/2tsp. - Coriander powder", "1tsp. - Garam masala powder", "1tsp. - Jeera", "1tbsp. - Oil", "1spring - Curry leaves", "2tsp. - Red Chilly powder(for more spicy)", "Salt to taste" ],
+                "Method": [
+                    {
+                        "Steps": [ "Boil the eggs with water and salt. After it cools, remove the shell and make few cuts. Marinate with 1tsp. salt and keep aside.", "Keep a pan on fire.", "Add oil, Jeera and onion.", "When onion fries add turmeric powder, then add other masala ingredients. Mix well.", "Then add boiled eggs. Mix and off the gas." ]
+                    }
+                ]
+            }
+        ]    
+    },
+    {
         "Id": "1",
         "Title": "Lemon Rice",
         "SubTitle": "Chitranna",
