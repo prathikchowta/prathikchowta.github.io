@@ -1,9 +1,10 @@
 [
     {
-        "Id": "3.4",
+        "Id": "1",
         "Title": "Lemon Rice",
         "SubTitle": "Chitranna",
-        "Duration": "1hour",
+        "Category": "#4cbb17",
+        "Duration": "30min",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg",
         "Prepare": [
             {
@@ -16,8 +17,8 @@
                 ],
                 "Note": "Serves 6 to 8."
             }
-                ]
-            }
+        ]
+    },
     {
         "Id": "1",
         "Title": "Squid Fish Sukka",
