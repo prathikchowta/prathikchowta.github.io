@@ -536,7 +536,7 @@
             {
                 "Id": "3.3",
                 "Title": "Vegetable Pulao",
-                "SubTitle": "----",
+                "SubTitle": "null",
                 "Duration": "1hour",
                 "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/VegPulav.jpeg",
                 "Prepare": [
