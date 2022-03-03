@@ -6,477 +6,477 @@
   },
   {
     "Latitude": 1,
-    "id": 2,
-    "title": "1A State Bank – Lalbagh – Urva Stores – Kulur – ThannirBavi"
+    "Longitude": 2,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 3,
-    "title": "1B State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – Urva Stores – Kodikal"
+    "Longitude": 3,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 4,
-    "title": "2 State Bank – Lalbagh – Ashoknagar – Baikampady – Suratkal – Mukka"
+    "Longitude": 4,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 5,
-    "title": "2A State Bank – Lalbagh – Ashoknagar – Baikampady – Suratkal – Mukka – Sasihitlu"
+    "Longitude": 5,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 6,
-    "title": "2C State Bank – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte"
+    "Longitude": 6,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 7,
-    "title": "2D State Bank – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte – Purkodi"
+    "Longitude": 7,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 8,
-    "title": "2E Kankanady – Jyothi – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte – Kalavar – Bajpe"
+    "Longitude": 8,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 9,
-    "title": "2F Kankanady – Jyothi – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte – Kalavar – Bajpe"
+    "Longitude": 9,
+    "Place": ""
   },
   {
     "Latitude": 1,
-    "id": 10,
-    "title": "3 State Bank – Falnir – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Mudushedde"
+    "Longitude": 10,
+    "Place": ""
   },
   {
     "Latitude": 2,
-    "id": 11,
-    "title": "3A State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Mudushedde"
+    "Longitude": 11,
+    "Place": ""
   },
   {
     "Latitude": 2,
-    "id": 12,
-    "title": "3B Mangaladevi – Kankanady – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Mudushedde"
+    "Longitude": 12,
+    "Place": ""
   },
   {
     "Latitude": 2,
-    "id": 13,
-    "title": "3D State Bank – Jyothi – Bunts Hostel – Kadri – Vamanjoor – Ulaibettu"
+    "Longitude": 13,
+    "Place": "3D State Bank – Jyothi – Bunts Hostel – Kadri – Vamanjoor – Ulaibettu"
   },
   {
     "Latitude": 2,
-    "id": 14,
-    "title": "4 State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – KulshekarChowki"
+    "Longitude": 14,
+    "Place": "4 State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – KulshekarChowki"
   },
   {
     "Latitude": 2,
-    "id": 15,
-    "title": "4A State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Nanthur – Kulshekar – Kaikamba – Neermarga – Merlapadavu"
+    "Longitude": 15,
+    "Place": "4A State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Nanthur – Kulshekar – Kaikamba – Neermarga – Merlapadavu"
   },
   {
     "Latitude": 2,
-    "id": 16,
-    "title": "4C State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Nanthur – Kulshekar – Kaikamba – Neermarga"
+    "Longitude": 16,
+    "Place": "4C State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Nanthur – Kulshekar – Kaikamba – Neermarga"
   },
   {
     "Latitude": 2,
-    "id": 17,
-    "title": "5 State Bank – Jyothi – Bendoorwell – Kankanady – Nandigudda – Marnamikatta – MorgansGate"
+    "Longitude": 17,
+    "Place": "5 State Bank – Jyothi – Bendoorwell – Kankanady – Nandigudda – Marnamikatta – MorgansGate"
   },
   {
     "Latitude": 2,
-    "id": 18,
-    "title": "6A State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
+    "Longitude": 18,
+    "Place": "6A State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
   },
   {
     "Latitude": 2,
-    "id": 19,
-    "title": "6B State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
+    "Longitude": 19,
+    "Place": "6B State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
   },
   {
     "Latitude": 2,
-    "id": 20,
-    "title": "6C State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
+    "Longitude": 20,
+    "Place": "6C State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
   },
   {
     "Latitude": 3,
-    "id": 21,
-    "title": "7 State Bank – Car Street – Alake – Mannagudda – Ladyhill – Chilimbi – UrvaStore"
+    "Longitude": 21,
+    "Place": "7 State Bank – Car Street – Alake – Mannagudda – Ladyhill – Chilimbi – UrvaStore"
   },
   {
     "Latitude": 3,
-    "id": 22,
-    "title": "9A State Bank – Pandeshwar – Jeppu – Morgan Gate – Jeppupatna – Yekkur – Mugeru – Bajal – Bajal Pakkaladka – J.M.Road"
+    "Longitude": 22,
+    "Place": "9A State Bank – Pandeshwar – Jeppu – Morgan Gate – Jeppupatna – Yekkur – Mugeru – Bajal – Bajal Pakkaladka – J.M.Road"
   },
   {
     "Latitude": 3,
-    "id": 23,
-    "title": "9B State Bank – Jyothi – Pumpwell – Yekkur – Mugeru – Bajal – Bajal Pakkaladka – J.M.Road"
+    "Longitude": 23,
+    "Place": "9B State Bank – Jyothi – Pumpwell – Yekkur – Mugeru – Bajal – Bajal Pakkaladka – J.M.Road"
   },
   {
     "Latitude": 3,
-    "id": 24,
-    "title": "10A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Nagori – Padil – Kannurbettu – Adyar – AdyarLaunchJetty"
+    "Longitude": 24,
+    "Place": "10A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Nagori – Padil – Kannurbettu – Adyar – AdyarLaunchJetty"
   },
   {
     "Latitude": 3,
-    "id": 25,
-    "title": "10B State Bank – Jyothi – Balmatta – Kankanady – Pumpwell – Nagori – Padil – Kannurbettu – Adyar – AdyarLaunch"
+    "Longitude": 25,
+    "Place": "10B State Bank – Jyothi – Balmatta – Kankanady – Pumpwell – Nagori – Padil – Kannurbettu – Adyar – AdyarLaunch"
   },
   {
     "Latitude": 3,
-    "id": 26,
-    "title": "11A State Bank – Falnir – Kankanady – Nagori – Garodi – Padil – Kannurbettu"
+    "Longitude": 26,
+    "Place": "11A State Bank – Falnir – Kankanady – Nagori – Garodi – Padil – Kannurbettu"
   },
   {
     "Latitude": 3,
-    "id": 27,
-    "title": "11B State Bank – Falnir – Kankanady – Nagori – Garodi – Padil – Jalligudde"
+    "Longitude": 27,
+    "Place": "11B State Bank – Falnir – Kankanady – Nagori – Garodi – Padil – Jalligudde"
   },
   {
     "Latitude": 3,
-    "id": 28,
-    "title": "12A State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Gurupura – Kaikamba – Addoor – Polali"
+    "Longitude": 28,
+    "Place": "12A State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Gurupura – Kaikamba – Addoor – Polali"
   },
   {
     "Latitude": 3,
-    "id": 29,
-    "title": "12B State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Gurupura – Kaikamba – Addoor – Polali – GolthamajalU"
+    "Longitude": 29,
+    "Place": "12B State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Gurupura – Kaikamba – Addoor – Polali – GolthamajalU"
   },
   {
     "Latitude": 3,
-    "id": 30,
-    "title": "13 State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – UrvaStore"
+    "Longitude": 30,
+    "Place": "13 State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – UrvaStore"
   },
   {
     "Latitude": 4,
-    "id": 31,
-    "title": "13A State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – Urva Stores – Kottara"
+    "Longitude": 31,
+    "Place": "13A State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – Urva Stores – Kottara"
   },
   {
     "Latitude": 4,
-    "id": 32,
-    "title": "13C State Bank – K.S. Rao Road – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel"
+    "Longitude": 32,
+    "Place": "13C State Bank – K.S. Rao Road – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel"
   },
   {
     "Latitude": 4,
-    "id": 33,
-    "title": "13D State Bank – K.S. Rao Road – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel – Padangady – Pacchanady"
+    "Longitude": 33,
+    "Place": "13D State Bank – K.S. Rao Road – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel – Padangady – Pacchanady"
   },
   {
     "Latitude": 4,
-    "id": 34,
-    "title": "13E Mangaladevi – Bendoorwell – Jyothi  – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel"
+    "Longitude": 34,
+    "Place": "13E Mangaladevi – Bendoorwell – Jyothi  – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel"
   },
   {
     "Latitude": 4,
-    "id": 35,
-    "title": "14A State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
+    "Longitude": 35,
+    "Place": "14A State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
   },
   {
     "Latitude": 4,
-    "id": 36,
-    "title": "14B State Bank – Falnir – Bendoorwell – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
+    "Longitude": 36,
+    "Place": "14B State Bank – Falnir – Bendoorwell – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
   },
   {
     "Latitude": 4,
-    "id": 37,
-    "title": "14C Mangaladevi – MorgansGate – Attavara – Yemmekere – Nandigudda – Kankanady – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
+    "Longitude": 37,
+    "Place": "14C Mangaladevi – MorgansGate – Attavara – Yemmekere – Nandigudda – Kankanady – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
   },
   {
     "Latitude": 4,
-    "id": 38,
-    "title": "15 Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal"
+    "Longitude": 38,
+    "Place": "15 Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal"
   },
   {
     "Latitude": 4,
-    "id": 39,
-    "title": "15A Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur - Katipalla"
+    "Longitude": 39,
+    "Place": "15A Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur - Katipalla"
   },
   {
     "Latitude": 4,
-    "id": 40,
-    "title": "15B Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur – Katipalla – Chelairupadavu"
+    "Longitude": 40,
+    "Place": "15B Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur – Katipalla – Chelairupadavu"
   },
   {
     "Latitude": 5,
-    "id": 41,
-    "title": "16 State Bank – Mission Street – Azizzudin Road – Kandathpalli – Mandi – Gokarnath  Temple – Kudroli – Bokkapatna – Boloor – SulthanBattery"
+    "Longitude": 41,
+    "Place": "16 State Bank – Mission Street – Azizzudin Road – Kandathpalli – Mandi – Gokarnath  Temple – Kudroli – Bokkapatna – Boloor – SulthanBattery"
   },
   {
     "Latitude": 5,
-    "id": 42,
-    "title": "16A State Bank – Car Street – Alake – Kudroli – Bokkapatna – Boloor – SulthanBattery"
+    "Longitude": 42,
+    "Place": "16A State Bank – Car Street – Alake – Kudroli – Bokkapatna – Boloor – SulthanBattery"
   },
   {
     "Latitude": 5,
-    "id": 43,
-    "title": "17 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
+    "Longitude": 43,
+    "Place": "17 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
   },
   {
     "Latitude": 5,
-    "id": 44,
-    "title": "17A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
+    "Longitude": 44,
+    "Place": "17A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
   },
   {
     "Latitude": 5,
-    "id": 45,
-    "title": "17B State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
+    "Longitude": 45,
+    "Place": "17B State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
   },
   {
     "Latitude": 5,
-    "id": 46,
-    "title": "18 State Bank – Pandeshwar – Hoige Bazar – Bolar – Jeppu Market – MorgansGate"
+    "Longitude": 46,
+    "Place": "18 State Bank – Pandeshwar – Hoige Bazar – Bolar – Jeppu Market – MorgansGate"
   },
   {
     "Latitude": 5,
-    "id": 47,
-    "title": "19 State Bank – Hampankatta – Jyothi – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Bejai – K.P.T – Yeyyadi – Konchadi – Padavinangadi – Bondel – Pacchanady"
+    "Longitude": 47,
+    "Place": "19 State Bank – Hampankatta – Jyothi – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Bejai – K.P.T – Yeyyadi – Konchadi – Padavinangadi – Bondel – Pacchanady"
   },
   {
     "Latitude": 5,
-    "id": 48,
-    "title": "21 State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Kulshekar – Kaikamba – Neermarga"
+    "Longitude": 48,
+    "Place": "21 State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Kulshekar – Kaikamba – Neermarga"
   },
   {
     "Latitude": 5,
-    "id": 49,
-    "title": "22 State Bank – Jyothi – Bunts Hostel – Mallikatte – Nanthur – Bikkarnakatta – Kulshekar – Vamanjoor – Gurupura – Kaikamba – Bajpe"
+    "Longitude": 49,
+    "Place": "22 State Bank – Jyothi – Bunts Hostel – Mallikatte – Nanthur – Bikkarnakatta – Kulshekar – Vamanjoor – Gurupura – Kaikamba – Bajpe"
   },
   {
     "Latitude": 5,
-    "id": 50,
-    "title": "22A State Bank – Jyothi – Bunts Hostel – Mallikatte – Nanthur – Bikkarnakatta – Kulshekar – Vamanjoor – Gurupura – Kaikamba – Bajpe – BajpeAerodrome"
+    "Longitude": 50,
+    "Place": "22A State Bank – Jyothi – Bunts Hostel – Mallikatte – Nanthur – Bikkarnakatta – Kulshekar – Vamanjoor – Gurupura – Kaikamba – Bajpe – BajpeAerodrome"
   },
   {
     "Latitude": 6,
-    "id": 51,
-    "title": "23 State Bank – Jyothi – Balmatta – Kankanady – Pumpwell – Nagori – Garodi – Padil – Faisalnagar"
+    "Longitude": 51,
+    "Place": "23 State Bank – Jyothi – Balmatta – Kankanady – Pumpwell – Nagori – Garodi – Padil – Faisalnagar"
   },
   {
     "Latitude": 6,
-    "id": 52,
-    "title": "27 State Bank – Attavar – Nandigudda – Marnamikatta – Mangaladevi"
+    "Longitude": 52,
+    "Place": "27 State Bank – Attavar – Nandigudda – Marnamikatta – Mangaladevi"
   },
   {
     "Latitude": 6,
-    "id": 53,
-    "title": "27A State Bank – Attavar – Nandigudda – Marnamikatta – Mangaladevi - Mulihithlu"
+    "Longitude": 53,
+    "Place": "27A State Bank – Attavar – Nandigudda – Marnamikatta – Mangaladevi - Mulihithlu"
   },
   {
     "Latitude": 6,
-    "id": 54,
-    "title": "29 State Bank – Pandeshwar – Yemmekere – Bolar – Jeppu Market – MorgansGate"
+    "Longitude": 54,
+    "Place": "29 State Bank – Pandeshwar – Yemmekere – Bolar – Jeppu Market – MorgansGate"
   },
   {
     "Latitude": 6,
-    "id": 55,
-    "title": "30 State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil"
+    "Longitude": 55,
+    "Place": "30 State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil"
   },
   {
     "Latitude": 6,
-    "id": 56,
-    "title": "30A State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil – Kannurbettu – Adyar"
+    "Longitude": 56,
+    "Place": "30A State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil – Kannurbettu – Adyar"
   },
   {
     "Latitude": 6,
-    "id": 57,
-    "title": "30B State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil – Kannurbettu – Adyar – AdyarLaunch"
+    "Longitude": 57,
+    "Place": "30B State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil – Kannurbettu – Adyar – AdyarLaunch"
   },
   {
     "Latitude": 6,
-    "id": 58,
-    "title": "31 State Bank – PVS – Canara College – Empire Mall – Ballalbagh – Mannagudda – Urva Market – Shediguri"
+    "Longitude": 58,
+    "Place": "31 State Bank – PVS – Canara College – Empire Mall – Ballalbagh – Mannagudda – Urva Market – Shediguri"
   },
   {
     "Latitude": 6,
-    "id": 59,
-    "title": "31A State Bank – K.S. Rao Road –  PVS  – Canara College – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Urva Market – Ashoknagar"
+    "Longitude": 59,
+    "Place": "31A State Bank – K.S. Rao Road –  PVS  – Canara College – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Urva Market – Ashoknagar"
   },
   {
     "Latitude": 6,
-    "id": 60,
-    "title": "31B State Bank – Car Street – Mannagudda – Urva Market – Ashoknagar – Dombel"
+    "Longitude": 60,
+    "Place": "31B State Bank – Car Street – Mannagudda – Urva Market – Ashoknagar – Dombel"
   },
   {
     "Latitude": 7,
-    "id": 61,
-    "title": "33 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Derebail – Konchadi – Akashbhavan"
+    "Longitude": 61,
+    "Place": "33 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Derebail – Konchadi – Akashbhavan"
   },
   {
     "Latitude": 7,
-    "id": 62,
-    "title": "37 State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil"
+    "Longitude": 62,
+    "Place": "37 State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil"
   },
   {
     "Latitude": 7,
-    "id": 63,
-    "title": "41A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur – Katipalla – Chelairupadavu"
+    "Longitude": 63,
+    "Place": "41A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur – Katipalla – Chelairupadavu"
   },
   {
     "Latitude": 7,
-    "id": 64,
-    "title": "42 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur - Thokkottu – Kotekar – Beeri – Talapady"
+    "Longitude": 64,
+    "Place": "42 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur - Thokkottu – Kotekar – Beeri – Talapady"
   },
   {
     "Latitude": 7,
-    "id": 65,
-    "title": "43 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur - Thokkottu – Kotekar – Beeri – Talapady – Kinya"
+    "Longitude": 65,
+    "Place": "43 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur - Thokkottu – Kotekar – Beeri – Talapady – Kinya"
   },
   {
     "Latitude": 7,
-    "id": 66,
-    "title": "44A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Ullal – Someshwar"
+    "Longitude": 66,
+    "Place": "44A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Ullal – Someshwar"
   },
   {
     "Latitude": 7,
-    "id": 67,
-    "title": "44B State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Kotekar – Elyarpadavu"
+    "Longitude": 67,
+    "Place": "44B State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Kotekar – Elyarpadavu"
   },
   {
     "Latitude": 7,
-    "id": 68,
-    "title": "44C State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Ullal – UllalLaunch"
+    "Longitude": 68,
+    "Place": "44C State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Ullal – UllalLaunch"
   },
   {
     "Latitude": 7,
-    "id": 69,
-    "title": "44 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - yekkur – Thokkottu – Ullal – Kotepura"
+    "Longitude": 69,
+    "Place": "44 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - yekkur – Thokkottu – Ullal – Kotepura"
   },
   {
     "Latitude": 7,
-    "id": 70,
-    "title": "45 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla"
+    "Longitude": 70,
+    "Place": "45 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla"
   },
   {
     "Latitude": 8,
-    "id": 71,
-    "title": "45A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Chokkabettu"
+    "Longitude": 71,
+    "Place": "45A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Chokkabettu"
   },
   {
     "Latitude": 8,
-    "id": 72,
-    "title": "45B State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Chokkabettu."
+    "Longitude": 72,
+    "Place": "45B State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Chokkabettu."
   },
   {
     "Latitude": 8,
-    "id": 73,
-    "title": "45C State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – Kaikamba"
+    "Longitude": 73,
+    "Place": "45C State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – Kaikamba"
   },
   {
     "Latitude": 8,
-    "id": 74,
-    "title": "45D State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – MRPL – Kuthethur"
+    "Longitude": 74,
+    "Place": "45D State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – MRPL – Kuthethur"
   },
   {
     "Latitude": 8,
-    "id": 75,
-    "title": "45E State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – MRPL – Kaithakurneri"
+    "Longitude": 75,
+    "Place": "45E State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – MRPL – Kaithakurneri"
   },
   {
     "Latitude": 8,
-    "id": 76,
-    "title": "45F State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Kaikamba"
+    "Longitude": 76,
+    "Place": "45F State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Kaikamba"
   },
   {
     "Latitude": 8,
-    "id": 77,
-    "title": "45G State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Mason Road – JanathaColony"
+    "Longitude": 77,
+    "Place": "45G State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Mason Road – JanathaColony"
   },
   {
     "Latitude": 8,
-    "id": 78,
-    "title": "45H State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Madhyapadavu"
+    "Longitude": 78,
+    "Place": "45H State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Madhyapadavu"
   },
   {
     "Latitude": 8,
-    "id": 79,
-    "title": "47 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor – Bajpe"
+    "Longitude": 79,
+    "Place": "47 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor – Bajpe"
   },
   {
     "Latitude": 8,
-    "id": 80,
-    "title": "47A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor – Bajpe"
+    "Longitude": 80,
+    "Place": "47A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor – Bajpe"
   },
   {
     "Latitude": 9,
-    "id": 81,
-    "title": "47B State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor –  Bajpe – BajpeAerodrome"
+    "Longitude": 81,
+    "Place": "47B State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor –  Bajpe – BajpeAerodrome"
   },
   {
     "Latitude": 9,
-    "id": 82,
-    "title": "47C State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor –  Bajpe – Bajpe Aerodrome – Bhatrakere – Kathalsar"
+    "Longitude": 82,
+    "Place": "47C State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor –  Bajpe – Bajpe Aerodrome – Bhatrakere – Kathalsar"
   },
   {
     "Latitude": 9,
-    "id": 83,
-    "title": "48 State Bank – Jyothi – Bunts Hostel – Mallikatta – Kadri – Nanthur Cross – KPT – Yeyyadi – Konchadi – Bondel –Kavoor – Maravoor – Bajpe"
+    "Longitude": 83,
+    "Place": "48 State Bank – Jyothi – Bunts Hostel – Mallikatta – Kadri – Nanthur Cross – KPT – Yeyyadi – Konchadi – Bondel –Kavoor – Maravoor – Bajpe"
   },
   {
     "Latitude": 9,
-    "id": 84,
-    "title": "48A State Bank – Hampankatta – Jyothi – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Bejai – Bejai Church – Yeyyadi – Konchadi – – Bondel –Kavoor – Maravoor – Bajpe"
+    "Longitude": 84,
+    "Place": "48A State Bank – Hampankatta – Jyothi – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Bejai – Bejai Church – Yeyyadi – Konchadi – – Bondel –Kavoor – Maravoor – Bajpe"
   },
   {
     "Latitude": 9,
-    "id": 85,
-    "title": "51 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Deralakatte – Mangalore University – Konaje"
+    "Longitude": 85,
+    "Place": "51 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Deralakatte – Mangalore University – Konaje"
   },
   {
     "Latitude": 9,
-    "id": 86,
-    "title": "51A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Deralakatte – Mangalore University – Konaje - Inoli"
+    "Longitude": 86,
+    "Place": "51A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell - Yekkur – Thokkottu – Deralakatte – Mangalore University – Konaje - Inoli"
   },
   {
     "Latitude": 9,
-    "id": 87,
-    "title": "53 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Soorinje – Tibar"
+    "Longitude": 87,
+    "Place": "53 State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Soorinje – Tibar"
   },
   {
     "Latitude": 9,
-    "id": 88,
-    "title": "53A Kankanady – Pumpwell – Nanthur – Kadri – Kuloor – Suratkal – Chokkabettu – Katipalla – Soorinje – Tibar"
+    "Longitude": 88,
+    "Place": "53A Kankanady – Pumpwell – Nanthur – Kadri – Kuloor – Suratkal – Chokkabettu – Katipalla – Soorinje – Tibar"
   },
   {
     "Latitude": 9,
-    "id": 89,
-    "title": "54 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Beeri – Maddur – Natekal – Manjanady – Thaudugoli"
+    "Longitude": 89,
+    "Place": "54 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Beeri – Maddur – Natekal – Manjanady – Thaudugoli"
   },
   {
     "Latitude": 9,
-    "id": 90,
-    "title": "54A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Deralakatte  – Natekal – Manjanady – Thaudugoli"
+    "Longitude": 90,
+    "Place": "54A State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Deralakatte  – Natekal – Manjanady – Thaudugoli"
   },
   {
     "Latitude": 10,
-    "id": 91,
-    "title": "55 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Kuthar – Deralakatte  – Natekal – Konaje – Fajir – Harekal - Pavoor"
+    "Longitude": 91,
+    "Place": "55 State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Kuthar – Deralakatte  – Natekal – Konaje – Fajir – Harekal - Pavoor"
   },
   {
     "Latitude": 10,
-    "id": 92,
-    "title": "59  State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Kuloor – Baikampady – Chitrapur – Hosabettu – Suratkal"
+    "Longitude": 92,
+    "Place": "59  State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Kuloor – Baikampady – Chitrapur – Hosabettu – Suratkal"
   },
   {
     "Latitude": 10,
-    "id": 93,
-    "title": "60  Anandanagar – Nandanapura – Malemar – Ladyhill – Bejai Museum – Kadri Temple – Kankanady – Valencia – Gorigudde"
+    "Longitude": 93,
+    "Place": "60  Anandanagar – Nandanapura – Malemar – Ladyhill – Bejai Museum – Kadri Temple – Kankanady – Valencia – Gorigudde"
   },
   {
     "Latitude": 10,
-    "id": 94,
-    "title": "61  Kodikal – Kodikal Cross – Ladyhill – Bejai Museum – Kadri Temple – Pumpwell – Padil – Kankanady"
+    "Longitude": 94,
+    "Place": "61  Kodikal – Kodikal Cross – Ladyhill – Bejai Museum – Kadri Temple – Pumpwell – Padil – Kankanady"
   },
   {
     "Latitude": 10,
-    "id": 95,
-    "title": "62A  Padil Railway Station – KPT – Bondel – Kavoor – Kulur – Kaikamba – Katipalla"
+    "Longitude": 95,
+    "Place": "62A  Padil Railway Station – KPT – Bondel – Kavoor – Kulur – Kaikamba – Katipalla"
   },
   {
     "Latitude": 10,
-    "id": 92,
-    "title": "64  Mudushedde – Vamanjoor – Kudpu Temple – Govt. Dairy Bikkarnakatta – Nanthur – KPT – Yeyyadi – Maryhill – Bondel – Kavoor – Kulur – Panambur – Chitrapur Temple – Hosabettu – Suratkal – Chokkabettu – Katipalla – Mangalapete – Kuthethur"
+    "Longitude": 92,
+    "Place": "64  Mudushedde – Vamanjoor – Kudpu Temple – Govt. Dairy Bikkarnakatta – Nanthur – KPT – Yeyyadi – Maryhill – Bondel – Kavoor – Kulur – Panambur – Chitrapur Temple – Hosabettu – Suratkal – Chokkabettu – Katipalla – Mangalapete – Kuthethur"
   }
 ]
