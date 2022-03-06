@@ -1,0 +1,482 @@
+[
+  {
+    "busNo": "1",
+    "id": 1,
+    "title": "State Bank – Car Street – Mannagudda – Ladyhill –  Chilimbi –  Urva Stores –  Kavoor – MCF colony –  Kunjathbail"
+  },
+  {
+    "busNo": "1A",
+    "id": 2,
+    "title": "State Bank – Lalbagh – Urva Stores – Kulur – ThannirBavi"
+  },
+  {
+    "busNo": "1B",
+    "id": 3,
+    "title": "State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – Urva Stores – Kodikal"
+  },
+  {
+    "busNo": "2",
+    "id": 4,
+    "title": "State Bank – Lalbagh – Ashoknagar – Baikampady – Suratkal – Mukka"
+  },
+  {
+    "busNo": "2A",
+    "id": 5,
+    "title": "State Bank – Lalbagh – Ashoknagar – Baikampady – Suratkal – Mukka – Sasihitlu"
+  },
+  {
+    "busNo": "2C",
+    "id": 6,
+    "title": "State Bank – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte"
+  },
+  {
+    "busNo": "2D",
+    "id": 7,
+    "title": "State Bank – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte – Purkodi"
+  },
+  {
+    "busNo": "2E",
+    "id": 8,
+    "title": "Kankanady – Jyothi – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte – Kalavar – Bajpe"
+  },
+  {
+    "busNo": "2F",
+    "id": 9,
+    "title": "Kankanady – Jyothi – Lalbagh – Ashoknagar – Baikampady – Baikampady Industrial Estate – Jokatte – Kalavar – Bajpe"
+  },
+  {
+    "busNo": "3",
+    "id": 10,
+    "title": "State Bank – Falnir – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Mudushedde"
+  },
+  {
+    "busNo": "3A",
+    "id": 11,
+    "title": "State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Mudushedde"
+  },
+  {
+    "busNo": "3B",
+    "id": 12,
+    "title": "Mangaladevi – Kankanady – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Mudushedde"
+  },
+  {
+    "busNo": "3D",
+    "id": 13,
+    "title": "State Bank – Jyothi – Bunts Hostel – Kadri – Vamanjoor – Ulaibettu"
+  },
+  {
+    "busNo": "4",
+    "id": 14,
+    "title": "State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – KulshekarChowki"
+  },
+  {
+    "busNo": "4A",
+    "id": 15,
+    "title": "State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Nanthur – Kulshekar – Kaikamba – Neermarga – Merlapadavu"
+  },
+  {
+    "busNo": "4C",
+    "id": 16,
+    "title": "State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Nanthur – Kulshekar – Kaikamba – Neermarga"
+  },
+  {
+    "busNo": "5",
+    "id": 17,
+    "title": "State Bank – Jyothi – Bendoorwell – Kankanady – Nandigudda – Marnamikatta – MorgansGate"
+  },
+  {
+    "busNo": "6A",
+    "id": 18,
+    "title": "State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
+  },
+  {
+    "busNo": "6B",
+    "id": 19,
+    "title": "State Bank – Falnir – Kankanady – Bendoorwell – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
+  },
+  {
+    "busNo": "6C",
+    "id": 20,
+    "title": "State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Shaktinagar"
+  },
+  {
+    "busNo": "7",
+    "id": 21,
+    "title": "State Bank – Car Street – Alake – Mannagudda – Ladyhill – Chilimbi – UrvaStore"
+  },
+  {
+    "busNo": "9A",
+    "id": 22,
+    "title": "State Bank – Pandeshwar – Jeppu – Morgan Gate – Jeppupatna – Yekkur – Mugeru – Bajal – Bajal Pakkaladka – J.M.Road"
+  },
+  {
+    "busNo": "9B",
+    "id": 23,
+    "title": "State Bank – Jyothi – Pumpwell – Yekkur – Mugeru – Bajal – Bajal Pakkaladka – J.M.Road"
+  },
+  {
+    "busNo": "10A",
+    "id": 24,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Nagori – Padil – Kannurbettu – Adyar – AdyarLaunchJetty"
+  },
+  {
+    "busNo": "10B",
+    "id": 25,
+    "title": "State Bank – Jyothi – Balmatta – Kankanady – Pumpwell – Nagori – Padil – Kannurbettu – Adyar – AdyarLaunch"
+  },
+  {
+    "busNo": "11A",
+    "id": 26,
+    "title": "State Bank – Falnir – Kankanady – Nagori – Garodi – Padil – Kannurbettu"
+  },
+  {
+    "busNo": "11B",
+    "id": 27,
+    "title": "State Bank – Falnir – Kankanady – Nagori – Garodi – Padil – Jalligudde"
+  },
+  {
+    "busNo": "12A",
+    "id": 28,
+    "title": "State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Gurupura – Kaikamba – Addoor – Polali"
+  },
+  {
+    "busNo": "12B",
+    "id": 29,
+    "title": "State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Bikkarnakatta – Kulshekar – Kudupu – Vamanjoor – Gurupura – Kaikamba – Addoor – Polali – GolthamajalU"
+  },
+  {
+    "busNo": "13",
+    "id": 30,
+    "title": "State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – UrvaStore"
+  },
+  {
+    "busNo": "13A",
+    "id": 31,
+    "title": "State Bank – Car Street – Mannagudda – Ladyhill – Chilimbi – Urva Stores – Kottara"
+  },
+  {
+    "busNo": "13C",
+    "id": 32,
+    "title": "State Bank – K.S. Rao Road – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel"
+  },
+  {
+    "busNo": "13D",
+    "id": 33,
+    "title": "State Bank – K.S. Rao Road – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel – Padangady – Pacchanady"
+  },
+  {
+    "busNo": "13E",
+    "id": 34,
+    "title": "Mangaladevi – Bendoorwell – Jyothi  – Lalbagh – Ladyhill – Kuloor – Kudremukh Housing Colony – Hudco Colony – Govt. Womens  polytechnic – Govt. Quarters – Kavoor – Bondel"
+  },
+  {
+    "busNo": "14A",
+    "id": 35,
+    "title": "State Bank – Jyothi – Bendoorwell – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
+  },
+  {
+    "busNo": "14B",
+    "id": 36,
+    "title": "State Bank – Falnir – Bendoorwell – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
+  },
+  {
+    "busNo": "14C",
+    "id": 37,
+    "title": "Mangaladevi – MorgansGate – Attavara – Yemmekere – Nandigudda – Kankanady – Mallikatte – Kadri – Nanthur – Akashavani – K.P.T – Yeyyadi – Konchadi – Padangady – Bondel"
+  },
+  {
+    "busNo": "15",
+    "id": 38,
+    "title": "Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal"
+  },
+  {
+    "busNo": "15A",
+    "id": 39,
+    "title": "Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur - Katipalla"
+  },
+  {
+    "busNo": "15B",
+    "id": 40,
+    "title": "Mangaladevi – MorgansGate – Nandigudda – Kankanady – Mallikatte – Kadri Market– Nanthur – Akashavani – Bejai – KSRTC Bus Stand – Bharat Mall – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur – Katipalla – Chelairupadavu"
+  },
+  {
+    "busNo": "16",
+    "id": 41,
+    "title": "State Bank – Mission Street – Azizzudin Road – Kandathpalli – Mandi – Gokarnath  Temple – Kudroli – Bokkapatna – Boloor – SulthanBattery"
+  },
+  {
+    "busNo": "16A",
+    "id": 42,
+    "title": "State Bank – Car Street – Alake – Kudroli – Bokkapatna – Boloor – SulthanBattery"
+  },
+  {
+    "busNo": "17",
+    "id": 43,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
+  },
+  {
+    "busNo": "17A",
+    "id": 44,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
+  },
+  {
+    "busNo": "17B",
+    "id": 45,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Konchadi – Mullakadu – Kavoor – Maravoor – Kunjathbail"
+  },
+  {
+    "busNo": "18",
+    "id": 46,
+    "title": "State Bank – Pandeshwar – Hoige Bazar – Bolar – Jeppu Market – MorgansGate"
+  },
+  {
+    "busNo": "19",
+    "id": 47,
+    "title": "State Bank – Hampankatta – Jyothi – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Bejai – K.P.T – Yeyyadi – Konchadi – Padavinangadi – Bondel – Pacchanady"
+  },
+  {
+    "busNo": "21",
+    "id": 48,
+    "title": "State Bank – Jyothi – Bunts Hostel – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Kulshekar – Kaikamba – Neermarga"
+  },
+  {
+    "busNo": "22",
+    "id": 49,
+    "title": "State Bank – Jyothi – Bunts Hostel – Mallikatte – Nanthur – Bikkarnakatta – Kulshekar – Vamanjoor – Gurupura – Kaikamba – Bajpe"
+  },
+  {
+    "busNo": "22A",
+    "id": 50,
+    "title": "State Bank – Jyothi – Bunts Hostel – Mallikatte – Nanthur – Bikkarnakatta – Kulshekar – Vamanjoor – Gurupura – Kaikamba – Bajpe – BajpeAerodrome"
+  },
+  {
+    "busNo": "23",
+    "id": 51,
+    "title": "State Bank – Jyothi – Balmatta – Kankanady – Pumpwell – Nagori – Garodi – Padil – Faisalnagar"
+  },
+  {
+    "busNo": "27",
+    "id": 52,
+    "title": "State Bank – Attavar – Nandigudda – Marnamikatta – Mangaladevi"
+  },
+  {
+    "busNo": "27A",
+    "id": 53,
+    "title": "State Bank – Attavar – Nandigudda – Marnamikatta – Mangaladevi - Mulihithlu"
+  },
+  {
+    "busNo": "29",
+    "id": 54,
+    "title": "State Bank – Pandeshwar – Yemmekere – Bolar – Jeppu Market – MorgansGate"
+  },
+  {
+    "busNo": "30",
+    "id": 55,
+    "title": "State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil"
+  },
+  {
+    "busNo": "30A",
+    "id": 56,
+    "title": "State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil – Kannurbettu – Adyar"
+  },
+  {
+    "busNo": "30B",
+    "id": 57,
+    "title": "State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil – Kannurbettu – Adyar – AdyarLaunch"
+  },
+  {
+    "busNo": "31",
+    "id": 58,
+    "title": "State Bank – PVS – Canara College – Empire Mall – Ballalbagh – Mannagudda – Urva Market – Shediguri"
+  },
+  {
+    "busNo": "31A",
+    "id": 59,
+    "title": "State Bank – K.S. Rao Road –  PVS  – Canara College – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Urva Market – Ashoknagar"
+  },
+  {
+    "busNo": "31B",
+    "id": 60,
+    "title": "State Bank – Car Street – Mannagudda – Urva Market – Ashoknagar – Dombel"
+  },
+  {
+    "busNo": "33",
+    "id": 61,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana – Derebail – Konchadi – Akashbhavan"
+  },
+  {
+    "busNo": "37",
+    "id": 62,
+    "title": "State Bank – Jyothi – Balmatta – Kankanady – Mallikatte – Kadri – Nanthur – Bikkarnakatta – Maroli – Padil"
+  },
+  {
+    "busNo": "41A",
+    "id": 63,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Kuloor – Baikampady – Surathkal – Krishnapur – Katipalla – Chelairupadavu"
+  },
+  {
+    "busNo": "42",
+    "id": 64,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur – Thokkottu – Kotekar – Beeri – Talapady"
+  },
+  {
+    "busNo": "43",
+    "id": 65,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur – Thokkottu – Kotekar – Beeri – Talapady – Kinya"
+  },
+  {
+    "busNo": "44A",
+    "id": 66,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur – Thokkottu – Ullal – Someshwar"
+  },
+  {
+    "busNo": "44B",
+    "id": 67,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur – Thokkottu – Kotekar – Elyarpadavu"
+  },
+  {
+    "busNo": "44C",
+    "id": 68,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur – Thokkottu – Ullal – UllalLaunch"
+  },
+  {
+    "busNo": "44",
+    "id": 69,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – yekkur – Thokkottu – Ullal – Kotepura"
+  },
+  {
+    "busNo": "45",
+    "id": 70,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla"
+  },
+  {
+    "busNo": "45A",
+    "id": 71,
+    "title": "45A State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Chokkabettu"
+  },
+  {
+    "busNo": "45B",
+    "id": 72,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Chokkabettu."
+  },
+  {
+    "busNo": "45C",
+    "id": 73,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – Kaikamba"
+  },
+  {
+    "busNo": "45D",
+    "id": 74,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – MRPL – Kuthethur"
+  },
+  {
+    "busNo": "45E",
+    "id": 75,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Mangalpete – MRPL – Kaithakurneri"
+  },
+  {
+    "busNo": "45F",
+    "id": 76,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Kaikamba"
+  },
+  {
+    "busNo": "45G",
+    "id": 77,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Mason Road – JanathaColony"
+  },
+  {
+    "busNo": "45H",
+    "id": 78,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Madhyapadavu"
+  },
+  {
+    "busNo": "47",
+    "id": 79,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor – Bajpe"
+  },
+  {
+    "busNo": "47A",
+    "id": 80,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor – Bajpe"
+  },
+  {
+    "busNo": "47B",
+    "id": 81,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor –  Bajpe – BajpeAerodrome"
+  },
+  {
+    "busNo": "47C",
+    "id": 82,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Kapikad – Balebail – Kottara Cross – Kuntikana –Kavoor – Maravoor –  Bajpe – Bajpe Aerodrome – Bhatrakere – Kathalsar"
+  },
+  {
+    "busNo": "48",
+    "id": 83,
+    "title": "State Bank – Jyothi – Bunts Hostel – Mallikatta – Kadri – Nanthur Cross – KPT – Yeyyadi – Konchadi – Bondel –Kavoor – Maravoor – Bajpe"
+  },
+  {
+    "busNo": "48A",
+    "id": 84,
+    "title": "State Bank – Hampankatta – Jyothi – PVS – Empire Mall – Ballalbagh – Lalbagh – Saibeen Complex – Bharat Mall - KSRTC Bus Stand – Bejai – Bejai Church – Yeyyadi – Konchadi – – Bondel –Kavoor – Maravoor – Bajpe"
+  },
+  {
+    "busNo": "51",
+    "id": 85,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur – Thokkottu – Deralakatte – Mangalore University – Konaje"
+  },
+  {
+    "busNo": "51A",
+    "id": 86,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Yekkur – Thokkottu – Deralakatte – Mangalore University – Konaje - Inoli"
+  },
+  {
+    "busNo": "53",
+    "id": 87,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Chilimbi – Urva Store – Kottara Chowki – Kuloor – Panambur – Suratkal – Kana – Krishnapur – Katipalla – Soorinje – Tibar"
+  },
+  {
+    "busNo": "53A",
+    "id": 88,
+    "title": "Kankanady – Pumpwell – Nanthur – Kadri – Kuloor – Suratkal – Chokkabettu – Katipalla – Soorinje – Tibar"
+  },
+  {
+    "busNo": "54",
+    "id": 89,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Beeri – Maddur – Natekal – Manjanady – Thaudugoli"
+  },
+  {
+    "busNo": "54A",
+    "id": 90,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Deralakatte  – Natekal – Manjanady – Thaudugoli"
+  },
+  {
+    "busNo": "55",
+    "id": 91,
+    "title": "State Bank – Balmatta – Jyothi – Kankanady – Pumpwell – Thokkottu – Kuthar – Deralakatte  – Natekal – Konaje – Fajir – Harekal - Pavoor"
+  },
+  {
+    "busNo": "59",
+    "id": 92,
+    "title": "State Bank – K.S. Rao Road – PVS – Empire Mall – Ballalbagh – Lalbagh – Ladyhill – Kuloor – Baikampady – Chitrapur – Hosabettu – Suratkal"
+  },
+  {
+    "busNo": "60",
+    "id": 93,
+    "title": "Anandanagar – Nandanapura – Malemar – Ladyhill – Bejai Museum – Kadri Temple – Kankanady – Valencia – Gorigudde"
+  },
+  {
+    "busNo": "61",
+    "id": 94,
+    "title": "Kodikal – Kodikal Cross – Ladyhill – Bejai Museum – Kadri Temple – Pumpwell – Padil – Kankanady"
+  },
+  {
+    "busNo": "62A",
+    "id": 95,
+    "title": "Padil Railway Station – KPT – Bondel – Kavoor – Kulur – Kaikamba – Katipalla"
+  },
+  {
+    "busNo": "64",
+    "id": 92,
+    "title": "Mudushedde – Vamanjoor – Kudpu Temple – Govt. Dairy Bikkarnakatta – Nanthur – KPT – Yeyyadi – Maryhill – Bondel – Kavoor – Kulur – Panambur – Chitrapur Temple – Hosabettu – Suratkal – Chokkabettu – Katipalla – Mangalapete – Kuthethur"
+  }
+]
