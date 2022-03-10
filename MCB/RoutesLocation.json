@@ -605,93 +605,188 @@
     "place": "Derebail"
   },
   {
-    "latitude": 10,
-    "longitude": 91,
-    "place": ""
+    "latitude": 12.836796,
+    "longitude": 74.907920,
+    "place": "Elyarpadavu"
   },
   {
-    "latitude": 10,
-    "longitude": 92,
-    "place": ""
+    "latitude": 12.820911,
+    "longitude": 74.840470,
+    "place": "Kotepura"
   },
   {
-    "latitude": 10,
-    "longitude": 93,
-    "place": ""
+    "latitude": 12.953269,
+    "longitude": 74.801108,
+    "place": "Panambur"
   },
   {
-    "latitude": 10,
-    "longitude": 94,
-    "place": ""
+    "latitude": 12.980665,
+    "longitude": 74.817031,
+    "place": "Kana"
   },
   {
-    "latitude": 10,
-    "longitude": 95,
-    "place": ""
+    "latitude": 12.995146,
+    "longitude": 74.809425,
+    "place": "Chokkabettu"
   },
   {
-    "latitude": 10,
-    "longitude": 92,
-    "place": ""
+    "latitude": 12.993445,
+    "longitude": 74.839619,
+    "place": "Mangalpete"
   },
   {
-    "latitude": 10,
-    "longitude": 91,
-    "place": ""
+    "latitude": 12.993257,
+    "longitude": 74.839855,
+    "place": "MRPL"
   },
   {
-    "latitude": 10,
-    "longitude": 92,
-    "place": ""
+    "latitude": 13.004771,
+    "longitude": 74.848173,
+    "place": "Kuthethur"
   },
   {
-    "latitude": 10,
-    "longitude": 93,
-    "place": ""
+    "latitude": 12.988225,
+    "longitude": 74.823245,
+    "place": "JanathaColony"
   },
   {
-    "latitude": 10,
-    "longitude": 94,
-    "place": ""
+    "latitude": 13.011288,
+    "longitude": 74.815581,
+    "place": "Madhyapadav"
   },
   {
-    "latitude": 10,
-    "longitude": 95,
-    "place": ""
+    "latitude": 12.995910,
+    "longitude": 74.884929,
+    "place": "Bhatrakere"
   },
   {
-    "latitude": 10,
-    "longitude": 92,
-    "place": ""
+    "latitude": 12.999353,
+    "longitude": 74.901223,
+    "place": "Kathalsar"
   },
   {
-    "latitude": 10,
-    "longitude": 91,
-    "place": ""
+    "latitude": 12.808522,
+    "longitude": 74.894642,
+    "place": "Derlakatte"
   },
   {
-    "latitude": 10,
-    "longitude": 92,
-    "place": ""
+    "latitude": 12.818636,
+    "longitude": 74.916913,
+    "place": "Mangalore University"
   },
   {
-    "latitude": 10,
-    "longitude": 93,
-    "place": ""
+    "latitude": 12.814021,
+    "longitude": 74.923290,
+    "place": "Konaje"
   },
   {
-    "latitude": 10,
-    "longitude": 94,
-    "place": ""
+    "latitude": 12.856052,
+    "longitude": 74.954572,
+    "place": "Inoli"
   },
   {
-    "latitude": 10,
-    "longitude": 95,
-    "place": ""
+    "latitude": 13.025344,
+    "longitude": 74.841428,
+    "place": "Soorinje"
   },
   {
-    "latitude": 10,
-    "longitude": 92,
-    "place": ""
+    "latitude": 13.039031,
+    "longitude": 74.848398,
+    "place": "Tibar"
+  },
+  {
+    "latitude": 12.589154,
+    "longitude": 77.044768,
+    "place": "Maddur"
+  },
+  {
+    "latitude": 12.804973,
+    "longitude": 74.899211,
+    "place": "Natekal"
+  },
+  {
+    "latitude": 12.788936,
+    "longitude": 74.902884,
+    "place": "Manjanady"
+  },
+  {
+    "latitude": 12.776063,
+    "longitude": 74.923594,
+    "place": "Thaudugoli"
+  },
+  {
+    "latitude": 12.819402,
+    "longitude": 74.878342,
+    "place": "Kuthar"
+  },
+  {
+    "latitude": 12.831527,
+    "longitude": 74.932976,
+    "place": "Fajir"
+  },
+  {
+    "latitude": 12.851045,
+    "longitude": 74.917223,
+    "place": "Harekal"
+  },
+  {
+    "latitude": 12.853253,
+    "longitude": 74.949156,
+    "place": "Pavoor"
+  },
+  {
+    "latitude": 12.961879,
+    "longitude": 74.800737,
+    "place": "Chitrapur"
+  },
+  {
+    "latitude": 12.974743,
+    "longitude": 74.803664,
+    "place": "Hosabettu"
+  },
+  {
+    "latitude": 12.908007,
+    "longitude": 74.841320,
+    "place": "Malemar"
+  },
+  {
+    "latitude": 12.887161,
+    "longitude": 74.849560,
+    "place": "Bejai Museum"
+  },
+  {
+    "latitude": 12.885293,
+    "longitude": 74.855492,
+    "place": "Kadri Temple"
+  },
+  {
+    "latitude": 12.864465,
+    "longitude": 74.857946,
+    "place": "Valencia"
+  },
+  {
+    "latitude": 12.860691,
+    "longitude": 74.866774,
+    "place": "Gorigudde"
+  },
+  {
+    "latitude": 12.907611,
+    "longitude": 74.829636,
+    "place": "Kodikal"
+  },
+  {
+    "latitude": 12.905124,
+    "longitude": 74.829310,
+    "place": "Kodikal Cross"
+  },
+  {
+    "latitude": 12.875436,
+    "longitude": 74.894218,
+    "place": "Padil Railway Station"
+  },
+  {
+    "latitude": 12.904875,
+    "longitude": 74.863161,
+    "place": "Maryhill"
   }
 ]
