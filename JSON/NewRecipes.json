@@ -1,5 +1,25 @@
 [
     {
+        "Id": "9.14",
+        "Title": "Soya Chunks Masala",
+        "SubTitle": "null",
+        "Category": "#4cbb17",
+        "Duration": "20min",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg",
+        "Prepare": [
+            {
+                "ImgURL": [ "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala3.jpg" ],
+                "Incredients": [ "100gms. - Soya chunks(soaked in hot water for 10-15min. Remove from water and cut into 2 pieces.)" ],
+                "Masala": [ "2big - Onions, finely sliced","2big - Tomatoes, finely chopped","1tbsp. - ginger garlic paste","1tsp. - Coriander powder","1tsp. - Jeera", "1tsp. - Garam Masala powder","1tsp. - Red chilly powder", "4 - Green chillies sliced into two", "Salt to taste", "Oil for frying", "1/2tsp. - Turmeric powder", "2sprig - Curry leaves", "1handful - Coriander leaves, finely chopped"],
+                "Method": [
+                    {
+                        "Steps": [ "Keep vessel on fire.","Add oil, jeera, then add sliced onions, green chilies, tomato, turmeric powder.", "Stir, then add ginger garlic paste. Cook till its raw smell goes.", "Now add red chilly powder, garam masala powder, coriander powder, curry leaves and salt. Mix altogether.", "Now add soya chunks, mix and cover the lid.", "Cook for 10minutes. Don't add waster.", "Garnish with coriander leaves and off the fire.", "Serve hot with chapathi or rice as side dish."]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": "8.2",
         "Title": "Boiled Egg Fry Masala",
         "SubTitle": "null",
