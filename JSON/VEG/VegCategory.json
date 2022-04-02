@@ -1337,7 +1337,7 @@
         "Id": "9",
         "Title": "Curry Special",
         "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/CurrySpecial.jpeg",
-        "Count": "13",
+        "Count": "14",
         "RecipesList": [
             {
                 "Id": "9.1",
@@ -1596,10 +1596,10 @@
                 "Title": "Soya Chunks Masala",
                 "SubTitle": "null",
                 "Duration": "---",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Bendekai1.jpg",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": [ "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Bendekai3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Bendekai1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/Bendekai2.jpg" ],
+                        "ImgURL": [ "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala3.jpg" ],
                         "Incredients": [ "100gms. - Soya chunks(soaked in hot water for 10-15min. Remove from water and cut into 2 pieces.)" ],
                         "Masala": [ "2big - Onions, finely sliced","2big - Tomatoes, finely chopped","1tbsp. - ginger garlic paste","1tsp. - Coriander powder","1tsp. - Jeera", "1tsp. - Garam Masala powder","1tsp. - Red chilly powder", "4 - Green chillies sliced into two", "Salt to taste", "Oil for frying", "1/2tsp. - Turmeric powder", "2sprig - Curry leaves", "1handful - Coriander leaves, finely chopped"],
                         "Method": [
