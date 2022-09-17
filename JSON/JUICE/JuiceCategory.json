@@ -1,5 +1,257 @@
 [
-  {
-    "Data": "empty"
-  }
+    {
+        "Id": "1",
+        "Title": "Karavali Special",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/Maalpuri1.jpg",
+        "Count": "7",
+        "RecipesList": [
+            {
+                "Id": "1.1",
+                "Title": "Sheera",
+                "SubTitle": "null",
+                "Duration": "15min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
+                        "Incredients": [ "1Cup - Bombay Rava", "3/4Cups - Sugar", "4tbsp. - Ghee", "4Cups - Milk or water", "1tbsp. - Cashew nuts", "1tbsp. - Raisins(dry grapes)", "1tsp. - Cardamom, powdered", "5-6 - Safron, mixed in little milk or orange colour", "1 pinch - Salt" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate.", "Fry Bombay Rava with 1tbsp. Ghee until light brown in colour with low flame.", "Keep aside.", "Boil the milk in a vessel, add sugar, saffron and salt.", "Pour the fried rava slowly and stir to avoid lumps.", "Add 2tbsp. Ghee and Cook on slow fire until it is dry.", "Add Cardamom powder and fried nuts.", "Mix well and remove from fire.", "Ready to serve." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.2",
+                "Title": "Carrot Halwa",
+                "SubTitle": "null",
+                "Duration": "1hr 15min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/CarrotHalwa2.jpeg" ],
+                        "Incredients": [ "1Kg. - Carrot", "3tbsp. - Ghee", "100gms. - Cashew nuts", "50gms. - Raisins", "20gms. - almonds, chopped", "10 - Pistachios, chopped", "450gms - Sugar", "1/2liter - Milk" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Peel the skin of carrot, wash, scrap and keep aside.", "Fry Cashews, Raisins, Almonds and Pistachios with 2tsp. ghee, remove it to a plate.", "Keep the vessel on fire, fry the scrapped carrots, till its colour changes.", "Add sugar, milk and cook till the water contents dissolve.", "Add Ghee, stir and cook.", "Cream can be added.", "After it cooks well, add fried dry fruits, mix and turn off the gas." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "1.3",
+                "Title": "White Pumpkin Halwa",
+                "SubTitle": "Kashi Halwa",
+                "Duration": "1hr 15min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/PumpkinHalwa2.jpeg" ],
+                        "Incredients": [ "1Kg. - White Pumpkin, skinned & scrapped", "1Cup - Cream", "2Cups - Sugar", "4tbsp. - Ghee", "2tbsp. - Chopped nuts(fried with ghee)" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Cook the scrapped pumpkin with its own water till dry.", "Add cream and sugar.", "Keep on stirring till completely dry and brown in colour.", "Add ghee.", "Fry till ghee floats on top.", "Remove and decorate with chopped nuts."]
+                            }
+                        ],
+                        "Note": "Same Halwa can be done with bottle guard."
+                    }
+                ]
+            },
+            {
+                "Id": "1.4",
+                "Title": "Rava Laddoo",
+                "SubTitle": "null",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RawaLaddu1.jpg" ],
+                        "Incredients": [ "1/2Kg - Bombay Rava", "1Cup - grated Coconut", "2tbsp. - Ghee", "1/4kg. - Sugar, powdered", "50gms. - Cashew nuts", "50gms. - Raisins", "1tsp. - Cardamom powder" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Keep a Kadai on fire.", "Fry cashew nuts and raisins with 1tsp. ghee and keep aside.", "Fry Bombay Rava with 1tbsp. Ghee.", "Fry for 10 minutes with low flame.", "Add coconut and sugar powder and mix well.", "Off the gas. Add cardamom powder, fried cashews and raisins and mix.", "Add hot ghee if needed", "Make small laddoos."]
+                            }
+                        ],
+                        "Note": "It can be stored for many days."
+                    }
+                ]
+            },
+            {
+                "Id": "1.5",
+                "Title": "Rice Laddoo",
+                "SubTitle": "Aritha Unde",
+                "Duration": "50min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RiceLaddu1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RiceLaddu1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RiceLaddu2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/RiceLaddu3.jpg" ],
+                        "Incredients": [ "4Cups - Boiled Rice", "Salt to taste", "1Big - Coconut, grated", "500gms. - Jaggery, powdered", "1tsp. - Cardamom", "1tsp. - Pepper corns(optional)", "4tbsp. - Ghee", "100gms. - Cashew nuts", "50gms. - Raisins" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the boiled rice.", "Add salt with little water and mix it with rice.", "Spread rice on a large plate and dry in the sunlight for one day.", "Keep the thick bottomed vessel on fire.", "Fry the rice little by little, grind to a rough powder and keep aside.", "Grind the coconut with jaggery, cardamom and pepper to fine powder.", "Mix it with rice powder.", "Fry Cashew nuts and raisins in 1tsp. ghee and mix to the powder.", "Add the remained ghee and mix it well.", "Make the laddos.", "40-45 laddoos can be made, store in a air tight jar." ]
+                            }
+                        ],
+                        "Note": "It is a Karavali special, traditional sweet."
+                    }
+                ]
+            },
+            {
+                "Id": "1.6",
+                "Title": "Malpuri",
+                "SubTitle": "null",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri4.jpg" ],
+                        "Incredients": [ "3Cups - Maida", "2Cups - Sugar", "1/2tsp. - Salt", "1Pinch - Turmeric powder", "1tbsp. - Bombay Rawa", "1tsp. - Cardamom, powdered", "Oil for frying" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Mix all the ingredients with water to the thick batter(Idli batter).", "Keep aside for 10-15 minutes.", "Keep oil on fire.", "Heat and Pour 1 ladleful of batter.", "Fry both the sides, until crisp and brown with medium flame.", "Remove it with 2 Spoons, press at the centre from back side of the spoon.", "This makes it flat." ]
+                            }
+                        ],
+                        "Note": "15-16 Malpuries can be made."
+                    }
+                ]
+            },
+            {
+                "Id": "1.7",
+                "Title": "Jackfruit Garige",
+                "SubTitle": "Pelakai Gulma",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige3.jpg" ],
+                        "Incredients": [ "1kg. - Jackfruit(without seeds), sliced", "1/2kg - Raw rice", "1 - Coconut, grated", "50gms. - Jaggery", "10 - Cardamoms", "Salt to taste", "Oil for frying" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash and soak rice for 2 hours", "Drain the water and grind with jackfruit and coconut.", "After a little while add jaggery and cardamom.", "Grind further without adding water at all.", "Add salt to taste and grind it to a coarse paste.", "Remove and keep aside.", "Heat oil in a deep pan. When oil is hot, make small balls of the paste and deep fry in oil till brown in colour.", "Drain and serve." ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2",
+        "Title": "Payasam",
+        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial.jpeg",
+        "Count": "6",
+        "RecipesList": [
+            {
+                "Id": "2.1",
+                "Title": "Green Gram Daal Payasam",
+                "SubTitle": "Padengi Bele Payasa",
+                "Duration": "1hr",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/GreenGramPayasam2.jpeg" ],
+                        "Incredients": [ "1/4Kg. - Green Gram Daal", "100gms. - Saagu", "Milk of 1 Coconut(thick and thin milk)", "1/2Kg. - Jaggery", "1tsp. - Cardamom, powdered", "10-15 cashew nuts and Raisins", "1/2tsp. - Salt", "1tbsp. - Ghee"],
+                        "Method": [
+                            {
+                                "Steps": [ "Boil Sagu with thin coconut milk.", "When it is half cooked, add green gram daal and cook.", "Add jaggery, salt and stir continuously.", "Then add thick coconut milk and cook.", "Add cardamom powder.", "Fry Cashew nuts and raisins with ghee.", "Add to the Payasam." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.2",
+                "Title": "Chana Dal Payasam",
+                "SubTitle": "Kadle Bele Payasa",
+                "Duration": "1hr",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal2.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/ChanaDal1.jpeg" ],
+                        "Incredients": [ "1/4Kg. - Channa Daal", "2tbsp. - Raw Rice", "100gms. - Saagu", "1/2Kg. - Jaggery", "Milk of 1 Coconut", "50gms. - Cashew nuts", "50gms. - Raisins", "4-5 - Cardamoms, crushed", "1tbsp. - Ghee"],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry Cashew nuts and raisins with ghee.", "Keep aside.", "Boil Channa daal and Saagu with 8 cups of water.", "Grind the rice coarsely and mix it with the daal and cook for sometime.", "Add jaggery and salt, and keep on stirring.", "Add coconut milk and cook.", "Add cardamom powder.", "Add fried cashews and raisins and stir." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.3",
+                "Title": "Vermecelli Payasam",
+                "SubTitle": "Seme Payasa",
+                "Duration": "45min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/SemiyaPayasam3.jpeg" ],
+                        "Incredients": [ "100gms. - Vermicelli", "50gms. - Cashew nuts & Raisins", "1/2liter - Milk", "3/4cup - Sugar", "1tsp. - Cardamoms, crushed", "2tbsp. - Ghee", "100gms. - Saagu(optional)" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Cook Saagu with water and keep aside.", "Fry Vermicelli, Cashews and raisins with ghee and keep aside.", "Boil the milk in vessel, add vermecelli and cook for sometime.", "Add cooked sagoo, sugar and stir.", "Add Cardamom and fried dry fruits." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.4",
+                "Title": "Broken Wheat Payasam",
+                "SubTitle": "Godi Kadi Payasa",
+                "Duration": "1hr",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat1.jpeg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/BrokenWheat2.jpeg" ],
+                        "Incredients": [ "250gms. - Broken Wheat(Godi Kadi)", "300gms. - Jaggery", "Milk of 1 Coconut(thin and thick milk)", "50gms. - Cashew nuts", "50gms. - Raisins", "4-5 - Cardamoms, crushed", "1/2tsp. - Salt", "1tbsp. - Ghee"],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry Cashew nuts and raisins with ghee.", "Keep aside.", "Cook broken wheat with thin coconut milk.", "Add Jaggery and salt.", "Then add thick coconut milk and cook well.", "Add jaggery, if required.", "Add Cardamoms and fried nuts." ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "2.5",
+                "Title": "Rice Kheer(1)",
+                "SubTitle": "null",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS2.jpg"],
+                        "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "1big tender coconut", "3cups - Jaggery, powdered", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "1tbsp. - Ghee", "1tsp. - Salt" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Wash the Gandhakasala Rice.", "Cook with water till it becomes very soft.", "Pour the coconut milk. Mix and cook for 10 minutes.", "Add jaggery and salt. Stir well.", "Taste the sweet, add jaggery if needed.", "Add cardamom. Fry cashews and raisins with ghee.", "Add it to Kheer.", "Serve hot." ]
+                            }
+                        ],
+                        "Note": "Gandhakasala rice gives a good aroma."
+                    }
+                ]
+            },
+            {
+                "Id": "2.6",
+                "Title": "Rice Kheer(2)",
+                "SubTitle": "null",
+                "Duration": "30min",
+                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
+                        "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "2litres - thick milk", "4Cups - Sugar", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "4-5 - Saffrons, mixed with milk(optional)", "1tbsp. - Ghee", "1tsp. - Salt" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry cashews and raisins with ghee and keep aside.", "Cook the rice with water.", "Add salt and cook till it becomes very soft.", "Pour the milk.", "When it boils add sugar and stir well.", "Add cardamom, Saffrons, Fried cashews and raisins.", "Mix altogether and off the fire.", "Serve hot." ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 ]
