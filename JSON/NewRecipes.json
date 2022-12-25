@@ -8,7 +8,7 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg",
         "Prepare": [
             {
-                "ImgURL": [ "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala3.jpg" ],
+                "ImgURL": [ "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala1.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala3.jpg" ],
                 "Incredients": [ "100gms. - Soya chunks(soaked in hot water for 10-15min. Remove from water and cut into 2 pieces.)" ],
                 "Masala": [ "2big - Onions, finely sliced","2big - Tomatoes, finely chopped","1tbsp. - ginger garlic paste","1tsp. - Coriander powder","1tsp. - Jeera", "1tsp. - Garam Masala powder","1tsp. - Red chilly powder", "4 - Green chillies sliced into two", "Salt to taste", "Oil for frying", "1/2tsp. - Turmeric powder", "2sprig - Curry leaves", "1handful - Coriander leaves, finely chopped"],
                 "Method": [
@@ -25,10 +25,10 @@
         "SubTitle": "null",
         "Category": "#ff0800",
         "Duration": "20min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg" ],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg" ],
                 "Incredients": [ "6-8 - Eggs" ],
                 "Masala": [ "1Big - Onion, finely chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder", "1&1/2tsp. - Pepper powder", "1/2tsp. - Coriander powder", "1tsp. - Garam masala powder", "1tsp. - Jeera", "1tbsp. - Oil", "1spring - Curry leaves", "2tsp. - Red Chilly powder(for more spicy)", "Salt to taste" ],
                 "Method": [
@@ -45,10 +45,10 @@
         "SubTitle": "Chitranna",
         "Category": "#4cbb17",
         "Duration": "30min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg" ],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg" ],
                 "Incredients": [ "3Cups - Sona Masoori Rice", "6Cups - Water(Double of rice)", "1tbsp. - Uraddaal", "1Cup - Ground nut", "4 - Green chillies, slitted", "1tbsp. - Oil", "1pinch - Saffron color or turmeric powder", "2Sprig - Curry leaves", "1tbsp. - Lemon juice", "1 - Big onion, finely sliced", "Salt to taste"],
                 "Method": [
                     {
@@ -65,10 +65,10 @@
         "SubTitle": "Bondas Ajadina",
         "Category": "#ff0800",
         "Duration": "45min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg" ],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg" ],
                 "Incredients": [ "1Kg - Bondas Fish", "For Seasoning:", "1tsp. - coconut oil", "1 onion, finely chopped", "1sprig - curry leaves" ], 
                 "Masala": [ "12-15 - Red Chillies mix", "1tbsp. - Coriander seeds", "1spoon - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "1/4thtsp. - Ajwain(oama)", "5-6 - Garlic floakes", "1 onion, cut", "Tamarind small ball", "1cup - coconut, grated", "Salt to taste", "1tsp. - coconut oil" ],
                 "Method": [
@@ -85,10 +85,10 @@
         "SubTitle": "null",
         "Category": "#867ae9",
         "Duration": "30min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS2.jpg"],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS2.jpg"],
                 "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "1big tender coconut", "3cups - Jaggery, powdered", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "1tbsp. - Ghee", "1tsp. - Salt" ],
                 "Method": [
                     {
@@ -105,10 +105,10 @@
         "SubTitle": "null",
         "Category": "#867ae9",
         "Duration": "30min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
                 "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "2litres - thick milk", "4Cups - Sugar", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "4-5 - Saffrons, mixed with milk(optional)", "1tbsp. - Ghee", "1tsp. - Salt" ],
                 "Method": [
                     {
@@ -124,10 +124,10 @@
         "SubTitle": "Ambade Gasi",
         "Category": "#4cbb17",
         "Duration": "30min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi1.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi3.jpg" ],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi2.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi1.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi3.jpg" ],
                 "Incredients": [ "6-8 - Sour Fruit", "For Seasoning:", "1 - Broken long red chilly", "1tsp. - Mustard Seeds", "2sprig - curry leaves", "1 - Onion, finelly chopped", "4-5 - Garlic flakes, crushed" ],
                 "Masala": [ "10 - Long Red Chillies, 5 -Short Chillies", "1tbsp. - Coriander seeds", "1tsp. - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "5-6 - Garlic flakes", "1 - onion, sliced", "1/4tsp. - Turmeric powder", "1Cup - Coconut, grated", "1 piece - Jaggery" ],
                 "Method": [
@@ -145,10 +145,10 @@
         "SubTitle": "null",
         "Category": "#ff0800",
         "Duration": "45min",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg" ],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg" ],
                 "Incredients": [ "25 - Red Chillies, roasted", "1piece - Ginger", "20-25 - Garlic", "1tbsp. - coriander seeds, roasted", "1tsp. - Jeera", "Salt to taste", "Tamarind, size of a lime", "1/2Cup - Rice flour", "1/2Cup - Corn flour", "2tbsp. - Oil for frying" ],
                 "Method": [
                     {
