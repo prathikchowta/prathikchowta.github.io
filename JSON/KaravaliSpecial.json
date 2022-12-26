@@ -19,64 +19,64 @@
         ]
     },
     {
-        "Id": "2",
-        "Title": "Spicy Fish Curry",
-        "SubTitle": "Meen Puli Munchi",
-        "Category": "#ff0800",
-        "Duration": "30min",
-        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
-        "Prepare": [
-            {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
-                "Incredients": [ "12 - Mackerels or 25 - big Saradine, cleaned & cut into two" ],
-                "Masala": [ "30-35 Long chillies","Tamarind - size of two lemons","2tbsp. - Coriander seeds","1tbsp. - Jeera","1/4tsp. - Methi seeds","1tbsp. - pepper corns","1/4tsp. - oama","1/4tsp. - turmeric powder","4-5 - Garlic flakes","1tbsp. - Coconut oil","Salt to taste" ],
-                "Method": [
+                "Id": "2",
+                "Title": "Chicken Sukka",
+                "SubTitle": "Kori Ajadina",
+                "Category": "#ff0800",
+                "Duration": "45 minutes",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
+                "Prepare": [
                     {
-                        "Steps": [ "Fry the Masala ingredients, except tamarind, turmeric powder and garlic with coconut oil.", "Add all the ingredients and grind to a thick fine paste.","Add little water and keep aside.","Keep earthen pot on fire.","Put coconut oil, crushed garlic flakes, 2 Chopped green chilies and ginger.","Then add ground masala, add salt, stir and boil.","Place fish in it and cook for 5-10 minutes." ]
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg" ],
+                        "Incredients": [ "1 Big Chicken - Cleaned and cut" ],
+                        "Masala": [ "30 - Red Chillies(20 long & 10 short)", "3tbsp. - Coriander seeds", "1tsp. - Jeera", "10-15 Curry leaves","1tsp. - Methi", "1/2tsp. - Pepper corns", "7-8 - Garlic flakes", "1tsp. - turmeric powder", "Tamarind - size of its seed", "1 - Coconut(grated)", "10-12 - Garlic flakes", "1tsp. - Jeera", "3 Big - Onions(chopped)", "1tbsp. - Butter", "Salt to taste", "1tsp. - Coconut oil(for frying)"],
+                        "Method": [
+                            {
+                                "Steps": [ "Fry the masala ingredients - Chillies, Coriander seeds, Jeera, Curry leaves, Methi and Pepper corns in coconut oil.", "Grind along with garlic, 1 onion, turmeric powder and tamarind to a fine paste.", "Then add coconut and grind coarsely without water and keep aside.", "Keep 2tbsp. Ghee in Kadai and add 2 onions, chopped.", "Fry till it becomes dark brown", "Add cleaned and cut chicken.", "Add butter, salt and cook.", "Add ground masala and cook.", "Keep it on slow fire till it becomes dry.", "Ready to serve." ]
+                            }
+                        ]
                     }
-                ],
-                "Note": "It can be kept for 2 days."
-            }
-        ]
-    },
+                ]
+            },
     {
         "Id": "3",
-        "Title": "Jackfruit Garige",
-        "SubTitle": "Pelakai Gulma",
+        "Title": "Sheera",
+        "SubTitle": "null",
         "Category": "#867ae9",
-        "Duration": "30min",
-        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg",
+        "Duration": "15min",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige2.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Gaarige3.jpg" ],
-                "Incredients": [ "1kg. - Jackfruit(without seeds), sliced", "1/2kg - Raw rice", "1 - Coconut, grated", "50gms. - Jaggery", "10 - Cardamoms", "Salt to taste", "Oil for frying" ],
+                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
+                "Incredients": [ "1Cup - Bombay Rava", "3/4Cups - Sugar", "4tbsp. - Ghee", "4Cups - Milk or water", "1tbsp. - Cashew nuts", "1tbsp. - Raisins(dry grapes)", "1tsp. - Cardamom, powdered", "5-6 - Safron, mixed in little milk", "1 pinch - Salt" ],
                 "Method": [
                     {
-                        "Steps": [ "Wash and soak rice for 2 hours", "Drain the water and grind with jackfruit and coconut.", "After a little while add jaggery and cardamom.", "Grind further without adding water at all.", "Add salt to taste and grind it to a coarse paste.", "Remove and keep aside.", "Heat oil in a deep pan. When oil is hot, make small balls of the paste and deep fry in oil till brown in colour.", "Drain and serve." ]
+                        "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate.", "Fry Bombay Rava with 1tbsp. Ghee until light brown in colour with low flame.", "Keep aside.", "Boil the milk in a vessel, add sugar, saffron and salt.", "Pour the fried rava slowly and stir to avoid lumps.", "Add 2tbsp. Ghee and Cook on slow fire until it is dry.", "Add Cardamom powder and fried nuts.", "Mix well and remove from fire.", "Ready to serve." ]
                     }
                 ]
             }
         ]
     },
     {
-        "Id": "4",
-        "Title": "Turmeric Leaf Gatti",
-        "SubTitle": "Manjal Ereda Gatti",
-        "Category": "#4cbb17",
-        "Duration": "---",
-        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg",
-        "Prepare": [
-            {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti1.jpeg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti2.jpeg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti3.jpeg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/TurmericGatti4.jpeg" ],
-                "Incredients": [ "12-15 - Turmeric leaves","1/2kg - Boiled rice(soaked in water for 4 -6 hours)", "Salt to taste", "For filling:", "1 coconut(grated)", "1/2kg - jaggery(grated)", "4 cardamoms(powdered)" ],
-                "Method": [
+                "Id": "4",
+                "Title": "Colacasia Leaves Rolls",
+                "SubTitle": "Patradde",
+                 "Category": "#4cbb17",
+                "Duration": "---",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg",
+                "Prepare": [
                     {
-                        "Steps": [ "Wash and wipe the turmeric leaves to make it dry.", "Grind the rice with salt to taste and just add enough water to a fine paste.", "Remove the prepared paste and apply evenly on each turmeric leaf.", "Mix the filling ingredients.", "Place one spoon on top and fold the leaves into half.", "Steam them till cooked in an Idli cooker."]
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade1.jpeg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade2.jpeg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Karavali/Pathrade3.jpeg" ],
+                        "Incredients": [ "200gms. - urad daal, wash and soak for 6 hours", "1kg. - boiled rice, wash & soak for 4 hours", "6 - red chillies(roasted)", "2tbsp. - coriander seeds(roasted)", "Salt to taste", "Tamarind - size of a lime", "1tsp. - Turmeric powder", "20-25 colacasia leaves(thevu)", "10 - tekki leaves", "For Gravy:", "1 - grated coconut", "4 - dry red chillies", "2tsp. - coriander seeds(roasted)", "2 - onions chopped", "Salt to taste","2tsp - ghee or oil for seasoning"],
+                        "Method": [
+                            {
+                                "Steps": [ "Grind urad daal and keep aside.", "Grind rice finely with coriander seeds, chillies, tamarind, turmeric powder and salt.", "Finely chop colacasia leaves and mix well into the rice and urad paste.", "Put 2 spoonful into a tekki leaves.", "Cover and steam for 45 minutes.", "Remove from fire and let it cool.", "To prepare Gravy: Grind coconut with chillies, coriander seeds and turmeric. Add enough water, salt and 1 chopped onion and keep it to boil.", "Cut the patrade rolls into 1/2 inch rounds and add to gravy.","Boil again for 1 minute.", "Season with 1 finely chopped onion in ghee or oil." ]
+                            }
+                        ],
+                        "Note": "Patrade can be eaten without gravy. For that you can cut patrade into 1/2 inch rounds. Fry it on the tava with ghee and serve hot."
                     }
                 ]
-            }
-        ]
-    },
+            },
     {
         "Id": "5",
         "Title": "Chicken Curry with Rotti",
@@ -99,22 +99,23 @@
         ]
     },
     {
-        "Id": "6",
-        "Title": "Sheera",
-        "SubTitle": "null",
-        "Category": "#867ae9",
-        "Duration": "15min",
-        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg",
-        "Prepare": [
-            {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera2.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Sheera3.jpg" ],
-                "Incredients": [ "1Cup - Bombay Rava", "3/4Cups - Sugar", "4tbsp. - Ghee", "4Cups - Milk or water", "1tbsp. - Cashew nuts", "1tbsp. - Raisins(dry grapes)", "1tsp. - Cardamom, powdered", "5-6 - Safron, mixed in little milk", "1 pinch - Salt" ],
-                "Method": [
+                "Id": "6",
+                "Title": "Malpuri",
+                "SubTitle": "null",
+                 "Category": "#867ae9",
+                "Duration": "30min",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg",
+                "Prepare": [
                     {
-                        "Steps": [ "Fry Cashew nuts and Raisins with 1tbsp. Ghee and Remove to a plate.", "Fry Bombay Rava with 1tbsp. Ghee until light brown in colour with low flame.", "Keep aside.", "Boil the milk in a vessel, add sugar, saffron and salt.", "Pour the fried rava slowly and stir to avoid lumps.", "Add 2tbsp. Ghee and Cook on slow fire until it is dry.", "Add Cardamom powder and fried nuts.", "Mix well and remove from fire.", "Ready to serve." ]
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri2.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri3.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/KaravaliSpecail/Maalpuri4.jpg" ],
+                        "Incredients": [ "3Cups - Maida", "2Cups - Sugar", "1/2tsp. - Salt", "1Pinch - Turmeric powder", "1tbsp. - Bombay Rawa", "1tsp. - Cardamom, powdered", "Oil for frying" ],
+                        "Method": [
+                            {
+                                "Steps": [ "Mix all the ingredients with water to the thick batter(Idli batter).", "Keep aside for 10-15 minutes.", "Keep oil on fire.", "Heat and Pour 1 ladleful of batter.", "Fry both the sides, until crisp and brown with medium flame.", "Remove it with 2 Spoons, press at the centre from back side of the spoon.", "This makes it flat." ]
+                            }
+                        ],
+                        "Note": "15-16 Malpuries can be made."
                     }
                 ]
             }
-        ]
-    }
 ]
