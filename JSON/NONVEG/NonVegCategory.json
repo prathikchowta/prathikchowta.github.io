@@ -13,12 +13,42 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces" ],
-                        "Masala": ["1/2 - Coconut grated", "Red Chillies - 15 long & 8 short", "2tbsp. - Coriander seeds", "1tsp. - Cumin seeds(Jeera)", "1tbsp. - Curry leaves", "1/2tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 - tomato, Chopped", "1/2tsp. - Turmeric powder", "Tamarind - small ball", "3tbsp. - Ghee", "1tsp. - Coconut oil", "1tbsp. - Butter", "Salt to taste"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"
+                        ],
+                        "Incredients": [
+                            "1Kg. Chicken - Cleaned and cut into pieces"
+                        ],
+                        "Masala": [
+                            "1/2 - Coconut grated",
+                            "Red Chillies - 15 long & 8 short",
+                            "2tbsp. - Coriander seeds",
+                            "1tsp. - Cumin seeds(Jeera)",
+                            "1tbsp. - Curry leaves",
+                            "1/2tsp. - Pepper corns",
+                            "1/2tsp. - Fenugreek seeds(Methi)",
+                            "5-6 - Garlic flakes",
+                            "4 - Onions Chopped",
+                            "1 - tomato, Chopped",
+                            "1/2tsp. - Turmeric powder",
+                            "Tamarind - small ball",
+                            "3tbsp. - Ghee",
+                            "1tsp. - Coconut oil",
+                            "1tbsp. - Butter",
+                            "Salt to taste"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Marinate Chicken with juice of half lemon, salt and 1/2tsp. turmeric powder.", "Fry Red Chillies, Coriander seeds, Methi, Jeera, Curry leaves and Pepper corns with coconut oil.", "Grind fried masala ingredients with coconut, 1 onion, garlic, tamarind, 1tsp. Coriander seeds and water to a fine paste.", "Cook marinated Chicken pieces with ground masala. Add 2 onions, tomato and butter.", "Add salt if needed, as we added salt, when marinated.", "Stir and cook until the chicken piece softened.", "Season with ghee, finely chopped onion, crushed garlic, crushed methi & jeera and curry leaves." ]
+                                "Steps": [
+                                    "Marinate Chicken with juice of half lemon, salt and 1/2tsp. turmeric powder.",
+                                    "Fry Red Chillies, Coriander seeds, Methi, Jeera, Curry leaves and Pepper corns with coconut oil.",
+                                    "Grind fried masala ingredients with coconut, 1 onion, garlic, tamarind, 1tsp. Coriander seeds and water to a fine paste.",
+                                    "Cook marinated Chicken pieces with ground masala. Add 2 onions, tomato and butter.",
+                                    "Add salt if needed, as we added salt, when marinated.",
+                                    "Stir and cook until the chicken piece softened.",
+                                    "Season with ghee, finely chopped onion, crushed garlic, crushed methi & jeera and curry leaves."
+                                ]
                             }
                         ],
                         "Note": "Usually served with Rotti - a crisp rice flakes preparation which could be bought in any Mangalore store. Roti is a tradtional dish of Bunts served at every wedding and party. It should be soaked in chicken curry and eaten."
@@ -33,12 +63,46 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg" ],
-                        "Incredients": [ "1 Big Chicken - Cleaned and cut" ],
-                        "Masala": [ "30 - Red Chillies(20 long & 10 short)", "3tbsp. - Coriander seeds", "1tsp. - Jeera", "10-15 Curry leaves","1tsp. - Methi", "1/2tsp. - Pepper corns", "7-8 - Garlic flakes", "1tsp. - turmeric powder", "Tamarind - size of its seed", "1 - Coconut(grated)", "10-12 - Garlic flakes", "1tsp. - Jeera", "3 Big - Onions(chopped)", "1tbsp. - Butter", "Salt to taste", "1tsp. - Coconut oil(for frying)"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg"
+                        ],
+                        "Incredients": [
+                            "1 Big Chicken - Cleaned and cut"
+                        ],
+                        "Masala": [
+                            "30 - Red Chillies(20 long & 10 short)",
+                            "3tbsp. - Coriander seeds",
+                            "1tsp. - Jeera",
+                            "10-15 Curry leaves",
+                            "1tsp. - Methi",
+                            "1/2tsp. - Pepper corns",
+                            "7-8 - Garlic flakes",
+                            "1tsp. - turmeric powder",
+                            "Tamarind - size of its seed",
+                            "1 - Coconut(grated)",
+                            "10-12 - Garlic flakes",
+                            "1tsp. - Jeera",
+                            "3 Big - Onions(chopped)",
+                            "1tbsp. - Butter",
+                            "Salt to taste",
+                            "1tsp. - Coconut oil(for frying)"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Fry the masala ingredients - Chillies, Coriander seeds, Jeera, Curry leaves, Methi and Pepper corns in coconut oil.", "Grind along with garlic, 1 onion, turmeric powder and tamarind to a fine paste.", "Then add coconut and grind coarsely without water and keep aside.", "Keep 2tbsp. Ghee in Kadai and add 2 onions, chopped.", "Fry till it becomes dark brown", "Add cleaned and cut chicken.", "Add butter, salt and cook.", "Add ground masala and cook.", "Keep it on slow fire till it becomes dry.", "Ready to serve." ]
+                                "Steps": [
+                                    "Fry the masala ingredients - Chillies, Coriander seeds, Jeera, Curry leaves, Methi and Pepper corns in coconut oil.",
+                                    "Grind along with garlic, 1 onion, turmeric powder and tamarind to a fine paste.",
+                                    "Then add coconut and grind coarsely without water and keep aside.",
+                                    "Keep 2tbsp. Ghee in Kadai and add 2 onions, chopped.",
+                                    "Fry till it becomes dark brown",
+                                    "Add cleaned and cut chicken.",
+                                    "Add butter, salt and cook.",
+                                    "Add ground masala and cook.",
+                                    "Keep it on slow fire till it becomes dry.",
+                                    "Ready to serve."
+                                ]
                             }
                         ]
                     }
@@ -52,12 +116,38 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg"],
-                        "Incredients": [ "1 Medium - Chicken, cleaned and cut" ],
-                        "Masala": [ "15 - Red chillies", "1tbsp. - Coriander seeds", "10 - Pepper corns", "4 - Cloves", "2 - Small bits cinnamon", "1tsp. - Poppy seeds(khus-khus)", "1/2tsp. - turmeric powder", "2 - Onions", "Tamarind - small ball", "2tbsp. - Ghee", "1- Tomato, chopped","Salt to taste", "1tbsp. - Coriander leaves, finely chopped(optional)"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg"
+                        ],
+                        "Incredients": [
+                            "1 Medium - Chicken, cleaned and cut"
+                        ],
+                        "Masala": [
+                            "15 - Red chillies",
+                            "1tbsp. - Coriander seeds",
+                            "10 - Pepper corns",
+                            "4 - Cloves",
+                            "2 - Small bits cinnamon",
+                            "1tsp. - Poppy seeds(khus-khus)",
+                            "1/2tsp. - turmeric powder",
+                            "2 - Onions",
+                            "Tamarind - small ball",
+                            "2tbsp. - Ghee",
+                            "1- Tomato, chopped",
+                            "Salt to taste",
+                            "1tbsp. - Coriander leaves, finely chopped(optional)"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Grind the Masala ingredients to a fine paste without water.", "Keep ghee in a vessel and add chopped onion and fry till it becomes brown.","Add the cleaned Chicken pieces and fry for 10 minutes on slow fire.", "Add the ground masala, chopped tomato, salt and 1 cup water and cook till done.", "Fry on slow fire.", "Garnish with coriander leaves.", "Ready to serve." ]
+                                "Steps": [
+                                    "Grind the Masala ingredients to a fine paste without water.",
+                                    "Keep ghee in a vessel and add chopped onion and fry till it becomes brown.",
+                                    "Add the cleaned Chicken pieces and fry for 10 minutes on slow fire.",
+                                    "Add the ground masala, chopped tomato, salt and 1 cup water and cook till done.",
+                                    "Fry on slow fire.",
+                                    "Garnish with coriander leaves.",
+                                    "Ready to serve."
+                                ]
                             }
                         ]
                     }
@@ -71,11 +161,44 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval3.jpg" ],
-                        "Incredients": [ "1Kg - Chicken", "1 Bundle - Garlic", "1inch - Ginger", "10-15 - red long chilles", "1tsp. - Coriander powder", "1tsp. -  Jeera powder", "1tbsp. - Garam  masala powder", "10-15 - Curry leaves", "1tbsp. - Lemon juice", "1tsp. - Turmeric powder", "2tbsp. - Ghee", "Salt to taste", "For seasoning:", "1tsp. - Ghee", "Cashew nuts", "4 Long Red chilies,broken", "20-25 - Curry leaves"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval3.jpg"
+                        ],
+                        "Incredients": [
+                            "1Kg - Chicken",
+                            "1 Bundle - Garlic",
+                            "1inch - Ginger",
+                            "10-15 - red long chilles",
+                            "1tsp. - Coriander powder",
+                            "1tsp. -  Jeera powder",
+                            "1tbsp. - Garam  masala powder",
+                            "10-15 - Curry leaves",
+                            "1tbsp. - Lemon juice",
+                            "1tsp. - Turmeric powder",
+                            "2tbsp. - Ghee",
+                            "Salt to taste",
+                            "For seasoning:",
+                            "1tsp. - Ghee",
+                            "Cashew nuts",
+                            "4 Long Red chilies,broken",
+                            "20-25 - Curry leaves"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Clean the chicken and cut into pieces.", "Make Ginger, Garlic paste.", "Soak red chillies in hot water for 10 minutes.", "After cooled grind with curry leaves and keep aside.", "Marinate  chicken with ginger garlic paste, coriander powder, Jeera powder, lemon juice, garam masala powder, turmeric powder and salt.", "Heat ghee on a Kadai and add ground paste.", "Cook till the raw smell goes.", "Add Chicken and salt(if needed).", "Fry curry leaves, cashew nuts and red chillies, pour it to the cooked chicken.", "Garnish with coriander leaves." ]
+                                "Steps": [
+                                    "Clean the chicken and cut into pieces.",
+                                    "Make Ginger, Garlic paste.",
+                                    "Soak red chillies in hot water for 10 minutes.",
+                                    "After cooled grind with curry leaves and keep aside.",
+                                    "Marinate  chicken with ginger garlic paste, coriander powder, Jeera powder, lemon juice, garam masala powder, turmeric powder and salt.",
+                                    "Heat ghee on a Kadai and add ground paste.",
+                                    "Cook till the raw smell goes.",
+                                    "Add Chicken and salt(if needed).",
+                                    "Fry curry leaves, cashew nuts and red chillies, pour it to the cooked chicken.",
+                                    "Garnish with coriander leaves."
+                                ]
                             }
                         ]
                     }
@@ -89,12 +212,38 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
-                        "Incredients": [ "12 - Mackerels or 25 - big Saradine, cleaned & cut into two" ],
-                        "Masala": [ "30-35 Long chillies","Tamarind - size of two lemons","2tbsp. - Coriander seeds","1tbsp. - Jeera","1/4tsp. - Methi seeds","1tbsp. - pepper corns","1/4tsp. - oama","1/4tsp. - turmeric powder","4-5 - Garlic flakes","1tbsp. - Coconut oil","Salt to taste" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg"
+                        ],
+                        "Incredients": [
+                            "12 - Mackerels or 25 - big Saradine, cleaned & cut into two"
+                        ],
+                        "Masala": [
+                            "30-35 Long chillies",
+                            "Tamarind - size of two lemons",
+                            "2tbsp. - Coriander seeds",
+                            "1tbsp. - Jeera",
+                            "1/4tsp. - Methi seeds",
+                            "1tbsp. - pepper corns",
+                            "1/4tsp. - oama",
+                            "1/4tsp. - turmeric powder",
+                            "4-5 - Garlic flakes",
+                            "1tbsp. - Coconut oil",
+                            "Salt to taste"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Fry the Masala ingredients, except tamarind, turmeric powder and garlic with coconut oil.", "Add all the ingredients and grind to a thick fine paste.","Add little water and keep aside.","Keep earthen pot on fire.","Put coconut oil, crushed garlic flakes, 2 Chopped green chilies and ginger.","Then add ground masala, add salt, stir and boil.","Place fish in it and cook for 5-10 minutes." ]
+                                "Steps": [
+                                    "Fry the Masala ingredients, except tamarind, turmeric powder and garlic with coconut oil.",
+                                    "Add all the ingredients and grind to a thick fine paste.",
+                                    "Add little water and keep aside.",
+                                    "Keep earthen pot on fire.",
+                                    "Put coconut oil, crushed garlic flakes, 2 Chopped green chilies and ginger.",
+                                    "Then add ground masala, add salt, stir and boil.",
+                                    "Place fish in it and cook for 5-10 minutes."
+                                ]
                             }
                         ],
                         "Note": "It can be kept for 2 days."
@@ -109,11 +258,25 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg" ],
-                        "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste", "Juice of 1 lemon"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg"
+                        ],
+                        "Incredients": [
+                            "1/4kg. - Red Chillies",
+                            "8-10 - Garlic flakes",
+                            "2tbsp. - Cumin Seeds",
+                            "1Cup - rice(optional)",
+                            "Salt to taste",
+                            "Juice of 1 lemon"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Grind all the above ingredients except rice to a fine paste with a little water, then add the rice and grind coarsely.", "Remove in a vessel with a lid and keep in the freezer.", "Whenever required dip fish pieces in it and deep fry." ]
+                                "Steps": [
+                                    "Grind all the above ingredients except rice to a fine paste with a little water, then add the rice and grind coarsely.",
+                                    "Remove in a vessel with a lid and keep in the freezer.",
+                                    "Whenever required dip fish pieces in it and deep fry."
+                                ]
                             }
                         ]
                     }
@@ -135,11 +298,53 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani3.jpg" ],
-                        "Incredients": [ "1Kg. - Chicken, cleaned and cut into medium pieces","2tbsp. - Ghee", "2 big - Onions, sliced", "To Marinate:", "1 Bunch - Coriander leaves, cleaned and finely chopped", "4 - Green chillies, finely chopped", "10 - Mint leaves, cleaned and chopped", "Salt to taste", "1tsp. - Coriander powder", "10-15 - Garlic, finely chopped", "1inch - Ginger, finely chopped", "2tsp. - Garam masala powder","1Cup - Curds", "1tsp. - Salt","1tsp. - Turmeric powder", "To make Rice:", "1Kg. - Basmati Rice, washed", "7-8 cloves", "2-3pieces - Cinnamon", "2 - Bay Leaves", "6-8 - Pepper corns", "1tbsp. - Cashew nuts", "Salt to taste"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani3.jpg"
+                        ],
+                        "Incredients": [
+                            "1Kg. - Chicken, cleaned and cut into medium pieces",
+                            "2tbsp. - Ghee",
+                            "2 big - Onions, sliced",
+                            "To Marinate:",
+                            "1 Bunch - Coriander leaves, cleaned and finely chopped",
+                            "4 - Green chillies, finely chopped",
+                            "10 - Mint leaves, cleaned and chopped",
+                            "Salt to taste",
+                            "1tsp. - Coriander powder",
+                            "10-15 - Garlic, finely chopped",
+                            "1inch - Ginger, finely chopped",
+                            "2tsp. - Garam masala powder",
+                            "1Cup - Curds",
+                            "1tsp. - Salt",
+                            "1tsp. - Turmeric powder",
+                            "To make Rice:",
+                            "1Kg. - Basmati Rice, washed",
+                            "7-8 cloves",
+                            "2-3pieces - Cinnamon",
+                            "2 - Bay Leaves",
+                            "6-8 - Pepper corns",
+                            "1tbsp. - Cashew nuts",
+                            "Salt to taste"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Place the Chicken pieces in a bowl.", "Marinate with the marinate ingredients for 30 minutes.", "Keep a vessel on fire.", "Add Ghee, fry sliced onions.", "Then add marinated chicken and cook.", "Keep a bowl on fire.", "Add water(double of rice).", "When water boils, add salt and rice.", "Then add cloves, cinamon, pepper corns, bay leaves and cashews.", "When it is half cooked, drain the water and add it to the Cooked chicken masala.", "Add some kesar, mixed with little water.", "Add 1tbsp. Ghee, mix it well and cover the lid with foil.", "Let it cook in a slow fire."]
+                                "Steps": [
+                                    "Place the Chicken pieces in a bowl.",
+                                    "Marinate with the marinate ingredients for 30 minutes.",
+                                    "Keep a vessel on fire.",
+                                    "Add Ghee, fry sliced onions.",
+                                    "Then add marinated chicken and cook.",
+                                    "Keep a bowl on fire.",
+                                    "Add water(double of rice).",
+                                    "When water boils, add salt and rice.",
+                                    "Then add cloves, cinamon, pepper corns, bay leaves and cashews.",
+                                    "When it is half cooked, drain the water and add it to the Cooked chicken masala.",
+                                    "Add some kesar, mixed with little water.",
+                                    "Add 1tbsp. Ghee, mix it well and cover the lid with foil.",
+                                    "Let it cook in a slow fire."
+                                ]
                             }
                         ]
                     }
@@ -161,11 +366,25 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg"],
-                        "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste", "Juice of 1 lemon" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg"
+                        ],
+                        "Incredients": [
+                            "1/4kg. - Red Chillies",
+                            "8-10 - Garlic flakes",
+                            "2tbsp. - Cumin Seeds",
+                            "1Cup - rice(optional)",
+                            "Salt to taste",
+                            "Juice of 1 lemon"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Grind all the above ingredients except rice to a fine paste with a little water, then add the rice and grind coarsely.", "Remove in a vessel with a lid and keep in the freezer.", "Whenever required dip fish pieces in it and deep fry." ]
+                                "Steps": [
+                                    "Grind all the above ingredients except rice to a fine paste with a little water, then add the rice and grind coarsely.",
+                                    "Remove in a vessel with a lid and keep in the freezer.",
+                                    "Whenever required dip fish pieces in it and deep fry."
+                                ]
                             }
                         ]
                     }
@@ -179,11 +398,33 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry3.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry4.jpg"  ],
-                        "Incredients": [ "50-60 - Silver Fish(Bolenjir) or 10 - 20 Crabs", "1 bunch - Coriander leaves, cleaned and cut", "10-15 Mint Leaves", "7-8 - Green Chillies", "1tsp - pepper corns", "Salt to taste", "1 bundle - Garlic", "2inches - Ginger", "Juice of 1 lemon", "Oil for frying" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry3.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry4.jpg"
+                        ],
+                        "Incredients": [
+                            "50-60 - Silver Fish(Bolenjir) or 10 - 20 Crabs",
+                            "1 bunch - Coriander leaves, cleaned and cut",
+                            "10-15 Mint Leaves",
+                            "7-8 - Green Chillies",
+                            "1tsp - pepper corns",
+                            "Salt to taste",
+                            "1 bundle - Garlic",
+                            "2inches - Ginger",
+                            "Juice of 1 lemon",
+                            "Oil for frying"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Grind Ginger and Garlic to a fine paste.", "Grind Coriander leaves, Green Chillies, pepper corns and Mint leaves to a fine paste.", "Mix both the paste in a vessel with salt and lemon juice.", "Marinate the fish with the paste for 30 minutes.", "Keep tava on fire, dip marinated fish in rawa and deep fry." ]
+                                "Steps": [
+                                    "Grind Ginger and Garlic to a fine paste.",
+                                    "Grind Coriander leaves, Green Chillies, pepper corns and Mint leaves to a fine paste.",
+                                    "Mix both the paste in a vessel with salt and lemon juice.",
+                                    "Marinate the fish with the paste for 30 minutes.",
+                                    "Keep tava on fire, dip marinated fish in rawa and deep fry."
+                                ]
                             }
                         ]
                     }
@@ -197,11 +438,27 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry2.jpeg"],
-                        "Incredients": [ "10 pieces - King Fish, cleaned", "1tsp. - turmeric powder", "Salt to taste", "1tbsp. - Pepper, crushed", "Juice of 1 Lemon", "1 Big - Onion, chopped", "1tbsp. - oil"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry2.jpeg"
+                        ],
+                        "Incredients": [
+                            "10 pieces - King Fish, cleaned",
+                            "1tsp. - turmeric powder",
+                            "Salt to taste",
+                            "1tbsp. - Pepper, crushed",
+                            "Juice of 1 Lemon",
+                            "1 Big - Onion, chopped",
+                            "1tbsp. - oil"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Marinate fish with salt, lemon juice and turmeric powder.", "Heat oil on tava.", "Fry chopped onions, crushed pepper corns.", "Fry the fish." ]
+                                "Steps": [
+                                    "Marinate fish with salt, lemon juice and turmeric powder.",
+                                    "Heat oil on tava.",
+                                    "Fry chopped onions, crushed pepper corns.",
+                                    "Fry the fish."
+                                ]
                             }
                         ]
                     }
@@ -215,11 +472,37 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg" ],
-                        "Incredients": [ "25 - Red Chillies, roasted", "1piece - Ginger", "20-25 - Garlic", "1tbsp. - coriander seeds, roasted", "1tsp. - Jeera", "Salt to taste", "Tamarind, size of a lime", "1/2Cup - Rice flour", "1/2Cup - Corn flour", "2tbsp. - Oil for frying" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg"
+                        ],
+                        "Incredients": [
+                            "25 - Red Chillies, roasted",
+                            "1piece - Ginger",
+                            "20-25 - Garlic",
+                            "1tbsp. - coriander seeds, roasted",
+                            "1tsp. - Jeera",
+                            "Salt to taste",
+                            "Tamarind, size of a lime",
+                            "1/2Cup - Rice flour",
+                            "1/2Cup - Corn flour",
+                            "2tbsp. - Oil for frying"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Clean the fish. Marinate with salt, turmeric powder and 1tsp. Lemon juice.", "Keep aside for 10-15minutes.", "Grind red Chillies, ginger, garlic, coriander seeds, jeera, tamarind and salt to a fine paste.", "Remove it to a plate and add rice flour and corn flour.", "Mix well.", "Now place marinated fish in the paste.", "Mix and keep aside for 30minutes.", "Keep a pan on fire.", "Add oil, fry both the side of fish.", "Ready to serve hot." ]
+                                "Steps": [
+                                    "Clean the fish. Marinate with salt, turmeric powder and 1tsp. Lemon juice.",
+                                    "Keep aside for 10-15minutes.",
+                                    "Grind red Chillies, ginger, garlic, coriander seeds, jeera, tamarind and salt to a fine paste.",
+                                    "Remove it to a plate and add rice flour and corn flour.",
+                                    "Mix well.",
+                                    "Now place marinated fish in the paste.",
+                                    "Mix and keep aside for 30minutes.",
+                                    "Keep a pan on fire.",
+                                    "Add oil, fry both the side of fish.",
+                                    "Ready to serve hot."
+                                ]
                             }
                         ]
                     }
@@ -241,12 +524,41 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude2.jpeg"],
-                        "Incredients": [ "12 Mackerels, cleaned and cut into two or 25 - Saradine(Boothai)"],
-                        "Masala": [ "1 grated coconut", "25-30 - Red chillies", "2tbsp. - Coriander seeds", "1tsp. - jeera", "1/2tsp. - Methi seeds","1/4tsp. - Turmeric powder","1/4tsp. - Ajwain(oama)","1tsp. - pepper corns(optional)","8-10 - garlic flakes","Tamarind - size of 2 big lemons","Salt to taste","2 big - onion","2-3 - Green chillies, cut","1inch - ginger, chopped","1tsp. - coconut oil" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude2.jpeg"
+                        ],
+                        "Incredients": [
+                            "12 Mackerels, cleaned and cut into two or 25 - Saradine(Boothai)"
+                        ],
+                        "Masala": [
+                            "1 grated coconut",
+                            "25-30 - Red chillies",
+                            "2tbsp. - Coriander seeds",
+                            "1tsp. - jeera",
+                            "1/2tsp. - Methi seeds",
+                            "1/4tsp. - Turmeric powder",
+                            "1/4tsp. - Ajwain(oama)",
+                            "1tsp. - pepper corns(optional)",
+                            "8-10 - garlic flakes",
+                            "Tamarind - size of 2 big lemons",
+                            "Salt to taste",
+                            "2 big - onion",
+                            "2-3 - Green chillies, cut",
+                            "1inch - ginger, chopped",
+                            "1tsp. - coconut oil"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Fry red chillies, coriander, methi and oama with coconut oil.","Grind with Coconut, 1 chopped onion, garlic, turmeric powder, tamarind and water to a fine paste.","Put the masala in a thick bottomed vessel or earthen pot.","Masala should be semi-solid consistency.","Add salt, finely sliced onion, ginger and green chilies.","When it boils, add cleaned fish and cook for 5 minutes.","Season with oil, finely chopped onion and curry leaves(Seasoning is optional)."]
+                                "Steps": [
+                                    "Fry red chillies, coriander, methi and oama with coconut oil.",
+                                    "Grind with Coconut, 1 chopped onion, garlic, turmeric powder, tamarind and water to a fine paste.",
+                                    "Put the masala in a thick bottomed vessel or earthen pot.",
+                                    "Masala should be semi-solid consistency.",
+                                    "Add salt, finely sliced onion, ginger and green chilies.",
+                                    "When it boils, add cleaned fish and cook for 5 minutes.",
+                                    "Season with oil, finely chopped onion and curry leaves(Seasoning is optional)."
+                                ]
                             }
                         ]
                     }
@@ -260,12 +572,38 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "ithubusercontent.com/prathikchowta/prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
-                        "Incredients": [ "12 - Mackerels or 25 - big Saradine, cleaned & cut into two" ],
-                        "Masala": [ "30-35 Long chillies","Tamarind - size of two lemons","2tbsp. - Coriander seeds","1tbsp. - Jeera","1/4tsp. - Methi seeds","1tbsp. - pepper corns","1/4tsp. - oama","1/4tsp. - turmeric powder","4-5 - Garlic flakes","1tbsp. - Coconut oil","Salt to taste" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg",
+                            "ithubusercontent.com/prathikchowta/prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg"
+                        ],
+                        "Incredients": [
+                            "12 - Mackerels or 25 - big Saradine, cleaned & cut into two"
+                        ],
+                        "Masala": [
+                            "30-35 Long chillies",
+                            "Tamarind - size of two lemons",
+                            "2tbsp. - Coriander seeds",
+                            "1tbsp. - Jeera",
+                            "1/4tsp. - Methi seeds",
+                            "1tbsp. - pepper corns",
+                            "1/4tsp. - oama",
+                            "1/4tsp. - turmeric powder",
+                            "4-5 - Garlic flakes",
+                            "1tbsp. - Coconut oil",
+                            "Salt to taste"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Fry the Masala ingredients, except tamarind, turmeric powder and garlic with coconut oil.", "Add all the ingredients and grind to a thick fine paste.","Add little water and keep aside.","Keep earthen pot on fire.","Put coconut oil, crushed garlic flakes, 2 Chopped green chilies and ginger.","Then add ground masala, add salt, stir and boil.","Place fish in it and cook for 5-10 minutes." ]
+                                "Steps": [
+                                    "Fry the Masala ingredients, except tamarind, turmeric powder and garlic with coconut oil.",
+                                    "Add all the ingredients and grind to a thick fine paste.",
+                                    "Add little water and keep aside.",
+                                    "Keep earthen pot on fire.",
+                                    "Put coconut oil, crushed garlic flakes, 2 Chopped green chilies and ginger.",
+                                    "Then add ground masala, add salt, stir and boil.",
+                                    "Place fish in it and cook for 5-10 minutes."
+                                ]
                             }
                         ],
                         "Note": "It can be kept for 2 days."
@@ -280,12 +618,39 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish2.jpg"],
-                        "Incredients": [ "200 - Shell Fish(Marvai)", "For Seasoning: 2 Tbsp.- coconut oil","1- Onion,chopped","4-5 - Garlic flakes","10-15 Curry leaves"],
-                        "Masala": ["1 Coconut, grated", "25-30 - Red Chillies", "2tbsp. - Coriander Seeds", "1tbsp. - Jeera", "1/4tsp. - Methi","1/2tsp. - turmeric powder","6-8 - Garlic flakes","Tamarind - size of a lime", "1 - onion, chopped" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish2.jpg"
+                        ],
+                        "Incredients": [
+                            "200 - Shell Fish(Marvai)",
+                            "For Seasoning: 2 Tbsp.- coconut oil",
+                            "1- Onion,chopped",
+                            "4-5 - Garlic flakes",
+                            "10-15 Curry leaves"
+                        ],
+                        "Masala": [
+                            "1 Coconut, grated",
+                            "25-30 - Red Chillies",
+                            "2tbsp. - Coriander Seeds",
+                            "1tbsp. - Jeera",
+                            "1/4tsp. - Methi",
+                            "1/2tsp. - turmeric powder",
+                            "6-8 - Garlic flakes",
+                            "Tamarind - size of a lime",
+                            "1 - onion, chopped"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Wash the shell fish properly before opening, to remove sand at least 3 to 4 times as it should not be washed after opening.","Break the shell fish into two and keep only the part with the flesh in it.","Fry the masala ingredients - red chillies, coriander seeds, methi, jeera and oama.", "Grind with tamarind, garlic, turmeric powder and onion to a fine paste.","Add coconut, grind to a rough paste and keep aside.","Keep the Kadai on fire, add oil, chopped onion. When onion turns brown, add ground masala, salt and cook.", "Place shell fish and cook on slow fire till it becomes almost dry."]
+                                "Steps": [
+                                    "Wash the shell fish properly before opening, to remove sand at least 3 to 4 times as it should not be washed after opening.",
+                                    "Break the shell fish into two and keep only the part with the flesh in it.",
+                                    "Fry the masala ingredients - red chillies, coriander seeds, methi, jeera and oama.",
+                                    "Grind with tamarind, garlic, turmeric powder and onion to a fine paste.",
+                                    "Add coconut, grind to a rough paste and keep aside.",
+                                    "Keep the Kadai on fire, add oil, chopped onion. When onion turns brown, add ground masala, salt and cook.",
+                                    "Place shell fish and cook on slow fire till it becomes almost dry."
+                                ]
                             }
                         ],
                         "Note": "Kundapur powder can be added instead of grinding the masala. Crab or prawns dry curry can be done in the same method."
@@ -300,12 +665,46 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg" ],
-                        "Incredients": [ "1Kg - Bondas Fish", "For Seasoning:", "2tsp. - coconut oil", "1 onion, finely chopped", "1sprig - curry leaves" ], 
-                        "Masala": [ "12-15 - Red Chillies mix(long & short)", "1tbsp. - Coriander seeds", "1spoon - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "1/4thtsp. - Ajwain(oama)", "5-6 - Garlic floakes", "1 onion, cut", " 1/4 tsp. - Turmeric powder", "Tamarind small ball", "1cup - coconut, grated", "Salt to taste", "1tsp. - coconut oil" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg"
+                        ],
+                        "Incredients": [
+                            "1Kg - Bondas Fish",
+                            "For Seasoning:",
+                            "2tsp. - coconut oil",
+                            "1 onion, finely chopped",
+                            "1sprig - curry leaves"
+                        ],
+                        "Masala": [
+                            "12-15 - Red Chillies mix(long & short)",
+                            "1tbsp. - Coriander seeds",
+                            "1spoon - Jeera",
+                            "1/2tsp. - Mustard seeds",
+                            "1/4tsp. - Methi",
+                            "1/4thtsp. - Ajwain(oama)",
+                            "5-6 - Garlic floakes",
+                            "1 onion, cut",
+                            " 1/4 tsp. - Turmeric powder",
+                            "Tamarind small ball",
+                            "1cup - coconut, grated",
+                            "Salt to taste",
+                            "1tsp. - coconut oil"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Remove the black skin of bondas. Clean it properly. Wash and cut into half.", "As it takes time to cook, cook it separately in a vessel. Add water and salt.", "Cook till it becomes soft.", "Fry Masala ingredients with 1tsp.coconut oil, except tamarind, coconut and salt.", "Now add tamarind and grind it into a fine paste.", "Then add coconut and grind roughly and keep aside.", "Keep a earthen pot on fire.", "Put 2 tsp.Coconut oil,add finely chopped onion and curry leaves. Add ground masala, cook till its raw smell goes.", "Place the cooked bondas. Mix and cook for 5 minutes", "Squid Fish Sukka is ready to taste and serve hot."]
+                                "Steps": [
+                                    "Remove the black skin of bondas. Clean it properly. Wash and cut into half.",
+                                    "As it takes time to cook, cook it separately in a vessel. Add water and salt.",
+                                    "Cook till it becomes soft.",
+                                    "Fry Masala ingredients with 1tsp.coconut oil, except tamarind, coconut and salt.",
+                                    "Now add tamarind and grind it into a fine paste.",
+                                    "Then add coconut and grind roughly and keep aside.",
+                                    "Keep a earthen pot on fire.",
+                                    "Put 2 tsp.Coconut oil,add finely chopped onion and curry leaves. Add ground masala, cook till its raw smell goes.",
+                                    "Place the cooked bondas. Mix and cook for 5 minutes",
+                                    "Squid Fish Sukka is ready to taste and serve hot."
+                                ]
                             }
                         ]
                     }
@@ -319,14 +718,43 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry3.jpg" ],
-                        "Incredients": [ "12 Crabs, cleaned and cut", "25-30 - red Chillies", "1tsp. - Cumin seeds", "2tbsp. - Coriander seeds", "1tsp. - Fenugreek seeds", "1/4tsp. - Oama", "1/4tsp. - Turmeric powder", "6-8 - Garlic flakes", "Tamarind - size of a lemon", "1 - Coconut, grated", "2 - Onion chopped", "Salt to taste", "For Seasoning:", "1tsp. coconut oil", "10 curry leaves", "1 onion finely chopped"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry3.jpg"
+                        ],
+                        "Incredients": [
+                            "12 Crabs, cleaned and cut",
+                            "25-30 - red Chillies",
+                            "1tsp. - Cumin seeds",
+                            "2tbsp. - Coriander seeds",
+                            "1tsp. - Fenugreek seeds",
+                            "1/4tsp. - Oama",
+                            "1/4tsp. - Turmeric powder",
+                            "6-8 - Garlic flakes",
+                            "Tamarind - size of a lemon",
+                            "1 - Coconut, grated",
+                            "2 - Onion chopped",
+                            "Salt to taste",
+                            "For Seasoning:",
+                            "1tsp. coconut oil",
+                            "10 curry leaves",
+                            "1 onion finely chopped"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Fry Chillies, Coriander seeds, Cumin seeds, Fenugreek seeds, oama - with little oil.", "Grind it with coconut, tamarind, turmeric powder, 1 onion and garlic - with a fine paste.", "Add 2 cups of water to make a medium thin gravy.", "Keep aside.", "Add 1 chopped onion, little water and salt to the cleaned crabs and cook until done.", "Add the ground masala and cook for 10 minutes.", "Season it." ]
+                                "Steps": [
+                                    "Fry Chillies, Coriander seeds, Cumin seeds, Fenugreek seeds, oama - with little oil.",
+                                    "Grind it with coconut, tamarind, turmeric powder, 1 onion and garlic - with a fine paste.",
+                                    "Add 2 cups of water to make a medium thin gravy.",
+                                    "Keep aside.",
+                                    "Add 1 chopped onion, little water and salt to the cleaned crabs and cook until done.",
+                                    "Add the ground masala and cook for 10 minutes.",
+                                    "Season it."
+                                ]
                             }
                         ],
-                        "Note": "Prawn curry(Yetti Gasi) can be prepared in the same method. Instead of tamarind add 4 to 5 ambade." 
+                        "Note": "Prawn curry(Yetti Gasi) can be prepared in the same method. Instead of tamarind add 4 to 5 ambade."
                     }
                 ]
             },
@@ -338,11 +766,26 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney2.jpg" ],
-                        "Incredients": [ "3 - six inch pieces of shark fish - washed, skinned, fried in coconut oil and chopped", "10-12 - Red Chillies, roasted", "6-8 - Garlic flakes", "Tamarind - size of a lime", "1/2 - Onion, chopped", "1/2 - Coconut, grated" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney2.jpg"
+                        ],
+                        "Incredients": [
+                            "3 - six inch pieces of shark fish - washed, skinned, fried in coconut oil and chopped",
+                            "10-12 - Red Chillies, roasted",
+                            "6-8 - Garlic flakes",
+                            "Tamarind - size of a lime",
+                            "1/2 - Onion, chopped",
+                            "1/2 - Coconut, grated"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Grind the ingredients - chillies, garlic, tamarind and onion roughly.", "Add coconut and grind to rough paste without water.", "Remove in a serving dish.", "Add the fish pieces, mix well and serve." ]
+                                "Steps": [
+                                    "Grind the ingredients - chillies, garlic, tamarind and onion roughly.",
+                                    "Add coconut and grind to rough paste without water.",
+                                    "Remove in a serving dish.",
+                                    "Add the fish pieces, mix well and serve."
+                                ]
                             }
                         ],
                         "Note": "Same Chutney can be prepared with dry Mackerel or dry Prawns or small white fish(Kollatharu)"
@@ -365,11 +808,36 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry2.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry3.jpeg" ],
-                        "Incredients": [ "1Kg. - Chicken, Cleaned and cut into pieces", "To Marinate:", "1tsp. - Turmeric powder", "Juice of 1 lemon", "2tbsp. - Red Chilly powder", "1tsp. - Coriander powder", "1tbsp. - Garam Masala powder", "1tbsp. - Ginger Garlic paste", "2tbsp. - Curds", "Salt to taste", "Oil for frying"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry2.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry3.jpeg"
+                        ],
+                        "Incredients": [
+                            "1Kg. - Chicken, Cleaned and cut into pieces",
+                            "To Marinate:",
+                            "1tsp. - Turmeric powder",
+                            "Juice of 1 lemon",
+                            "2tbsp. - Red Chilly powder",
+                            "1tsp. - Coriander powder",
+                            "1tbsp. - Garam Masala powder",
+                            "1tbsp. - Ginger Garlic paste",
+                            "2tbsp. - Curds",
+                            "Salt to taste",
+                            "Oil for frying"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Marinate Chicken with all the ingredients for an hour.", "Take a pan, add oil(quantity for shallow fry).", "Once oil is heat and ready, spread marinated chicken pieces on pan.", "Fry it on low to medium flame.", "Cover it with lid for minutes.", "Remove lid, turn it and let it fry for 5 more minutes.", "Remove from Pan", "Garnish with finely chopped coriander leaves and serve."]
+                                "Steps": [
+                                    "Marinate Chicken with all the ingredients for an hour.",
+                                    "Take a pan, add oil(quantity for shallow fry).",
+                                    "Once oil is heat and ready, spread marinated chicken pieces on pan.",
+                                    "Fry it on low to medium flame.",
+                                    "Cover it with lid for minutes.",
+                                    "Remove lid, turn it and let it fry for 5 more minutes.",
+                                    "Remove from Pan",
+                                    "Garnish with finely chopped coriander leaves and serve."
+                                ]
                             }
                         ]
                     }
@@ -391,12 +859,46 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg" ],
-                        "Incredients": [ "1 Big Chicken - Cleaned and cut" ],
-                        "Masala": [ "30 - Red Chillies(20 long & 10 short)", "3tbsp. - Coriander seeds", "1tsp. - Jeera", "10-15 Curry leaves","1tsp. - Methi", "1/2tsp. - Pepper corns", "7-8 - Garlic flakes", "1tsp. - turmeric powder", "Tamarind - size of its seed", "1 - Coconut(grated)", "10-12 - Garlic flakes", "1tsp. - Jeera", "3 Big - Onions(chopped)", "1tbsp. - Butter", "Salt to taste", "1tsp. - Coconut oil(for frying)"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg"
+                        ],
+                        "Incredients": [
+                            "1 Big Chicken - Cleaned and cut"
+                        ],
+                        "Masala": [
+                            "30 - Red Chillies(20 long & 10 short)",
+                            "3tbsp. - Coriander seeds",
+                            "1tsp. - Jeera",
+                            "10-15 Curry leaves",
+                            "1tsp. - Methi",
+                            "1/2tsp. - Pepper corns",
+                            "7-8 - Garlic flakes",
+                            "1tsp. - turmeric powder",
+                            "Tamarind - size of its seed",
+                            "1 - Coconut(grated)",
+                            "10-12 - Garlic flakes",
+                            "1tsp. - Jeera",
+                            "3 Big - Onions(chopped)",
+                            "1tbsp. - Butter",
+                            "Salt to taste",
+                            "1tsp. - Coconut oil(for frying)"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Fry the masala ingredients - Chillies, Coriander seeds, Jeera, Curry leaves, Methi and Pepper corns in coconut oil.", "Grind along with garlic, 1 onion, turmeric powder and tamarind to a fine paste.", "Then add coconut and grind coarsely without water and keep aside.", "Keep 2tbsp. Ghee in Kadai and add 2 onions, chopped.", "Fry till it becomes dark brown", "Add cleaned and cut chicken.", "Add butter, salt and cook.", "Add ground masala and cook.", "Keep it on slow fire till it becomes dry.", "Ready to serve." ]
+                                "Steps": [
+                                    "Fry the masala ingredients - Chillies, Coriander seeds, Jeera, Curry leaves, Methi and Pepper corns in coconut oil.",
+                                    "Grind along with garlic, 1 onion, turmeric powder and tamarind to a fine paste.",
+                                    "Then add coconut and grind coarsely without water and keep aside.",
+                                    "Keep 2tbsp. Ghee in Kadai and add 2 onions, chopped.",
+                                    "Fry till it becomes dark brown",
+                                    "Add cleaned and cut chicken.",
+                                    "Add butter, salt and cook.",
+                                    "Add ground masala and cook.",
+                                    "Keep it on slow fire till it becomes dry.",
+                                    "Ready to serve."
+                                ]
                             }
                         ]
                     }
@@ -410,12 +912,45 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee2.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee3.jpeg" ],
-                        "Incredients": [ "1Kg Chicken - Cleaned  and cut into pieces", "To Marinate:", "Juice of 1 lemon", "1tsp. - Turmeric powder", "1tsp. - Red chilly powder", "1tsp. - salt", "1tbsp. - Ginger Garlic paste"],
-                        "Masala": [ "25 - Red Chillies", "3tbsp. - Coriander seeds", "3tsp. - Jeera", "10-15 Curry leaves","1/4tsp. - Methi", "1&1/2tsp. - Pepper corns", "20 - Garlic flakes, chopped", "Tamarind - small ball","3tbsp. - Ghee", "Salt to taste" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee2.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee3.jpeg"
+                        ],
+                        "Incredients": [
+                            "1Kg Chicken - Cleaned  and cut into pieces",
+                            "To Marinate:",
+                            "Juice of 1 lemon",
+                            "1tsp. - Turmeric powder",
+                            "1tsp. - Red chilly powder",
+                            "1tsp. - salt",
+                            "1tbsp. - Ginger Garlic paste"
+                        ],
+                        "Masala": [
+                            "25 - Red Chillies",
+                            "3tbsp. - Coriander seeds",
+                            "3tsp. - Jeera",
+                            "10-15 Curry leaves",
+                            "1/4tsp. - Methi",
+                            "1&1/2tsp. - Pepper corns",
+                            "20 - Garlic flakes, chopped",
+                            "Tamarind - small ball",
+                            "3tbsp. - Ghee",
+                            "Salt to taste"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Marinate Chicken pieces with salt, ginger garlic paste, turmeric powder, Juice of Lemon, red chilly powder for 30 minutes.", "Fry Garlic flakes, methi, jeera, curry leaves, coriander seeds and red chillies.", "After it cools grind with tamarind and little water to a fine paste.", "Keep a Kadai on fire, add Ghee.", "Cook marinated chicken and remove.", "Put ghee to the same Kadai, add ground masala, salt, little water and boil.", "Fry the ground masala till it becomes brown.", "Then add cooked chicken and mix.", "Fry curry leaves with ghee and pour to the cooked chicken and mix well." ]
+                                "Steps": [
+                                    "Marinate Chicken pieces with salt, ginger garlic paste, turmeric powder, Juice of Lemon, red chilly powder for 30 minutes.",
+                                    "Fry Garlic flakes, methi, jeera, curry leaves, coriander seeds and red chillies.",
+                                    "After it cools grind with tamarind and little water to a fine paste.",
+                                    "Keep a Kadai on fire, add Ghee.",
+                                    "Cook marinated chicken and remove.",
+                                    "Put ghee to the same Kadai, add ground masala, salt, little water and boil.",
+                                    "Fry the ground masala till it becomes brown.",
+                                    "Then add cooked chicken and mix.",
+                                    "Fry curry leaves with ghee and pour to the cooked chicken and mix well."
+                                ]
                             }
                         ]
                     }
@@ -429,12 +964,45 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen2.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen3.jpeg" ],
-                        "Incredients": [ "1 Big Chicken - Cleaned  and cut into pieces", "2 - Onions, finely chopped", "2tbsp. - Ghee","1 - Bay leaf", "1tbsp. - Ginger Garlic paste", "For Marination:", "Juice of 1 Lemon", "Salt", "1tsp. - Turmeric powder" ],
-                        "Masala": [ "1-1&1/2Bunch - Coriander leaves", "8-10 - Green Chillies", "1tsp. - Pepper corns", "1 piece - Cinamon", "4-5 - Cloves", "2 - Red Chillies", "4 - Cardamoms", "50gms. - Cashew nuts", "2 - Tomatoes, chopped" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen2.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen3.jpeg"
+                        ],
+                        "Incredients": [
+                            "1 Big Chicken - Cleaned  and cut into pieces",
+                            "2 - Onions, finely chopped",
+                            "2tbsp. - Ghee",
+                            "1 - Bay leaf",
+                            "1tbsp. - Ginger Garlic paste",
+                            "For Marination:",
+                            "Juice of 1 Lemon",
+                            "Salt",
+                            "1tsp. - Turmeric powder"
+                        ],
+                        "Masala": [
+                            "1-1&1/2Bunch - Coriander leaves",
+                            "8-10 - Green Chillies",
+                            "1tsp. - Pepper corns",
+                            "1 piece - Cinamon",
+                            "4-5 - Cloves",
+                            "2 - Red Chillies",
+                            "4 - Cardamoms",
+                            "50gms. - Cashew nuts",
+                            "2 - Tomatoes, chopped"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Marinate Chicken pieces with lemon juice, salt and turmeric powder.", "Keep aside for half an hour.", "Grind the masala ingredients to a fine paste.", "Keep Ghee on a vessel, fry chopped onions.", "Add Bay leaf.", "Add Ginger Garlic paste.", "Then add ground masala and cook.", "Add marinated chicken, add salt(if needed), mix and cook well." ]
+                                "Steps": [
+                                    "Marinate Chicken pieces with lemon juice, salt and turmeric powder.",
+                                    "Keep aside for half an hour.",
+                                    "Grind the masala ingredients to a fine paste.",
+                                    "Keep Ghee on a vessel, fry chopped onions.",
+                                    "Add Bay leaf.",
+                                    "Add Ginger Garlic paste.",
+                                    "Then add ground masala and cook.",
+                                    "Add marinated chicken, add salt(if needed), mix and cook well."
+                                ]
                             }
                         ]
                     }
@@ -456,12 +1024,42 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
-                        "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces" ],
-                        "Masala": ["1/2 - Coconut grated", "Red Chillies - 15 long & 8 short", "2tbsp. - Coriander seeds", "1tsp. - Cumin seeds(Jeera)", "1tbsp. - Curry leaves", "1/2tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 - tomato, Chopped", "1/2tsp. - Turmeric powder", "Tamarind - small ball", "3tbsp. - Ghee", "1tsp. - Coconut oil", "1tbsp. - Butter", "Salt to taste"],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"
+                        ],
+                        "Incredients": [
+                            "1Kg. Chicken - Cleaned and cut into pieces"
+                        ],
+                        "Masala": [
+                            "1/2 - Coconut grated",
+                            "Red Chillies - 15 long & 8 short",
+                            "2tbsp. - Coriander seeds",
+                            "1tsp. - Cumin seeds(Jeera)",
+                            "1tbsp. - Curry leaves",
+                            "1/2tsp. - Pepper corns",
+                            "1/2tsp. - Fenugreek seeds(Methi)",
+                            "5-6 - Garlic flakes",
+                            "4 - Onions Chopped",
+                            "1 - tomato, Chopped",
+                            "1/2tsp. - Turmeric powder",
+                            "Tamarind - small ball",
+                            "3tbsp. - Ghee",
+                            "1tsp. - Coconut oil",
+                            "1tbsp. - Butter",
+                            "Salt to taste"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Marinate Chicken with juice of half lemon, salt and 1/2tsp. turmeric powder.", "Fry Red Chillies, Coriander seeds, Methi, Jeera, Curry leaves and Pepper corns with coconut oil.", "Grind fried masala ingredients with coconut, 1 onion, garlic, tamarind, 1tsp. Coriander seeds and water to a fine paste.", "Cook marinated Chicken pieces with ground masala. Add 2 onions, tomato and butter.", "Add salt if needed, as we added salt, when marinated.", "Stir and cook until the chicken piece softened.", "Season with ghee, finely chopped onion, crushed garlic, crushed methi & jeera and curry leaves." ]
+                                "Steps": [
+                                    "Marinate Chicken with juice of half lemon, salt and 1/2tsp. turmeric powder.",
+                                    "Fry Red Chillies, Coriander seeds, Methi, Jeera, Curry leaves and Pepper corns with coconut oil.",
+                                    "Grind fried masala ingredients with coconut, 1 onion, garlic, tamarind, 1tsp. Coriander seeds and water to a fine paste.",
+                                    "Cook marinated Chicken pieces with ground masala. Add 2 onions, tomato and butter.",
+                                    "Add salt if needed, as we added salt, when marinated.",
+                                    "Stir and cook until the chicken piece softened.",
+                                    "Season with ghee, finely chopped onion, crushed garlic, crushed methi & jeera and curry leaves."
+                                ]
                             }
                         ],
                         "Note": "Usually served with Rotti - a crisp rice flakes preparation which could be bought in any Mangalore store. Roti is a tradtional dish of Bunts served at every wedding and party. It should be soaked in chicken curry and eaten."
@@ -476,12 +1074,53 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CueryCocMilk2.jpeg"],
-                        "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces", "For Seasoning:", "1tbsp. - Ghee", "1 - Onion, finely chopped", "1/2tsp. - Garam Masala(Cardamom, Cinnamon, Cloves), powdered"],
-                        "Masala": [ "1/2 - Coconut grated", "15-20 - Red Chillies", "2tbsp. - Coriander seeds", "1tbsp. - Cumin seeds(Jeera)", "1tsp. - Curry leaves", "1tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "2 - Onions Chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder","3tbsp. - Ghee", "1tsp.- Coconut oil", "1tbsp. - Butter", "Salt to taste", "1&1/2 - Coconut(grated) for milk" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CueryCocMilk2.jpeg"
+                        ],
+                        "Incredients": [
+                            "1Kg. Chicken - Cleaned and cut into pieces",
+                            "For Seasoning:",
+                            "1tbsp. - Ghee",
+                            "1 - Onion, finely chopped",
+                            "1/2tsp. - Garam Masala(Cardamom, Cinnamon, Cloves), powdered"
+                        ],
+                        "Masala": [
+                            "1/2 - Coconut grated",
+                            "15-20 - Red Chillies",
+                            "2tbsp. - Coriander seeds",
+                            "1tbsp. - Cumin seeds(Jeera)",
+                            "1tsp. - Curry leaves",
+                            "1tsp. - Pepper corns",
+                            "1/2tsp. - Fenugreek seeds(Methi)",
+                            "5-6 - Garlic flakes",
+                            "2 - Onions Chopped",
+                            "Juice of 1 lemon",
+                            "1/4tsp. - Turmeric powder",
+                            "3tbsp. - Ghee",
+                            "1tsp.- Coconut oil",
+                            "1tbsp. - Butter",
+                            "Salt to taste",
+                            "1&1/2 - Coconut(grated) for milk"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Grind the coconut finely with 2 cups of water.", "Squeeze out thick coconut milk and keep aside.", "Add 3 cups of water to the residue and take out thin milk.", "Roast 1/2  grated coconut till light brown.", "Fry red chillies, coriander seeds, jeera,curry leaves, methi and pepper corns in coconut oil.", "Grind all these ingredients together with turmeric powder and garlic flakes with thin coconut milk.", "Remove the masala, mix it with cleaned and cut chicken pieces, one sliced onion, butter, salt and lemon juice.", "Boil for 5 minutes.", "Add thick coconut milk and cook till the chicken piece softened.", "Keep Ghee in a flat vessel on fire.", "Add  chopped onion and fry till brown.","Add Garam masala powder and pour it to the cooked chicken.", "Cover and remove from fire.", "Serve with Rotti, Neer dosa, Aapam, Idli or Semia." ]
+                                "Steps": [
+                                    "Grind the coconut finely with 2 cups of water.",
+                                    "Squeeze out thick coconut milk and keep aside.",
+                                    "Add 3 cups of water to the residue and take out thin milk.",
+                                    "Roast 1/2  grated coconut till light brown.",
+                                    "Fry red chillies, coriander seeds, jeera,curry leaves, methi and pepper corns in coconut oil.",
+                                    "Grind all these ingredients together with turmeric powder and garlic flakes with thin coconut milk.",
+                                    "Remove the masala, mix it with cleaned and cut chicken pieces, one sliced onion, butter, salt and lemon juice.",
+                                    "Boil for 5 minutes.",
+                                    "Add thick coconut milk and cook till the chicken piece softened.",
+                                    "Keep Ghee in a flat vessel on fire.",
+                                    "Add  chopped onion and fry till brown.",
+                                    "Add Garam masala powder and pour it to the cooked chicken.",
+                                    "Cover and remove from fire.",
+                                    "Serve with Rotti, Neer dosa, Aapam, Idli or Semia."
+                                ]
                             }
                         ]
                     }
@@ -503,11 +1142,42 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain3.jpg" ],
-                        "Incredients": [ "8-10 - Long Red Chillies", "2tbsp. - Ajwain(oama)", "3tsp. - Pepper corns", "1tsp. - Mustard Seeds", "5tsp. - Coriander seeds", "2tsp. - Cumin seeds(Jeera)", "1tsp. - Fenugreek seeds(Methi)", "1/4tsp. - Turmeric powder", "Dry Cocum, soaked in water or tamarind(size of a lime)", "2big - Onion, sliced", "4-5 - Garlic flakes", "2cups - Dry coconut, scrapped", "Salt to taste", "8-10 - Eggs or Dry Fish pieces washed and soaked in water(optional)", "For Seasoning:", "1tsp. - Coconut oil", "1Onion, finely chopped", "5-6 - Garlic flakes, crushed", "2sprig - Curry leaves" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain3.jpg"
+                        ],
+                        "Incredients": [
+                            "8-10 - Long Red Chillies",
+                            "2tbsp. - Ajwain(oama)",
+                            "3tsp. - Pepper corns",
+                            "1tsp. - Mustard Seeds",
+                            "5tsp. - Coriander seeds",
+                            "2tsp. - Cumin seeds(Jeera)",
+                            "1tsp. - Fenugreek seeds(Methi)",
+                            "1/4tsp. - Turmeric powder",
+                            "Dry Cocum, soaked in water or tamarind(size of a lime)",
+                            "2big - Onion, sliced",
+                            "4-5 - Garlic flakes",
+                            "2cups - Dry coconut, scrapped",
+                            "Salt to taste",
+                            "8-10 - Eggs or Dry Fish pieces washed and soaked in water(optional)",
+                            "For Seasoning:",
+                            "1tsp. - Coconut oil",
+                            "1Onion, finely chopped",
+                            "5-6 - Garlic flakes, crushed",
+                            "2sprig - Curry leaves"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Fry Red Chillies, Pepper Corns, Ajwain, Jeera, Coriander seeds, Methi, 1 Onion and garlic flakes with 1tsp. coconut oil.", "Then fry, dry coconut.", "Grind  the ingredients with cocum, tumeric powder and water to a fine paste.", "Cook the ground masala in earthen pot, add salt and 1 sliced onion.", "Add broken eggs or dry fish and cook for 10 minutes on low flame.", "Season it." ]
+                                "Steps": [
+                                    "Fry Red Chillies, Pepper Corns, Ajwain, Jeera, Coriander seeds, Methi, 1 Onion and garlic flakes with 1tsp. coconut oil.",
+                                    "Then fry, dry coconut.",
+                                    "Grind  the ingredients with cocum, tumeric powder and water to a fine paste.",
+                                    "Cook the ground masala in earthen pot, add salt and 1 sliced onion.",
+                                    "Add broken eggs or dry fish and cook for 10 minutes on low flame.",
+                                    "Season it."
+                                ]
                             }
                         ],
                         "Note": "It is a tradional curry, given to the new mother(woman who gives birth to a child)."
@@ -522,12 +1192,35 @@
                 "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg" ],
-                        "Incredients": [ "6-8 - Eggs" ],
-                        "Masala": [ "1Big - Onion, finely chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder", "1&1/2tsp. - Pepper powder", "1/2tsp. - Coriander powder", "1tsp. - Garam masala powder", "1tsp. - Jeera", "1tbsp. - Oil", "1spring - Curry leaves", "2tsp. - Red Chilly powder(for more spicy)", "Salt to taste" ],
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg"
+                        ],
+                        "Incredients": [
+                            "6-8 - Eggs"
+                        ],
+                        "Masala": [
+                            "1Big - Onion, finely chopped",
+                            "Juice of 1 lemon",
+                            "1/4tsp. - Turmeric powder",
+                            "1&1/2tsp. - Pepper powder",
+                            "1/2tsp. - Coriander powder",
+                            "1tsp. - Garam masala powder",
+                            "1tsp. - Jeera",
+                            "1tbsp. - Oil",
+                            "1spring - Curry leaves",
+                            "2tsp. - Red Chilly powder(for more spicy)",
+                            "Salt to taste"
+                        ],
                         "Method": [
                             {
-                                "Steps": [ "Boil the eggs with water and salt. After it cools, remove the shell and make few cuts. Marinate with 1tsp. salt and keep aside.", "Keep a pan on fire.", "Add oil, Jeera and onion.", "When onion fries add turmeric powder, then add other masala ingredients. Mix well.", "Then add boiled eggs. Mix and off the gas." ]
+                                "Steps": [
+                                    "Boil the eggs with water and salt. After it cools, remove the shell and make few cuts. Marinate with 1tsp. salt and keep aside.",
+                                    "Keep a pan on fire.",
+                                    "Add oil, Jeera and onion.",
+                                    "When onion fries add turmeric powder, then add other masala ingredients. Mix well.",
+                                    "Then add boiled eggs. Mix and off the gas."
+                                ]
                             }
                         ]
                     }

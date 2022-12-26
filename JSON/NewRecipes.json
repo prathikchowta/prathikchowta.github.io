@@ -8,12 +8,41 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg",
         "Prepare": [
             {
-                "ImgURL": [ "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala1.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala3.jpg" ],
-                "Incredients": [ "100gms. - Soya chunks(soaked in hot water for 10-15min. Remove from water and cut into 2 pieces.)" ],
-                "Masala": [ "2big - Onions, finely sliced","2big - Tomatoes, finely chopped","1tbsp. - ginger garlic paste","1tsp. - Coriander powder","1tsp. - Jeera", "1tsp. - Garam Masala powder","1tsp. - Red chilly powder", "4 - Green chillies sliced into two", "Salt to taste", "Oil for frying", "1/2tsp. - Turmeric powder", "2sprig - Curry leaves", "1handful - Coriander leaves, finely chopped"],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala1.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala2.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/SoyaMasala3.jpg"
+                ],
+                "Incredients": [
+                    "100gms. - Soya chunks(soaked in hot water for 10-15min. Remove from water and cut into 2 pieces.)"
+                ],
+                "Masala": [
+                    "2big - Onions, finely sliced",
+                    "2big - Tomatoes, finely chopped",
+                    "1tbsp. - ginger garlic paste",
+                    "1tsp. - Coriander powder",
+                    "1tsp. - Jeera",
+                    "1tsp. - Garam Masala powder",
+                    "1tsp. - Red chilly powder",
+                    "4 - Green chillies sliced into two",
+                    "Salt to taste",
+                    "Oil for frying",
+                    "1/2tsp. - Turmeric powder",
+                    "2sprig - Curry leaves",
+                    "1handful - Coriander leaves, finely chopped"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Keep vessel on fire.","Add oil, jeera, then add sliced onions, green chilies, tomato, turmeric powder.", "Stir, then add ginger garlic paste. Cook till its raw smell goes.", "Now add red chilly powder, garam masala powder, coriander powder, curry leaves and salt. Mix altogether.", "Now add soya chunks, mix and cover the lid.", "Cook for 10minutes. Don't add waster.", "Garnish with coriander leaves and off the fire.", "Serve hot with chapathi or rice as side dish."]
+                        "Steps": [
+                            "Keep vessel on fire.",
+                            "Add oil, jeera, then add sliced onions, green chilies, tomato, turmeric powder.",
+                            "Stir, then add ginger garlic paste. Cook till its raw smell goes.",
+                            "Now add red chilly powder, garam masala powder, coriander powder, curry leaves and salt. Mix altogether.",
+                            "Now add soya chunks, mix and cover the lid.",
+                            "Cook for 10minutes. Don't add waster.",
+                            "Garnish with coriander leaves and off the fire.",
+                            "Serve hot with chapathi or rice as side dish."
+                        ]
                     }
                 ]
             }
@@ -28,16 +57,39 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg" ],
-                "Incredients": [ "6-8 - Eggs" ],
-                "Masala": [ "1Big - Onion, finely chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder", "1&1/2tsp. - Pepper powder", "1/2tsp. - Coriander powder", "1tsp. - Garam masala powder", "1tsp. - Jeera", "1tbsp. - Oil", "1spring - Curry leaves", "2tsp. - Red Chilly powder(for more spicy)", "Salt to taste" ],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg"
+                ],
+                "Incredients": [
+                    "6-8 - Eggs"
+                ],
+                "Masala": [
+                    "1Big - Onion, finely chopped",
+                    "Juice of 1 lemon",
+                    "1/4tsp. - Turmeric powder",
+                    "1&1/2tsp. - Pepper powder",
+                    "1/2tsp. - Coriander powder",
+                    "1tsp. - Garam masala powder",
+                    "1tsp. - Jeera",
+                    "1tbsp. - Oil",
+                    "1spring - Curry leaves",
+                    "2tsp. - Red Chilly powder(for more spicy)",
+                    "Salt to taste"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Boil the eggs with water and salt. After it cools, remove the shell and make few cuts. Marinate with 1tsp. salt and keep aside.", "Keep a pan on fire.", "Add oil, Jeera and onion.", "When onion fries add turmeric powder, then add other masala ingredients. Mix well.", "Then add boiled eggs. Mix and off the gas." ]
+                        "Steps": [
+                            "Boil the eggs with water and salt. After it cools, remove the shell and make few cuts. Marinate with 1tsp. salt and keep aside.",
+                            "Keep a pan on fire.",
+                            "Add oil, Jeera and onion.",
+                            "When onion fries add turmeric powder, then add other masala ingredients. Mix well.",
+                            "Then add boiled eggs. Mix and off the gas."
+                        ]
                     }
                 ]
             }
-        ]    
+        ]
     },
     {
         "Id": "1",
@@ -48,11 +100,33 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg" ],
-                "Incredients": [ "3Cups - Sona Masoori Rice", "6Cups - Water(Double of rice)", "1tbsp. - Uraddaal", "1Cup - Ground nut", "4 - Green chillies, slitted", "1tbsp. - Oil", "1pinch - Saffron color or turmeric powder", "2Sprig - Curry leaves", "1tbsp. - Lemon juice", "1 - Big onion, finely sliced", "Salt to taste"],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rice/LemonRice1.jpg"
+                ],
+                "Incredients": [
+                    "3Cups - Sona Masoori Rice",
+                    "6Cups - Water(Double of rice)",
+                    "1tbsp. - Uraddaal",
+                    "1Cup - Ground nut",
+                    "4 - Green chillies, slitted",
+                    "1tbsp. - Oil",
+                    "1pinch - Saffron color or turmeric powder",
+                    "2Sprig - Curry leaves",
+                    "1tbsp. - Lemon juice",
+                    "1 - Big onion, finely sliced",
+                    "Salt to taste"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Wash and cook the rice with water, 1/2tsp. salt and 1tsp. coconut oil.", "Cook the rice in cooker for 2 whistle.", "Let it cool.", "Keep a vessel on fire. Add oil, fry the ground nut and remove to a plate.", "Now add onion to the oil, when it fries add urad daal, green chilly, saffron color, curry leaves and salt.", "Mix well.", "Then add rice and juice of lemon. Mix altogether and serve." ]
+                        "Steps": [
+                            "Wash and cook the rice with water, 1/2tsp. salt and 1tsp. coconut oil.",
+                            "Cook the rice in cooker for 2 whistle.",
+                            "Let it cool.",
+                            "Keep a vessel on fire. Add oil, fry the ground nut and remove to a plate.",
+                            "Now add onion to the oil, when it fries add urad daal, green chilly, saffron color, curry leaves and salt.",
+                            "Mix well.",
+                            "Then add rice and juice of lemon. Mix altogether and serve."
+                        ]
                     }
                 ],
                 "Note": "Serves 6 to 8."
@@ -68,12 +142,45 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg" ],
-                "Incredients": [ "1Kg - Bondas Fish", "For Seasoning:", "1tsp. - coconut oil", "1 onion, finely chopped", "1sprig - curry leaves" ], 
-                "Masala": [ "12-15 - Red Chillies mix", "1tbsp. - Coriander seeds", "1spoon - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "1/4thtsp. - Ajwain(oama)", "5-6 - Garlic floakes", "1 onion, cut", "Tamarind small ball", "1cup - coconut, grated", "Salt to taste", "1tsp. - coconut oil" ],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg"
+                ],
+                "Incredients": [
+                    "1Kg - Bondas Fish",
+                    "For Seasoning:",
+                    "1tsp. - coconut oil",
+                    "1 onion, finely chopped",
+                    "1sprig - curry leaves"
+                ],
+                "Masala": [
+                    "12-15 - Red Chillies mix",
+                    "1tbsp. - Coriander seeds",
+                    "1spoon - Jeera",
+                    "1/2tsp. - Mustard seeds",
+                    "1/4tsp. - Methi",
+                    "1/4thtsp. - Ajwain(oama)",
+                    "5-6 - Garlic floakes",
+                    "1 onion, cut",
+                    "Tamarind small ball",
+                    "1cup - coconut, grated",
+                    "Salt to taste",
+                    "1tsp. - coconut oil"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Remove the black skin of bondas. Clean it properly. Wash and cut into half.", "As it takes time to cook, cook it separately in a vessel. Ads water and salt.", "Cook till it becomes soft.", "Fry Masala ingredients except tamarind, coconut and salt with coconut oil.", "Grind it into a fine paste.", "Then add coconut and grind roughly and keep aside.", "Keep a earthen pot on fire.", "Add finely chopped onion and curry leaves. Add ground masala, cook till its raw smell goes.", "Place the cooked bondas. Mix and cook for 5minutes", "Squid Fish Sukka is ready to taste and serve hot."]
+                        "Steps": [
+                            "Remove the black skin of bondas. Clean it properly. Wash and cut into half.",
+                            "As it takes time to cook, cook it separately in a vessel. Ads water and salt.",
+                            "Cook till it becomes soft.",
+                            "Fry Masala ingredients except tamarind, coconut and salt with coconut oil.",
+                            "Grind it into a fine paste.",
+                            "Then add coconut and grind roughly and keep aside.",
+                            "Keep a earthen pot on fire.",
+                            "Add finely chopped onion and curry leaves. Add ground masala, cook till its raw smell goes.",
+                            "Place the cooked bondas. Mix and cook for 5minutes",
+                            "Squid Fish Sukka is ready to taste and serve hot."
+                        ]
                     }
                 ]
             }
@@ -88,11 +195,31 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS2.jpg"],
-                "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "1big tender coconut", "3cups - Jaggery, powdered", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "1tbsp. - Ghee", "1tsp. - Salt" ],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS1.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWOS2.jpg"
+                ],
+                "Incredients": [
+                    "2Cups - Gandhakasala Rice or Basmati rice",
+                    "1big tender coconut",
+                    "3cups - Jaggery, powdered",
+                    "1tsp. - cardamom, powdered",
+                    "100gms - cashews",
+                    "50gms - raisins",
+                    "1tbsp. - Ghee",
+                    "1tsp. - Salt"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Wash the Gandhakasala Rice.", "Cook with water till it becomes very soft.", "Pour the coconut milk. Mix and cook for 10minutes.", "Add jaggery and salt. Stir well. Add to jaggery if needed.", "Add cardamom. Fry cashews and raisins with ghee.", "Add it to Kheer.", "Serve hot." ]
+                        "Steps": [
+                            "Wash the Gandhakasala Rice.",
+                            "Cook with water till it becomes very soft.",
+                            "Pour the coconut milk. Mix and cook for 10minutes.",
+                            "Add jaggery and salt. Stir well. Add to jaggery if needed.",
+                            "Add cardamom. Fry cashews and raisins with ghee.",
+                            "Add it to Kheer.",
+                            "Serve hot."
+                        ]
                     }
                 ],
                 "Note": "Gandhakasala rice gives a good aroma."
@@ -108,11 +235,34 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg", "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg" ],
-                "Incredients": [ "2Cups - Gandhakasala Rice or Basmati rice", "2litres - thick milk", "4Cups - Sugar", "1tsp. - cardamom, powdered", "100gms - cashews", "50gms - raisins", "4-5 - Saffrons, mixed with milk(optional)", "1tbsp. - Ghee", "1tsp. - Salt" ],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS1.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS2.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/Sweets/Recipes/PayasamSpecial/KeerWS3.jpg"
+                ],
+                "Incredients": [
+                    "2Cups - Gandhakasala Rice or Basmati rice",
+                    "2litres - thick milk",
+                    "4Cups - Sugar",
+                    "1tsp. - cardamom, powdered",
+                    "100gms - cashews",
+                    "50gms - raisins",
+                    "4-5 - Saffrons, mixed with milk(optional)",
+                    "1tbsp. - Ghee",
+                    "1tsp. - Salt"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Fry cashews and raisins with ghee and keep aside.", "Cook the rice with water.", "Add salt and cook till it becomes very soft.", "Pour the milk.", "When it boils add sugar and stir well.", "Add cardamom, Saffrons, Fried cashews and raisins.", "Mix altogether and off the fire.", "Serve hot." ]
+                        "Steps": [
+                            "Fry cashews and raisins with ghee and keep aside.",
+                            "Cook the rice with water.",
+                            "Add salt and cook till it becomes very soft.",
+                            "Pour the milk.",
+                            "When it boils add sugar and stir well.",
+                            "Add cardamom, Saffrons, Fried cashews and raisins.",
+                            "Mix altogether and off the fire.",
+                            "Serve hot."
+                        ]
                     }
                 ]
             }
@@ -127,12 +277,43 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi2.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi1.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi3.jpg" ],
-                "Incredients": [ "6-8 - Sour Fruit", "For Seasoning:", "1 - Broken long red chilly", "1tsp. - Mustard Seeds", "2sprig - curry leaves", "1 - Onion, finelly chopped", "4-5 - Garlic flakes, crushed" ],
-                "Masala": [ "10 - Long Red Chillies, 5 -Short Chillies", "1tbsp. - Coriander seeds", "1tsp. - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "5-6 - Garlic flakes", "1 - onion, sliced", "1/4tsp. - Turmeric powder", "1Cup - Coconut, grated", "1 piece - Jaggery" ],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi2.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi1.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Curry/AmbadeGasi3.jpg"
+                ],
+                "Incredients": [
+                    "6-8 - Sour Fruit",
+                    "For Seasoning:",
+                    "1 - Broken long red chilly",
+                    "1tsp. - Mustard Seeds",
+                    "2sprig - curry leaves",
+                    "1 - Onion, finelly chopped",
+                    "4-5 - Garlic flakes, crushed"
+                ],
+                "Masala": [
+                    "10 - Long Red Chillies, 5 -Short Chillies",
+                    "1tbsp. - Coriander seeds",
+                    "1tsp. - Jeera",
+                    "1/2tsp. - Mustard seeds",
+                    "1/4tsp. - Methi",
+                    "5-6 - Garlic flakes",
+                    "1 - onion, sliced",
+                    "1/4tsp. - Turmeric powder",
+                    "1Cup - Coconut, grated",
+                    "1 piece - Jaggery"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Grind the masala ingredients,except jaggery, to a fine paste and keep aside.", "Wash and cut the sour fruits into pieces.", "Crush the seeds and put it into a thick bottomed vessel and add water and salt.", "Cook till it becomes soft.", "Add ground Masala and jaggery and cook altogether.", "Remove from the fire and season it.", "Serve hot." ]
+                        "Steps": [
+                            "Grind the masala ingredients,except jaggery, to a fine paste and keep aside.",
+                            "Wash and cut the sour fruits into pieces.",
+                            "Crush the seeds and put it into a thick bottomed vessel and add water and salt.",
+                            "Cook till it becomes soft.",
+                            "Add ground Masala and jaggery and cook altogether.",
+                            "Remove from the fire and season it.",
+                            "Serve hot."
+                        ]
                     }
                 ],
                 "Note": "Sour Fruit curry is a sweet, sour and spicy, it tastes good."
@@ -148,14 +329,40 @@
         "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
         "Prepare": [
             {
-                "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg" ],
-                "Incredients": [ "25 - Red Chillies, roasted", "1piece - Ginger", "20-25 - Garlic", "1tbsp. - coriander seeds, roasted", "1tsp. - Jeera", "Salt to taste", "Tamarind, size of a lime", "1/2Cup - Rice flour", "1/2Cup - Corn flour", "2tbsp. - Oil for frying" ],
+                "ImgURL": [
+                    "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg",
+                    "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg"
+                ],
+                "Incredients": [
+                    "25 - Red Chillies, roasted",
+                    "1piece - Ginger",
+                    "20-25 - Garlic",
+                    "1tbsp. - coriander seeds, roasted",
+                    "1tsp. - Jeera",
+                    "Salt to taste",
+                    "Tamarind, size of a lime",
+                    "1/2Cup - Rice flour",
+                    "1/2Cup - Corn flour",
+                    "2tbsp. - Oil for frying"
+                ],
                 "Method": [
                     {
-                        "Steps": [ "Clean the fish. Marinate with salt, turmeric powder and 1tsp. Lemon juice.", "Keep aside for 10-15minutes.", "Grind red Chillies, ginger, garlic, coriander seeds, jeera, tamarind and salt to a fine paste.", "Remove it to a plate and add rice flour and corn flour.", "Mix well.", "Now place marinated fish in the paste.", "Mix and keep aside for 30minutes.", "Keep a pan on fire.", "Add oil, fry both the side of fish.", "Ready to serve hot." ]
+                        "Steps": [
+                            "Clean the fish. Marinate with salt, turmeric powder and 1tsp. Lemon juice.",
+                            "Keep aside for 10-15minutes.",
+                            "Grind red Chillies, ginger, garlic, coriander seeds, jeera, tamarind and salt to a fine paste.",
+                            "Remove it to a plate and add rice flour and corn flour.",
+                            "Mix well.",
+                            "Now place marinated fish in the paste.",
+                            "Mix and keep aside for 30minutes.",
+                            "Keep a pan on fire.",
+                            "Add oil, fry both the side of fish.",
+                            "Ready to serve hot."
+                        ]
                     }
                 ]
             }
         ]
-     }
- ]
+    }
+]
