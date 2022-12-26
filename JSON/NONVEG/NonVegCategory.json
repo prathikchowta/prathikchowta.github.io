@@ -2,7 +2,7 @@
     {
         "Id": "1",
         "Title": "Karavali Special",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
         "Count": "6",
         "RecipesList": [
             {
@@ -10,10 +10,10 @@
                 "Title": "Chicken Curry with Rotti",
                 "SubTitle": "Kori Rotti",
                 "Duration": "1hr",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
                         "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces" ],
                         "Masala": ["1/2 - Coconut grated", "Red Chillies - 15 long & 8 short", "2tbsp. - Coriander seeds", "1tsp. - Cumin seeds(Jeera)", "1tbsp. - Curry leaves", "1/2tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 - tomato, Chopped", "1/2tsp. - Turmeric powder", "Tamarind - small ball", "3tbsp. - Ghee", "1tsp. - Coconut oil", "1tbsp. - Butter", "Salt to taste"],
                         "Method": [
@@ -30,10 +30,10 @@
                 "Title": "Chicken Sukka",
                 "SubTitle": "Kori Ajadina",
                 "Duration": "45 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg" ],
                         "Incredients": [ "1 Big Chicken - Cleaned and cut" ],
                         "Masala": [ "30 - Red Chillies(20 long & 10 short)", "3tbsp. - Coriander seeds", "1tsp. - Jeera", "10-15 Curry leaves","1tsp. - Methi", "1/2tsp. - Pepper corns", "7-8 - Garlic flakes", "1tsp. - turmeric powder", "Tamarind - size of its seed", "1 - Coconut(grated)", "10-12 - Garlic flakes", "1tsp. - Jeera", "3 Big - Onions(chopped)", "1tbsp. - Butter", "Salt to taste", "1tsp. - Coconut oil(for frying)"],
                         "Method": [
@@ -49,10 +49,10 @@
                 "Title": "Spicy Chicken",
                 "SubTitle": "Kori Pulimunchi",
                 "Duration": "45 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenDry1.jpeg"],
                         "Incredients": [ "1 Medium - Chicken, cleaned and cut" ],
                         "Masala": [ "15 - Red chillies", "1tbsp. - Coriander seeds", "10 - Pepper corns", "4 - Cloves", "2 - Small bits cinnamon", "1tsp. - Poppy seeds(khus-khus)", "1/2tsp. - turmeric powder", "2 - Onions", "Tamarind - small ball", "2tbsp. - Ghee", "1- Tomato, chopped","Salt to taste", "1tbsp. - Coriander leaves, finely chopped(optional)"],
                         "Method": [
@@ -68,10 +68,10 @@
                 "Title": "Chicken Uruval",
                 "SubTitle": "null",
                 "Duration": "40 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenUruval3.jpg" ],
                         "Incredients": [ "1Kg - Chicken", "1 Bundle - Garlic", "1inch - Ginger", "10-15 - red long chilles", "1tsp. - Coriander powder", "1tsp. -  Jeera powder", "1tbsp. - Garam  masala powder", "10-15 - Curry leaves", "1tbsp. - Lemon juice", "1tsp. - Turmeric powder", "2tbsp. - Ghee", "Salt to taste", "For seasoning:", "1tsp. - Ghee", "Cashew nuts", "4 Long Red chilies,broken", "20-25 - Curry leaves"],
                         "Method": [
                             {
@@ -86,10 +86,10 @@
                 "Title": "Spicy Fish Curry",
                 "SubTitle": "Meen Puli Munchi",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
                         "Incredients": [ "12 - Mackerels or 25 - big Saradine, cleaned & cut into two" ],
                         "Masala": [ "30-35 Long chillies","Tamarind - size of two lemons","2tbsp. - Coriander seeds","1tbsp. - Jeera","1/4tsp. - Methi seeds","1tbsp. - pepper corns","1/4tsp. - oama","1/4tsp. - turmeric powder","4-5 - Garlic flakes","1tbsp. - Coconut oil","Salt to taste" ],
                         "Method": [
@@ -106,10 +106,10 @@
                 "Title": "Fish Fry Masala",
                 "SubTitle": "Meen Kaidina",
                 "Duration": "15 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg" ],
                         "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste", "Juice of 1 lemon"],
                         "Method": [
                             {
@@ -124,7 +124,7 @@
     {
         "Id": "2",
         "Title": "Rice Special",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenBiryani1.jpeg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/ChickenBiryani1.jpeg",
         "Count": "1",
         "RecipesList": [
             {
@@ -132,10 +132,10 @@
                 "Title": "Chicken Biryani",
                 "SubTitle": "null",
                 "Duration": "1 hour",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/ChickenBiryani1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Rice/Biryani3.jpg" ],
                         "Incredients": [ "1Kg. - Chicken, cleaned and cut into medium pieces","2tbsp. - Ghee", "2 big - Onions, sliced", "To Marinate:", "1 Bunch - Coriander leaves, cleaned and finely chopped", "4 - Green chillies, finely chopped", "10 - Mint leaves, cleaned and chopped", "Salt to taste", "1tsp. - Coriander powder", "10-15 - Garlic, finely chopped", "1inch - Ginger, finely chopped", "2tsp. - Garam masala powder","1Cup - Curds", "1tsp. - Salt","1tsp. - Turmeric powder", "To make Rice:", "1Kg. - Basmati Rice, washed", "7-8 cloves", "2-3pieces - Cinnamon", "2 - Bay Leaves", "6-8 - Pepper corns", "1tbsp. - Cashew nuts", "Salt to taste"],
                         "Method": [
                             {
@@ -150,7 +150,7 @@
     {
         "Id": "3",
         "Title": "Fish Fry Special",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishFry.jpeg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/FishFry.jpeg",
         "Count": "4",
         "RecipesList": [
             {
@@ -158,10 +158,10 @@
                 "Title": "Fish Fry Masala",
                 "SubTitle": "Meen Kaidina",
                 "Duration": "15 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishFryMasala2.jpeg"],
                         "Incredients": [ "1/4kg. - Red Chillies", "8-10 - Garlic flakes", "2tbsp. - Cumin Seeds", "1Cup - rice(optional)", "Salt to taste", "Juice of 1 lemon" ],
                         "Method": [
                             {
@@ -176,10 +176,10 @@
                 "Title": "Green Masala Fish Fry",
                 "SubTitle": "null",
                 "Duration": "40 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry3.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry4.jpg"  ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry3.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/GreenMasalaFry4.jpg"  ],
                         "Incredients": [ "50-60 - Silver Fish(Bolenjir) or 10 - 20 Crabs", "1 bunch - Coriander leaves, cleaned and cut", "10-15 Mint Leaves", "7-8 - Green Chillies", "1tsp - pepper corns", "Salt to taste", "1 bundle - Garlic", "2inches - Ginger", "Juice of 1 lemon", "Oil for frying" ],
                         "Method": [
                             {
@@ -194,10 +194,10 @@
                 "Title": "King Fish Pepper Fry",
                 "SubTitle": "Anjal Kaidina",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry2.jpeg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/KingFishFry2.jpeg"],
                         "Incredients": [ "10 pieces - King Fish, cleaned", "1tsp. - turmeric powder", "Salt to taste", "1tbsp. - Pepper, crushed", "Juice of 1 Lemon", "1 Big - Onion, chopped", "1tbsp. - oil"],
                         "Method": [
                             {
@@ -212,10 +212,10 @@
                 "Title": "Fish fry",
                 "SubTitle": "null",
                 "Duration": "45min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishFry/FishFryP3.jpg" ],
                         "Incredients": [ "25 - Red Chillies, roasted", "1piece - Ginger", "20-25 - Garlic", "1tbsp. - coriander seeds, roasted", "1tsp. - Jeera", "Salt to taste", "Tamarind, size of a lime", "1/2Cup - Rice flour", "1/2Cup - Corn flour", "2tbsp. - Oil for frying" ],
                         "Method": [
                             {
@@ -230,7 +230,7 @@
     {
         "Id": "4",
         "Title": "Fish Curry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/FishCurry.jpeg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/FishCurry.jpeg",
         "Count": "6",
         "RecipesList": [
             {
@@ -238,10 +238,10 @@
                 "Title": "Mackerel Curry",
                 "SubTitle": "Bangude Gassi",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude2.jpeg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Bangude2.jpeg"],
                         "Incredients": [ "12 Mackerels, cleaned and cut into two or 25 - Saradine(Boothai)"],
                         "Masala": [ "1 grated coconut", "25-30 - Red chillies", "2tbsp. - Coriander seeds", "1tsp. - jeera", "1/2tsp. - Methi seeds","1/4tsp. - Turmeric powder","1/4tsp. - Ajwain(oama)","1tsp. - pepper corns(optional)","8-10 - garlic flakes","Tamarind - size of 2 big lemons","Salt to taste","2 big - onion","2-3 - Green chillies, cut","1inch - ginger, chopped","1tsp. - coconut oil" ],
                         "Method": [
@@ -257,10 +257,10 @@
                 "Title": "Spicy Fish Curry",
                 "SubTitle": "Meen Puli Munchi",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "ithubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch2.jpg", "ithubusercontent.com/prathikchowta/prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/FishPulimunch3.jpg" ],
                         "Incredients": [ "12 - Mackerels or 25 - big Saradine, cleaned & cut into two" ],
                         "Masala": [ "30-35 Long chillies","Tamarind - size of two lemons","2tbsp. - Coriander seeds","1tbsp. - Jeera","1/4tsp. - Methi seeds","1tbsp. - pepper corns","1/4tsp. - oama","1/4tsp. - turmeric powder","4-5 - Garlic flakes","1tbsp. - Coconut oil","Salt to taste" ],
                         "Method": [
@@ -277,10 +277,10 @@
                 "Title": "Shell Fish Curry(Dry)",
                 "SubTitle": "Marvai Ajadina",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish2.jpg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/ShellFish2.jpg"],
                         "Incredients": [ "200 - Shell Fish(Marvai)", "For Seasoning: 2 Tbsp.- coconut oil","1- Onion,chopped","4-5 - Garlic flakes","10-15 Curry leaves"],
                         "Masala": ["1 Coconut, grated", "25-30 - Red Chillies", "2tbsp. - Coriander Seeds", "1tbsp. - Jeera", "1/4tsp. - Methi","1/2tsp. - turmeric powder","6-8 - Garlic flakes","Tamarind - size of a lime", "1 - onion, chopped" ],
                         "Method": [
@@ -297,10 +297,10 @@
                 "Title": "Squid Fish Sukka",
                 "SubTitle": "Bondas Ajadina",
                 "Duration": "45min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/BondasFish1.jpg" ],
                         "Incredients": [ "1Kg - Bondas Fish", "For Seasoning:", "2tsp. - coconut oil", "1 onion, finely chopped", "1sprig - curry leaves" ], 
                         "Masala": [ "12-15 - Red Chillies mix(long & short)", "1tbsp. - Coriander seeds", "1spoon - Jeera", "1/2tsp. - Mustard seeds", "1/4tsp. - Methi", "1/4thtsp. - Ajwain(oama)", "5-6 - Garlic floakes", "1 onion, cut", " 1/4 tsp. - Turmeric powder", "Tamarind small ball", "1cup - coconut, grated", "Salt to taste", "1tsp. - coconut oil" ],
                         "Method": [
@@ -316,10 +316,10 @@
                 "Title": "Crab curry",
                 "SubTitle": "Denji Gasi",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/CrabCurry3.jpg" ],
                         "Incredients": [ "12 Crabs, cleaned and cut", "25-30 - red Chillies", "1tsp. - Cumin seeds", "2tbsp. - Coriander seeds", "1tsp. - Fenugreek seeds", "1/4tsp. - Oama", "1/4tsp. - Turmeric powder", "6-8 - Garlic flakes", "Tamarind - size of a lemon", "1 - Coconut, grated", "2 - Onion chopped", "Salt to taste", "For Seasoning:", "1tsp. coconut oil", "10 curry leaves", "1 onion finely chopped"],
                         "Method": [
                             {
@@ -335,10 +335,10 @@
                 "Title": "Dry Fish Chutney",
                 "SubTitle": "Nungel Chutney",
                 "Duration": "15 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney2.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/DryFishChutney2.jpg" ],
                         "Incredients": [ "3 - six inch pieces of shark fish - washed, skinned, fried in coconut oil and chopped", "10-12 - Red Chillies, roasted", "6-8 - Garlic flakes", "Tamarind - size of a lime", "1/2 - Onion, chopped", "1/2 - Coconut, grated" ],
                         "Method": [
                             {
@@ -354,7 +354,7 @@
     {
         "Id": "5",
         "Title": "Chicken Fry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenFry.jpeg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/ChickenFry.jpeg",
         "Count": "1",
         "RecipesList": [
             {
@@ -362,10 +362,10 @@
                 "Title": "Chicken Tava Fry",
                 "SubTitle": "Kori Kaidina",
                 "Duration": "1hr 15 min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry3.jpeg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry2.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenFry/ChickenTavaFry3.jpeg" ],
                         "Incredients": [ "1Kg. - Chicken, Cleaned and cut into pieces", "To Marinate:", "1tsp. - Turmeric powder", "Juice of 1 lemon", "2tbsp. - Red Chilly powder", "1tsp. - Coriander powder", "1tbsp. - Garam Masala powder", "1tbsp. - Ginger Garlic paste", "2tbsp. - Curds", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
@@ -380,7 +380,7 @@
     {
         "Id": "6",
         "Title": "Chicken Sukka",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenSukka.jpeg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/ChickenSukka.jpeg",
         "Count": "3",
         "RecipesList": [
             {
@@ -388,10 +388,10 @@
                 "Title": "Chicken Sukka",
                 "SubTitle": "Kori Ajadina",
                 "Duration": "45 min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/KaravaliSpecial/ChickenSukka3.jpg" ],
                         "Incredients": [ "1 Big Chicken - Cleaned and cut" ],
                         "Masala": [ "30 - Red Chillies(20 long & 10 short)", "3tbsp. - Coriander seeds", "1tsp. - Jeera", "10-15 Curry leaves","1tsp. - Methi", "1/2tsp. - Pepper corns", "7-8 - Garlic flakes", "1tsp. - turmeric powder", "Tamarind - size of its seed", "1 - Coconut(grated)", "10-12 - Garlic flakes", "1tsp. - Jeera", "3 Big - Onions(chopped)", "1tbsp. - Butter", "Salt to taste", "1tsp. - Coconut oil(for frying)"],
                         "Method": [
@@ -407,10 +407,10 @@
                 "Title": "Chicken Ghee Roast",
                 "SubTitle": "null",
                 "Duration": "1hr",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee3.jpeg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee2.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGhee3.jpeg" ],
                         "Incredients": [ "1Kg Chicken - Cleaned  and cut into pieces", "To Marinate:", "Juice of 1 lemon", "1tsp. - Turmeric powder", "1tsp. - Red chilly powder", "1tsp. - salt", "1tbsp. - Ginger Garlic paste"],
                         "Masala": [ "25 - Red Chillies", "3tbsp. - Coriander seeds", "3tsp. - Jeera", "10-15 Curry leaves","1/4tsp. - Methi", "1&1/2tsp. - Pepper corns", "20 - Garlic flakes, chopped", "Tamarind - small ball","3tbsp. - Ghee", "Salt to taste" ],
                         "Method": [
@@ -426,10 +426,10 @@
                 "Title": "Chicken Green Masala",
                 "SubTitle": "null",
                 "Duration": "1hr",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen2.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen3.jpeg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen2.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenSukka/ChickenGreen3.jpeg" ],
                         "Incredients": [ "1 Big Chicken - Cleaned  and cut into pieces", "2 - Onions, finely chopped", "2tbsp. - Ghee","1 - Bay leaf", "1tbsp. - Ginger Garlic paste", "For Marination:", "Juice of 1 Lemon", "Salt", "1tsp. - Turmeric powder" ],
                         "Masala": [ "1-1&1/2Bunch - Coriander leaves", "8-10 - Green Chillies", "1tsp. - Pepper corns", "1 piece - Cinamon", "4-5 - Cloves", "2 - Red Chillies", "4 - Cardamoms", "50gms. - Cashew nuts", "2 - Tomatoes, chopped" ],
                         "Method": [
@@ -445,7 +445,7 @@
     {
         "Id": "7",
         "Title": "Chicken Curry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/ChickenCurry.jpeg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/ChickenCurry.jpeg",
         "Count": "2",
         "RecipesList": [
             {
@@ -453,10 +453,10 @@
                 "Title": "Chicken Curry with Rotti",
                 "SubTitle": "Kori Rotti",
                 "Duration": "1hr",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/NonVegKaravaliSpecial.jpeg"],
                         "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces" ],
                         "Masala": ["1/2 - Coconut grated", "Red Chillies - 15 long & 8 short", "2tbsp. - Coriander seeds", "1tsp. - Cumin seeds(Jeera)", "1tbsp. - Curry leaves", "1/2tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "4 - Onions Chopped", "1 - tomato, Chopped", "1/2tsp. - Turmeric powder", "Tamarind - small ball", "3tbsp. - Ghee", "1tsp. - Coconut oil", "1tbsp. - Butter", "Salt to taste"],
                         "Method": [
@@ -473,10 +473,10 @@
                 "Title": "Chicken Curry with Coconut Milk",
                 "SubTitle": "null",
                 "Duration": "1hr",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CueryCocMilk2.jpeg"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CurryCocMilk1.jpeg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/ChickenCurry/CueryCocMilk2.jpeg"],
                         "Incredients": [ "1Kg. Chicken - Cleaned and cut into pieces", "For Seasoning:", "1tbsp. - Ghee", "1 - Onion, finely chopped", "1/2tsp. - Garam Masala(Cardamom, Cinnamon, Cloves), powdered"],
                         "Masala": [ "1/2 - Coconut grated", "15-20 - Red Chillies", "2tbsp. - Coriander seeds", "1tbsp. - Cumin seeds(Jeera)", "1tsp. - Curry leaves", "1tsp. - Pepper corns", "1/2tsp. - Fenugreek seeds(Methi)", "5-6 - Garlic flakes", "2 - Onions Chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder","3tbsp. - Ghee", "1tsp.- Coconut oil", "1tbsp. - Butter", "Salt to taste", "1&1/2 - Coconut(grated) for milk" ],
                         "Method": [
@@ -492,7 +492,7 @@
     {
         "Id": "8",
         "Title": "Egg Curry",
-        "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
         "Count": "2",
         "RecipesList": [
             {
@@ -500,10 +500,10 @@
                 "Title": "Ajwain Curry",
                 "SubTitle": "Oamada Paladya",
                 "Duration": "30 minutes",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain3.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain1.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/FishCurry/Ajwain3.jpg" ],
                         "Incredients": [ "8-10 - Long Red Chillies", "2tbsp. - Ajwain(oama)", "3tsp. - Pepper corns", "1tsp. - Mustard Seeds", "5tsp. - Coriander seeds", "2tsp. - Cumin seeds(Jeera)", "1tsp. - Fenugreek seeds(Methi)", "1/4tsp. - Turmeric powder", "Dry Cocum, soaked in water or tamarind(size of a lime)", "2big - Onion, sliced", "4-5 - Garlic flakes", "2cups - Dry coconut, scrapped", "Salt to taste", "8-10 - Eggs or Dry Fish pieces washed and soaked in water(optional)", "For Seasoning:", "1tsp. - Coconut oil", "1Onion, finely chopped", "5-6 - Garlic flakes, crushed", "2sprig - Curry leaves" ],
                         "Method": [
                             {
@@ -519,10 +519,10 @@
                 "Title": "Boiled Egg Fry Masala",
                 "SubTitle": "null",
                 "Duration": "20min",
-                "ImgURL": "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg", "https://raw.githubusercontent.com/prathikchowta/prathikchowta.github.io/master/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala2.jpg", "https://prathikchowta.github.io/JSON/Images/NonVeg/Categories/Recipes/Egg%20Curry/EggMasala1.jpg" ],
                         "Incredients": [ "6-8 - Eggs" ],
                         "Masala": [ "1Big - Onion, finely chopped", "Juice of 1 lemon", "1/4tsp. - Turmeric powder", "1&1/2tsp. - Pepper powder", "1/2tsp. - Coriander powder", "1tsp. - Garam masala powder", "1tsp. - Jeera", "1tbsp. - Oil", "1spring - Curry leaves", "2tsp. - Red Chilly powder(for more spicy)", "Salt to taste" ],
                         "Method": [
