@@ -202,10 +202,10 @@
                 "Title": "Appa",
                 "SubTitle": "Appa",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Appa2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Appa1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Appa2.jpeg?raw=true"],
                         "Incredients": [ "3cups - raw rice", "1tbsp. - Fenugreek(methi)seeds","250grams - jaggery(optional)","1 tender coconut(grated)","salt to taste"],
                         "Method": [
                             {
@@ -257,10 +257,10 @@
                 "Title": "Coconut dosa",
                 "SubTitle": "Bannangayi Dose",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa2.jpg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa1.jpg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/CocDosa2.jpg?raw=true"],
                         "Incredients": [ "2cups - raw rice", "1/2 - tender coconut(grated)", "1tbsp. - cooked rice", "Salt to taste"],
                         "Method": [
                             {
@@ -275,10 +275,10 @@
                 "Title": "Urad Dosa",
                 "SubTitle": "Urdu Dose",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa3.jpg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa2.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/UradDosa3.jpg?raw=true"],
                         "Incredients": [ "1cup - urad dal","3cups - raw rice", "Salt to taste","Oil for frying"],
                         "Method": [
                             {
@@ -293,10 +293,10 @@
                 "Title": "Aappam",
                 "SubTitle": "Aapa",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/AappamDose1.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/AappamDose2.jpg" ],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Aapam1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/AappamDose1.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/AappamDose2.jpg" ],
                         "Incredients": [ "3cups - raw rice","1/2cup - urad daal","1/2cup - poha(soaked)", "1cup - tender coconut","Salt to taste", "Oil for frying"],
                         "Method": [
                             {
@@ -312,10 +312,10 @@
                 "Title": "Methi Dosa",
                 "SubTitle": "Metthe Dose",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MethiDosa2.jpeg?raw=true"],
                         "Incredients": [ "3cups - raw rice", "1tbsp. - fenugreek seeds(methi)","1/2cup - poha(beaten rice)","1/2cup - curds", "Salt to taste", "Oil for frying"],
                         "Method": [
                             {
@@ -330,10 +330,10 @@
                 "Title": "Maida Dosa",
                 "SubTitle": "Maida Dose",
                 "Duration": "30min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MaidaDosa2.jpeg?raw=true"],
                         "Incredients": [ "3cups - maida","1cup - rava","1tsp. - jeera(optional)", "3-4 - green chillies finely chopped","1 onion - finely chopped","1/2 inch ginger - finely chopped","Salt to taste", "2tbsp. - grated coconut(optional)","Oil for frying"],
                         "Method": [
                             {
@@ -348,7 +348,7 @@
                 "Title": "Idli",
                 "SubTitle": "null",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Idli1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Idli1.jpeg?raw=true",
                 "Prepare": [
                     {
                         "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Idly1.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Idly2.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Idly3.jpg", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Idly4.jpg" ],
@@ -366,10 +366,10 @@
                 "Title": "Idli in jackfruit leaves",
                 "SubTitle": "Gunda / Kotte Idli",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit3.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit2.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/IdliJackfruit3.jpeg?raw=true"],
                         "Incredients": [ "4cups - raw rice","1cup - urad daal","1/2tsp. - yeast","Salt to taste","Jackfruit leaves"],
                         "Method": [
                             {
@@ -385,10 +385,10 @@
                 "Title": "Masala Dosa",
                 "SubTitle": "Masale Dose",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa2.jpg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa3.jpg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa1.jpg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa2.jpg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/MasalDosa3.jpg?raw=true"],
                         "Incredients": [ "2cups - dosa rice", "1/2cup - urad daal", "1/4cup - channa daal","1/4cup - toor daal","Salt to taste","Oil","For potato bhaji:", "4-6 - medium size potatoes","1tsp. - mustard seeds","10-15 - curry leaves","4-5 - Green chillies(slitted)","1inch - ginger(chopped)","1 - tomato(chopped)", "1tbsp. - coriander leaves, finely chopped","Salt to taste","2 - onions(chopped)","1/4tsp. - turmeric powder"],
                         "Method": [
                             {
@@ -403,10 +403,10 @@
                 "Title": "Jackfruit Dosa",
                 "SubTitle": "Pelakai Dose",
                 "Duration": "2hr 45min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa3.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa2.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/JackfruitDosa3.jpeg?raw=true"],
                         "Incredients": [ "2 cups - jackfruit(without seeds) cut into pieces", "1/2kg - raw rice", "1/2 coconut(grated)","Salt to taste","Ghee/oil - for frying"],
                         "Method": [
                             {
@@ -421,10 +421,10 @@
                 "Title": "Rava Rotti",
                 "SubTitle": "Sajjige Rotti",
                 "Duration": "30min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/RavaRotti2.jpeg?raw=true"],
                         "Incredients": [ "3cups - rava", "3-4 - green chillies(finely chopped)","1 - big onion(finely chopped)","1/2 - grated coconut", "Salt to taste","Oil for frying"],
                         "Method": [
                             {
@@ -439,10 +439,10 @@
                 "Title": "Rice Dumplings",
                 "SubTitle": "Pundi",
                 "Duration": "---",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Breakfast/RiceDumplings2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/Ricedumplings1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Breakfast/RiceDumplings2.jpeg?raw=true"],
                         "Incredients": [ "1/2kg - boiled Rice", "1/2 - grated coconut", "Salt to taste","For seasoning:", "1tsp. - mustard seeds", "1tsp. - urad daal","2sprig - curry leaves", "1 broken red chilly","1tbsp. - coconut oil"],
                         "Method": [
                             {
@@ -966,10 +966,10 @@
                 "Title": "Tomato Rasam",
                 "SubTitle": "null",
                 "Duration": "30min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/TomatoRasam2.jpeg?raw=true"],
                         "Incredients": [ "4 - Tomatoes", "1 - Big Onion", "4-5 - Green Chillies, slitted", "1tsp. - Mustard", "1Pinch - Turmeric Powder", "1Sprig - curry Leaves", "1piece - Ginger", "4-5flakes - garlic, crushed", "Salt To Taste","1tbsp. - Coriander leaves"],
                         "Method": [
                             {
@@ -1002,10 +1002,10 @@
                 "Title": "Jeera Rasam",
                 "SubTitle": "Jeerige Saar",
                 "Duration": "45min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/JeeraRasam2.jpeg?raw=true"],
                         "Incredients": [ "5 - Long Red Chillies", "2tbs. - Jeera", "3tbs. - Cooked Toovar Dal" ],
                         "Method": [
                             {
@@ -1020,10 +1020,10 @@
                 "Title": "Plain Rasam",
                 "SubTitle": "null",
                 "Duration": "45min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/PlainRasam1.jpeg?raw=true"],
                         "Incredients": [ "1cup toordaal(washed & soaked for half an hour)","1 - big Tomato(chopped)","10-15 peppercorns(powdered)","salt to taste","6-8 - garlic flakes crushed","1/4tsp. - turmeric powder"],
                         "Method": [
                             {
@@ -1038,10 +1038,10 @@
                 "Title": "Dal Curry",
                 "SubTitle": "Dal Saar",
                 "Duration": "45min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/DaalSaar2.jpeg?raw=true"],
                         "Incredients": [ "1cup - Toordaal, washed & soaked in water for 1/2 to 1 hour", "2 - Tomatoes chopped", "1 piece - Ginger", "1 big onion", "8 - green chillies slitted", "Salt to taste", "1tsp. - asafoetida powder(Hing)" ],
                         "Method": [
                             {
@@ -1056,10 +1056,10 @@
                 "Title": "Masala Sambar",
                 "SubTitle": "null",
                 "Duration": "1hr",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MasalaSambar2.jpeg?raw=true"],
                         "Incredients": [ "1/2cup - toordaal(washed and soaked in water)", "cauliflower, beans, carrots, brinjal, drumsticks, sweet pumpkin(few pieces of each)", "3-4 - tomatoes, sliced", "Oil for frying", "Salt to taste", "3-4 - cups water"],
                         "Masala": ["1tbsp. - Channadaal", "1tbsp. - uraddaal", "1tsp. - Cumin seeds(jeera)", "1/2tsp. - Fenugreek seeds(methi)", "1cup - coconut grated", "1tbs. - Coriander seeds", "8 - red chillies", "1tbs. - ghee or oil", "1tsp. - mustard seeds", "10-15 - curry leaves"],
                         "Method": [
@@ -1075,10 +1075,10 @@
                 "Title": "Plain Sambar",
                 "SubTitle": "null",
                 "Duration": "45min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar2.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar3.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar2.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/PlainSambar3.jpeg?raw=true"],
                         "Incredients": [ "1cup - toor daal", "1 small red cucumber(taute)", "10-12 - sambar onions(small onions)", "1 - tomato", "Salt to taste", "tamarind(size of a lime)","1 pinch - asafoetida powder"],
                         "Masala": [ "7-8 - red chillies(roasted)", "1&1/2tbsp. - coriander seeds(roasted)", "1cup - grated coconut(roasted)"],
                         "Method": [
@@ -1094,10 +1094,10 @@
                 "Title": "Mango Saar",
                 "SubTitle": "Kukku Saar",
                 "Duration": "30min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MangoSaar2.jpeg?raw=true"],
                         "Incredients": [ "6 - ordinary mangoes", "5-6 - green chillies,", "2tbsp. - chilly powder", "1 - onion, sliced", "Salt to taste ", "4 glass - water","1 piece - jaggery"],
                         "Method": [
                             {
@@ -1112,10 +1112,10 @@
                 "Title": "Mango Menaskai",
                 "SubTitle": "Kukku Menaskai",
                 "Duration": "50min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/MangoMenaskai2.jpeg?raw=true"],
                         "Incredients": [ "6-8 - small sized ripe mangoes", "Salt to taste", "1 piece - jaggery"],
                         "Masala": ["1&1/2tbsp. - urad daal", "1&1/2tbsp. - channadaal", "1&1/2tbsp. - coriander seeds","1/2tsp. - methi seeds","1tsp. - mustard seeds","1tsp. - jeera","6 - red chillies","5 - pepper corns","2sprig - curry leaves","1cup - grated coconut"],
                         "Method": [
@@ -1131,10 +1131,10 @@
                 "Title": "Horse Gram Rasam",
                 "SubTitle": "Kudutha Saar",
                 "Duration": "45min",
-                "ImgURL": "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true",
                 "Prepare": [
                     {
-                        "ImgURL": ["https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true", "https://github.com/prathikchowta/prathikchowta.github.io/blob/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram2.jpeg?raw=true"],
+                        "ImgURL": ["https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram1.jpeg?raw=true", "https://prathikchowta.github.io/JSON/Images/Veg/Category/Recipes/Rasam/HorseGram2.jpeg?raw=true"],
                         "Incredients": [ "1/2kg. - horse gram(soaked in water overnight)", "Salt to taste", "tamarind - size of 2 limes soaked in water"],
                         "Masala": [ "2tbsp. - grated coconut", "10 - red chillies", "2tbsp. - coriander seeds","1tbsp. - jeera","4-5 - garlic flakes"],
                         "Method": [
