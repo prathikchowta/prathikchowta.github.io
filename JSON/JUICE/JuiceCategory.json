@@ -1,5 +1,48 @@
 [
     {
-        "Data": "Empty"
+        "Id": "1",
+        "Title": "Karavali Special",
+        "ImgURL": "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice1.jpg",
+        "Count": "1",
+        "RecipesList": [
+            {
+                "Id": "1.1",
+                "Title": "Tender coconut juice",
+                "SubTitle": "Bonda juice",
+                "Duration": "10min",
+                "ImgURL": "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice1.jpg",
+                "Prepare": [
+                    {
+                        "ImgURL": [
+                            "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice1.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice2.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice3.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice4.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice5.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice6.jpg",
+                            "https://prathikchowta.github.io/JSON/Images/Juices/Categories/BondaJuice7.jpg"
+                        ],
+                        "Incredients": [
+                            "2 - Tender coconut(Serves 2 glass)",
+                            "2-4tbsp - Sugar",
+                            "4tbsp. - Ghee",
+                            "1/2Cup - Water(optional)",
+                            "1 - Lemon",
+                            "Salt for taste"
+                        ],
+                        "Method": [
+                            {
+                                "Steps": [
+                                    "Collect waster from Tender coconut and store in a vessel.",
+                                    "Gather coconut malai(bhave) into cup.",
+                                    "Add lemmon juice, coconut malai, salt, sugar into coconut water and grind them in mixi jar for 2minutes.",
+                                    "Ready to serve."
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
